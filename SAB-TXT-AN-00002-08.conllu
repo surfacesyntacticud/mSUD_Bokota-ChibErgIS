@@ -1,0 +1,371 @@
+# sent_id = SAB-TXT-AN-00002-08_01-01
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00002-08.WAV/WAV/SAB-TXT-AN-00002-08.WAV
+# sent_timecode = 12150, 18550
+# morphemic_text = cha uswilingaswili cha gwagat -re gere ke kedaru .
+# text = cha uswilingaswili cha gwagatre gere ke kedaru .
+# text_en =  Before, I was made in a rural area outside.
+1	cha	cha	PRON	_	_	_	_	_	AlignBegin=12150|AlignEnd=12950|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	uswilingaswili	uswilingaswili	ADV	_	_	_	_	_	AlignBegin=12950|AlignEnd=13750|GE=before|Gloss=before|nWord=2|RX=[ADV]
+3	cha	cha	PRON	_	_	_	_	_	AlignBegin=13750|AlignEnd=14550|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
+4	gwagat	gwagat	VERB	_	_	5	comp:aux/m	_	AlignBegin=14550|AlignEnd=14950|GE=prepare|Gloss=prepare|nWord=4|RX=[V]
+5	-re		AUX	_	_	_	_	_	AlignBegin=14950|AlignEnd=15350|GE=[ADJZ]|Gloss=-ADJZ|nWord=4|RX=[N>ADJ]
+6	gere	gere	NOUN	_	_	7	comp	_	AlignBegin=15350|AlignEnd=16150|GE=coral|Gloss=coral|nWord=5|RX=[N]
+7	ke	ke	ADP	_	_	_	_	_	AlignBegin=16150|AlignEnd=16950|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
+8	kedaru	kedaru	ADV	_	_	_	_	_	AlignBegin=16950|AlignEnd=17750|GE=outside|Gloss=outside|nWord=7|RX=[ADV]
+9	.		.	_	_	_	_	_	AlignBegin=17750|AlignEnd=18550|Gloss=.|nWord=8
+
+# sent_id = SAB-TXT-AN-00002-08_02-03
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00002-08.WAV/WAV/SAB-TXT-AN-00002-08.WAV
+# sent_timecode = 19870, 28850
+# morphemic_text = entonces cha ga -le cha gut -re , entonces cha tk -e -re honiku .
+# text = entonces cha gale cha gutre , entonces cha tkere honiku .
+# text_en =  I was picked up and eaten. So I was put away.
+1	entonces	entonces	ADV	_	_	_	_	_	AlignBegin=19870|AlignEnd=20750|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	cha	cha	PRON	_	_	_	_	_	AlignBegin=20750|AlignEnd=21630|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	ga	ga	VERB	_	_	4	comp:aux/m	_	AlignBegin=21630|AlignEnd=22070|GE=pick_up|Gloss=pick_up|nWord=3|RX=[V]
+4	-le		AUX	_	_	_	_	_	AlignBegin=22070|AlignEnd=22510|GE=[ADJZ]|Gloss=-ADJZ|nWord=3|RX=[N>ADJ]
+5	cha	cha	PRON	_	_	_	_	_	AlignBegin=22510|AlignEnd=23390|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
+6	gut	gut	VERB	_	_	7	comp:aux/m	_	AlignBegin=23390|AlignEnd=23830|GE=eat|Gloss=eat|nWord=5|RX=[V]
+7	-re		AUX	_	_	_	_	_	AlignBegin=23830|AlignEnd=24270|GE=[ADJZ]|Gloss=-ADJZ|nWord=5|RX=[N>ADJ]
+8	,		_	_	_	_	_	_	AlignBegin=24270|AlignEnd=25150|nWord=6
+9	entonces	entonces	ADV	_	_	_	_	_	AlignBegin=26700|AlignEnd=27130|GE=so|Gloss=so|nWord=7|RX=[ADV]
+10	cha	cha	PRON	_	_	_	_	_	AlignBegin=27130|AlignEnd=27560|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
+11	tk	tk	VERB	_	_	12	comp:aux/m	_	AlignBegin=27560|AlignEnd=27703|GE=put|Gloss=put|nWord=9|RX=[V]
+12	-e		AUX	_	_	13	comp:aux/m	_	AlignBegin=27703|AlignEnd=27846|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
+13	-re		AUX	_	_	_	_	_	AlignBegin=27846|AlignEnd=27990|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
+14	honiku	honiku	ADV	_	_	_	_	_	AlignBegin=27990|AlignEnd=28420|GE=outside|Gloss=outside|nWord=10|RX=[ADV]
+15	.		.	_	_	_	_	_	AlignBegin=28420|AlignEnd=28850|Gloss=.|nWord=11
+
+# sent_id = SAB-TXT-AN-00002-08_04-04
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00002-08.WAV/WAV/SAB-TXT-AN-00002-08.WAV
+# sent_timecode = 28940, 31090
+# morphemic_text = entonces cha dod -u mung giti .
+# text = entonces cha dodu mung giti .
+# text_en =  So I fought for myself.
+1	entonces	entonces	ADV	_	_	_	_	_	AlignBegin=28940|AlignEnd=29298|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	cha	cha	PRON	_	_	3	subj	_	AlignBegin=29298|AlignEnd=29656|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	dod	dod	VERB	_	_	4	comp:aux/m	_	AlignBegin=29656|AlignEnd=29835|GE=fight|Gloss=fight|nWord=3|RX=[V]
+4	-u		AUX	_	_	_	_	_	AlignBegin=29835|AlignEnd=30014|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
+5	mung	mung	PART	_	_	_	_	_	AlignBegin=30014|AlignEnd=30372|GE=[REFL]|Gloss=REFL|nWord=4|RX=[VERBPRT]
+6	giti	giti	ADP	_	_	_	_	_	AlignBegin=30372|AlignEnd=30730|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
+7	.		.	_	_	_	_	_	AlignBegin=30730|AlignEnd=31090|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-AN-00002-08_05-06
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00002-08.WAV/WAV/SAB-TXT-AN-00002-08.WAV
+# sent_timecode = 32020, 36310
+# morphemic_text = cha dod -u mung giti , cha daba ne tk -u honiku ngongku -da .
+# text = cha dodu mung giti , cha daba ne tku honiku ngongkuda .
+# text_en =  I fought for myself. I, in turn, put the other person out on the side.
+1	cha	cha	PRON	_	_	2	subj	_	AlignBegin=32020|AlignEnd=32350|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	dod	dod	VERB	_	_	3	comp:aux/m	_	AlignBegin=32350|AlignEnd=32515|GE=fight|Gloss=fight|nWord=2|RX=[V]
+3	-u		AUX	_	_	_	_	_	AlignBegin=32515|AlignEnd=32680|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
+4	mung	mung	PART	_	_	_	_	_	AlignBegin=32680|AlignEnd=33010|GE=[REFL]|Gloss=REFL|nWord=3|RX=[VERBPRT]
+5	giti	giti	ADP	_	_	_	_	_	AlignBegin=33010|AlignEnd=33340|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
+6	,		_	_	_	_	_	_	AlignBegin=33340|AlignEnd=33670|nWord=5
+7	cha	cha	PRON	_	_	_	_	_	AlignBegin=33810|AlignEnd=34167|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
+8	daba	daba	NOUN	_	_	_	_	_	AlignBegin=34167|AlignEnd=34524|GE=brother|Gloss=brother|nWord=7|RX=[N]
+9	ne	ne	DET	_	_	_	_	_	AlignBegin=34524|AlignEnd=34881|GE=that|Gloss=that|nWord=8|RX=[DET]
+10	tk	tk	VERB	_	_	11	comp:aux/m	_	AlignBegin=34881|AlignEnd=35059|GE=put|Gloss=put|nWord=9|RX=[V]
+11	-u		AUX	_	_	_	_	_	AlignBegin=35059|AlignEnd=35238|GE=[PST]|Gloss=-PST|nWord=9|RX=[V:ANY]
+12	honiku	honiku	ADV	_	_	_	_	_	AlignBegin=35238|AlignEnd=35595|GE=outside|Gloss=outside|nWord=10|RX=[ADV]
+13	ngongku	ngongku	ADV	_	_	14	comp:aux/m	_	AlignBegin=35595|AlignEnd=35773|GE=other.side|Gloss=other.side|nWord=11|RX=[ADV]
+14	-da		PART	_	_	_	_	_	AlignBegin=35773|AlignEnd=35952|GE=emph|Gloss=emph|nWord=11|RX=[VERB]
+15	.		.	_	_	_	_	_	AlignBegin=35952|AlignEnd=36310|Gloss=.|nWord=12
+
+# sent_id = SAB-TXT-AN-00002-08_07-07
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00002-08.WAV/WAV/SAB-TXT-AN-00002-08.WAV
+# sent_timecode = 38555, 41685
+# morphemic_text = daba kada Skwing ese cha tk -u honiku .
+# text = daba kada Skwing ese cha tku honiku .
+# text_en =  The other named Iguana, this one I put out.
+1	daba	daba	NOUN	_	_	_	_	_	AlignBegin=38555|AlignEnd=38946|GE=brother|Gloss=brother|nWord=1|RX=[N]
+2	kada	kada	NOUN	_	_	_	_	_	AlignBegin=38946|AlignEnd=39337|GE=name|Gloss=name|nWord=2|RX=[N]
+3	Skwing	Skwing	PROPN	_	_	_	_	_	AlignBegin=39337|AlignEnd=39728|GE=[Iguana]|Gloss=Iguana|nWord=3|RX=[NPROP]
+4	ese	ese	DET	_	_	_	_	_	AlignBegin=39728|AlignEnd=40119|GE=that|Gloss=that|nWord=4|RX=[DET]
+5	cha	cha	PRON	_	_	_	_	_	AlignBegin=40119|AlignEnd=40510|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
+6	tk	tk	VERB	_	_	7	comp:aux/m	_	AlignBegin=40510|AlignEnd=40706|GE=put|Gloss=put|nWord=6|RX=[V]
+7	-u		AUX	_	_	_	_	_	AlignBegin=40706|AlignEnd=40901|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]
+8	honiku	honiku	ADV	_	_	_	_	_	AlignBegin=40901|AlignEnd=41292|GE=outside|Gloss=outside|nWord=7|RX=[ADV]
+9	.		.	_	_	_	_	_	AlignBegin=41292|AlignEnd=41685|Gloss=.|nWord=8
+
+# sent_id = SAB-TXT-AN-00002-08_08-08
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00002-08.WAV/WAV/SAB-TXT-AN-00002-08.WAV
+# sent_timecode = 42525, 45085
+# morphemic_text = entonces cha guerrillano daba salebli ngongku -da .
+# text = entonces cha guerrillano daba salebli ngongkuda .
+# text_en =  So I, in turn, fought with the other person.
+1	entonces	entonces	ADV	_	_	_	_	_	AlignBegin=42525|AlignEnd=42891|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	cha	cha	PRON	_	_	_	_	_	AlignBegin=42891|AlignEnd=43257|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	guerrillano	guerrillano	VERB	_	_	_	_	_	AlignBegin=43257|AlignEnd=43623|GE=fight|Gloss=fight|nWord=3|RX=[V]
+4	daba	daba	NOUN	_	_	_	_	_	AlignBegin=43623|AlignEnd=43989|GE=brother|Gloss=brother|nWord=4|RX=[N]
+5	salebli	salebli	ADJ	_	_	4	mod	_	AlignBegin=43989|AlignEnd=44355|GE=different|Gloss=different|nWord=5|RX=[ADJ]
+6	ngongku	ngongku	ADV	_	_	7	comp:aux/m	_	AlignBegin=44355|AlignEnd=44538|GE=other.side|Gloss=other.side|nWord=6|RX=[ADV]
+7	-da		PART	_	_	_	_	_	AlignBegin=44538|AlignEnd=44721|GE=emph|Gloss=emph|nWord=6|RX=[VERB]
+8	.		.	_	_	_	_	_	AlignBegin=44721|AlignEnd=45085|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-AN-00002-08_09-12
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00002-08.WAV/WAV/SAB-TXT-AN-00002-08.WAV
+# sent_timecode = 45550, 51570
+# morphemic_text = entonces maungia ho , maungia cha tk -u honiku , y cha maungia tk -u honiku , maungia ho chui chi -e dwa honiku .
+# text = entonces maungia ho , maungia cha tku honiku , y cha maungia tku honiku , maungia ho chui chie dwa honiku .
+# text_en =  So he went... He put me outside. And I put him outside. He went where the sun goes up.
+1	entonces	entonces	ADV	_	_	_	_	_	AlignBegin=45550|AlignEnd=45910|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	maungia	maungia	PRON	_	_	_	_	_	AlignBegin=45910|AlignEnd=46270|GE=[3SG]|Gloss=3SG|nWord=2|RX=[PRO]
+3	ho	ho	VERB	_	_	_	_	_	AlignBegin=46270|AlignEnd=46630|GE=[go].[PST]|Gloss=go.PST|nWord=3|RX=[V]
+4	,		_	_	_	_	_	_	AlignBegin=46630|AlignEnd=46990|nWord=4
+5	maungia	maungia	PRON	_	_	_	_	_	AlignBegin=47265|AlignEnd=47517|GE=[3SG]|Gloss=3SG|nWord=5|RX=[PRO]
+6	cha	cha	PRON	_	_	_	_	_	AlignBegin=47517|AlignEnd=47769|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
+7	tk	tk	VERB	_	_	8	comp:aux/m	_	AlignBegin=47769|AlignEnd=47895|GE=put|Gloss=put|nWord=7|RX=[V]
+8	-u		AUX	_	_	_	_	_	AlignBegin=47895|AlignEnd=48021|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]
+9	honiku	honiku	ADV	_	_	_	_	_	AlignBegin=48021|AlignEnd=48273|GE=outside|Gloss=outside|nWord=8|RX=[ADV]
+10	,		_	_	_	_	_	_	AlignBegin=48273|AlignEnd=48525|nWord=9
+11	y	y	COORDCONN	_	_	_	_	_	AlignBegin=48550|AlignEnd=48778|GE=and|Gloss=and|nWord=10|RX=[COORDCONN]
+12	cha	cha	PRON	_	_	_	_	_	AlignBegin=48778|AlignEnd=49006|GE=[1SG]|Gloss=1SG|nWord=11|RX=[PRO]
+13	maungia	maungia	PRON	_	_	_	_	_	AlignBegin=49006|AlignEnd=49234|GE=[3SG]|Gloss=3SG|nWord=12|RX=[PRO]
+14	tk	tk	VERB	_	_	15	comp:aux/m	_	AlignBegin=49234|AlignEnd=49348|GE=put|Gloss=put|nWord=13|RX=[V]
+15	-u		AUX	_	_	_	_	_	AlignBegin=49348|AlignEnd=49462|GE=[PST]|Gloss=-PST|nWord=13|RX=[V:ANY]
+16	honiku	honiku	ADV	_	_	_	_	_	AlignBegin=49462|AlignEnd=49690|GE=outside|Gloss=outside|nWord=14|RX=[ADV]
+17	,		_	_	_	_	_	_	AlignBegin=49690|AlignEnd=49920|nWord=15
+18	maungia	maungia	PRON	_	_	_	_	_	AlignBegin=49930|AlignEnd=50164|GE=[3SG]|Gloss=3SG|nWord=16|RX=[PRO]
+19	ho	ho	VERB	_	_	_	_	_	AlignBegin=50164|AlignEnd=50398|GE=[go].[PST]|Gloss=go.PST|nWord=17|RX=[V]
+20	chui	chui	NOUN	_	_	_	_	_	AlignBegin=50398|AlignEnd=50632|GE=sun|Gloss=sun|nWord=18|RX=[N]
+21	chi	chi	VERB	_	_	22	comp:aux/m	_	AlignBegin=50632|AlignEnd=50749|GE=come|Gloss=come|nWord=19|RX=[V]
+22	-e		AUX	_	_	_	_	_	AlignBegin=50749|AlignEnd=50866|GE=[THM]|Gloss=-THM|nWord=19|RX=[V:ANY]
+23	dwa	dwa	ADV	_	_	_	_	_	AlignBegin=50866|AlignEnd=51100|GE=down|Gloss=down|nWord=20|RX=[ADV]
+24	honiku	honiku	ADV	_	_	_	_	_	AlignBegin=51100|AlignEnd=51334|GE=outside|Gloss=outside|nWord=21|RX=[ADV]
+25	.		.	_	_	_	_	_	AlignBegin=51334|AlignEnd=51570|Gloss=.|nWord=22
+
+# sent_id = SAB-TXT-AN-00002-08_13-13
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00002-08.WAV/WAV/SAB-TXT-AN-00002-08.WAV
+# sent_timecode = 52910, 57870
+# morphemic_text = entonces cha chi -u daba dui -a ngania gai nante .
+# text = entonces cha chiu daba duia ngania gai nante .
+# text_en =  So I went up to steal the other one's land.
+1	entonces	entonces	ADV	_	_	_	_	_	AlignBegin=52910|AlignEnd=53461|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	cha	cha	PRON	_	_	3	subj	_	AlignBegin=53461|AlignEnd=54012|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	chi	chi	VERB	_	_	4	comp:aux/m	_	AlignBegin=54012|AlignEnd=54288|GE=come|Gloss=come|nWord=3|RX=[V]
+4	-u		AUX	_	_	_	_	_	AlignBegin=54288|AlignEnd=54563|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
+5	daba	daba	NOUN	_	_	_	_	_	AlignBegin=54563|AlignEnd=55114|GE=brother|Gloss=brother|nWord=4|RX=[N]
+6	dui	dui	NOUN	_	_	7	comp:aux/m	_	AlignBegin=55114|AlignEnd=55390|GE=dirt|Gloss=dirt|nWord=5|RX=[N]
+7	-a		X	_	_	_	_	_	AlignBegin=55390|AlignEnd=55665|GE=[0]|Gloss=-0|nWord=5|RX=[VERB]
+8	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=55665|AlignEnd=56216|GE=up|Gloss=up|nWord=6|RX=[ADV]
+9	gai	gai	VERB	_	_	_	_	_	AlignBegin=56216|AlignEnd=56767|GE=pick_up|Gloss=pick_up|nWord=7|RX=[V]
+10	nante	nante	ADP	_	_	_	_	_	AlignBegin=56767|AlignEnd=57318|GE=directional|Gloss=directional|nWord=8|RX=[ADP]
+11	.		.	_	_	_	_	_	AlignBegin=57318|AlignEnd=57870|Gloss=.|nWord=9
+
+# sent_id = SAB-TXT-AN-00002-08_14-17
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00002-08.WAV/WAV/SAB-TXT-AN-00002-08.WAV
+# sent_timecode = 58540, 78740
+# morphemic_text = nga kada Olechia giti , nga kada Hato giti , nga kada ( cahuit perdon ) nga kada Klamengda giti , cha chi -u daba ese daba cha tk -u honiku cha chi -u .
+# text = nga kada olechia giti , nga kada Hato giti , nga kada ( cahuit perdon ) nga kada klamengda giti , cha chiu daba ese daba cha tku honiku cha chiu .
+# text_en =  A village called Olechia. A village called Hato. A village called Klamengda. I went to this person, the one who put me out, I went there.
+1	nga	nga	NOUN	_	_	_	_	_	AlignBegin=58540|AlignEnd=59756|GE=village|Gloss=village|nWord=1|RX=[N]
+2	kada	kada	NOUN	_	_	_	_	_	AlignBegin=59756|AlignEnd=60972|GE=name|Gloss=name|nWord=2|RX=[N]
+3	Olechia	Olechia	PROPN	_	_	4	comp	_	AlignBegin=60972|AlignEnd=62188|GE=[Olechia]|Gloss=Olechia|nWord=3|RX=[NPROP]
+4	giti	giti	ADP	_	_	_	_	_	AlignBegin=62188|AlignEnd=63404|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
+5	,		_	_	_	_	_	_	AlignBegin=63404|AlignEnd=64620|nWord=5
+6	nga	nga	NOUN	_	_	_	_	_	AlignBegin=64965|AlignEnd=65507|GE=village|Gloss=village|nWord=6|RX=[N]
+7	kada	kada	NOUN	_	_	_	_	_	AlignBegin=65507|AlignEnd=66049|GE=name|Gloss=name|nWord=7|RX=[N]
+8	Hato	Hato	PROPN	_	_	9	comp	_	AlignBegin=66049|AlignEnd=66591|GE=[Hato]|Gloss=Hato|nWord=8|RX=[NPROP]
+9	giti	giti	ADP	_	_	_	_	_	AlignBegin=66591|AlignEnd=67133|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
+10	,		_	_	_	_	_	_	AlignBegin=67133|AlignEnd=67675|nWord=10
+11	nga	nga	NOUN	_	_	_	_	_	AlignBegin=67810|AlignEnd=68200|GE=village|Gloss=village|nWord=11|RX=[N]
+12	kada	kada	NOUN	_	_	_	_	_	AlignBegin=68200|AlignEnd=68590|GE=name|Gloss=name|nWord=12|RX=[N]
+13	(		_	_	_	_	_	_	AlignBegin=68590|AlignEnd=68980|nWord=13
+14	cahuit	cahuit	_	_	_	_	_	_	AlignBegin=68980|AlignEnd=69370|nWord=14
+15	perdon	perdon	_	_	_	_	_	_	AlignBegin=69370|AlignEnd=69760|nWord=15
+16	)		_	_	_	_	_	_	AlignBegin=69760|AlignEnd=70150|nWord=16
+17	nga	nga	NOUN	_	_	_	_	_	AlignBegin=70150|AlignEnd=70540|GE=village|Gloss=village|nWord=17|RX=[N]
+18	kada	kada	NOUN	_	_	_	_	_	AlignBegin=70540|AlignEnd=70930|GE=name|Gloss=name|nWord=18|RX=[N]
+19	Klamengda	Klamengda	PROPN	_	_	20	comp	_	AlignBegin=70930|AlignEnd=71320|GE=[Klamengda]|Gloss=Klamengda|nWord=19|RX=[NPROP]
+20	giti	giti	ADP	_	_	_	_	_	AlignBegin=71320|AlignEnd=71710|GE=[LOC]|Gloss=LOC|nWord=20|RX=[ADP]
+21	,		_	_	_	_	_	_	AlignBegin=71710|AlignEnd=72100|nWord=21
+22	cha	cha	PRON	_	_	23	subj	_	AlignBegin=75470|AlignEnd=75767|GE=[1SG]|Gloss=1SG|nWord=22|RX=[PRO]
+23	chi	chi	VERB	_	_	24	comp:aux/m	_	AlignBegin=75767|AlignEnd=75915|GE=come|Gloss=come|nWord=23|RX=[V]
+24	-u		AUX	_	_	_	_	_	AlignBegin=75915|AlignEnd=76064|GE=[PST]|Gloss=-PST|nWord=23|RX=[V:ANY]
+25	daba	daba	NOUN	_	_	_	_	_	AlignBegin=76064|AlignEnd=76361|GE=brother|Gloss=brother|nWord=24|RX=[N]
+26	ese	ese	DET	_	_	_	_	_	AlignBegin=76361|AlignEnd=76658|GE=that|Gloss=that|nWord=25|RX=[DET]
+27	daba	daba	NOUN	_	_	_	_	_	AlignBegin=76658|AlignEnd=76955|GE=brother|Gloss=brother|nWord=26|RX=[N]
+28	cha	cha	PRON	_	_	29	subj	_	AlignBegin=76955|AlignEnd=77252|GE=[1SG]|Gloss=1SG|nWord=27|RX=[PRO]
+29	tk	tk	VERB	_	_	30	comp:aux/m	_	AlignBegin=77252|AlignEnd=77400|GE=put|Gloss=put|nWord=28|RX=[V]
+30	-u		AUX	_	_	_	_	_	AlignBegin=77400|AlignEnd=77549|GE=[PST]|Gloss=-PST|nWord=28|RX=[V:ANY]
+31	honiku	honiku	ADV	_	_	_	_	_	AlignBegin=77549|AlignEnd=77846|GE=outside|Gloss=outside|nWord=29|RX=[ADV]
+32	cha	cha	PRON	_	_	33	subj	_	AlignBegin=77846|AlignEnd=78143|GE=[1SG]|Gloss=1SG|nWord=30|RX=[PRO]
+33	chi	chi	VERB	_	_	34	comp:aux/m	_	AlignBegin=78143|AlignEnd=78291|GE=come|Gloss=come|nWord=31|RX=[V]
+34	-u		AUX	_	_	_	_	_	AlignBegin=78291|AlignEnd=78440|GE=[PST]|Gloss=-PST|nWord=31|RX=[V:ANY]
+35	.		.	_	_	_	_	_	AlignBegin=78440|AlignEnd=78740|Gloss=.|nWord=32
+
+# sent_id = SAB-TXT-AN-00002-08_18-18
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00002-08.WAV/WAV/SAB-TXT-AN-00002-08.WAV
+# sent_timecode = 80120, 85600
+# morphemic_text = entonces daba esta kle sainkuli cha ai dike .
+# text = entonces daba ta kle sainkuli cha ai dike .
+# text_en =  So the person is being bad to me.
+1	entonces	entonces	ADV	_	_	_	_	_	AlignBegin=80120|AlignEnd=80729|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	daba	daba	NOUN	_	_	_	_	_	AlignBegin=80729|AlignEnd=81338|GE=brother|Gloss=brother|nWord=2|RX=[N]
+3	esta	esta	VERB	_	_	_	_	_	AlignBegin=81338|AlignEnd=81947|GE=be|Gloss=be|nWord=3|RX=[V]
+4	kle	kle	AUX	_	_	_	_	_	AlignBegin=81947|AlignEnd=82556|GE=be|Gloss=be|nWord=4|RX=[V]
+5	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=82556|AlignEnd=83165|GE=forbidden|Gloss=forbidden|nWord=5|RX=[ADV]
+6	cha	cha	PRON	_	_	_	_	_	AlignBegin=83165|AlignEnd=83774|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
+7	ai	ai	ADV	_	_	_	_	_	AlignBegin=83774|AlignEnd=84383|GE=here|Gloss=here|nWord=7|RX=[ADV]
+8	dike	dike	ADP	_	_	_	_	_	AlignBegin=84383|AlignEnd=84992|GE=[INST]|Gloss=INST|nWord=8|RX=[ADP]
+9	.		.	_	_	_	_	_	AlignBegin=84992|AlignEnd=85600|Gloss=.|nWord=9
+
+# sent_id = SAB-TXT-AN-00002-08_19-20
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00002-08.WAV/WAV/SAB-TXT-AN-00002-08.WAV
+# sent_timecode = 86095, 90695
+# morphemic_text = entonces onia be bi , daba be chk -e dole na gwa ite cha ai ole .
+# text = entonces onia be bi , daba be chke dole na gwaite cha ai ole .
+# text_en =  So when the soul will return, The other one will come back again to fight with me.
+1	entonces	entonces	ADV	_	_	_	_	_	AlignBegin=86095|AlignEnd=86381|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	onia	onia	NOUN	_	_	_	_	_	AlignBegin=86381|AlignEnd=86667|GE=soul|Gloss=soul|nWord=2|RX=[N]
+3	be	be	AUX	_	_	_	_	_	AlignBegin=86667|AlignEnd=86953|GE=[FUT]|Gloss=FUT|nWord=3|RX=[VERBPRT]
+4	bi	bi	ADV	_	_	_	_	_	AlignBegin=86953|AlignEnd=87239|GE=then|Gloss=then|nWord=4|RX=[ADV]
+5	,		_	_	_	_	_	_	AlignBegin=87239|AlignEnd=87525|nWord=5
+6	daba	daba	NOUN	_	_	8	subj	_	AlignBegin=87595|AlignEnd=87905|GE=brother|Gloss=brother|nWord=6|RX=[N]
+7	be	be	AUX	_	_	_	_	_	AlignBegin=87905|AlignEnd=88215|GE=[FUT]|Gloss=FUT|nWord=7|RX=[VERBPRT]
+8	chk	chk	VERB	_	_	9	comp:aux	_	AlignBegin=88215|AlignEnd=88370|GE=arrive|Gloss=arrive|nWord=8|RX=[V]
+9	-e		AUX	_	_	7	comp:aux	_	AlignBegin=88370|AlignEnd=88525|GE=[THM]|Gloss=-THM|nWord=8|RX=[V:ANY]
+10	dole	dole	VERB	_	_	_	_	_	AlignBegin=88525|AlignEnd=88835|GE=[fight].[NPST]|Gloss=fight.NPST|nWord=9|RX=[V]
+11	na	na	ADJ	_	_	_	_	_	AlignBegin=88835|AlignEnd=89145|GE=other|Gloss=other|nWord=10|RX=[DET]
+12	gwa	gwa	NUM	_	_	_	_	_	AlignBegin=89145|AlignEnd=89300|GE=cl|Gloss=cl|nWord=11|RX=[NUM]
+13	ite	ite	NUM	_	_	_	_	_	AlignBegin=89300|AlignEnd=89455|GE=one|Gloss=one|nWord=11|RX=[NUM]
+14	cha	cha	PRON	_	_	_	_	_	AlignBegin=89455|AlignEnd=89765|GE=[1SG]|Gloss=1SG|nWord=12|RX=[PRO]
+15	ai	ai	ADV	_	_	_	_	_	AlignBegin=89765|AlignEnd=90075|GE=here|Gloss=here|nWord=13|RX=[ADV]
+16	ole	ole	ADP	_	_	_	_	_	AlignBegin=90075|AlignEnd=90385|GE=[COM]|Gloss=COM|nWord=14|RX=[ADP]
+17	.		.	_	_	_	_	_	AlignBegin=90385|AlignEnd=90695|Gloss=.|nWord=15
+
+# sent_id = SAB-TXT-AN-00002-08_21-24
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00002-08.WAV/WAV/SAB-TXT-AN-00002-08.WAV
+# sent_timecode = 96030, 109695
+# morphemic_text = entonces cha kle mung gerea gudiade , que cha gerea chek -u esta horile kedaru , cha troba -ia -le chi -u , hasta daba dui -a daba ngania gai nante .
+# text = entonces cha kle mung gerea gudiade , que cha gerea cheku ta horile kedaru , cha trobaiale chiu , ata daba duia daba ngania gai nante .
+# text_en =  So I am my people's singer. (To tell that) my people came from outise, I went as a bird flock. To the other ones land, to take the land up there.
+1	entonces	entonces	ADV	_	_	_	_	_	AlignBegin=96030|AlignEnd=96681|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	cha	cha	PRON	_	_	_	_	_	AlignBegin=96681|AlignEnd=97332|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	kle	kle	AUX	_	_	_	_	_	AlignBegin=97332|AlignEnd=97983|GE=be|Gloss=be|nWord=3|RX=[V]
+4	mung	mung	PART	_	_	_	_	_	AlignBegin=97983|AlignEnd=98634|GE=[REFL]|Gloss=REFL|nWord=4|RX=[VERBPRT]
+5	gerea	gerea	NOUN	_	_	_	_	_	AlignBegin=98634|AlignEnd=99285|GE=people|Gloss=people|nWord=5|RX=[N]
+6	gudiade	gudiade	NOUN	_	_	_	_	_	AlignBegin=99285|AlignEnd=99936|GE=singer|Gloss=singer|nWord=6|RX=[N]
+7	,		_	_	_	_	_	_	AlignBegin=99936|AlignEnd=100590|nWord=7
+8	que	que	PRON	_	_	_	_	_	AlignBegin=101405|AlignEnd=101797|GE=that|Gloss=that|nWord=8|RX=[PRO]
+9	cha	cha	PRON	_	_	_	_	_	AlignBegin=101797|AlignEnd=102189|GE=[1SG]|Gloss=1SG|nWord=9|RX=[PRO]
+10	gerea	gerea	NOUN	_	_	11	subj	_	AlignBegin=102189|AlignEnd=102581|GE=people|Gloss=people|nWord=10|RX=[N]
+11	chek	chek	VERB	_	_	12	comp:aux/m	_	AlignBegin=102581|AlignEnd=102777|GE=stay|Gloss=stay|nWord=11|RX=[V]
+12	-u		AUX	_	_	_	_	_	AlignBegin=102777|AlignEnd=102973|GE=[PST]|Gloss=-PST|nWord=11|RX=[V:ANY]
+13	esta	esta	VERB	_	_	_	_	_	AlignBegin=102973|AlignEnd=103365|GE=be|Gloss=be|nWord=12|RX=[V]
+14	horile	horile	_	_	_	_	_	_	AlignBegin=103365|AlignEnd=103757|nWord=13
+15	kedaru	kedaru	ADV	_	_	_	_	_	AlignBegin=103757|AlignEnd=104149|GE=outside|Gloss=outside|nWord=14|RX=[ADV]
+16	,		_	_	_	_	_	_	AlignBegin=104149|AlignEnd=104545|nWord=15
+17	cha	cha	PRON	_	_	_	_	_	AlignBegin=104710|AlignEnd=105130|GE=[1SG]|Gloss=1SG|nWord=16|RX=[PRO]
+18	troba	troba	NOUN	_	_	19	comp:aux/m	_	AlignBegin=105130|AlignEnd=105270|GE=bird_type|Gloss=bird_type|nWord=17|RX=[N]
+19	-ia		AUX	_	_	20	comp:aux/m	_	AlignBegin=105270|AlignEnd=105410|GE=[POSS]|Gloss=-POSS|nWord=17|RX=[N:ANY]
+20	-le		AUX	_	_	_	_	_	AlignBegin=105410|AlignEnd=105550|GE=[ADJZ]|Gloss=-ADJZ|nWord=17|RX=[N>ADJ]
+21	chi	chi	VERB	_	_	22	comp:aux/m	_	AlignBegin=105550|AlignEnd=105760|GE=come|Gloss=come|nWord=18|RX=[V]
+22	-u		AUX	_	_	_	_	_	AlignBegin=105760|AlignEnd=105970|GE=[PST]|Gloss=-PST|nWord=18|RX=[V:ANY]
+23	,		_	_	_	_	_	_	AlignBegin=105970|AlignEnd=106390|nWord=19
+24	hasta	hasta	ADP	_	_	_	_	_	AlignBegin=106605|AlignEnd=106991|GE=to|Gloss=to|nWord=20|RX=[ADP]
+25	daba	daba	NOUN	_	_	_	_	_	AlignBegin=106991|AlignEnd=107377|GE=brother|Gloss=brother|nWord=21|RX=[N]
+26	dui	dui	NOUN	_	_	27	comp:aux/m	_	AlignBegin=107377|AlignEnd=107570|GE=dirt|Gloss=dirt|nWord=22|RX=[N]
+27	-a		X	_	_	_	_	_	AlignBegin=107570|AlignEnd=107763|GE=[0]|Gloss=-0|nWord=22|RX=[VERB]
+28	daba	daba	NOUN	_	_	_	_	_	AlignBegin=107763|AlignEnd=108149|GE=brother|Gloss=brother|nWord=23|RX=[N]
+29	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=108149|AlignEnd=108535|GE=up|Gloss=up|nWord=24|RX=[ADV]
+30	gai	gai	VERB	_	_	_	_	_	AlignBegin=108535|AlignEnd=108921|GE=pick_up|Gloss=pick_up|nWord=25|RX=[V]
+31	nante	nante	ADP	_	_	_	_	_	AlignBegin=108921|AlignEnd=109307|GE=directional|Gloss=directional|nWord=26|RX=[ADP]
+32	.		.	_	_	_	_	_	AlignBegin=109307|AlignEnd=109695|Gloss=.|nWord=27
+
+# sent_id = SAB-TXT-AN-00002-08_25-25
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00002-08.WAV/WAV/SAB-TXT-AN-00002-08.WAV
+# sent_timecode = 110185, 113335
+# morphemic_text = cha keru chi -u tik -e -nga suli gwo gwaro .
+# text = cha keru chiu tikenga suli gwo gwaro .
+# text_en =  My language came growing under the radar.
+1	cha	cha	PRON	_	_	_	_	_	AlignBegin=110185|AlignEnd=110579|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	keru	keru	NOUN	_	_	3	subj	_	AlignBegin=110579|AlignEnd=110973|GE=word|Gloss=word|nWord=2|RX=[N]
+3	chi	chi	VERB	_	_	4	comp:aux/m	_	AlignBegin=110973|AlignEnd=111170|GE=come|Gloss=come|nWord=3|RX=[V]
+4	-u		AUX	_	_	_	_	_	AlignBegin=111170|AlignEnd=111367|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
+5	tik	tik	VERB	_	_	6	comp:aux/m	_	AlignBegin=111367|AlignEnd=111498|GE=grow|Gloss=grow|nWord=4|RX=[V]
+6	-e		AUX	_	_	7	comp:aux/m	_	AlignBegin=111498|AlignEnd=111629|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+7	-nga		AUX	_	_	_	_	_	AlignBegin=111629|AlignEnd=111761|GE=[SUB]|Gloss=-SUB|nWord=4|RX=[V:ANY]
+8	suli	suli	NOUN	_	_	_	_	_	AlignBegin=111761|AlignEnd=112155|GE=bird_type|Gloss=bird_type|nWord=5|RX=[N]
+9	gwo	gwo	NOUN	_	_	_	_	_	AlignBegin=112155|AlignEnd=112549|GE=eye|Gloss=eye|nWord=6|RX=[N]
+10	gwaro	gwaro	ADV	_	_	_	_	_	AlignBegin=112549|AlignEnd=112943|GE=under|Gloss=under|nWord=7|RX=[ADV]
+11	.		.	_	_	_	_	_	AlignBegin=112943|AlignEnd=113335|Gloss=.|nWord=8
+
+# sent_id = SAB-TXT-AN-00002-08_26-26
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00002-08.WAV/WAV/SAB-TXT-AN-00002-08.WAV
+# sent_timecode = 113795, 116285
+# morphemic_text = cha keru chi -u tik -e -nga suli gwo gwaro .
+# text = cha keru chiu tikenga suli gwo gwaro .
+# text_en =  ‎‎My language came growing under the radar.
+1	cha	cha	PRON	_	_	_	_	_	AlignBegin=113795|AlignEnd=114106|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	keru	keru	NOUN	_	_	3	subj	_	AlignBegin=114106|AlignEnd=114417|GE=word|Gloss=word|nWord=2|RX=[N]
+3	chi	chi	VERB	_	_	4	comp:aux/m	_	AlignBegin=114417|AlignEnd=114573|GE=come|Gloss=come|nWord=3|RX=[V]
+4	-u		AUX	_	_	_	_	_	AlignBegin=114573|AlignEnd=114728|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
+5	tik	tik	VERB	_	_	6	comp:aux/m	_	AlignBegin=114728|AlignEnd=114832|GE=grow|Gloss=grow|nWord=4|RX=[V]
+6	-e		AUX	_	_	7	comp:aux/m	_	AlignBegin=114832|AlignEnd=114936|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+7	-nga		AUX	_	_	_	_	_	AlignBegin=114936|AlignEnd=115039|GE=[SUB]|Gloss=-SUB|nWord=4|RX=[V:ANY]
+8	suli	suli	NOUN	_	_	_	_	_	AlignBegin=115039|AlignEnd=115350|GE=bird_type|Gloss=bird_type|nWord=5|RX=[N]
+9	gwo	gwo	NOUN	_	_	_	_	_	AlignBegin=115350|AlignEnd=115661|GE=eye|Gloss=eye|nWord=6|RX=[N]
+10	gwaro	gwaro	ADV	_	_	_	_	_	AlignBegin=115661|AlignEnd=115972|GE=under|Gloss=under|nWord=7|RX=[ADV]
+11	.		.	_	_	_	_	_	AlignBegin=115972|AlignEnd=116285|Gloss=.|nWord=8
+
+# sent_id = SAB-TXT-AN-00002-08_27-27
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00002-08.WAV/WAV/SAB-TXT-AN-00002-08.WAV
+# sent_timecode = 116455, 117615
+# morphemic_text = cha keru chi -u tik -e -nga .
+# text = cha keru chiu tikenga .
+# text_en =  My language grew.
+1	cha	cha	PRON	_	_	_	_	_	AlignBegin=116455|AlignEnd=116687|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	keru	keru	NOUN	_	_	3	subj	_	AlignBegin=116687|AlignEnd=116919|GE=word|Gloss=word|nWord=2|RX=[N]
+3	chi	chi	VERB	_	_	4	comp:aux/m	_	AlignBegin=116919|AlignEnd=117035|GE=come|Gloss=come|nWord=3|RX=[V]
+4	-u		AUX	_	_	_	_	_	AlignBegin=117035|AlignEnd=117151|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
+5	tik	tik	VERB	_	_	6	comp:aux/m	_	AlignBegin=117151|AlignEnd=117228|GE=grow|Gloss=grow|nWord=4|RX=[V]
+6	-e		AUX	_	_	7	comp:aux/m	_	AlignBegin=117228|AlignEnd=117305|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+7	-nga		AUX	_	_	_	_	_	AlignBegin=117305|AlignEnd=117383|GE=[SUB]|Gloss=-SUB|nWord=4|RX=[V:ANY]
+8	.		.	_	_	_	_	_	AlignBegin=117383|AlignEnd=117615|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-AN-00002-08_28-28
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00002-08.WAV/WAV/SAB-TXT-AN-00002-08.WAV
+# sent_timecode = 118220, 123050
+# morphemic_text = cha dui -a cha ngania ga -le , daba na chi -u cha dui -a ngania gai nante kedaru iani .
+# text = cha duia cha ngania gale , daba na chiu cha duia ngania gai nante kedaru iani .
+# text_en =  The land up there taken, another person came and took it.
+1	cha	cha	PRON	_	_	_	_	_	AlignBegin=118220|AlignEnd=118504|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	dui	dui	NOUN	_	_	3	comp:aux/m	_	AlignBegin=118504|AlignEnd=118646|GE=dirt|Gloss=dirt|nWord=2|RX=[N]
+3	-a		AUX	_	_	_	_	_	AlignBegin=118646|AlignEnd=118788|GE=[POSS]|Gloss=-POSS|nWord=2|RX=[N:ANY]
+4	cha	cha	PRON	_	_	_	_	_	AlignBegin=118788|AlignEnd=119072|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
+5	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=119072|AlignEnd=119356|GE=up|Gloss=up|nWord=4|RX=[ADV]
+6	ga	ga	VERB	_	_	7	comp:aux/m	_	AlignBegin=119356|AlignEnd=119498|GE=pick_up|Gloss=pick_up|nWord=5|RX=[V]
+7	-le		AUX	_	_	_	_	_	AlignBegin=119498|AlignEnd=119640|GE=[ADJZ]|Gloss=-ADJZ|nWord=5|RX=[N>ADJ]
+8	,		_	_	_	_	_	_	AlignBegin=119640|AlignEnd=119924|nWord=6
+9	daba	daba	NOUN	_	_	_	_	_	AlignBegin=119924|AlignEnd=120208|GE=brother|Gloss=brother|nWord=7|RX=[N]
+10	na	na	ADJ	_	_	9	mod	_	AlignBegin=120208|AlignEnd=120492|GE=other|Gloss=other|nWord=8|RX=[DET]
+11	chi	chi	VERB	_	_	12	comp:aux/m	_	AlignBegin=120492|AlignEnd=120634|GE=come|Gloss=come|nWord=9|RX=[V]
+12	-u		AUX	_	_	_	_	_	AlignBegin=120634|AlignEnd=120776|GE=[PST]|Gloss=-PST|nWord=9|RX=[V:ANY]
+13	cha	cha	PRON	_	_	_	_	_	AlignBegin=120776|AlignEnd=121060|GE=[1SG]|Gloss=1SG|nWord=10|RX=[PRO]
+14	dui	dui	NOUN	_	_	15	comp:aux/m	_	AlignBegin=121060|AlignEnd=121202|GE=dirt|Gloss=dirt|nWord=11|RX=[N]
+15	-a		AUX	_	_	_	_	_	AlignBegin=121202|AlignEnd=121344|GE=[POSS]|Gloss=-POSS|nWord=11|RX=[N:ANY]
+16	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=121344|AlignEnd=121628|GE=up|Gloss=up|nWord=12|RX=[ADV]
+17	gai	gai	VERB	_	_	_	_	_	AlignBegin=121628|AlignEnd=121912|GE=pick_up|Gloss=pick_up|nWord=13|RX=[V]
+18	nante	nante	ADP	_	_	_	_	_	AlignBegin=121912|AlignEnd=122196|GE=directional|Gloss=directional|nWord=14|RX=[ADP]
+19	kedaru	kedaru	ADV	_	_	_	_	_	AlignBegin=122196|AlignEnd=122480|GE=outside|Gloss=outside|nWord=15|RX=[ADV]
+20	iani	iani	ADV	_	_	_	_	_	AlignBegin=122480|AlignEnd=122764|GE=there|Gloss=there|nWord=16|RX=[ADV]
+21	.		.	_	_	_	_	_	AlignBegin=122764|AlignEnd=123050|Gloss=.|nWord=17
+

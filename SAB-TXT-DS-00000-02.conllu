@@ -1,0 +1,224 @@
+# sent_id = SAB-TXT-DS-00000-02_01-02
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-02.WAV/WAV/SAB-TXT-DS-00000-02.WAV
+# sent_timecode = 7670, 23220
+# morphemic_text = che geru trak -e Chere daba bate ole che ai chui iake , che kle uswiali che doia kle che samla -ia ket -e daba salebli che e nengke .
+# text = che geru trake Chere daba bate ole che ai chui iake , che kle uswiali che doia kle che samlaia kete daba salebli che e nengke .
+# text_en =  We are telling in Bokota with the foreign friend how our people, before, How before, the enemy gave human meat to an ancestor.
+1	che	che	PRON	_	_	_	_	_	AlignBegin=7670|AlignEnd=8373|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	geru	geru	NOUN	_	_	_	_	_	AlignBegin=8373|AlignEnd=9076|GE=story|Gloss=story|nWord=2|RX=[N]
+3	trak	trak	VERB	_	_	4	comp:aux/m	_	AlignBegin=9076|AlignEnd=9428|GE=tell|Gloss=tell|nWord=3|RX=[V]
+4	-e		AUX	_	_	_	_	_	AlignBegin=9428|AlignEnd=9779|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+5	Chere	Chere	PROPN	_	_	_	_	_	AlignBegin=9779|AlignEnd=10482|GE=[Chere]|Gloss=Chere|nWord=4|RX=[NPROP]
+6	daba	daba	NOUN	_	_	_	_	_	AlignBegin=10482|AlignEnd=11185|GE=brother|Gloss=brother|nWord=5|RX=[N]
+7	bate	bate	ADV	_	_	_	_	_	AlignBegin=11185|AlignEnd=11888|GE=away|Gloss=away|nWord=6|RX=[ADV]
+8	ole	ole	ADP	_	_	_	_	_	AlignBegin=11888|AlignEnd=12591|GE=[COM]|Gloss=COM|nWord=7|RX=[ADP]
+9	che	che	PRON	_	_	_	_	_	AlignBegin=12591|AlignEnd=13294|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=8|RX=[PRO]
+10	ai	ai	ADV	_	_	_	_	_	AlignBegin=13294|AlignEnd=13997|GE=here|Gloss=here|nWord=9|RX=[ADV]
+11	chui	chui	NOUN	_	_	_	_	_	AlignBegin=13997|AlignEnd=14700|GE=sun|Gloss=sun|nWord=10|RX=[N]
+12	iake	iake	ADJ	_	_	11	mod	_	AlignBegin=14700|AlignEnd=15403|GE=ancient|Gloss=ancient|nWord=11|RX=[ADJ]
+13	,		_	_	_	_	_	_	AlignBegin=15403|AlignEnd=16110|nWord=12
+14	che	che	PRON	_	_	_	_	_	AlignBegin=16170|AlignEnd=16640|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=13|RX=[PRO]
+15	kle	kle	AUX	_	_	_	_	_	AlignBegin=16640|AlignEnd=17110|GE=be|Gloss=be|nWord=14|RX=[V]
+16	uswiali	uswiali	ADV	_	_	_	_	_	AlignBegin=17110|AlignEnd=17580|GE=before|Gloss=before|nWord=15|RX=[ADV]
+17	che	che	PRON	_	_	_	_	_	AlignBegin=17580|AlignEnd=18050|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=16|RX=[PRO]
+18	doia	doia	NOUN	_	_	_	_	_	AlignBegin=18050|AlignEnd=18520|GE=enemy|Gloss=enemy|nWord=17|RX=[N]
+19	kle	kle	AUX	_	_	_	_	_	AlignBegin=18520|AlignEnd=18990|GE=be|Gloss=be|nWord=18|RX=[V]
+20	che	che	PRON	_	_	_	_	_	AlignBegin=18990|AlignEnd=19460|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=19|RX=[PRO]
+21	samla	samla	NOUN	_	_	22	comp:aux/m	_	AlignBegin=19460|AlignEnd=19695|GE=meat|Gloss=meat|nWord=20|RX=[N]
+22	-ia		AUX	_	_	_	_	_	AlignBegin=19695|AlignEnd=19930|GE=[POSS]|Gloss=-POSS|nWord=20|RX=[N:ANY]
+23	ket	ket	VERB	_	_	24	comp:aux/m	_	AlignBegin=19930|AlignEnd=20165|GE=give|Gloss=give|nWord=21|RX=[V]
+24	-e		AUX	_	_	_	_	_	AlignBegin=20165|AlignEnd=20400|GE=[THM]|Gloss=-THM|nWord=21|RX=[V:ANY]
+25	daba	daba	NOUN	_	_	_	_	_	AlignBegin=20400|AlignEnd=20870|GE=brother|Gloss=brother|nWord=22|RX=[N]
+26	salebli	salebli	ADJ	_	_	25	mod	_	AlignBegin=20870|AlignEnd=21340|GE=different|Gloss=different|nWord=23|RX=[ADJ]
+27	che	che	PRON	_	_	_	_	_	AlignBegin=21340|AlignEnd=21810|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=24|RX=[PRO]
+28	e	e	ADV	_	_	_	_	_	AlignBegin=21810|AlignEnd=22280|GE=now|Gloss=now|nWord=25|RX=[ADV]
+29	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=22280|AlignEnd=22750|GE=today|Gloss=today|nWord=26|RX=[ADV]
+30	.		.	_	_	_	_	_	AlignBegin=22750|AlignEnd=23220|Gloss=.|nWord=27
+
+# sent_id = SAB-TXT-DS-00000-02_03-05
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-02.WAV/WAV/SAB-TXT-DS-00000-02.WAV
+# sent_timecode = 23700, 32630
+# morphemic_text = ama gitire che kle gwichuk -e samla -le , che kle gwichuk -e die gut -e , ama gitire che kle gwichuk -e ese .
+# text = ama gitire che kle gwichuke samlale , che kle gwichuke die gute , ama gitire che kle gwichuke ese .
+# text_en =  So then he dreams about meat. He dreams about the things to eat. So then he dreams about this.
+1	ama	ama	ADV	_	_	_	_	_	AlignBegin=23700|AlignEnd=24177|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	gitire	gitire	ADV	_	_	_	_	_	AlignBegin=24177|AlignEnd=24654|GE=then|Gloss=then|nWord=2|RX=[ADV]
+3	che	che	PRON	_	_	_	_	_	AlignBegin=24654|AlignEnd=25131|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
+4	kle	kle	AUX	_	_	_	_	_	AlignBegin=25131|AlignEnd=25608|GE=be|Gloss=be|nWord=4|RX=[V]
+5	gwichuk	gwichuk	VERB	_	_	6	comp:aux	_	AlignBegin=25608|AlignEnd=25846|GE=dream|Gloss=dream|nWord=5|RX=[V]
+6	-e		AUX	_	_	4	comp:aux	_	AlignBegin=25846|AlignEnd=26085|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	samla	samla	NOUN	_	_	8	comp:aux/m	_	AlignBegin=26085|AlignEnd=26323|GE=meat|Gloss=meat|nWord=6|RX=[N]
+8	-le		AUX	_	_	_	_	_	AlignBegin=26323|AlignEnd=26562|GE=[ADJZ]|Gloss=-ADJZ|nWord=6|RX=[N>ADJ]
+9	,		_	_	_	_	_	_	AlignBegin=26562|AlignEnd=27040|nWord=7
+10	che	che	PRON	_	_	_	_	_	AlignBegin=27180|AlignEnd=27660|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=8|RX=[PRO]
+11	kle	kle	AUX	_	_	_	_	_	AlignBegin=27660|AlignEnd=28140|GE=be|Gloss=be|nWord=9|RX=[V]
+12	gwichuk	gwichuk	VERB	_	_	13	comp:aux	_	AlignBegin=28140|AlignEnd=28380|GE=dream|Gloss=dream|nWord=10|RX=[V]
+13	-e		AUX	_	_	11	comp:aux	_	AlignBegin=28380|AlignEnd=28620|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
+14	die	die	NOUN	_	_	_	_	_	AlignBegin=28620|AlignEnd=29100|GE=thing|Gloss=thing|nWord=11|RX=[N]
+15	gut	gut	VERB	_	_	16	comp:aux/m	_	AlignBegin=29100|AlignEnd=29340|GE=eat|Gloss=eat|nWord=12|RX=[V]
+16	-e		AUX	_	_	_	_	_	AlignBegin=29340|AlignEnd=29580|GE=[THM]|Gloss=-THM|nWord=12|RX=[V:ANY]
+17	,		_	_	_	_	_	_	AlignBegin=29580|AlignEnd=30060|nWord=13
+18	ama	ama	ADV	_	_	_	_	_	AlignBegin=30210|AlignEnd=30556|GE=so|Gloss=so|nWord=14|RX=[ADV]
+19	gitire	gitire	ADV	_	_	_	_	_	AlignBegin=30556|AlignEnd=30902|GE=then|Gloss=then|nWord=15|RX=[ADV]
+20	che	che	PRON	_	_	_	_	_	AlignBegin=30902|AlignEnd=31248|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=16|RX=[PRO]
+21	kle	kle	AUX	_	_	_	_	_	AlignBegin=31248|AlignEnd=31594|GE=be|Gloss=be|nWord=17|RX=[V]
+22	gwichuk	gwichuk	VERB	_	_	23	comp:aux	_	AlignBegin=31594|AlignEnd=31767|GE=dream|Gloss=dream|nWord=18|RX=[V]
+23	-e		AUX	_	_	21	comp:aux	_	AlignBegin=31767|AlignEnd=31940|GE=[THM]|Gloss=-THM|nWord=18|RX=[V:ANY]
+24	ese	ese	PRON	_	_	_	_	_	AlignBegin=31940|AlignEnd=32286|GE=that|Gloss=that|nWord=19|RX=[PRO]
+25	.		.	_	_	_	_	_	AlignBegin=32286|AlignEnd=32630|Gloss=.|nWord=20
+
+# sent_id = SAB-TXT-DS-00000-02_06-06
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-02.WAV/WAV/SAB-TXT-DS-00000-02.WAV
+# sent_timecode = 35640, 38110
+# morphemic_text = kle sainkuli che eni ali .
+# text = kle sainkuli che eni ali .
+# text_en =  It is forbidden to do that.
+1	kle	kle	AUX	_	_	_	_	_	AlignBegin=35640|AlignEnd=36052|GE=be|Gloss=be|nWord=1|RX=[V]
+2	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=36052|AlignEnd=36464|GE=forbidden|Gloss=forbidden|nWord=2|RX=[ADV]
+3	che	che	PRON	_	_	_	_	_	AlignBegin=36464|AlignEnd=36876|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
+4	eni	eni	ADV	_	_	_	_	_	AlignBegin=36876|AlignEnd=37288|GE=there|Gloss=there|nWord=4|RX=[ADV]
+5	ali	ali	ADP	_	_	_	_	_	AlignBegin=37288|AlignEnd=37700|GE=with|Gloss=with|nWord=5|RX=[ADP]
+6	.		.	_	_	_	_	_	AlignBegin=37700|AlignEnd=38110|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-DS-00000-02_07-07
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-02.WAV/WAV/SAB-TXT-DS-00000-02.WAV
+# sent_timecode = 38170, 42850
+# morphemic_text = y che doia kle che samla -ia ket -e daba salebli ke .
+# text = y che doia kle che samlaia kete daba salebli ke .
+# text_en =  And the enemy gives the human meat to the other one.
+1	y	y	COORDCONN	_	_	_	_	_	AlignBegin=38170|AlignEnd=38595|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+2	che	che	PRON	_	_	_	_	_	AlignBegin=38595|AlignEnd=39020|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
+3	doia	doia	NOUN	_	_	_	_	_	AlignBegin=39020|AlignEnd=39445|GE=enemy|Gloss=enemy|nWord=3|RX=[N]
+4	kle	kle	AUX	_	_	_	_	_	AlignBegin=39445|AlignEnd=39870|GE=be|Gloss=be|nWord=4|RX=[V]
+5	che	che	PRON	_	_	_	_	_	AlignBegin=39870|AlignEnd=40295|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=5|RX=[PRO]
+6	samla	samla	NOUN	_	_	7	comp:aux/m	_	AlignBegin=40295|AlignEnd=40507|GE=meat|Gloss=meat|nWord=6|RX=[N]
+7	-ia		AUX	_	_	_	_	_	AlignBegin=40507|AlignEnd=40720|GE=[POSS]|Gloss=-POSS|nWord=6|RX=[N:ANY]
+8	ket	ket	VERB	_	_	9	comp:aux/m	_	AlignBegin=40720|AlignEnd=40932|GE=give|Gloss=give|nWord=7|RX=[V]
+9	-e		AUX	_	_	_	_	_	AlignBegin=40932|AlignEnd=41145|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
+10	daba	daba	NOUN	_	_	_	_	_	AlignBegin=41145|AlignEnd=41570|GE=brother|Gloss=brother|nWord=8|RX=[N]
+11	salebli	salebli	ADJ	_	_	10	mod	_	AlignBegin=41570|AlignEnd=41995|GE=different|Gloss=different|nWord=9|RX=[ADJ]
+12	ke	ke	ADP	_	_	_	_	_	AlignBegin=41995|AlignEnd=42420|GE=[DAT]|Gloss=DAT|nWord=10|RX=[ADP]
+13	.		.	_	_	_	_	_	AlignBegin=42420|AlignEnd=42850|Gloss=.|nWord=11
+
+# sent_id = SAB-TXT-DS-00000-02_08-08
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-02.WAV/WAV/SAB-TXT-DS-00000-02.WAV
+# sent_timecode = 43230, 49310
+# morphemic_text = ama gitire tiene che kiro che daba ho ked -a bag -e -dale .
+# text = ama gitire tiene che kiro che daba hokeda bagedale .
+# text_en =  So then the child whose brother dies has to mourn.
+1	ama	ama	ADV	_	_	_	_	_	AlignBegin=43230|AlignEnd=43838|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	gitire	gitire	ADV	_	_	_	_	_	AlignBegin=43838|AlignEnd=44446|GE=then|Gloss=then|nWord=2|RX=[ADV]
+3	tiene	tiene	VERB	_	_	_	_	_	AlignBegin=44446|AlignEnd=45054|GE=have|Gloss=have|nWord=3|RX=[V]
+4	che	che	PRON	_	_	_	_	_	AlignBegin=45054|AlignEnd=45662|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=4|RX=[PRO]
+5	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=45662|AlignEnd=46270|GE=child|Gloss=child|nWord=5|RX=[N]
+6	che	che	PRON	_	_	_	_	_	AlignBegin=46270|AlignEnd=46878|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=6|RX=[PRO]
+7	daba	daba	NOUN	_	_	_	_	_	AlignBegin=46878|AlignEnd=47486|GE=brother|Gloss=brother|nWord=7|RX=[N]
+8	ho	ho	VERB	_	_	_	_	_	AlignBegin=47486|AlignEnd=47689|GE=[go].[PST]|Gloss=go.PST|nWord=8|RX=[V]
+9	ked	ked	AUX	_	_	10	comp:aux/m	_	AlignBegin=47689|AlignEnd=47892|GE=die|Gloss=die|nWord=8|RX=[V]
+10	-a		X	_	_	_	_	_	AlignBegin=47892|AlignEnd=48094|GE=[0]|Gloss=-0|nWord=8|RX=[VERB]
+11	bag	bag	VERB	_	_	12	comp:aux/m	_	AlignBegin=48094|AlignEnd=48297|GE=ceremoniate|Gloss=ceremoniate|nWord=9|RX=[V]
+12	-e		AUX	_	_	13	comp:aux/m	_	AlignBegin=48297|AlignEnd=48500|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
+13	-dale		AUX	_	_	_	_	_	AlignBegin=48500|AlignEnd=48702|GE=[IRR]|Gloss=-IRR|nWord=9|RX=[V:ANY]
+14	.		.	_	_	_	_	_	AlignBegin=48702|AlignEnd=49310|Gloss=.|nWord=10
+
+# sent_id = SAB-TXT-DS-00000-02_09-09
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-02.WAV/WAV/SAB-TXT-DS-00000-02.WAV
+# sent_timecode = 49335, 52135
+# morphemic_text = apa ke gire samla gut -a -dale .
+# text = apake gire samla gutadale .
+# text_en =  For eight days (he) can't eat meat.
+1	apa	apa	NUM	_	_	_	_	_	AlignBegin=49335|AlignEnd=49615|GE=eight|Gloss=eight|nWord=1|RX=[NUM]
+2	ke	ke	ADP	_	_	_	_	_	AlignBegin=49615|AlignEnd=49895|GE=[LOC]|Gloss=LOC|nWord=1|RX=[ADP]
+3	gire	gire	ADV	_	_	_	_	_	AlignBegin=49895|AlignEnd=50455|GE=then|Gloss=then|nWord=2|RX=[ADV]
+4	samla	samla	NOUN	_	_	_	_	_	AlignBegin=50455|AlignEnd=51015|GE=meat|Gloss=meat|nWord=3|RX=[N]
+5	gut	gut	VERB	_	_	6	comp:aux/m	_	AlignBegin=51015|AlignEnd=51202|GE=eat|Gloss=eat|nWord=4|RX=[V]
+6	-a		X	_	_	7	comp:aux/m	_	AlignBegin=51202|AlignEnd=51389|GE=[0]|Gloss=-0|nWord=4|RX=[VERB]
+7	-dale		AUX	_	_	_	_	_	AlignBegin=51389|AlignEnd=51575|GE=[IRR]|Gloss=-IRR|nWord=4|RX=[V:ANY]
+8	.		.	_	_	_	_	_	AlignBegin=51575|AlignEnd=52135|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-DS-00000-02_10-15
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-02.WAV/WAV/SAB-TXT-DS-00000-02.WAV
+# sent_timecode = 52870, 70595
+# morphemic_text = ( tiene ) che kle gwade chuk -e , ku hai , y oinda gut -e , para que che onia me daba salebli onia gut -e , maungia gwak -e gire che kle ake malo , maungia gwak -e minengke che kle ake ene .
+# text = ( tiene ) che kle gwadechuke , ku hai , y oinda gute , pa que che onia me daba salebli onia gute , maungia gwake gire che kle ake malo , maungia gwake minengke che kle ake ene .
+# text_en =  He has to stay awake. (He has to) drink kakao, and eat oinda. So that (the enemy's) spirit don't eat the dead's soul. In his (the enemy) eye then, they (the dead's family) are doing bad. He think 'Why are they doing this?'
+1	(		_	_	_	_	_	_	AlignBegin=52870|AlignEnd=53220|nWord=1
+2	tiene	tiene	VERB	_	_	_	_	_	AlignBegin=53220|AlignEnd=53570|GE=have|Gloss=have|nWord=2|RX=[V]
+3	)		_	_	_	_	_	_	AlignBegin=53570|AlignEnd=53920|nWord=3
+4	che	che	PRON	_	_	_	_	_	AlignBegin=53920|AlignEnd=54270|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=4|RX=[PRO]
+5	kle	kle	AUX	_	_	_	_	_	AlignBegin=54270|AlignEnd=54620|GE=be|Gloss=be|nWord=5|RX=[V]
+6	gwade	gwade	ADJ	_	_	_	_	_	AlignBegin=54620|AlignEnd=54737|GE=awake|Gloss=awake|nWord=6|RX=[ADJ]
+7	chuk	chuk	VERB	_	_	8	comp:aux/m	_	AlignBegin=54737|AlignEnd=54854|GE=stay_awake|Gloss=stay_awake|nWord=6|RX=[V]
+8	-e		AUX	_	_	_	_	_	AlignBegin=54854|AlignEnd=54970|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
+9	,		_	_	_	_	_	_	AlignBegin=54970|AlignEnd=55320|nWord=7
+10	ku	ku	NOUN	_	_	_	_	_	AlignBegin=55360|AlignEnd=55630|GE=cacao|Gloss=cacao|nWord=8|RX=[N]
+11	hai	hai	VERB	_	_	_	_	_	AlignBegin=55630|AlignEnd=55900|GE=drink|Gloss=drink|nWord=9|RX=[V]
+12	,		_	_	_	_	_	_	AlignBegin=55900|AlignEnd=56170|nWord=10
+13	y	y	COORDCONN	_	_	_	_	_	AlignBegin=56180|AlignEnd=56622|GE=and|Gloss=and|nWord=11|RX=[COORDCONN]
+14	oinda	oinda	NOUN	_	_	_	_	_	AlignBegin=56622|AlignEnd=57064|GE=food_type|Gloss=food_type|nWord=12|RX=[N]
+15	gut	gut	VERB	_	_	16	comp:aux/m	_	AlignBegin=57064|AlignEnd=57285|GE=eat|Gloss=eat|nWord=13|RX=[V]
+16	-e		AUX	_	_	_	_	_	AlignBegin=57285|AlignEnd=57506|GE=[THM]|Gloss=-THM|nWord=13|RX=[V:ANY]
+17	,		_	_	_	_	_	_	AlignBegin=57506|AlignEnd=57950|nWord=14
+18	para	para	ADP	_	_	_	_	_	AlignBegin=58130|AlignEnd=58668|GE=to|Gloss=to|nWord=15|RX=[ADP]
+19	que	que	PRON	_	_	_	_	_	AlignBegin=58668|AlignEnd=59206|GE=that|Gloss=that|nWord=16|RX=[PRO]
+20	che	che	PRON	_	_	_	_	_	AlignBegin=59206|AlignEnd=59744|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=17|RX=[PRO]
+21	onia	onia	NOUN	_	_	_	_	_	AlignBegin=59744|AlignEnd=60282|GE=soul|Gloss=soul|nWord=18|RX=[N]
+22	me	me	PART	_	_	_	_	_	AlignBegin=60282|AlignEnd=60820|GE=[NEG]|Gloss=NEG|nWord=19|RX=[VERBPRT]
+23	daba	daba	NOUN	_	_	_	_	_	AlignBegin=60820|AlignEnd=61358|GE=brother|Gloss=brother|nWord=20|RX=[N]
+24	salebli	salebli	ADJ	_	_	23	mod	_	AlignBegin=61358|AlignEnd=61896|GE=different|Gloss=different|nWord=21|RX=[ADJ]
+25	onia	onia	NOUN	_	_	_	_	_	AlignBegin=61896|AlignEnd=62434|GE=soul|Gloss=soul|nWord=22|RX=[N]
+26	gut	gut	VERB	_	_	27	comp:aux/m	_	AlignBegin=62434|AlignEnd=62703|GE=eat|Gloss=eat|nWord=23|RX=[V]
+27	-e		AUX	_	_	_	_	_	AlignBegin=62703|AlignEnd=62972|GE=[THM]|Gloss=-THM|nWord=23|RX=[V:ANY]
+28	,		_	_	_	_	_	_	AlignBegin=62972|AlignEnd=63510|nWord=24
+29	maungia	maungia	PRON	_	_	_	_	_	AlignBegin=63520|AlignEnd=64035|GE=[3SG]|Gloss=3SG|nWord=25|RX=[PRO]
+30	gwak	gwak	VERB	_	_	31	comp:aux/m	_	AlignBegin=64035|AlignEnd=64293|GE=see|Gloss=see|nWord=26|RX=[V]
+31	-e		AUX	_	_	_	_	_	AlignBegin=64293|AlignEnd=64550|GE=[THM]|Gloss=-THM|nWord=26|RX=[V:ANY]
+32	gire	gire	ADV	_	_	_	_	_	AlignBegin=64550|AlignEnd=65065|GE=then|Gloss=then|nWord=27|RX=[ADV]
+33	che	che	PRON	_	_	_	_	_	AlignBegin=65065|AlignEnd=65580|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=28|RX=[PRO]
+34	kle	kle	AUX	_	_	_	_	_	AlignBegin=65580|AlignEnd=66095|GE=be|Gloss=be|nWord=29|RX=[V]
+35	ake	ake	VERB	_	_	34	comp:aux	_	AlignBegin=66095|AlignEnd=66610|GE=do|Gloss=do|nWord=30|RX=[V]
+36	malo	malo	ADV	_	_	_	_	_	AlignBegin=66610|AlignEnd=67125|GE=bad|Gloss=bad|nWord=31|RX=[ADV]
+37	,		_	_	_	_	_	_	AlignBegin=67125|AlignEnd=67640|nWord=32
+38	maungia	maungia	PRON	_	_	_	_	_	AlignBegin=67645|AlignEnd=68014|GE=[3SG]|Gloss=3SG|nWord=33|RX=[PRO]
+39	gwak	gwak	VERB	_	_	40	comp:aux/m	_	AlignBegin=68014|AlignEnd=68198|GE=see|Gloss=see|nWord=34|RX=[V]
+40	-e		AUX	_	_	_	_	_	AlignBegin=68198|AlignEnd=68383|GE=[THM]|Gloss=-THM|nWord=34|RX=[V:ANY]
+41	minengke	minengke	Q	_	_	_	_	_	AlignBegin=68383|AlignEnd=68752|GE=why|Gloss=why|nWord=35|RX=[Q]
+42	che	che	PRON	_	_	_	_	_	AlignBegin=68752|AlignEnd=69121|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=36|RX=[PRO]
+43	kle	kle	AUX	_	_	_	_	_	AlignBegin=69121|AlignEnd=69490|GE=be|Gloss=be|nWord=37|RX=[V]
+44	ake	ake	VERB	_	_	43	comp:aux	_	AlignBegin=69490|AlignEnd=69859|GE=do|Gloss=do|nWord=38|RX=[V]
+45	ene	ene	ADV	_	_	_	_	_	AlignBegin=69859|AlignEnd=70228|GE=so|Gloss=so|nWord=39|RX=[ADV]
+46	.		.	_	_	_	_	_	AlignBegin=70228|AlignEnd=70595|Gloss=.|nWord=40
+
+# sent_id = SAB-TXT-DS-00000-02_16-17
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-02.WAV/WAV/SAB-TXT-DS-00000-02.WAV
+# sent_timecode = 70930, 77845
+# morphemic_text = no , che me hoke kali lengale , entonces che kle oinda gut -e daba dra dike .
+# text = no , che me hokekali lengale , entonces che kle oinda gute daba dra dike .
+# text_en =  But no, it is not a bad behavior. So they eat the oinda with their brother's corpse.
+1	no	no	PART	_	_	_	_	_	AlignBegin=70930|AlignEnd=71433|GE=[NEG]|Gloss=NEG|nWord=1|RX=[VERBPRT]
+2	,		_	_	_	_	_	_	AlignBegin=71433|AlignEnd=71936|nWord=2
+3	che	che	PRON	_	_	_	_	_	AlignBegin=71936|AlignEnd=72439|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
+4	me	me	PART	_	_	_	_	_	AlignBegin=72439|AlignEnd=72942|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
+5	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=72942|AlignEnd=73194|GE=go|Gloss=go|nWord=5|RX=[V]
+6	kali	kali	PART	_	_	_	_	_	AlignBegin=73194|AlignEnd=73445|GE=want|Gloss=want|nWord=5|RX=[VERBPRT]
+7	lengale	lengale	ADV	_	_	_	_	_	AlignBegin=73445|AlignEnd=73948|GE=evil|Gloss=evil|nWord=6|RX=[ADV]
+8	,		_	_	_	_	_	_	AlignBegin=73948|AlignEnd=74450|nWord=7
+9	entonces	entonces	ADV	_	_	_	_	_	AlignBegin=74465|AlignEnd=74841|GE=so|Gloss=so|nWord=8|RX=[ADV]
+10	che	che	PRON	_	_	_	_	_	AlignBegin=74841|AlignEnd=75217|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=9|RX=[PRO]
+11	kle	kle	AUX	_	_	_	_	_	AlignBegin=75217|AlignEnd=75593|GE=be|Gloss=be|nWord=10|RX=[V]
+12	oinda	oinda	NOUN	_	_	_	_	_	AlignBegin=75593|AlignEnd=75969|GE=food_type|Gloss=food_type|nWord=11|RX=[N]
+13	gut	gut	VERB	_	_	14	comp:aux/m	_	AlignBegin=75969|AlignEnd=76157|GE=eat|Gloss=eat|nWord=12|RX=[V]
+14	-e		AUX	_	_	11	comp:aux	_	AlignBegin=76157|AlignEnd=76345|GE=[THM]|Gloss=-THM|nWord=12|RX=[V:ANY]
+15	daba	daba	NOUN	_	_	_	_	_	AlignBegin=76345|AlignEnd=76721|GE=brother|Gloss=brother|nWord=13|RX=[N]
+16	dra	dra	NOUN	_	_	17	comp	_	AlignBegin=76721|AlignEnd=77097|GE=corpse|Gloss=corpse|nWord=14|RX=[N]
+17	dike	dike	ADP	_	_	_	_	_	AlignBegin=77097|AlignEnd=77473|GE=[INST]|Gloss=INST|nWord=15|RX=[ADP]
+18	.		.	_	_	_	_	_	AlignBegin=77473|AlignEnd=77845|Gloss=.|nWord=16
+

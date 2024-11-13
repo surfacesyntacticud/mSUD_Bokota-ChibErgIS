@@ -1,0 +1,311 @@
+# sent_id = SAB-TXT-LS-00000-10_01-01
+# speaker_id = @10
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-10.WAV/WAV/SAB-TXT-LS-00000-10.WAV
+# sent_timecode = 5710, 10990
+# morphemic_text = cha honingke cha chi -e -bale ...
+# text = cha honingke cha chiebale ...
+# text_en =  First I was born,
+1	cha	cha	PRON	_	_	_	_	_	AlignBegin=5710|AlignEnd=6766|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	honingke	honingke	ADV	_	_	_	_	_	AlignBegin=6766|AlignEnd=7822|GE=first|Gloss=first|nWord=2|RX=[ADV]
+3	cha	cha	PRON	_	_	_	_	_	AlignBegin=7822|AlignEnd=8878|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
+4	chi	chi	VERB	_	_	5	comp:aux/m	_	AlignBegin=8878|AlignEnd=9230|GE=come|Gloss=come|nWord=4|RX=[V]
+5	-e		AUX	_	_	6	comp:aux/m	_	AlignBegin=9230|AlignEnd=9582|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+6	-bale		AUX	_	_	_	_	_	AlignBegin=9582|AlignEnd=9934|GE=[PART]|Gloss=-PART|nWord=4|RX=[V:ANY]
+7	...		_	_	_	_	_	_	AlignBegin=9934|AlignEnd=10990|nWord=5
+
+# sent_id = SAB-TXT-LS-00000-10_02-05
+# speaker_id = @10
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-10.WAV/WAV/SAB-TXT-LS-00000-10.WAV
+# sent_timecode = 11025, 30240
+# morphemic_text = cha gwo skienga -d- -u , cha chebi -a cha manan -d- -u , vierne santo kweri -a chui iake , quince de semana ai ke semana santa kweri -a chui iake .
+# text = cha gwo skiendu , cha chebia cha manandu , vierne santo kweria chui iake , quince de semana ai ke semana santa kweria chui iake .
+# text_en =  I opened my eyes, my mother gave birth to me, on the day of sacred friday, on the 15th on the sacred week.
+1	cha	cha	PRON	_	_	_	_	_	AlignBegin=11025|AlignEnd=11453|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	gwo	gwo	NOUN	_	_	_	_	_	AlignBegin=11453|AlignEnd=11881|GE=eye|Gloss=eye|nWord=2|RX=[N]
+3	skienga	skienga	VERB	_	_	4	comp:aux/m	_	AlignBegin=11881|AlignEnd=12024|GE=[open].[NPST]|Gloss=open.NPST|nWord=3|RX=[V]
+4	-d-		AUX	_	_	5	comp:aux/m	_	AlignBegin=12024|AlignEnd=12167|GE=[0]|Gloss=-0-|nWord=3|RX=[VERB]
+5	-u		AUX	_	_	_	_	_	AlignBegin=12167|AlignEnd=12309|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
+6	,		_	_	_	_	_	_	AlignBegin=12309|AlignEnd=12735|nWord=4
+7	cha	cha	PRON	_	_	_	_	_	AlignBegin=13235|AlignEnd=13699|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
+8	chebi	chebi	NOUN	_	_	9	comp:aux/m	_	AlignBegin=13699|AlignEnd=13931|GE=mother|Gloss=mother|nWord=6|RX=[N]
+9	-a		AUX	_	_	_	_	_	AlignBegin=13931|AlignEnd=14163|GE=[POSS]|Gloss=-POSS|nWord=6|RX=[N:ANY]
+10	cha	cha	PRON	_	_	_	_	_	AlignBegin=14163|AlignEnd=14627|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
+11	manan	manan	VERB	_	_	12	comp:aux/m	_	AlignBegin=14627|AlignEnd=14782|GE=give_birth|Gloss=give_birth|nWord=8|RX=[V]
+12	-d-		AUX	_	_	13	comp:aux/m	_	AlignBegin=14782|AlignEnd=14937|GE=[0]|Gloss=-0-|nWord=8|RX=[VERB]
+13	-u		AUX	_	_	_	_	_	AlignBegin=14937|AlignEnd=15091|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]
+14	,		_	_	_	_	_	_	AlignBegin=15091|AlignEnd=15555|nWord=9
+15	vierne	vierne	NOUN	_	_	_	_	_	AlignBegin=17490|AlignEnd=18082|GE=friday|Gloss=friday|nWord=10|RX=[N]
+16	santo	santo	ADJ	_	_	15	mod	_	AlignBegin=18082|AlignEnd=18674|GE=sacred|Gloss=sacred|nWord=11|RX=[ADJ]
+17	kweri	kweri	ADJ	_	_	18	comp:aux/m	_	AlignBegin=18674|AlignEnd=18970|GE=big|Gloss=big|nWord=12|RX=[ADJ]
+18	-a		X	_	_	_	_	_	AlignBegin=18970|AlignEnd=19266|GE=[0]|Gloss=-0|nWord=12|RX=[NOUN]
+19	chui	chui	NOUN	_	_	_	_	_	AlignBegin=19266|AlignEnd=19858|GE=sun|Gloss=sun|nWord=13|RX=[N]
+20	iake	iake	ADJ	_	_	19	mod	_	AlignBegin=19858|AlignEnd=20450|GE=ancient|Gloss=ancient|nWord=14|RX=[ADJ]
+21	,		_	_	_	_	_	_	AlignBegin=20450|AlignEnd=21040|nWord=15
+22	quince	quince	NUM	_	_	_	_	_	AlignBegin=24010|AlignEnd=24576|GE=fifteen|Gloss=fifteen|nWord=16|RX=[NUM]
+23	de	de	ADP	_	_	_	_	_	AlignBegin=24576|AlignEnd=25142|GE=from|Gloss=from|nWord=17|RX=[ADP]
+24	semana	semana	NOUN	_	_	_	_	_	AlignBegin=25142|AlignEnd=25708|GE=week|Gloss=week|nWord=18|RX=[N]
+25	ai	ai	ADV	_	_	_	_	_	AlignBegin=25708|AlignEnd=26274|GE=here|Gloss=here|nWord=19|RX=[ADV]
+26	ke	ke	ADP	_	_	_	_	_	AlignBegin=26274|AlignEnd=26840|GE=[LOC]|Gloss=LOC|nWord=20|RX=[ADP]
+27	semana	semana	NOUN	_	_	_	_	_	AlignBegin=26840|AlignEnd=27406|GE=week|Gloss=week|nWord=21|RX=[N]
+28	santa	santa	ADJ	_	_	27	mod	_	AlignBegin=27406|AlignEnd=27972|GE=sacred|Gloss=sacred|nWord=22|RX=[ADJ]
+29	kweri	kweri	ADJ	_	_	30	comp:aux/m	_	AlignBegin=27972|AlignEnd=28255|GE=big|Gloss=big|nWord=23|RX=[ADJ]
+30	-a		X	_	_	_	_	_	AlignBegin=28255|AlignEnd=28538|GE=[0]|Gloss=-0|nWord=23|RX=[NOUN]
+31	chui	chui	NOUN	_	_	_	_	_	AlignBegin=28538|AlignEnd=29104|GE=sun|Gloss=sun|nWord=24|RX=[N]
+32	iake	iake	ADJ	_	_	31	mod	_	AlignBegin=29104|AlignEnd=29670|GE=ancient|Gloss=ancient|nWord=25|RX=[ADJ]
+33	.		.	_	_	_	_	_	AlignBegin=29670|AlignEnd=30240|Gloss=.|nWord=26
+
+# sent_id = SAB-TXT-LS-00000-10_06-08
+# speaker_id = @10
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-10.WAV/WAV/SAB-TXT-LS-00000-10.WAV
+# sent_timecode = 30700, 39605
+# morphemic_text = y cha chi -u tik -e huma -le , hasta que cha chk -e -bale drasa ya , hoke hombre .
+# text = y cha chiu tike humale , ata que cha chkebale drasa ya , hoke hombre .
+# text_en =  Then I grew old, until I became a man. (I) became a man.
+1	y	y	COORDCONN	_	_	_	_	_	AlignBegin=30700|AlignEnd=31211|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+2	cha	cha	PRON	_	_	3	subj	_	AlignBegin=31211|AlignEnd=31722|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	chi	chi	VERB	_	_	4	comp:aux/m	_	AlignBegin=31722|AlignEnd=31978|GE=come|Gloss=come|nWord=3|RX=[V]
+4	-u		AUX	_	_	_	_	_	AlignBegin=31978|AlignEnd=32233|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
+5	tik	tik	VERB	_	_	6	comp:aux/m	_	AlignBegin=32233|AlignEnd=32489|GE=grow|Gloss=grow|nWord=4|RX=[V]
+6	-e		AUX	_	_	_	_	_	AlignBegin=32489|AlignEnd=32744|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+7	huma	huma	ADJ	_	_	8	comp:aux/m	_	AlignBegin=32744|AlignEnd=33000|GE=old|Gloss=old|nWord=5|RX=[ADJ]
+8	-le		AUX	_	_	_	_	_	AlignBegin=33000|AlignEnd=33255|GE=[ADJZ]|Gloss=-ADJZ|nWord=5|RX=[N>ADJ]
+9	,		_	_	_	_	_	_	AlignBegin=33255|AlignEnd=33765|nWord=6
+10	hasta	hasta	ADP	_	_	_	_	_	AlignBegin=33765|AlignEnd=34404|GE=to|Gloss=to|nWord=7|RX=[ADP]
+11	que	que	PRON	_	_	_	_	_	AlignBegin=34404|AlignEnd=35043|GE=that|Gloss=that|nWord=8|RX=[PRO]
+12	cha	cha	PRON	_	_	_	_	_	AlignBegin=35043|AlignEnd=35682|GE=[1SG]|Gloss=1SG|nWord=9|RX=[PRO]
+13	chk	chk	VERB	_	_	14	comp:aux/m	_	AlignBegin=35682|AlignEnd=35895|GE=arrive|Gloss=arrive|nWord=10|RX=[V]
+14	-e		AUX	_	_	15	comp:aux/m	_	AlignBegin=35895|AlignEnd=36108|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
+15	-bale		AUX	_	_	_	_	_	AlignBegin=36108|AlignEnd=36321|GE=[PART]|Gloss=-PART|nWord=10|RX=[V:ANY]
+16	drasa	drasa	NOUN	_	_	_	_	_	AlignBegin=36321|AlignEnd=36960|GE=adult|Gloss=adult|nWord=11|RX=[N]
+17	ya	ya	ADV	_	_	_	_	_	AlignBegin=36960|AlignEnd=37599|GE=now|Gloss=now|nWord=12|RX=[ADV]
+18	,		_	_	_	_	_	_	AlignBegin=37599|AlignEnd=38235|nWord=13
+19	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=38265|AlignEnd=38712|GE=go|Gloss=go|nWord=14|RX=[V]
+20	hombre	hombre	ADJ	_	_	_	_	_	AlignBegin=38712|AlignEnd=39159|GE=male|Gloss=male|nWord=15|RX=[ADJ]
+21	.		.	_	_	_	_	_	AlignBegin=39159|AlignEnd=39605|Gloss=.|nWord=16
+
+# sent_id = SAB-TXT-LS-00000-10_09-09
+# speaker_id = @10
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-10.WAV/WAV/SAB-TXT-LS-00000-10.WAV
+# sent_timecode = 39900, 46370
+# morphemic_text = entonces de ahi nengke giti cocinera chk -e -ba cha ko ke .
+# text = entonces de ahi nengke giti cocinera chkeba cha ko ke .
+# text_en =  So from this day my wife came in my life.
+1	entonces	entonces	ADV	_	_	_	_	_	AlignBegin=39900|AlignEnd=40488|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	de	de	ADP	_	_	_	_	_	AlignBegin=40488|AlignEnd=41076|GE=from|Gloss=from|nWord=2|RX=[ADP]
+3	ahi	ahi	ADV	_	_	_	_	_	AlignBegin=41076|AlignEnd=41664|GE=there|Gloss=there|nWord=3|RX=[ADV]
+4	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=41664|AlignEnd=42252|GE=today|Gloss=today|nWord=4|RX=[ADV]
+5	giti	giti	ADP	_	_	_	_	_	AlignBegin=42252|AlignEnd=42840|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
+6	cocinera	cocinera	NOUN	_	_	_	_	_	AlignBegin=42840|AlignEnd=43428|GE=wife|Gloss=wife|nWord=6|RX=[N]
+7	chk	chk	VERB	_	_	8	comp:aux/m	_	AlignBegin=43428|AlignEnd=43624|GE=arrive|Gloss=arrive|nWord=7|RX=[V]
+8	-e		AUX	_	_	9	comp:aux/m	_	AlignBegin=43624|AlignEnd=43820|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
+9	-ba		AUX	_	_	_	_	_	AlignBegin=43820|AlignEnd=44016|GE=iprf|Gloss=iprf|nWord=7|RX=[V:ANY]
+10	cha	cha	PRON	_	_	_	_	_	AlignBegin=44016|AlignEnd=44604|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
+11	ko	ko	NOUN	_	_	12	comp	_	AlignBegin=44604|AlignEnd=45192|GE=hand|Gloss=hand|nWord=9|RX=[N]
+12	ke	ke	ADP	_	_	_	_	_	AlignBegin=45192|AlignEnd=45780|GE=[LOC]|Gloss=LOC|nWord=10|RX=[ADP]
+13	.		.	_	_	_	_	_	AlignBegin=45780|AlignEnd=46370|Gloss=.|nWord=11
+
+# sent_id = SAB-TXT-LS-00000-10_10-10
+# speaker_id = @10
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-10.WAV/WAV/SAB-TXT-LS-00000-10.WAV
+# sent_timecode = 46560, 50750
+# morphemic_text = y nglenga bek -a -ba cha dike .
+# text = y nglenga bekaba cha dike .
+# text_en =  And someone put a curse on me.
+1	y	y	COORDCONN	_	_	_	_	_	AlignBegin=46560|AlignEnd=47258|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+2	nglenga	nglenga	NOUN	_	_	_	_	_	AlignBegin=47258|AlignEnd=47956|GE=curse|Gloss=curse|nWord=2|RX=[N]
+3	bek	bek	VERB	_	_	4	comp:aux/m	_	AlignBegin=47956|AlignEnd=48189|GE=put|Gloss=put|nWord=3|RX=[V]
+4	-a		X	_	_	5	comp:aux/m	_	AlignBegin=48189|AlignEnd=48422|GE=[0]|Gloss=-0|nWord=3|RX=[VERB]
+5	-ba		AUX	_	_	_	_	_	AlignBegin=48422|AlignEnd=48654|GE=iprf|Gloss=iprf|nWord=3|RX=[V:ANY]
+6	cha	cha	PRON	_	_	7	comp	_	AlignBegin=48654|AlignEnd=49352|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
+7	dike	dike	ADP	_	_	_	_	_	AlignBegin=49352|AlignEnd=50050|GE=[INST]|Gloss=INST|nWord=5|RX=[ADP]
+8	.		.	_	_	_	_	_	AlignBegin=50050|AlignEnd=50750|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-LS-00000-10_11-11
+# speaker_id = @10
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-10.WAV/WAV/SAB-TXT-LS-00000-10.WAV
+# sent_timecode = 51020, 53110
+# morphemic_text = ahora cha esta oka .
+# text = ahora cha ta oka .
+# text_en =  Now I am ill.
+1	ahora	ahora	ADV	_	_	_	_	_	AlignBegin=51020|AlignEnd=51438|GE=now|Gloss=now|nWord=1|RX=[ADV]
+2	cha	cha	PRON	_	_	_	_	_	AlignBegin=51438|AlignEnd=51856|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	esta	esta	VERB	_	_	_	_	_	AlignBegin=51856|AlignEnd=52274|GE=be|Gloss=be|nWord=3|RX=[V]
+4	oka	oka	VERB	_	_	_	_	_	AlignBegin=52274|AlignEnd=52692|GE=ill|Gloss=ill|nWord=4|RX=[V]
+5	.		.	_	_	_	_	_	AlignBegin=52692|AlignEnd=53110|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-LS-00000-10_12-12
+# speaker_id = @10
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-10.WAV/WAV/SAB-TXT-LS-00000-10.WAV
+# sent_timecode = 57610, 59140
+# morphemic_text = cha kira chk -e -ba nante .
+# text = cha kira chkeba nante .
+# text_en =  My strenth is coming back.
+1	cha	cha	PRON	_	_	_	_	_	AlignBegin=57610|AlignEnd=57916|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kira	kira	NOUN	_	_	_	_	_	AlignBegin=57916|AlignEnd=58222|GE=strenth|Gloss=strenth|nWord=2|RX=[N]
+3	chk	chk	VERB	_	_	4	comp:aux/m	_	AlignBegin=58222|AlignEnd=58324|GE=arrive|Gloss=arrive|nWord=3|RX=[V]
+4	-e		AUX	_	_	5	comp:aux/m	_	AlignBegin=58324|AlignEnd=58426|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+5	-ba		AUX	_	_	_	_	_	AlignBegin=58426|AlignEnd=58528|GE=iprf|Gloss=iprf|nWord=3|RX=[V:ANY]
+6	nante	nante	ADP	_	_	_	_	_	AlignBegin=58528|AlignEnd=58834|GE=directional|Gloss=directional|nWord=4|RX=[ADP]
+7	.		.	_	_	_	_	_	AlignBegin=58834|AlignEnd=59140|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-LS-00000-10_13-17
+# speaker_id = @10
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-10.WAV/WAV/SAB-TXT-LS-00000-10.WAV
+# sent_timecode = 59160, 72815
+# morphemic_text = ya cha oli -a mun -le , kwia baka mung di , kada kle Adan , y cha oli -a kada kle Geraldo , cha oli -a kada kle Urbano y Luciano .
+# text = ya cha olia munle , kwiabaka mung di , kada kle Adan , y cha olia kada kle Geraldo , cha olia kada kle Urbano y Luciano .
+# text_en =  Now I have my kids by my side. Four (kids) by my side. One named Adan, And one son named Geraldo. My sons named Urbano and Luciano.
+1	ya	ya	ADV	_	_	_	_	_	AlignBegin=59160|AlignEnd=59480|GE=now|Gloss=now|nWord=1|RX=[ADV]
+2	cha	cha	PRON	_	_	_	_	_	AlignBegin=59480|AlignEnd=59800|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	oli	oli	NOUN	_	_	4	comp:aux/m	_	AlignBegin=59800|AlignEnd=59960|GE=descendant|Gloss=descendant|nWord=3|RX=[N]
+4	-a		AUX	_	_	_	_	_	AlignBegin=59960|AlignEnd=60120|GE=[POSS]|Gloss=-POSS|nWord=3|RX=[N:ANY]
+5	mun	mun	PART	_	_	6	comp:aux/m	_	AlignBegin=60120|AlignEnd=60280|GE=[REFL]|Gloss=REFL|nWord=4|RX=[VERBPRT]
+6	-le		AUX	_	_	_	_	_	AlignBegin=60280|AlignEnd=60440|GE=[ADJZ]|Gloss=-ADJZ|nWord=4|RX=[N>ADJ]
+7	,		_	_	_	_	_	_	AlignBegin=60440|AlignEnd=60760|nWord=5
+8	kwia	kwia	NOUN	_	_	_	_	_	AlignBegin=61025|AlignEnd=61235|GE=people|Gloss=people|nWord=6|RX=[N]
+9	baka	baka	NOUN	_	_	_	_	_	AlignBegin=61235|AlignEnd=61445|GE=four|Gloss=four|nWord=6|RX=[N]
+10	mung	mung	PART	_	_	_	_	_	AlignBegin=61445|AlignEnd=61865|GE=[REFL]|Gloss=REFL|nWord=7|RX=[VERBPRT]
+11	di	di	ADP	_	_	_	_	_	AlignBegin=61865|AlignEnd=62285|GE=[INST]|Gloss=INST|nWord=8|RX=[ADP]
+12	,		_	_	_	_	_	_	AlignBegin=62285|AlignEnd=62705|nWord=9
+13	kada	kada	NOUN	_	_	_	_	_	AlignBegin=62920|AlignEnd=63342|GE=name|Gloss=name|nWord=10|RX=[N]
+14	kle	kle	AUX	_	_	_	_	_	AlignBegin=63342|AlignEnd=63764|GE=be|Gloss=be|nWord=11|RX=[V]
+15	Adan	Adan	PROPN	_	_	_	_	_	AlignBegin=63764|AlignEnd=64186|GE=[Adan]|Gloss=Adan|nWord=12|RX=[NPROP]
+16	,		_	_	_	_	_	_	AlignBegin=64186|AlignEnd=64610|nWord=13
+17	y	y	COORDCONN	_	_	_	_	_	AlignBegin=65070|AlignEnd=65568|GE=and|Gloss=and|nWord=14|RX=[COORDCONN]
+18	cha	cha	PRON	_	_	_	_	_	AlignBegin=65568|AlignEnd=66066|GE=[1SG]|Gloss=1SG|nWord=15|RX=[PRO]
+19	oli	oli	NOUN	_	_	20	comp:aux/m	_	AlignBegin=66066|AlignEnd=66315|GE=descendant|Gloss=descendant|nWord=16|RX=[N]
+20	-a		AUX	_	_	_	_	_	AlignBegin=66315|AlignEnd=66564|GE=[POSS]|Gloss=-POSS|nWord=16|RX=[N:ANY]
+21	kada	kada	NOUN	_	_	_	_	_	AlignBegin=66564|AlignEnd=67062|GE=name|Gloss=name|nWord=17|RX=[N]
+22	kle	kle	AUX	_	_	_	_	_	AlignBegin=67062|AlignEnd=67560|GE=be|Gloss=be|nWord=18|RX=[V]
+23	Geraldo	Geraldo	PROPN	_	_	_	_	_	AlignBegin=67560|AlignEnd=68058|GE=[Geraldo]|Gloss=Geraldo|nWord=19|RX=[NPROP]
+24	,		_	_	_	_	_	_	AlignBegin=68058|AlignEnd=68555|nWord=20
+25	cha	cha	PRON	_	_	_	_	_	AlignBegin=68555|AlignEnd=69087|GE=[1SG]|Gloss=1SG|nWord=21|RX=[PRO]
+26	oli	oli	NOUN	_	_	27	comp:aux/m	_	AlignBegin=69087|AlignEnd=69353|GE=descendant|Gloss=descendant|nWord=22|RX=[N]
+27	-a		AUX	_	_	_	_	_	AlignBegin=69353|AlignEnd=69619|GE=[POSS]|Gloss=-POSS|nWord=22|RX=[N:ANY]
+28	kada	kada	NOUN	_	_	_	_	_	AlignBegin=69619|AlignEnd=70151|GE=name|Gloss=name|nWord=23|RX=[N]
+29	kle	kle	AUX	_	_	_	_	_	AlignBegin=70151|AlignEnd=70683|GE=be|Gloss=be|nWord=24|RX=[V]
+30	Urbano	Urbano	PROPN	_	_	_	_	_	AlignBegin=70683|AlignEnd=71215|GE=[Urbano]|Gloss=Urbano|nWord=25|RX=[NPROP]
+31	y	y	COORDCONN	_	_	_	_	_	AlignBegin=71215|AlignEnd=71747|GE=and|Gloss=and|nWord=26|RX=[COORDCONN]
+32	Luciano	Luciano	PROPN	_	_	_	_	_	AlignBegin=71747|AlignEnd=72279|GE=[Luciano]|Gloss=Luciano|nWord=27|RX=[NPROP]
+33	.		.	_	_	_	_	_	AlignBegin=72279|AlignEnd=72815|Gloss=.|nWord=28
+
+# sent_id = SAB-TXT-LS-00000-10_18-18
+# speaker_id = @10
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-10.WAV/WAV/SAB-TXT-LS-00000-10.WAV
+# sent_timecode = 73920, 75800
+# morphemic_text = ese chk -e -ba ya cha hue nante .
+# text = ese chkeba ya cha hue nante .
+# text_en =  These are now getting to my height.
+1	ese	ese	PRON	_	_	_	_	_	AlignBegin=73920|AlignEnd=74189|GE=that|Gloss=that|nWord=1|RX=[PRO]
+2	chk	chk	VERB	_	_	3	comp:aux/m	_	AlignBegin=74189|AlignEnd=74279|GE=arrive|Gloss=arrive|nWord=2|RX=[V]
+3	-e		AUX	_	_	4	comp:aux/m	_	AlignBegin=74279|AlignEnd=74369|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	-ba		AUX	_	_	_	_	_	AlignBegin=74369|AlignEnd=74458|GE=iprf|Gloss=iprf|nWord=2|RX=[V:ANY]
+5	ya	ya	ADV	_	_	_	_	_	AlignBegin=74458|AlignEnd=74727|GE=now|Gloss=now|nWord=3|RX=[ADV]
+6	cha	cha	PRON	_	_	_	_	_	AlignBegin=74727|AlignEnd=74996|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
+7	hue	hue	VERB	_	_	_	_	_	AlignBegin=74996|AlignEnd=75265|GE=[find].[NPST]|Gloss=find.NPST|nWord=5|RX=[V]
+8	nante	nante	ADP	_	_	_	_	_	AlignBegin=75265|AlignEnd=75534|GE=directional|Gloss=directional|nWord=6|RX=[ADP]
+9	.		.	_	_	_	_	_	AlignBegin=75534|AlignEnd=75800|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-LS-00000-10_19-19
+# speaker_id = @10
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-10.WAV/WAV/SAB-TXT-LS-00000-10.WAV
+# sent_timecode = 75810, 77560
+# morphemic_text = ya esta hombre cha dike .
+# text = ya ta hombre cha dike .
+# text_en =  Now they are men like me.
+1	ya	ya	ADV	_	_	_	_	_	AlignBegin=75810|AlignEnd=76102|GE=now|Gloss=now|nWord=1|RX=[ADV]
+2	esta	esta	VERB	_	_	_	_	_	AlignBegin=76102|AlignEnd=76394|GE=be|Gloss=be|nWord=2|RX=[V]
+3	hombre	hombre	ADJ	_	_	_	_	_	AlignBegin=76394|AlignEnd=76686|GE=male|Gloss=male|nWord=3|RX=[ADJ]
+4	cha	cha	PRON	_	_	5	comp	_	AlignBegin=76686|AlignEnd=76978|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
+5	dike	dike	ADP	_	_	_	_	_	AlignBegin=76978|AlignEnd=77270|GE=[INST]|Gloss=INST|nWord=5|RX=[ADP]
+6	.		.	_	_	_	_	_	AlignBegin=77270|AlignEnd=77560|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-LS-00000-10_20-20
+# speaker_id = @10
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-10.WAV/WAV/SAB-TXT-LS-00000-10.WAV
+# sent_timecode = 78630, 82350
+# morphemic_text = bueno gracia que cha chk -e -bale mung kira bek -e .
+# text = bueno gracia que cha chkebale mung kira beke .
+# text_en =  I am thankfull that now my strengh is coming back.
+1	bueno	bueno	ADJ	_	_	_	_	_	AlignBegin=78630|AlignEnd=79043|GE=good|Gloss=good|nWord=1|RX=[ADJ]
+2	gracia	gracia	NOUN	_	_	_	_	_	AlignBegin=79043|AlignEnd=79456|GE=thank|Gloss=thank|nWord=2|RX=[N]
+3	que	que	PRON	_	_	_	_	_	AlignBegin=79456|AlignEnd=79869|GE=that|Gloss=that|nWord=3|RX=[PRO]
+4	cha	cha	PRON	_	_	_	_	_	AlignBegin=79869|AlignEnd=80282|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
+5	chk	chk	VERB	_	_	6	comp:aux/m	_	AlignBegin=80282|AlignEnd=80420|GE=arrive|Gloss=arrive|nWord=5|RX=[V]
+6	-e		AUX	_	_	7	comp:aux/m	_	AlignBegin=80420|AlignEnd=80558|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	-bale		AUX	_	_	_	_	_	AlignBegin=80558|AlignEnd=80695|GE=[PART]|Gloss=-PART|nWord=5|RX=[V:ANY]
+8	mung	mung	PART	_	_	_	_	_	AlignBegin=80695|AlignEnd=81108|GE=[REFL]|Gloss=REFL|nWord=6|RX=[VERBPRT]
+9	kira	kira	NOUN	_	_	_	_	_	AlignBegin=81108|AlignEnd=81521|GE=strenth|Gloss=strenth|nWord=7|RX=[N]
+10	bek	bek	VERB	_	_	11	comp:aux/m	_	AlignBegin=81521|AlignEnd=81727|GE=put|Gloss=put|nWord=8|RX=[V]
+11	-e		AUX	_	_	_	_	_	AlignBegin=81727|AlignEnd=81934|GE=[THM]|Gloss=-THM|nWord=8|RX=[V:ANY]
+12	.		.	_	_	_	_	_	AlignBegin=81934|AlignEnd=82350|Gloss=.|nWord=9
+
+# sent_id = SAB-TXT-LS-00000-10_21-21
+# speaker_id = @10
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-10.WAV/WAV/SAB-TXT-LS-00000-10.WAV
+# sent_timecode = 82350, 84020
+# morphemic_text = nengke ya hombre grande .
+# text = nengke ya hombre grande .
+# text_en =  Now my sons are adults.
+1	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=82350|AlignEnd=82684|GE=today|Gloss=today|nWord=1|RX=[ADV]
+2	ya	ya	ADV	_	_	_	_	_	AlignBegin=82684|AlignEnd=83018|GE=now|Gloss=now|nWord=2|RX=[ADV]
+3	hombre	hombre	ADJ	_	_	_	_	_	AlignBegin=83018|AlignEnd=83352|GE=male|Gloss=male|nWord=3|RX=[ADJ]
+4	grande	grande	ADJ	_	_	_	_	_	AlignBegin=83352|AlignEnd=83686|GE=big|Gloss=big|nWord=4|RX=[ADJ]
+5	.		.	_	_	_	_	_	AlignBegin=83686|AlignEnd=84020|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-LS-00000-10_22-22
+# speaker_id = @10
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-10.WAV/WAV/SAB-TXT-LS-00000-10.WAV
+# sent_timecode = 84275, 87115
+# morphemic_text = y cha kle chage geru dike .
+# text = y cha kle chage geru dike .
+# text_en =  And I can go to tell the stories.
+1	y	y	COORDCONN	_	_	_	_	_	AlignBegin=84275|AlignEnd=84681|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+2	cha	cha	PRON	_	_	4	subj	_	AlignBegin=84681|AlignEnd=85087|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	kle	kle	AUX	_	_	_	_	_	AlignBegin=85087|AlignEnd=85493|GE=be|Gloss=be|nWord=3|RX=[V]
+4	chage	chage	VERB	_	_	3	comp:aux	_	AlignBegin=85493|AlignEnd=85899|GE=walk|Gloss=walk|nWord=4|RX=[V]
+5	geru	geru	NOUN	_	_	6	comp	_	AlignBegin=85899|AlignEnd=86305|GE=story|Gloss=story|nWord=5|RX=[N]
+6	dike	dike	ADP	_	_	_	_	_	AlignBegin=86305|AlignEnd=86711|GE=[INST]|Gloss=INST|nWord=6|RX=[ADP]
+7	.		.	_	_	_	_	_	AlignBegin=86711|AlignEnd=87115|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-LS-00000-10_23-26
+# speaker_id = @10
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-10.WAV/WAV/SAB-TXT-LS-00000-10.WAV
+# sent_timecode = 87600, 98055
+# morphemic_text = cha kle chage daba salebli ole , pero me no -dale , sino cha kle chage oka , ske tengkle oka , pero cha kle chage daba salebli ole kiro gwa ole .
+# text = cha kle chage daba salebli ole , pero me no dale , sino cha kle chage oka , sketengkle oka , pero cha kle chage daba salebli ole kirogwa ole .
+# text_en =  I can go with my friends. But not well. But I go being ill, I cross (rivers) being ill. But I can walk with my friends and ms kids.
+1	cha	cha	PRON	_	_	_	_	_	AlignBegin=87600|AlignEnd=87897|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	_	_	_	AlignBegin=87897|AlignEnd=88194|GE=be|Gloss=be|nWord=2|RX=[V]
+3	chage	chage	VERB	_	_	2	comp:aux	_	AlignBegin=88194|AlignEnd=88491|GE=walk|Gloss=walk|nWord=3|RX=[V]
+4	daba	daba	NOUN	_	_	_	_	_	AlignBegin=88491|AlignEnd=88788|GE=brother|Gloss=brother|nWord=4|RX=[N]
+5	salebli	salebli	ADJ	_	_	4	mod	_	AlignBegin=88788|AlignEnd=89085|GE=different|Gloss=different|nWord=5|RX=[ADJ]
+6	ole	ole	ADP	_	_	_	_	_	AlignBegin=89085|AlignEnd=89382|GE=[COM]|Gloss=COM|nWord=6|RX=[ADP]
+7	,		_	_	_	_	_	_	AlignBegin=89382|AlignEnd=89680|nWord=7
+8	pero	pero	COORDCONN	_	_	_	_	_	AlignBegin=90335|AlignEnd=90625|GE=but|Gloss=but|nWord=8|RX=[COORDCONN]
+9	me	me	PART	_	_	_	_	_	AlignBegin=90625|AlignEnd=90915|GE=[NEG]|Gloss=NEG|nWord=9|RX=[VERBPRT]
+10	no	no	ADV	_	_	11	comp:aux/m	_	AlignBegin=90915|AlignEnd=91205|GE=well|Gloss=well|nWord=10|RX=[ADV]
+11	-dale		AUX	_	_	_	_	_	AlignBegin=91205|AlignEnd=91495|GE=[IRR]|Gloss=-IRR|nWord=11|RX=[V:ANY]
+12	,		_	_	_	_	_	_	AlignBegin=91495|AlignEnd=91785|nWord=12
+13	sino	sino	CONN	_	_	_	_	_	AlignBegin=91815|AlignEnd=92085|GE=otherwise|Gloss=otherwise|nWord=13|RX=[CONN]
+14	cha	cha	PRON	_	_	_	_	_	AlignBegin=92085|AlignEnd=92355|GE=[1SG]|Gloss=1SG|nWord=14|RX=[PRO]
+15	kle	kle	AUX	_	_	_	_	_	AlignBegin=92355|AlignEnd=92625|GE=be|Gloss=be|nWord=15|RX=[V]
+16	chage	chage	VERB	_	_	15	comp:aux	_	AlignBegin=92625|AlignEnd=92895|GE=walk|Gloss=walk|nWord=16|RX=[V]
+17	oka	oka	VERB	_	_	_	_	_	AlignBegin=92895|AlignEnd=93165|GE=ill|Gloss=ill|nWord=17|RX=[V]
+18	,		_	_	_	_	_	_	AlignBegin=93165|AlignEnd=93435|nWord=18
+19	ske	ske	ADP	_	_	_	_	_	AlignBegin=93435|AlignEnd=93570|GE=[LOC]|Gloss=LOC|nWord=19|RX=[ADP]
+20	tengkle	tengkle	ADV	_	_	_	_	_	AlignBegin=93570|AlignEnd=93705|GE=through|Gloss=through|nWord=19|RX=[ADV]
+21	oka	oka	VERB	_	_	_	_	_	AlignBegin=93705|AlignEnd=93975|GE=ill|Gloss=ill|nWord=20|RX=[V]
+22	,		_	_	_	_	_	_	AlignBegin=93975|AlignEnd=94245|nWord=21
+23	pero	pero	COORDCONN	_	_	_	_	_	AlignBegin=94265|AlignEnd=94644|GE=but|Gloss=but|nWord=22|RX=[COORDCONN]
+24	cha	cha	PRON	_	_	_	_	_	AlignBegin=94644|AlignEnd=95023|GE=[1SG]|Gloss=1SG|nWord=23|RX=[PRO]
+25	kle	kle	AUX	_	_	_	_	_	AlignBegin=95023|AlignEnd=95402|GE=be|Gloss=be|nWord=24|RX=[V]
+26	chage	chage	VERB	_	_	25	comp:aux	_	AlignBegin=95402|AlignEnd=95781|GE=walk|Gloss=walk|nWord=25|RX=[V]
+27	daba	daba	NOUN	_	_	_	_	_	AlignBegin=95781|AlignEnd=96160|GE=brother|Gloss=brother|nWord=26|RX=[N]
+28	salebli	salebli	ADJ	_	_	27	mod	_	AlignBegin=96160|AlignEnd=96539|GE=different|Gloss=different|nWord=27|RX=[ADJ]
+29	ole	ole	ADP	_	_	_	_	_	AlignBegin=96539|AlignEnd=96918|GE=[COM]|Gloss=COM|nWord=28|RX=[ADP]
+30	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=96918|AlignEnd=97108|GE=child|Gloss=child|nWord=29|RX=[N]
+31	gwa	gwa	_	_	_	_	_	_	AlignBegin=97108|AlignEnd=97297|nWord=29
+32	ole	ole	ADP	_	_	_	_	_	AlignBegin=97297|AlignEnd=97676|GE=[COM]|Gloss=COM|nWord=30|RX=[ADP]
+33	.		.	_	_	_	_	_	AlignBegin=97676|AlignEnd=98055|Gloss=.|nWord=31
+
