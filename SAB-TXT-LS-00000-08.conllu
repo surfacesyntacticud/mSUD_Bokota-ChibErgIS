@@ -4,7 +4,7 @@
 # sent_timecode = 13670, 19375
 # morphemic_text = cha ho huma cha moho muinga ole
 # text = cha ho huma , cha moho muinga ole .
-# text_en =  When I became old, I married a woman.
+# text_en = When I became old, I married a woman.
 1	cha	cha	PRON	_	_	_	_	_	AlignBegin=13670|AlignEnd=14135|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	ho	ho	VERB	_	_	_	_	_	AlignBegin=14135|AlignEnd=14600|GE=[go].[PST]|Gloss=go.PST|nWord=2|RX=[V]
 3	huma	huma	ADJ	_	_	_	_	_	AlignBegin=14600|AlignEnd=15065|GE=old|Gloss=old|nWord=3|RX=[ADJ]
@@ -19,7 +19,7 @@
 # sent_timecode = 19875, 21725
 # morphemic_text = cha moho muinga ole
 # text = cha moho muinga ole .
-# text_en =  ‎‎I married a woman.
+# text_en = ‎‎I married a woman.
 1	cha	cha	PRON	_	_	_	_	_	AlignBegin=19875|AlignEnd=20245|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	moho	moho	VERB	_	_	_	_	_	AlignBegin=20245|AlignEnd=20615|GE=marry|Gloss=marry|nWord=2|RX=[V]
 3	muinga	muinga	NOUN	_	_	4	comp	_	AlignBegin=20615|AlignEnd=20985|GE=woman|Gloss=woman|nWord=3|RX=[N]
@@ -31,7 +31,7 @@
 # sent_timecode = 22335, 25645
 # morphemic_text = yo tuvo kiro kwia baka muinga giti
 # text = yo tuvo kiro kwiabaka muinga giti .
-# text_en =  I had four children from this woman.
+# text_en = I had four children from this woman.
 1	yo	yo	PRON	_	_	_	_	_	AlignBegin=22335|AlignEnd=22808|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	tuvo	tuvo	VERB	_	_	_	_	_	AlignBegin=22808|AlignEnd=23281|GE=[have].[PST]|Gloss=have.PST|nWord=2|RX=[V]
 3	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=23281|AlignEnd=23754|GE=child|Gloss=child|nWord=3|RX=[N]
@@ -46,8 +46,8 @@
 # sent_timecode = 26265, 30695
 # morphemic_text = cha kiro -ia cha manan -u hasta ho kweri
 # text = cha kiroia cha mananu , ata ho kweri .
-# text_en =  I took care of my kids, Until they got big.
-1	cha	cha	PRON	_	_	_	_	_	AlignBegin=26265|AlignEnd=26843|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+# text_en = I took care of my kids, Until they got big.
+1	cha	cha	PRON	_	_	3	udep:poss	_	AlignBegin=26265|AlignEnd=26843|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	kiro	kiro	NOUN	_	_	3	comp:aux/m	_	AlignBegin=26843|AlignEnd=27132|GE=child|Gloss=child|nWord=2|RX=[N]
 3	-ia		AUX	_	_	_	_	_	AlignBegin=27132|AlignEnd=27421|GE=[POSS]|Gloss=-POSS|nWord=2|RX=[N:ANY]
 4	cha	cha	PRON	_	_	_	_	_	AlignBegin=27421|AlignEnd=27999|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
@@ -63,7 +63,7 @@
 # sent_timecode = 31550, 35760
 # morphemic_text = y muinga tambien kiro manan -u hasta hoke kweri
 # text = y muinga tambien kiro mananu , ata hoke kweri .
-# text_en =  And my wife also took care of the kids, Until they grew up.
+# text_en = And my wife also took care of the kids, Until they grew up.
 1	y	y	COORDCONN	_	_	_	_	_	AlignBegin=31550|AlignEnd=32048|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
 2	muinga	muinga	NOUN	_	_	_	_	_	AlignBegin=32048|AlignEnd=32546|GE=woman|Gloss=woman|nWord=2|RX=[N]
 3	tambien	tambien	ADV	_	_	_	_	_	AlignBegin=32546|AlignEnd=33044|GE=also|Gloss=also|nWord=3|RX=[ADV]
@@ -80,7 +80,7 @@
 # sent_timecode = 37300, 46900
 # morphemic_text = cha kle toi asi nware cha vida wa- nerku -da chube dwa giti
 # text = cha kle toi asi , nware ( cha vida ) wanerkuda chube dwa giti .
-# text_en =  I live like that. Thankfull for the good things ahead in my life from the god above.
+# text_en = I live like that. Thankfull for the good things ahead in my life from the god above.
 1	cha	cha	PRON	_	_	3	subj	_	AlignBegin=37300|AlignEnd=37718|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=37718|AlignEnd=38136|GE=be|Gloss=be|nWord=2|RX=[V]
 3	toi	toi	VERB	_	_	2	comp:aux	_	AlignBegin=38136|AlignEnd=38554|GE=live|Gloss=live|nWord=3|RX=[V]

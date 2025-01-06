@@ -4,8 +4,8 @@
 # sent_timecode = 8710, 12710
 # morphemic_text = che geru -ia giti che hami hay que u dodad -e .
 # text = che geruia giti che hami hay que u dodade .
-# text_en =  In our story, we, the men, have to make the house.
-1	che	che	PRON	_	_	_	_	_	AlignBegin=8710|AlignEnd=9110|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+# text_en = In our story, we, the men, have to make the house.
+1	che	che	PRON	_	_	3	udep:poss	_	AlignBegin=8710|AlignEnd=9110|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	geru	geru	NOUN	_	_	3	comp:aux/m	_	AlignBegin=9110|AlignEnd=9310|GE=story|Gloss=story|nWord=2|RX=[N]
 3	-ia		AUX	_	_	4	comp	_	AlignBegin=9310|AlignEnd=9510|GE=[POSS]|Gloss=-POSS|nWord=2|RX=[N:ANY]
 4	giti	giti	ADP	_	_	_	_	_	AlignBegin=9510|AlignEnd=9910|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
@@ -16,7 +16,7 @@
 9	u	u	NOUN	_	_	_	_	_	AlignBegin=11510|AlignEnd=11910|GE=house|Gloss=house|nWord=8|RX=[N]
 10	dodad	dodad	VERB	_	_	11	comp:aux/m	_	AlignBegin=11910|AlignEnd=12110|GE=make|Gloss=make|nWord=9|RX=[V]
 11	-e		AUX	_	_	_	_	_	AlignBegin=12110|AlignEnd=12310|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
-12	.		.	_	_	_	_	_	AlignBegin=12310|AlignEnd=12710|Gloss=.|nWord=10
+12	.		PUNCT	_	_	_	_	_	AlignBegin=12310|AlignEnd=12710|Gloss=.|nWord=10
 
 # sent_id = SAB-TXT-HO-00000-07_2-2
 # speaker_id = @07
@@ -24,7 +24,7 @@
 # sent_timecode = 13230, 23367
 # morphemic_text = u doda kali gli giti giska giti gli nware gli tengre giska tengre .
 # text = u dodakali gli giti giska giti gli nware gli tengre giska tengre .
-# text_en =  (One) wants to make he house with trees and rope, good trees, a lot of trees, a lot of ropes.
+# text_en = (One) wants to make he house with trees and rope, good trees, a lot of trees, a lot of ropes.
 1	u	u	NOUN	_	_	_	_	_	AlignBegin=13230|AlignEnd=14010|GE=house|Gloss=house|nWord=1|RX=[N]
 2	doda	doda	VERB	_	_	_	_	_	AlignBegin=14010|AlignEnd=14400|GE=make|Gloss=make|nWord=2|RX=[V]
 3	kali	kali	PART	_	_	_	_	_	AlignBegin=14400|AlignEnd=14790|GE=want|Gloss=want|nWord=2|RX=[VERBPRT]
@@ -38,7 +38,7 @@
 11	tengre	tengre	ADV	_	_	_	_	_	AlignBegin=20250|AlignEnd=21030|GE=a_lot|Gloss=a_lot|nWord=10|RX=[ADV]
 12	giska	giska	NOUN	_	_	_	_	_	AlignBegin=21030|AlignEnd=21810|GE=rope|Gloss=rope|nWord=11|RX=[N]
 13	tengre	tengre	ADV	_	_	_	_	_	AlignBegin=21810|AlignEnd=22590|GE=a_lot|Gloss=a_lot|nWord=12|RX=[ADV]
-14	.		.	_	_	_	_	_	AlignBegin=22590|AlignEnd=23367|Gloss=.|nWord=13
+14	.		PUNCT	_	_	_	_	_	AlignBegin=22590|AlignEnd=23367|Gloss=.|nWord=13
 
 # sent_id = SAB-TXT-HO-00000-07_3-4
 # speaker_id = @07
@@ -46,7 +46,7 @@
 # sent_timecode = 23450, 31440
 # morphemic_text = chi -e aini gerud -u enusuli onia -le geru u dodad -e u hirire , u e kada u hirire .
 # text = chie aini gerudu enusuli oniale geru u dodade u hirire , u e kada u hirire .
-# text_en =  (When) I came here (I) asked my grandfather the story of how the round house is made. The house that is now named round house.
+# text_en = (When) I came here (I) asked my grandfather the story of how the round house is made. The house that is now named round house.
 1	chi	chi	VERB	_	_	2	comp:aux/m	_	AlignBegin=23450|AlignEnd=23726|GE=come|Gloss=come|nWord=1|RX=[V]
 2	-e		AUX	_	_	_	_	_	AlignBegin=23726|AlignEnd=24001|GE=[THM]|Gloss=-THM|nWord=1|RX=[V:ANY]
 3	aini	aini	ADV	_	_	_	_	_	AlignBegin=24001|AlignEnd=24552|GE=here|Gloss=here|nWord=2|RX=[ADV]
@@ -75,10 +75,10 @@
 # sent_timecode = 32065, 33955
 # morphemic_text = che kle bu hue .
 # text = che kle bu hue .
-# text_en =  We find the posts.
+# text_en = We find the posts.
 1	che	che	PRON	_	_	4	subj	_	AlignBegin=32065|AlignEnd=32443|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=32443|AlignEnd=32821|GE=be|Gloss=be|nWord=2|RX=[V]
-3	bu	bu	NOUN	_	_	_	_	_	AlignBegin=32821|AlignEnd=33199|GE=post|Gloss=post|nWord=3|RX=[N]
+3	bu	bu	NOUN	_	_	4	comp:obj	_	AlignBegin=32821|AlignEnd=33199|GE=post|Gloss=post|nWord=3|RX=[N]
 4	hue	hue	VERB	_	_	2	comp:aux	_	AlignBegin=33199|AlignEnd=33577|GE=[find].[NPST]|Gloss=find.NPST|nWord=4|RX=[V]
 5	.		.	_	_	_	_	_	AlignBegin=33577|AlignEnd=33955|Gloss=.|nWord=5
 
@@ -88,10 +88,10 @@
 # sent_timecode = 34840, 37130
 # morphemic_text = che kle gigata hue .
 # text = che kle gigata hue .
-# text_en =  We find some gigata.
+# text_en = We find some gigata.
 1	che	che	PRON	_	_	4	subj	_	AlignBegin=34840|AlignEnd=35298|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=35298|AlignEnd=35756|GE=be|Gloss=be|nWord=2|RX=[V]
-3	gigata	gigata	NOUN	_	_	_	_	_	AlignBegin=35756|AlignEnd=36214|GE=tree_type|Gloss=tree_type|nWord=3|RX=[N]
+3	gigata	gigata	NOUN	_	_	4	comp:obj	_	AlignBegin=35756|AlignEnd=36214|GE=tree_type|Gloss=tree_type|nWord=3|RX=[N]
 4	hue	hue	VERB	_	_	2	comp:aux	_	AlignBegin=36214|AlignEnd=36672|GE=[find].[NPST]|Gloss=find.NPST|nWord=4|RX=[V]
 5	.		.	_	_	_	_	_	AlignBegin=36672|AlignEnd=37130|Gloss=.|nWord=5
 
@@ -101,7 +101,7 @@
 # sent_timecode = 38495, 40165
 # morphemic_text = ikigda hue .
 # text = ikigda hue .
-# text_en =  (We) find the ikigda.
+# text_en = (We) find the ikigda.
 1	ikigda	ikigda	NOUN	_	_	_	_	_	AlignBegin=38495|AlignEnd=39052|GE=plant_type|Gloss=plant_type|nWord=1|RX=[N]
 2	hue	hue	VERB	_	_	_	_	_	AlignBegin=39052|AlignEnd=39609|GE=[find].[NPST]|Gloss=find.NPST|nWord=2|RX=[V]
 3	.		.	_	_	_	_	_	AlignBegin=39609|AlignEnd=40165|Gloss=.|nWord=3
@@ -112,7 +112,7 @@
 # sent_timecode = 40980, 44080
 # morphemic_text = y ( para luk -e ) ugda luk -e .
 # text = y ( pa luke ) ugda luke .
-# text_en =  And (I) link the ugda.
+# text_en = And (I) link the ugda.
 1	y	y	COORDCONN	_	_	_	_	_	AlignBegin=40980|AlignEnd=41368|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
 2	(		_	_	_	_	_	_	AlignBegin=41368|AlignEnd=41756|nWord=2
 3	para	para	ADP	_	_	_	_	_	AlignBegin=41756|AlignEnd=42144|GE=to|Gloss=to|nWord=3|RX=[ADP]
@@ -130,7 +130,7 @@
 # sent_timecode = 45790, 48920
 # morphemic_text = u e chi -e -nu ya u girire .
 # text = u e chienu ya u girire .
-# text_en =  Now the house came, the round house.
+# text_en = Now the house came, the round house.
 1	u	u	NOUN	_	_	_	_	_	AlignBegin=45790|AlignEnd=46237|GE=house|Gloss=house|nWord=1|RX=[N]
 2	e	e	ADV	_	_	_	_	_	AlignBegin=46237|AlignEnd=46684|GE=now|Gloss=now|nWord=2|RX=[ADV]
 3	chi	chi	VERB	_	_	4	comp:aux/m	_	AlignBegin=46684|AlignEnd=46833|GE=come|Gloss=come|nWord=3|RX=[V]

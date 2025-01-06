@@ -4,13 +4,13 @@
 # sent_timecode = 9910, 15430
 # morphemic_text = chui iake aini hong me hoke Rio Lui .
 # text = chui iake aini hong me hoke Rio Lui .
-# text_en =  Before, here, there were no path to go to Rio Luis
+# text_en = Before, here, there were no path to go to Rio Luis
 1	chui	chui	NOUN	_	_	_	_	_	AlignBegin=9910|AlignEnd=10523|GE=sun|Gloss=sun|nWord=1|RX=[N]
 2	iake	iake	ADJ	_	_	1	mod	_	AlignBegin=10523|AlignEnd=11136|GE=ancient|Gloss=ancient|nWord=2|RX=[ADJ]
 3	aini	aini	ADV	_	_	_	_	_	AlignBegin=11136|AlignEnd=11749|GE=here|Gloss=here|nWord=3|RX=[ADV]
 4	hong	hong	NOUN	_	_	_	_	_	AlignBegin=11749|AlignEnd=12362|GE=path|Gloss=path|nWord=4|RX=[N]
 5	me	me	PART	_	_	_	_	_	AlignBegin=12362|AlignEnd=12975|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
-6	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=12975|AlignEnd=13588|GE=go|Gloss=go|nWord=6|RX=[V]
+6	hoke	hoke	VERB	_	_	5	comp:aux	_	AlignBegin=12975|AlignEnd=13588|GE=go|Gloss=go|nWord=6|RX=[V]
 7	Rio	Rio	NOUN	_	_	_	_	_	AlignBegin=13588|AlignEnd=14201|GE=[Rio]|Gloss=Rio|nWord=7|RX=[N]
 8	Lui	Lui	PROPN	_	_	_	_	_	AlignBegin=14201|AlignEnd=14814|GE=[Luis]|Gloss=Luis|nWord=8|RX=[NPROP]
 9	.		.	_	_	_	_	_	AlignBegin=14814|AlignEnd=15430|Gloss=.|nWord=9
@@ -21,25 +21,25 @@
 # sent_timecode = 16570, 24685
 # morphemic_text = cha enusuli chi -u samla nante , chi -u mue nante , chi -u kanan tk -e .
 # text = cha enusuli chiu samla nante , chiu mue nante , chiu kanan tke .
-# text_en =  My grand father went to hunt some meat. (He) went to hunt some fish. (He) went hunting.
-1	cha	cha	PRON	_	_	_	_	_	AlignBegin=16570|AlignEnd=17422|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+# text_en = My grand father went to hunt some meat. (He) went to hunt some fish. (He) went hunting.
+1	cha	cha	PRON	_	_	2	udep:poss	_	AlignBegin=16570|AlignEnd=17422|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	enusuli	enusuli	NOUN	_	_	3	subj	_	AlignBegin=17422|AlignEnd=18274|GE=grandfather|Gloss=grandfather|nWord=2|RX=[N]
 3	chi	chi	VERB	_	_	4	comp:aux/m	_	AlignBegin=18274|AlignEnd=18700|GE=come|Gloss=come|nWord=3|RX=[V]
 4	-u		AUX	_	_	_	_	_	AlignBegin=18700|AlignEnd=19126|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
 5	samla	samla	NOUN	_	_	6	comp	_	AlignBegin=19126|AlignEnd=19978|GE=meat|Gloss=meat|nWord=4|RX=[N]
 6	nante	nante	ADP	_	_	_	_	_	AlignBegin=19978|AlignEnd=20830|GE=directional|Gloss=directional|nWord=5|RX=[ADP]
-7	,		_	_	_	_	_	_	AlignBegin=20830|AlignEnd=21680|nWord=6
+7	,		PUNCT	_	_	_	_	_	AlignBegin=20830|AlignEnd=21680|nWord=6
 8	chi	chi	VERB	_	_	9	comp:aux/m	_	AlignBegin=22420|AlignEnd=22575|GE=come|Gloss=come|nWord=7|RX=[V]
 9	-u		AUX	_	_	_	_	_	AlignBegin=22575|AlignEnd=22730|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]
 10	mue	mue	NOUN	_	_	11	comp	_	AlignBegin=22730|AlignEnd=23040|GE=fish|Gloss=fish|nWord=8|RX=[N]
 11	nante	nante	ADP	_	_	_	_	_	AlignBegin=23040|AlignEnd=23350|GE=directional|Gloss=directional|nWord=9|RX=[ADP]
-12	,		_	_	_	_	_	_	AlignBegin=23350|AlignEnd=23660|nWord=10
+12	,		PUNCT	_	_	_	_	_	AlignBegin=23350|AlignEnd=23660|nWord=10
 13	chi	chi	VERB	_	_	14	comp:aux/m	_	AlignBegin=23665|AlignEnd=23793|GE=come|Gloss=come|nWord=11|RX=[V]
 14	-u		AUX	_	_	_	_	_	AlignBegin=23793|AlignEnd=23920|GE=[PST]|Gloss=-PST|nWord=11|RX=[V:ANY]
 15	kanan	kanan	NOUN	_	_	_	_	_	AlignBegin=23920|AlignEnd=24175|GE=hunt|Gloss=hunt|nWord=12|RX=[N]
 16	tk	tk	VERB	_	_	17	comp:aux/m	_	AlignBegin=24175|AlignEnd=24303|GE=put|Gloss=put|nWord=13|RX=[V]
 17	-e		AUX	_	_	_	_	_	AlignBegin=24303|AlignEnd=24430|GE=[THM]|Gloss=-THM|nWord=13|RX=[V:ANY]
-18	.		.	_	_	_	_	_	AlignBegin=24430|AlignEnd=24685|Gloss=.|nWord=14
+18	.		PUNCT	_	_	_	_	_	AlignBegin=24430|AlignEnd=24685|Gloss=.|nWord=14
 
 # sent_id = SAB-TXT-PA-00000-02_05-06
 # speaker_id = @02
@@ -47,7 +47,7 @@
 # sent_timecode = 25380, 32500
 # morphemic_text = nada chuku baini tengkle nama kodi hoke iani , y chk -e aini .
 # text = nada chuku baini tengkle nama kodi hoke iani , y chke aini .
-# text_en =  There were nothing else than wild chicken crossing near, So (he) arrived there.
+# text_en = There were nothing else than wild chicken crossing near, So (he) arrived there.
 1	nada	nada	ADV	_	_	_	_	_	AlignBegin=25380|AlignEnd=26078|GE=nothing|Gloss=nothing|nWord=1|RX=[ADV]
 2	chuku	chuku	NOUN	_	_	_	_	_	AlignBegin=26078|AlignEnd=26776|GE=chicken_type|Gloss=chicken_type|nWord=2|RX=[N]
 3	baini	baini	ADV	_	_	_	_	_	AlignBegin=26776|AlignEnd=27474|GE=where|Gloss=where|nWord=3|RX=[ADV]
@@ -69,7 +69,7 @@
 # sent_timecode = 32970, 35720
 # morphemic_text = ai enusuli chui bek -u daba ole ulita .
 # text = ai enusuli chui beku daba ole ulita .
-# text_en =  The grandfather planned to take his friends.
+# text_en = The grandfather planned to take his friends.
 1	ai	ai	ADV	_	_	_	_	_	AlignBegin=32970|AlignEnd=33314|GE=here|Gloss=here|nWord=1|RX=[ADV]
 2	enusuli	enusuli	NOUN	_	_	_	_	_	AlignBegin=33314|AlignEnd=33658|GE=grandfather|Gloss=grandfather|nWord=2|RX=[N]
 3	chui	chui	NOUN	_	_	4	subj	_	AlignBegin=33658|AlignEnd=34002|GE=sun|Gloss=sun|nWord=3|RX=[N]
@@ -78,7 +78,7 @@
 6	daba	daba	NOUN	_	_	7	comp	_	AlignBegin=34346|AlignEnd=34690|GE=brother|Gloss=brother|nWord=5|RX=[N]
 7	ole	ole	ADP	_	_	_	_	_	AlignBegin=34690|AlignEnd=35034|GE=[COM]|Gloss=COM|nWord=6|RX=[ADP]
 8	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=35034|AlignEnd=35378|GE=all|Gloss=all|nWord=7|RX=[ADV]
-9	.		.	_	_	_	_	_	AlignBegin=35378|AlignEnd=35720|Gloss=.|nWord=8
+9	.		PUNCT	_	_	_	_	_	AlignBegin=35378|AlignEnd=35720|Gloss=.|nWord=8
 
 # sent_id = SAB-TXT-PA-00000-02_08-08
 # speaker_id = @02
@@ -86,7 +86,7 @@
 # sent_timecode = 35900, 37400
 # morphemic_text = mejor enusuli chi -u .
 # text = mejor enusuli chiu .
-# text_en =  The grandfather better come back.
+# text_en = The grandfather better come back.
 1	mejor	mejor	ADJ	_	_	_	_	_	AlignBegin=35900|AlignEnd=36275|GE=better|Gloss=better|nWord=1|RX=[ADJ]
 2	enusuli	enusuli	NOUN	_	_	3	subj	_	AlignBegin=36275|AlignEnd=36650|GE=grandfather|Gloss=grandfather|nWord=2|RX=[N]
 3	chi	chi	VERB	_	_	4	comp:aux/m	_	AlignBegin=36650|AlignEnd=36838|GE=come|Gloss=come|nWord=3|RX=[V]
@@ -99,7 +99,7 @@
 # sent_timecode = 37795, 42955
 # morphemic_text = enusuli hong tkunga eru dat -a -le -da enusuli hong tkunga eru dat -a -le -da hasta enusuli hong tk -u tengkle .
 # text = enusuli hong tkunga eru dataleda enusuli hong tkunga eru dataleda ata enusuli hong tku tengkle .
-# text_en =  The grandfather cut the path ready and well cut, until he made the path entirely.
+# text_en = The grandfather cut the path ready and well cut, until he made the path entirely.
 1	enusuli	enusuli	NOUN	_	_	_	_	_	AlignBegin=37795|AlignEnd=38117|GE=grandfather|Gloss=grandfather|nWord=1|RX=[N]
 2	hong	hong	NOUN	_	_	_	_	_	AlignBegin=38117|AlignEnd=38439|GE=path|Gloss=path|nWord=2|RX=[N]
 3	tkunga	tkunga	VERB	_	_	_	_	_	AlignBegin=38439|AlignEnd=38761|GE=[cut].[PST]|Gloss=cut.PST|nWord=3|RX=[V]
@@ -130,7 +130,7 @@
 # sent_timecode = 43200, 47360
 # morphemic_text = ama giti -re nengke daba salebli bate ulita kle chi -e .
 # text = ama gitire nengke daba salebli bate ulita kle chie .
-# text_en =  So that now, people who come from far away can come.
+# text_en = So that now, people who come from far away can come.
 1	ama	ama	ADV	_	_	_	_	_	AlignBegin=43200|AlignEnd=43616|GE=so|Gloss=so|nWord=1|RX=[ADV]
 2	giti	giti	ADP	_	_	3	comp:aux/m	_	AlignBegin=43616|AlignEnd=43824|GE=[LOC]|Gloss=LOC|nWord=2|RX=[ADP]
 3	-re		AUX	_	_	_	_	_	AlignBegin=43824|AlignEnd=44032|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
@@ -150,7 +150,7 @@
 # sent_timecode = 47395, 49705
 # morphemic_text = ya hong esta tk -a -bale -nga biale .
 # text = ya hong ta tkabalenga biale .
-# text_en =  Now the path is ready.
+# text_en = Now the path is ready.
 1	ya	ya	ADV	_	_	_	_	_	AlignBegin=47395|AlignEnd=47780|GE=now|Gloss=now|nWord=1|RX=[ADV]
 2	hong	hong	NOUN	_	_	_	_	_	AlignBegin=47780|AlignEnd=48165|GE=path|Gloss=path|nWord=2|RX=[N]
 3	esta	esta	VERB	_	_	_	_	_	AlignBegin=48165|AlignEnd=48550|GE=be|Gloss=be|nWord=3|RX=[V]
@@ -167,8 +167,8 @@
 # sent_timecode = 52530, 59080
 # morphemic_text = cha enusuli chui iake chi -e hong tkenga .
 # text = cha enusuli chui iake chie hong tkenga .
-# text_en =  My grand father at that time went by the path.
-1	cha	cha	PRON	_	_	_	_	_	AlignBegin=52530|AlignEnd=53349|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+# text_en = My grand father at that time went by the path.
+1	cha	cha	PRON	_	_	2	udep:poss	_	AlignBegin=52530|AlignEnd=53349|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	enusuli	enusuli	NOUN	_	_	_	_	_	AlignBegin=53349|AlignEnd=54168|GE=grandfather|Gloss=grandfather|nWord=2|RX=[N]
 3	chui	chui	NOUN	_	_	_	_	_	AlignBegin=54168|AlignEnd=54987|GE=sun|Gloss=sun|nWord=3|RX=[N]
 4	iake	iake	ADJ	_	_	3	mod	_	AlignBegin=54987|AlignEnd=55806|GE=ancient|Gloss=ancient|nWord=4|RX=[ADJ]
@@ -176,7 +176,7 @@
 6	-e		AUX	_	_	_	_	_	AlignBegin=56216|AlignEnd=56625|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	hong	hong	NOUN	_	_	_	_	_	AlignBegin=56625|AlignEnd=57444|GE=path|Gloss=path|nWord=6|RX=[N]
 8	tkenga	tkenga	VERB	_	_	_	_	_	AlignBegin=57444|AlignEnd=58263|GE=[cut].[NPST]|Gloss=cut.NPST|nWord=7|RX=[V]
-9	.		.	_	_	_	_	_	AlignBegin=58263|AlignEnd=59080|Gloss=.|nWord=8
+9	.		PUNCT	_	_	_	_	_	AlignBegin=58263|AlignEnd=59080|Gloss=.|nWord=8
 
 # sent_id = SAB-TXT-PA-00000-02_13-13
 # speaker_id = @02
@@ -184,7 +184,7 @@
 # sent_timecode = 63880, 68660
 # morphemic_text = y du me entonces kwia chi -e chage sra dike .
 # text = y du me entonces kwia chie chage sra dike .
-# text_en =  And there were no cars so people went walking by foot.
+# text_en = And there were no cars so people went walking by foot.
 1	y	y	COORDCONN	_	_	_	_	_	AlignBegin=63880|AlignEnd=64358|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
 2	du	du	NOUN	_	_	_	_	_	AlignBegin=64358|AlignEnd=64836|GE=car|Gloss=car|nWord=2|RX=[N]
 3	me	me	PART	_	_	_	_	_	AlignBegin=64836|AlignEnd=65314|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
@@ -195,7 +195,7 @@
 8	chage	chage	VERB	_	_	_	_	_	AlignBegin=66748|AlignEnd=67226|GE=walk|Gloss=walk|nWord=7|RX=[V]
 9	sra	sra	NOUN	_	_	10	comp	_	AlignBegin=67226|AlignEnd=67704|GE=foot|Gloss=foot|nWord=8|RX=[N]
 10	dike	dike	ADP	_	_	_	_	_	AlignBegin=67704|AlignEnd=68182|GE=[INST]|Gloss=INST|nWord=9|RX=[ADP]
-11	.		.	_	_	_	_	_	AlignBegin=68182|AlignEnd=68660|Gloss=.|nWord=10
+11	.		PUNCT	_	_	_	_	_	AlignBegin=68182|AlignEnd=68660|Gloss=.|nWord=10
 
 # sent_id = SAB-TXT-PA-00000-02_14-14
 # speaker_id = @02
@@ -203,14 +203,14 @@
 # sent_timecode = 68970, 70770
 # morphemic_text = enusuli chi -e chage sra dike .
 # text = enusuli chie chage sra dike .
-# text_en =  The grand father went walking by foot.
+# text_en = The grand father went walking by foot.
 1	enusuli	enusuli	NOUN	_	_	_	_	_	AlignBegin=68970|AlignEnd=69270|GE=grandfather|Gloss=grandfather|nWord=1|RX=[N]
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=69270|AlignEnd=69420|GE=come|Gloss=come|nWord=2|RX=[V]
 3	-e		AUX	_	_	_	_	_	AlignBegin=69420|AlignEnd=69570|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
 4	chage	chage	VERB	_	_	_	_	_	AlignBegin=69570|AlignEnd=69870|GE=walk|Gloss=walk|nWord=3|RX=[V]
 5	sra	sra	NOUN	_	_	6	comp	_	AlignBegin=69870|AlignEnd=70170|GE=foot|Gloss=foot|nWord=4|RX=[N]
 6	dike	dike	ADP	_	_	_	_	_	AlignBegin=70170|AlignEnd=70470|GE=[INST]|Gloss=INST|nWord=5|RX=[ADP]
-7	.		.	_	_	_	_	_	AlignBegin=70470|AlignEnd=70770|Gloss=.|nWord=6
+7	.		PUNCT	_	_	_	_	_	AlignBegin=70470|AlignEnd=70770|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-PA-00000-02_15-18
 # speaker_id = @02
@@ -218,29 +218,29 @@
 # sent_timecode = 70975, 79110
 # morphemic_text = entonces enusuli hong tkenga , ba hoke -dale , daba sale mung bitaia dike , o kanan tk -a -nga nante .
 # text = entonces enusuli hong tkenga , ba hokedale , daba sale mung bitaia dike , o kanan tkanga nante .
-# text_en =  So the grand father made the path. So you could come (one day). As a friend with my family. Or so (we) go hunting.
+# text_en = So the grand father made the path. So you could come (one day). As a friend with my family. Or so (we) go hunting.
 1	entonces	entonces	ADV	_	_	_	_	_	AlignBegin=70975|AlignEnd=71341|GE=so|Gloss=so|nWord=1|RX=[ADV]
 2	enusuli	enusuli	NOUN	_	_	_	_	_	AlignBegin=71341|AlignEnd=71707|GE=grandfather|Gloss=grandfather|nWord=2|RX=[N]
 3	hong	hong	NOUN	_	_	_	_	_	AlignBegin=71707|AlignEnd=72073|GE=path|Gloss=path|nWord=3|RX=[N]
 4	tkenga	tkenga	VERB	_	_	_	_	_	AlignBegin=72073|AlignEnd=72439|GE=[cut].[NPST]|Gloss=cut.NPST|nWord=4|RX=[V]
-5	,		_	_	_	_	_	_	AlignBegin=72439|AlignEnd=72805|nWord=5
+5	,		PUNCT	_	_	_	_	_	AlignBegin=72439|AlignEnd=72805|nWord=5
 6	ba	ba	PRON	_	_	_	_	_	AlignBegin=72895|AlignEnd=73258|GE=[2SG]|Gloss=2SG|nWord=6|RX=[PRO]
 7	hoke	hoke	VERB	_	_	8	comp:aux/m	_	AlignBegin=73258|AlignEnd=73440|GE=go|Gloss=go|nWord=7|RX=[V]
 8	-dale		AUX	_	_	_	_	_	AlignBegin=73440|AlignEnd=73621|GE=[IRR]|Gloss=-IRR|nWord=7|RX=[V:ANY]
-9	,		_	_	_	_	_	_	AlignBegin=73621|AlignEnd=73985|nWord=8
+9	,		PUNCT	_	_	_	_	_	AlignBegin=73621|AlignEnd=73985|nWord=8
 10	daba	daba	NOUN	_	_	_	_	_	AlignBegin=73985|AlignEnd=74468|GE=brother|Gloss=brother|nWord=9|RX=[N]
 11	sale	sale	ADJ	_	_	10	mod	_	AlignBegin=74468|AlignEnd=74951|GE=different|Gloss=different|nWord=10|RX=[ADJ]
 12	mung	mung	PART	_	_	_	_	_	AlignBegin=74951|AlignEnd=75434|GE=[REFL]|Gloss=REFL|nWord=11|RX=[VERBPRT]
 13	bitaia	bitaia	NOUN	_	_	14	comp	_	AlignBegin=75434|AlignEnd=75917|GE=family|Gloss=family|nWord=12|RX=[N]
 14	dike	dike	ADP	_	_	_	_	_	AlignBegin=75917|AlignEnd=76400|GE=[INST]|Gloss=INST|nWord=13|RX=[ADP]
-15	,		_	_	_	_	_	_	AlignBegin=76400|AlignEnd=76885|nWord=14
+15	,		PUNCT	_	_	_	_	_	AlignBegin=76400|AlignEnd=76885|nWord=14
 16	o	o	COORDCONN	_	_	_	_	_	AlignBegin=77220|AlignEnd=77598|GE=or|Gloss=or|nWord=15|RX=[COORDCONN]
 17	kanan	kanan	NOUN	_	_	_	_	_	AlignBegin=77598|AlignEnd=77976|GE=hunt|Gloss=hunt|nWord=16|RX=[N]
 18	tk	tk	VERB	_	_	19	comp:aux/m	_	AlignBegin=77976|AlignEnd=78102|GE=put|Gloss=put|nWord=17|RX=[V]
 19	-a		AUX	_	_	20	comp:aux/m	_	AlignBegin=78102|AlignEnd=78228|GE=[PASS]|Gloss=-PASS|nWord=17|RX=[V:ANY]
 20	-nga		AUX	_	_	_	_	_	AlignBegin=78228|AlignEnd=78354|GE=[SUB]|Gloss=-SUB|nWord=17|RX=[V:ANY]
 21	nante	nante	ADP	_	_	_	_	_	AlignBegin=78354|AlignEnd=78732|GE=directional|Gloss=directional|nWord=18|RX=[ADP]
-22	.		.	_	_	_	_	_	AlignBegin=78732|AlignEnd=79110|Gloss=.|nWord=19
+22	.		PUNCT	_	_	_	_	_	AlignBegin=78732|AlignEnd=79110|Gloss=.|nWord=19
 
 # sent_id = SAB-TXT-PA-00000-02_19-19
 # speaker_id = @02
@@ -248,7 +248,7 @@
 # sent_timecode = 79370, 81550
 # morphemic_text = ama gitire chek -e -bale .
 # text = ama gitire chekebale .
-# text_en =  So then (I) stayed.
+# text_en = So then (I) stayed.
 1	ama	ama	ADV	_	_	_	_	_	AlignBegin=79370|AlignEnd=79915|GE=so|Gloss=so|nWord=1|RX=[ADV]
 2	gitire	gitire	ADV	_	_	_	_	_	AlignBegin=79915|AlignEnd=80460|GE=then|Gloss=then|nWord=2|RX=[ADV]
 3	chek	chek	VERB	_	_	4	comp:aux/m	_	AlignBegin=80460|AlignEnd=80642|GE=stay|Gloss=stay|nWord=3|RX=[V]
@@ -262,7 +262,7 @@
 # sent_timecode = 81615, 83715
 # morphemic_text = che chuku gwage nengke .
 # text = che chuku gwage nengke .
-# text_en =  I breed chickens now.
+# text_en = I breed chickens now.
 1	che	che	PRON	_	_	_	_	_	AlignBegin=81615|AlignEnd=82035|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	chuku	chuku	NOUN	_	_	_	_	_	AlignBegin=82035|AlignEnd=82455|GE=chicken_type|Gloss=chicken_type|nWord=2|RX=[N]
 3	gwage	gwage	_	_	_	_	_	_	AlignBegin=82455|AlignEnd=82875|nWord=3
@@ -275,7 +275,7 @@
 # sent_timecode = 84270, 88360
 # morphemic_text = kiro taianchuk -e hong ene uswili no hong ese tk -a -bale ya nengke .
 # text = kiro taianchuke hong ene uswili no hong ese tkabale ya nengke .
-# text_en =  The kids think, this path were there before, but no, this path has been made today.
+# text_en = The kids think, this path were there before, but no, this path has been made today.
 1	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=84270|AlignEnd=84611|GE=child|Gloss=child|nWord=1|RX=[N]
 2	taianchuk	taianchuk	VERB	_	_	3	comp:aux/m	_	AlignBegin=84611|AlignEnd=84781|GE=think|Gloss=think|nWord=2|RX=[V]
 3	-e		AUX	_	_	_	_	_	AlignBegin=84781|AlignEnd=84952|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
@@ -284,7 +284,7 @@
 6	uswili	uswili	ADV	_	_	_	_	_	AlignBegin=85634|AlignEnd=85975|GE=before|Gloss=before|nWord=5|RX=[ADV]
 7	no	no	PART	_	_	_	_	_	AlignBegin=85975|AlignEnd=86316|GE=[NEG]|Gloss=NEG|nWord=6|RX=[VERBPRT]
 8	hong	hong	NOUN	_	_	_	_	_	AlignBegin=86316|AlignEnd=86657|GE=path|Gloss=path|nWord=7|RX=[N]
-9	ese	ese	DET	_	_	_	_	_	AlignBegin=86657|AlignEnd=86998|GE=that|Gloss=that|nWord=8|RX=[DET]
+9	ese	ese	DET	_	_	8	mod	_	AlignBegin=86657|AlignEnd=86998|GE=that|Gloss=that|nWord=8|RX=[DET]
 10	tk	tk	VERB	_	_	11	comp:aux/m	_	AlignBegin=86998|AlignEnd=87112|GE=put|Gloss=put|nWord=9|RX=[V]
 11	-a		X	_	_	12	comp:aux/m	_	AlignBegin=87112|AlignEnd=87226|GE=[0]|Gloss=-0|nWord=9|RX=[VERB]
 12	-bale		AUX	_	_	_	_	_	AlignBegin=87226|AlignEnd=87339|GE=[PART]|Gloss=-PART|nWord=9|RX=[V:ANY]
@@ -298,15 +298,15 @@
 # sent_timecode = 88540, 90720
 # morphemic_text = hoke ble ke , y hoke chi ka ke .
 # text = hoke ble ke , y hoke chi ka ke .
-# text_en =  To go to the sea. And to go to the river.
+# text_en = To go to the sea. And to go to the river.
 1	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=88540|AlignEnd=88795|GE=go|Gloss=go|nWord=1|RX=[V]
 2	ble	ble	NOUN	_	_	3	comp	_	AlignBegin=88795|AlignEnd=89050|GE=sea|Gloss=sea|nWord=2|RX=[N]
 3	ke	ke	ADP	_	_	_	_	_	AlignBegin=89050|AlignEnd=89305|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
-4	,		_	_	_	_	_	_	AlignBegin=89305|AlignEnd=89560|nWord=4
+4	,		PUNCT	_	_	_	_	_	AlignBegin=89305|AlignEnd=89560|nWord=4
 5	y	y	COORDCONN	_	_	_	_	_	AlignBegin=89560|AlignEnd=89753|GE=and|Gloss=and|nWord=5|RX=[COORDCONN]
 6	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=89753|AlignEnd=89946|GE=go|Gloss=go|nWord=6|RX=[V]
 7	chi	chi	NOUN	_	_	_	_	_	AlignBegin=89946|AlignEnd=90139|GE=water|Gloss=water|nWord=7|RX=[N]
 8	ka	ka	NOUN	_	_	9	comp	_	AlignBegin=90139|AlignEnd=90332|GE=mouth|Gloss=mouth|nWord=8|RX=[N]
 9	ke	ke	ADP	_	_	_	_	_	AlignBegin=90332|AlignEnd=90525|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
-10	.		.	_	_	_	_	_	AlignBegin=90525|AlignEnd=90720|Gloss=.|nWord=10
+10	.		PUNCT	_	_	_	_	_	AlignBegin=90525|AlignEnd=90720|Gloss=.|nWord=10
 

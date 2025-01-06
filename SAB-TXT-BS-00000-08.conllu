@@ -4,41 +4,41 @@
 # sent_timecode = 6410, 17865
 # morphemic_text = ( cha kle ) cuando muinga kle oka kiro gwa ole , muinga kle oka kiro gwa ole , cha kle gdege hue muinga aling , cha kle muinga ne mana -d- -e .
 # text = ( cha kle ) cuando muinga kle oka kirogwa ole , muinga kle oka kirogwa ole , cha kle gdege hue muinga aling , cha kle muinga ne manade .
-# text_en =  When a woman is pregnant with a child. A woman is pregnant with a child. I find gdege for the woman. I take care of that woman.
-1	(		_	_	_	_	_	_	AlignBegin=6410|AlignEnd=6832|nWord=1
+# text_en = When a woman is pregnant with a child. A woman is pregnant with a child. I find gdege for the woman. I take care of that woman.
+1	(		PUNCT	_	_	_	_	_	AlignBegin=6410|AlignEnd=6832|nWord=1
 2	cha	cha	PRON	_	_	_	_	_	AlignBegin=6832|AlignEnd=7254|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	kle	kle	AUX	_	_	_	_	_	AlignBegin=7254|AlignEnd=7676|GE=be|Gloss=be|nWord=3|RX=[V]
-4	)		_	_	_	_	_	_	AlignBegin=7676|AlignEnd=8098|nWord=4
+4	)		PUNCT	_	_	_	_	_	AlignBegin=7676|AlignEnd=8098|nWord=4
 5	cuando	cuando	SCONJ	_	_	_	_	_	AlignBegin=8098|AlignEnd=8520|GE=when|Gloss=when|nWord=5|RX=[Q]
 6	muinga	muinga	NOUN	_	_	_	_	_	AlignBegin=8520|AlignEnd=8942|GE=woman|Gloss=woman|nWord=6|RX=[N]
 7	kle	kle	AUX	_	_	_	_	_	AlignBegin=8942|AlignEnd=9364|GE=be|Gloss=be|nWord=7|RX=[V]
-8	oka	oka	ADJ	_	_	_	_	_	AlignBegin=9364|AlignEnd=9786|GE=pregnant|Gloss=pregnant|nWord=8|RX=[ADJ]
+8	oka	oka	ADJ	_	_	7	comp:pred	_	AlignBegin=9364|AlignEnd=9786|GE=pregnant|Gloss=pregnant|nWord=8|RX=[ADJ]
 9	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=9786|AlignEnd=9997|GE=child|Gloss=child|nWord=9|RX=[N]
 10	gwa	gwa	_	_	_	_	_	_	AlignBegin=9997|AlignEnd=10208|nWord=9
 11	ole	ole	ADP	_	_	_	_	_	AlignBegin=10208|AlignEnd=10630|GE=[COM]|Gloss=COM|nWord=10|RX=[ADP]
-12	,		_	_	_	_	_	_	AlignBegin=10630|AlignEnd=11050|nWord=11
+12	,		PUNCT	_	_	_	_	_	AlignBegin=10630|AlignEnd=11050|nWord=11
 13	muinga	muinga	NOUN	_	_	_	_	_	AlignBegin=11865|AlignEnd=12125|GE=woman|Gloss=woman|nWord=12|RX=[N]
 14	kle	kle	AUX	_	_	_	_	_	AlignBegin=12125|AlignEnd=12385|GE=be|Gloss=be|nWord=13|RX=[V]
-15	oka	oka	ADJ	_	_	_	_	_	AlignBegin=12385|AlignEnd=12645|GE=pregnant|Gloss=pregnant|nWord=14|RX=[ADJ]
+15	oka	oka	ADJ	_	_	14	comp:pred	_	AlignBegin=12385|AlignEnd=12645|GE=pregnant|Gloss=pregnant|nWord=14|RX=[ADJ]
 16	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=12645|AlignEnd=12775|GE=child|Gloss=child|nWord=15|RX=[N]
 17	gwa	gwa	_	_	_	_	_	_	AlignBegin=12775|AlignEnd=12905|nWord=15
 18	ole	ole	ADP	_	_	_	_	_	AlignBegin=12905|AlignEnd=13165|GE=[COM]|Gloss=COM|nWord=16|RX=[ADP]
-19	,		_	_	_	_	_	_	AlignBegin=13165|AlignEnd=13425|nWord=17
-20	cha	cha	PRON	_	_	_	_	_	AlignBegin=13430|AlignEnd=13707|GE=[1SG]|Gloss=1SG|nWord=18|RX=[PRO]
+19	,		PUNCT	_	_	_	_	_	AlignBegin=13165|AlignEnd=13425|nWord=17
+20	cha	cha	PRON	_	_	23	subj	_	AlignBegin=13430|AlignEnd=13707|GE=[1SG]|Gloss=1SG|nWord=18|RX=[PRO]
 21	kle	kle	AUX	_	_	_	_	_	AlignBegin=13707|AlignEnd=13984|GE=be|Gloss=be|nWord=19|RX=[V]
-22	gdege	gdege	NOUN	_	_	_	_	_	AlignBegin=13984|AlignEnd=14261|GE=food_type|Gloss=food_type|nWord=20|RX=[N]
+22	gdege	gdege	NOUN	_	_	23	comp:obj	_	AlignBegin=13984|AlignEnd=14261|GE=food_type|Gloss=food_type|nWord=20|RX=[N]
 23	hue	hue	VERB	_	_	21	comp:aux	_	AlignBegin=14261|AlignEnd=14538|GE=[find].[NPST]|Gloss=find.NPST|nWord=21|RX=[V]
 24	muinga	muinga	NOUN	_	_	25	comp	_	AlignBegin=14538|AlignEnd=14815|GE=woman|Gloss=woman|nWord=22|RX=[N]
 25	aling	aling	ADP	_	_	_	_	_	AlignBegin=14815|AlignEnd=15092|GE=for|Gloss=for|nWord=23|RX=[ADP]
-26	,		_	_	_	_	_	_	AlignBegin=15092|AlignEnd=15370|nWord=24
-27	cha	cha	PRON	_	_	_	_	_	AlignBegin=15705|AlignEnd=16065|GE=[1SG]|Gloss=1SG|nWord=25|RX=[PRO]
+26	,		PUNCT	_	_	_	_	_	AlignBegin=15092|AlignEnd=15370|nWord=24
+27	cha	cha	PRON	_	_	31	subj	_	AlignBegin=15705|AlignEnd=16065|GE=[1SG]|Gloss=1SG|nWord=25|RX=[PRO]
 28	kle	kle	AUX	_	_	_	_	_	AlignBegin=16065|AlignEnd=16425|GE=be|Gloss=be|nWord=26|RX=[V]
 29	muinga	muinga	NOUN	_	_	_	_	_	AlignBegin=16425|AlignEnd=16785|GE=woman|Gloss=woman|nWord=27|RX=[N]
-30	ne	ne	DET	_	_	_	_	_	AlignBegin=16785|AlignEnd=17145|GE=that|Gloss=that|nWord=28|RX=[DET]
+30	ne	ne	DET	_	_	29	mod	_	AlignBegin=16785|AlignEnd=17145|GE=that|Gloss=that|nWord=28|RX=[DET]
 31	mana	mana	VERB	_	_	32	comp:aux/m	_	AlignBegin=17145|AlignEnd=17265|GE=take_care|Gloss=take_care|nWord=29|RX=[V]
 32	-d-		AUX	_	_	33	comp:aux/m	_	AlignBegin=17265|AlignEnd=17385|GE=[0]|Gloss=-0-|nWord=29|RX=[VERB]
 33	-e		AUX	_	_	_	_	_	AlignBegin=17385|AlignEnd=17505|GE=[THM]|Gloss=-THM|nWord=29|RX=[V:ANY]
-34	.		.	_	_	_	_	_	AlignBegin=17505|AlignEnd=17865|Gloss=.|nWord=30
+34	.		PUNCT	_	_	_	_	_	AlignBegin=17505|AlignEnd=17865|Gloss=.|nWord=30
 
 # sent_id = SAB-TXT-BS-00000-08_05-06
 # speaker_id = @08
@@ -46,13 +46,13 @@
 # sent_timecode = 18220, 25250
 # morphemic_text = entonces soli huma kle muinga ne mana -d- -e ngasuku , hasta kiro ne kle gwame .
 # text = entonces soli huma kle muinga ne manade ngasuku , ata kiro ne kle gwame .
-# text_en =  So the youngs and olds take care of the woman out in the mountain. Until the baby is born.
+# text_en = So the youngs and olds take care of the woman out in the mountain. Until the baby is born.
 1	entonces	entonces	ADV	_	_	_	_	_	AlignBegin=18220|AlignEnd=18712|GE=so|Gloss=so|nWord=1|RX=[ADV]
 2	soli	soli	ADJ	_	_	_	_	_	AlignBegin=18712|AlignEnd=19204|GE=little|Gloss=little|nWord=2|RX=[N]
 3	huma	huma	ADJ	_	_	_	_	_	AlignBegin=19204|AlignEnd=19696|GE=old|Gloss=old|nWord=3|RX=[ADJ]
 4	kle	kle	AUX	_	_	_	_	_	AlignBegin=19696|AlignEnd=20188|GE=be|Gloss=be|nWord=4|RX=[V]
 5	muinga	muinga	NOUN	_	_	_	_	_	AlignBegin=20188|AlignEnd=20680|GE=woman|Gloss=woman|nWord=5|RX=[N]
-6	ne	ne	DET	_	_	_	_	_	AlignBegin=20680|AlignEnd=21172|GE=that|Gloss=that|nWord=6|RX=[DET]
+6	ne	ne	DET	_	_	5	mod	_	AlignBegin=20680|AlignEnd=21172|GE=that|Gloss=that|nWord=6|RX=[DET]
 7	mana	mana	VERB	_	_	8	comp:aux/m	_	AlignBegin=21172|AlignEnd=21336|GE=take_care|Gloss=take_care|nWord=7|RX=[V]
 8	-d-		AUX	_	_	9	comp:aux/m	_	AlignBegin=21336|AlignEnd=21500|GE=[0]|Gloss=-0-|nWord=7|RX=[VERB]
 9	-e		AUX	_	_	_	_	_	AlignBegin=21500|AlignEnd=21664|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
@@ -60,7 +60,7 @@
 11	,		_	_	_	_	_	_	AlignBegin=22156|AlignEnd=22650|nWord=9
 12	hasta	hasta	ADP	_	_	_	_	_	AlignBegin=22820|AlignEnd=23225|GE=to|Gloss=to|nWord=10|RX=[ADP]
 13	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=23225|AlignEnd=23630|GE=child|Gloss=child|nWord=11|RX=[N]
-14	ne	ne	DET	_	_	_	_	_	AlignBegin=23630|AlignEnd=24035|GE=that|Gloss=that|nWord=12|RX=[DET]
+14	ne	ne	DET	_	_	13	mod	_	AlignBegin=23630|AlignEnd=24035|GE=that|Gloss=that|nWord=12|RX=[DET]
 15	kle	kle	AUX	_	_	_	_	_	AlignBegin=24035|AlignEnd=24440|GE=be|Gloss=be|nWord=13|RX=[V]
 16	gwame	gwame	VERB	_	_	15	comp:aux	_	AlignBegin=24440|AlignEnd=24845|GE=be.born|Gloss=be.born|nWord=14|RX=[V]
 17	.		.	_	_	_	_	_	AlignBegin=24845|AlignEnd=25250|Gloss=.|nWord=15
@@ -71,16 +71,16 @@
 # sent_timecode = 25690, 32480
 # morphemic_text = cuando kiro ne kle gwame , muinga kle gdege hai ulita , entonces muinga kle kiro ne dwe kote .
 # text = cuando kiro ne kle gwame , muinga kle gdege hai ulita , entonces muinga kle kiro ne dwe kote .
-# text_en =  When the baby is born, The woman drink all the gdege. So the woman can take this child in the arms.
+# text_en = When the baby is born, The woman drink all the gdege. So the woman can take this child in the arms.
 1	cuando	cuando	SCONJ	_	_	_	_	_	AlignBegin=25690|AlignEnd=26052|GE=when|Gloss=when|nWord=1|RX=[Q]
 2	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=26052|AlignEnd=26414|GE=child|Gloss=child|nWord=2|RX=[N]
-3	ne	ne	DET	_	_	_	_	_	AlignBegin=26414|AlignEnd=26776|GE=that|Gloss=that|nWord=3|RX=[DET]
+3	ne	ne	DET	_	_	2	mod	_	AlignBegin=26414|AlignEnd=26776|GE=that|Gloss=that|nWord=3|RX=[DET]
 4	kle	kle	AUX	_	_	_	_	_	AlignBegin=26776|AlignEnd=27138|GE=be|Gloss=be|nWord=4|RX=[V]
 5	gwame	gwame	VERB	_	_	4	comp:aux	_	AlignBegin=27138|AlignEnd=27500|GE=be.born|Gloss=be.born|nWord=5|RX=[V]
 6	,		_	_	_	_	_	_	AlignBegin=27500|AlignEnd=27860|nWord=6
 7	muinga	muinga	NOUN	_	_	10	subj	_	AlignBegin=27890|AlignEnd=28322|GE=woman|Gloss=woman|nWord=7|RX=[N]
 8	kle	kle	AUX	_	_	_	_	_	AlignBegin=28322|AlignEnd=28754|GE=be|Gloss=be|nWord=8|RX=[V]
-9	gdege	gdege	NOUN	_	_	_	_	_	AlignBegin=28754|AlignEnd=29186|GE=food_type|Gloss=food_type|nWord=9|RX=[N]
+9	gdege	gdege	NOUN	_	_	10	comp:obj	_	AlignBegin=28754|AlignEnd=29186|GE=food_type|Gloss=food_type|nWord=9|RX=[N]
 10	hai	hai	VERB	_	_	8	comp:aux	_	AlignBegin=29186|AlignEnd=29618|GE=drink|Gloss=drink|nWord=10|RX=[V]
 11	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=29618|AlignEnd=30050|GE=all|Gloss=all|nWord=11|RX=[ADV]
 12	,		_	_	_	_	_	_	AlignBegin=30050|AlignEnd=30480|nWord=12
@@ -88,7 +88,7 @@
 14	muinga	muinga	NOUN	_	_	18	subj	_	AlignBegin=30782|AlignEnd=31024|GE=woman|Gloss=woman|nWord=14|RX=[N]
 15	kle	kle	AUX	_	_	_	_	_	AlignBegin=31024|AlignEnd=31266|GE=be|Gloss=be|nWord=15|RX=[V]
 16	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=31266|AlignEnd=31508|GE=child|Gloss=child|nWord=16|RX=[N]
-17	ne	ne	DET	_	_	_	_	_	AlignBegin=31508|AlignEnd=31750|GE=that|Gloss=that|nWord=17|RX=[DET]
+17	ne	ne	DET	_	_	16	mod	_	AlignBegin=31508|AlignEnd=31750|GE=that|Gloss=that|nWord=17|RX=[DET]
 18	dwe	dwe	VERB	_	_	15	comp:aux	_	AlignBegin=31750|AlignEnd=31992|GE=[carry].[NPST]|Gloss=carry.NPST|nWord=18|RX=[V]
 19	kote	kote	ADV	_	_	_	_	_	AlignBegin=31992|AlignEnd=32234|GE=in_hand|Gloss=in_hand|nWord=19|RX=[ADV]
 20	.		.	_	_	_	_	_	AlignBegin=32234|AlignEnd=32480|Gloss=.|nWord=20
@@ -99,7 +99,7 @@
 # sent_timecode = 33105, 37925
 # morphemic_text = entonces cha hombre kle sukekre ngasuku , sainkuli .
 # text = entonces cha hombre kle sukekre ngasuku , sainkuli .
-# text_en =  So I, the man, go somewhere else outside. It is forbidden.
+# text_en = So I, the man, go somewhere else outside. It is forbidden.
 1	entonces	entonces	ADV	_	_	_	_	_	AlignBegin=33105|AlignEnd=33641|GE=so|Gloss=so|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	_	_	_	AlignBegin=33641|AlignEnd=34177|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	hombre	hombre	ADJ	_	_	2	mod	_	AlignBegin=34177|AlignEnd=34713|GE=male|Gloss=male|nWord=3|RX=[ADJ]

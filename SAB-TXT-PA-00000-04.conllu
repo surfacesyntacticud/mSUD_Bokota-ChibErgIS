@@ -1,0 +1,484 @@
+# sent_id = SAB-TXT-PA-00000-04_01-01
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 14470, 18120
+# morphemic_text = nga aini che kle hoke aini hoke ble ke .
+# text = nga aini che kle hoke aini hoke ble ke .
+# text_en = Here in the village, we go to the sea.
+1	nga	nga	N	_	_	_	_	_	AlignBegin=14470|AlignEnd=14835|GE=village|Gloss=village|nWord=1|RX=[N]
+2	aini	aini	ADV	_	_	_	_	_	AlignBegin=14835|AlignEnd=15200|GE=here|Gloss=here|nWord=2|RX=[ADV]
+3	che	che	PRO	_	_	_	_	_	AlignBegin=15200|AlignEnd=15565|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
+4	kle	kle	V	_	_	_	_	_	AlignBegin=15565|AlignEnd=15930|GE=be|Gloss=be|nWord=4|RX=[V]
+5	hoke	hoke	V	_	_	_	_	_	AlignBegin=15930|AlignEnd=16295|GE=go|Gloss=go|nWord=5|RX=[V]
+6	aini	aini	ADV	_	_	_	_	_	AlignBegin=16295|AlignEnd=16660|GE=here|Gloss=here|nWord=6|RX=[ADV]
+7	hoke	hoke	V	_	_	_	_	_	AlignBegin=16660|AlignEnd=17025|GE=go|Gloss=go|nWord=7|RX=[V]
+8	ble	ble	N	_	_	_	_	_	AlignBegin=17025|AlignEnd=17390|GE=sea|Gloss=sea|nWord=8|RX=[N]
+9	ke	ke	ADP	_	_	_	_	_	AlignBegin=17390|AlignEnd=17755|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
+10	.		.	_	_	_	_	_	AlignBegin=17755|AlignEnd=18120|Gloss=.|nWord=10
+
+# sent_id = SAB-TXT-PA-00000-04_02-02
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 19530, 23010
+# morphemic_text = chi nangka honinke kada kle Mongoloso .
+# text = chi nangka honinke kada kle Mongoloso .
+# text_en = There is a first river named Mongoloso.
+1	chi	chi	N	_	_	_	_	_	AlignBegin=19530|AlignEnd=20027|GE=water|Gloss=water|nWord=1|RX=[N]
+2	nangka	nangka	ADJ	_	_	_	_	_	AlignBegin=20027|AlignEnd=20524|GE=next|Gloss=next|nWord=2|RX=[ADJ]
+3	honinke	honinke	ADV	_	_	_	_	_	AlignBegin=20524|AlignEnd=21021|GE=first|Gloss=first|nWord=3|RX=[ADV]
+4	kada	kada	N	_	_	_	_	_	AlignBegin=21021|AlignEnd=21518|GE=name|Gloss=name|nWord=4|RX=[N]
+5	kle	kle	V	_	_	_	_	_	AlignBegin=21518|AlignEnd=22015|GE=be|Gloss=be|nWord=5|RX=[V]
+6	Mongoloso	Mongoloso	NPROP	_	_	_	_	_	AlignBegin=22015|AlignEnd=22512|GE=[Mongoloso]|Gloss=Mongoloso|nWord=6|RX=[NPROP]
+7	.		.	_	_	_	_	_	AlignBegin=22512|AlignEnd=23010|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-PA-00000-04_03-03
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 23180, 30730
+# morphemic_text = de ai che kle hoke chi nangka fatenunga chi nangka gda oke kada kle quebrada Limon .
+# text = de ai che kle hoke chi nangka fatenunga chi nangka gdaoke kada kle kebrada limon .
+# text_en = From there (we) go where the next river falls, the second river named River Limon.
+1	de	de	ADP	_	_	_	_	_	AlignBegin=23180|AlignEnd=23652|GE=from|Gloss=from|nWord=1|RX=[ADP]
+2	ai	ai	ADV	_	_	_	_	_	AlignBegin=23652|AlignEnd=24124|GE=here|Gloss=here|nWord=2|RX=[ADV]
+3	che	che	PRO	_	_	_	_	_	AlignBegin=24124|AlignEnd=24596|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
+4	kle	kle	V	_	_	_	_	_	AlignBegin=24596|AlignEnd=25068|GE=be|Gloss=be|nWord=4|RX=[V]
+5	hoke	hoke	V	_	_	_	_	_	AlignBegin=25068|AlignEnd=25540|GE=go|Gloss=go|nWord=5|RX=[V]
+6	chi	chi	N	_	_	_	_	_	AlignBegin=25540|AlignEnd=26012|GE=water|Gloss=water|nWord=6|RX=[N]
+7	nangka	nangka	ADJ	_	_	_	_	_	AlignBegin=26012|AlignEnd=26484|GE=next|Gloss=next|nWord=7|RX=[ADJ]
+8	fatenunga	fatenunga	V	_	_	_	_	_	AlignBegin=26484|AlignEnd=26956|GE=[fall].[PST]|Gloss=fall.PST|nWord=8|RX=[V]
+9	chi	chi	N	_	_	_	_	_	AlignBegin=26956|AlignEnd=27428|GE=water|Gloss=water|nWord=9|RX=[N]
+10	nangka	nangka	ADJ	_	_	_	_	_	AlignBegin=27428|AlignEnd=27900|GE=next|Gloss=next|nWord=10|RX=[ADJ]
+11	gda	gda	NUM	_	_	_	_	_	AlignBegin=27900|AlignEnd=28136|GE=cl|Gloss=cl|nWord=11|RX=[NUM]
+12	oke	oke	NUM	_	_	_	_	_	AlignBegin=28136|AlignEnd=28372|GE=two|Gloss=two|nWord=11|RX=[NUM]
+13	kada	kada	N	_	_	_	_	_	AlignBegin=28372|AlignEnd=28844|GE=name|Gloss=name|nWord=12|RX=[N]
+14	kle	kle	V	_	_	_	_	_	AlignBegin=28844|AlignEnd=29316|GE=be|Gloss=be|nWord=13|RX=[V]
+15	quebrada	quebrada	N	_	_	_	_	_	AlignBegin=29316|AlignEnd=29788|GE=river|Gloss=river|nWord=14|RX=[N]
+16	Limon	Limon	NPROP	_	_	_	_	_	AlignBegin=29788|AlignEnd=30260|GE=[Limon]|Gloss=Limon|nWord=15|RX=[NPROP]
+17	.		.	_	_	_	_	_	AlignBegin=30260|AlignEnd=30730|Gloss=.|nWord=16
+
+# sent_id = SAB-TXT-PA-00000-04_04-04
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 30790, 37550
+# morphemic_text = porque ble ka che kle hoke hong tieng ble ke ble kada Limon punta Limon .
+# text = porque ble ka che kle hoke hong tieng ble ke ble kada limon punta limon .
+# text_en = Because we go to the mouth of the sea, we go through the path that goes to the sea called Limon, the point Limon.
+1	porque	porque	CONN	_	_	_	_	_	AlignBegin=30790|AlignEnd=31212|GE=because|Gloss=because|nWord=1|RX=[CONN]
+2	ble	ble	N	_	_	_	_	_	AlignBegin=31212|AlignEnd=31634|GE=sea|Gloss=sea|nWord=2|RX=[N]
+3	ka	ka	N	_	_	_	_	_	AlignBegin=31634|AlignEnd=32056|GE=mouth|Gloss=mouth|nWord=3|RX=[N]
+4	che	che	PRO	_	_	_	_	_	AlignBegin=32056|AlignEnd=32478|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=4|RX=[PRO]
+5	kle	kle	V	_	_	_	_	_	AlignBegin=32478|AlignEnd=32900|GE=be|Gloss=be|nWord=5|RX=[V]
+6	hoke	hoke	V	_	_	_	_	_	AlignBegin=32900|AlignEnd=33322|GE=go|Gloss=go|nWord=6|RX=[V]
+7	hong	hong	N	_	_	_	_	_	AlignBegin=33322|AlignEnd=33744|GE=path|Gloss=path|nWord=7|RX=[N]
+8	tieng	tieng	V	_	_	_	_	_	AlignBegin=33744|AlignEnd=34166|GE=[see].[NPST]|Gloss=see.NPST|nWord=8|RX=[V]
+9	ble	ble	N	_	_	_	_	_	AlignBegin=34166|AlignEnd=34588|GE=sea|Gloss=sea|nWord=9|RX=[N]
+10	ke	ke	ADP	_	_	_	_	_	AlignBegin=34588|AlignEnd=35010|GE=[LOC]|Gloss=LOC|nWord=10|RX=[ADP]
+11	ble	ble	N	_	_	_	_	_	AlignBegin=35010|AlignEnd=35432|GE=sea|Gloss=sea|nWord=11|RX=[N]
+12	kada	kada	N	_	_	_	_	_	AlignBegin=35432|AlignEnd=35854|GE=name|Gloss=name|nWord=12|RX=[N]
+13	Limon	Limon	NPROP	_	_	_	_	_	AlignBegin=35854|AlignEnd=36276|GE=[Limon]|Gloss=Limon|nWord=13|RX=[NPROP]
+14	punta	punta	N	_	_	_	_	_	AlignBegin=36276|AlignEnd=36698|GE=point|Gloss=point|nWord=14|RX=[N]
+15	Limon	Limon	NPROP	_	_	_	_	_	AlignBegin=36698|AlignEnd=37120|GE=[Limon]|Gloss=Limon|nWord=15|RX=[NPROP]
+16	.		.	_	_	_	_	_	AlignBegin=37120|AlignEnd=37550|Gloss=.|nWord=16
+
+# sent_id = SAB-TXT-PA-00000-04_05-05
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 37890, 39670
+# morphemic_text = dwa gnanku -da .
+# text = dwa gnankuda .
+# text_en = Coming down.
+1	dwa	dwa	ADV	_	_	_	_	_	AlignBegin=37890|AlignEnd=38483|GE=down|Gloss=down|nWord=1|RX=[ADV]
+2	gnanku	gnanku	ADV	_	_	_	_	_	AlignBegin=38483|AlignEnd=38779|GE=far.med|Gloss=far.med|nWord=2|RX=[ADV]
+3	-da		VERB	_	_	_	_	_	AlignBegin=38779|AlignEnd=39076|GE=emph|Gloss=emph|nWord=2|RX=[VERB]
+4	.		.	_	_	_	_	_	AlignBegin=39076|AlignEnd=39670|Gloss=.|nWord=3
+
+# sent_id = SAB-TXT-PA-00000-04_06-07
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 39760, 48500
+# morphemic_text = che kle hoke hoke hoke hasta hoke iani , gnanku geru kle ngang kada Saragosa .
+# text = che kle hoke hoke hoke ata hoke iani , gnanku geru kle ngang kada Saragosa .
+# text_en = We go, and go, and go, until (we) go there. (We) arrive there where the word is village Saragosa.
+1	che	che	PRO	_	_	_	_	_	AlignBegin=39760|AlignEnd=40049|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	kle	kle	V	_	_	_	_	_	AlignBegin=40049|AlignEnd=40338|GE=be|Gloss=be|nWord=2|RX=[V]
+3	hoke	hoke	V	_	_	_	_	_	AlignBegin=40338|AlignEnd=40627|GE=go|Gloss=go|nWord=3|RX=[V]
+4	hoke	hoke	V	_	_	_	_	_	AlignBegin=40627|AlignEnd=40916|GE=go|Gloss=go|nWord=4|RX=[V]
+5	hoke	hoke	V	_	_	_	_	_	AlignBegin=40916|AlignEnd=41205|GE=go|Gloss=go|nWord=5|RX=[V]
+6	hasta	hasta	ADP	_	_	_	_	_	AlignBegin=41205|AlignEnd=41494|GE=to|Gloss=to|nWord=6|RX=[ADP]
+7	hoke	hoke	V	_	_	_	_	_	AlignBegin=41494|AlignEnd=41783|GE=go|Gloss=go|nWord=7|RX=[V]
+8	iani	iani	ADV	_	_	_	_	_	AlignBegin=41783|AlignEnd=42072|GE=there|Gloss=there|nWord=8|RX=[ADV]
+9	,		_	_	_	_	_	_	AlignBegin=42072|AlignEnd=42360|nWord=9
+10	gnanku	gnanku	ADV	_	_	_	_	_	AlignBegin=42390|AlignEnd=43263|GE=far.med|Gloss=far.med|nWord=10|RX=[ADV]
+11	geru	geru	N	_	_	_	_	_	AlignBegin=43263|AlignEnd=44136|GE=word|Gloss=word|nWord=11|RX=[N]
+12	kle	kle	V	_	_	_	_	_	AlignBegin=44136|AlignEnd=45009|GE=be|Gloss=be|nWord=12|RX=[V]
+13	ngang	ngang	N	_	_	_	_	_	AlignBegin=45009|AlignEnd=45882|GE=village|Gloss=village|nWord=13|RX=[N]
+14	kada	kada	N	_	_	_	_	_	AlignBegin=45882|AlignEnd=46755|GE=name|Gloss=name|nWord=14|RX=[N]
+15	Saragosa	Saragosa	NPROP	_	_	_	_	_	AlignBegin=46755|AlignEnd=47628|GE=[Saragosa]|Gloss=Saragosa|nWord=15|RX=[NPROP]
+16	.		.	_	_	_	_	_	AlignBegin=47628|AlignEnd=48500|Gloss=.|nWord=16
+
+# sent_id = SAB-TXT-PA-00000-04_08-08
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 48650, 53130
+# morphemic_text = de ai che kle chage nerku mas gnanku hay un escuela .
+# text = de ai che kle chage nerku ma gnanku hay un escuela .
+# text_en = From there we walk straight, further away there is a school.
+1	de	de	ADP	_	_	_	_	_	AlignBegin=48650|AlignEnd=49023|GE=from|Gloss=from|nWord=1|RX=[ADP]
+2	ai	ai	ADV	_	_	_	_	_	AlignBegin=49023|AlignEnd=49396|GE=here|Gloss=here|nWord=2|RX=[ADV]
+3	che	che	PRO	_	_	_	_	_	AlignBegin=49396|AlignEnd=49769|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
+4	kle	kle	V	_	_	_	_	_	AlignBegin=49769|AlignEnd=50142|GE=be|Gloss=be|nWord=4|RX=[V]
+5	chage	chage	V	_	_	_	_	_	AlignBegin=50142|AlignEnd=50515|GE=walk|Gloss=walk|nWord=5|RX=[V]
+6	nerku	nerku	ADV	_	_	_	_	_	AlignBegin=50515|AlignEnd=50888|GE=ahead|Gloss=ahead|nWord=6|RX=[ADV]
+7	mas	mas	ADV	_	_	_	_	_	AlignBegin=50888|AlignEnd=51261|GE=more|Gloss=more|nWord=7|RX=[ADV]
+8	gnanku	gnanku	ADV	_	_	_	_	_	AlignBegin=51261|AlignEnd=51634|GE=far.med|Gloss=far.med|nWord=8|RX=[ADV]
+9	hay	hay	V	_	_	_	_	_	AlignBegin=51634|AlignEnd=52007|GE=there_is|Gloss=there_is|nWord=9|RX=[V]
+10	un	un	DET	_	_	_	_	_	AlignBegin=52007|AlignEnd=52380|GE=[INDEF].[M]|Gloss=INDEF.M|nWord=10|RX=[DET]
+11	escuela	escuela	N	_	_	_	_	_	AlignBegin=52380|AlignEnd=52753|GE=school|Gloss=school|nWord=11|RX=[N]
+12	.		.	_	_	_	_	_	AlignBegin=52753|AlignEnd=53130|Gloss=.|nWord=12
+
+# sent_id = SAB-TXT-PA-00000-04_09-12
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 57850, 66740
+# morphemic_text = de ai che kle hoke hoke , ya gnanku chi ka ke , chi kweri ka kada kle Kawita ke , chi kweri ka ke .
+# text = de ai che kle hoke hoke , ya gnanku chi ka ke , chi kweri ka kada kle kawita ke , chi kweri ka ke .
+# text_en = From there we go, and go, Now further away there is the mouth of the river, The mouth of a big river named Cahuita. The mouth of the big river.
+1	de	de	ADP	_	_	_	_	_	AlignBegin=57850|AlignEnd=58159|GE=from|Gloss=from|nWord=1|RX=[ADP]
+2	ai	ai	ADV	_	_	_	_	_	AlignBegin=58159|AlignEnd=58468|GE=here|Gloss=here|nWord=2|RX=[ADV]
+3	che	che	PRO	_	_	_	_	_	AlignBegin=58468|AlignEnd=58777|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
+4	kle	kle	V	_	_	_	_	_	AlignBegin=58777|AlignEnd=59086|GE=be|Gloss=be|nWord=4|RX=[V]
+5	hoke	hoke	V	_	_	_	_	_	AlignBegin=59086|AlignEnd=59395|GE=go|Gloss=go|nWord=5|RX=[V]
+6	hoke	hoke	V	_	_	_	_	_	AlignBegin=59395|AlignEnd=59704|GE=go|Gloss=go|nWord=6|RX=[V]
+7	,		_	_	_	_	_	_	AlignBegin=59704|AlignEnd=60010|nWord=7
+8	ya	ya	ADV	_	_	_	_	_	AlignBegin=60010|AlignEnd=60362|GE=now|Gloss=now|nWord=8|RX=[ADV]
+9	gnanku	gnanku	ADV	_	_	_	_	_	AlignBegin=60362|AlignEnd=60714|GE=far.med|Gloss=far.med|nWord=9|RX=[ADV]
+10	chi	chi	N	_	_	_	_	_	AlignBegin=60714|AlignEnd=61066|GE=water|Gloss=water|nWord=10|RX=[N]
+11	ka	ka	N	_	_	_	_	_	AlignBegin=61066|AlignEnd=61418|GE=mouth|Gloss=mouth|nWord=11|RX=[N]
+12	ke	ke	ADP	_	_	_	_	_	AlignBegin=61418|AlignEnd=61770|GE=[LOC]|Gloss=LOC|nWord=12|RX=[ADP]
+13	,		_	_	_	_	_	_	AlignBegin=61770|AlignEnd=62120|nWord=13
+14	chi	chi	N	_	_	_	_	_	AlignBegin=62150|AlignEnd=62514|GE=water|Gloss=water|nWord=14|RX=[N]
+15	kweri	kweri	ADJ	_	_	_	_	_	AlignBegin=62514|AlignEnd=62878|GE=big|Gloss=big|nWord=15|RX=[ADJ]
+16	ka	ka	N	_	_	_	_	_	AlignBegin=62878|AlignEnd=63242|GE=mouth|Gloss=mouth|nWord=16|RX=[N]
+17	kada	kada	N	_	_	_	_	_	AlignBegin=63242|AlignEnd=63606|GE=name|Gloss=name|nWord=17|RX=[N]
+18	kle	kle	V	_	_	_	_	_	AlignBegin=63606|AlignEnd=63970|GE=be|Gloss=be|nWord=18|RX=[V]
+19	Kawita	Kawita	NPROP	_	_	_	_	_	AlignBegin=63970|AlignEnd=64334|GE=[Kawita]|Gloss=Kawita|nWord=19|RX=[NPROP]
+20	ke	ke	ADP	_	_	_	_	_	AlignBegin=64334|AlignEnd=64698|GE=[LOC]|Gloss=LOC|nWord=20|RX=[ADP]
+21	,		_	_	_	_	_	_	AlignBegin=64698|AlignEnd=65060|nWord=21
+22	chi	chi	N	_	_	_	_	_	AlignBegin=65280|AlignEnd=65572|GE=water|Gloss=water|nWord=22|RX=[N]
+23	kweri	kweri	ADJ	_	_	_	_	_	AlignBegin=65572|AlignEnd=65864|GE=big|Gloss=big|nWord=23|RX=[ADJ]
+24	ka	ka	N	_	_	_	_	_	AlignBegin=65864|AlignEnd=66156|GE=mouth|Gloss=mouth|nWord=24|RX=[N]
+25	ke	ke	ADP	_	_	_	_	_	AlignBegin=66156|AlignEnd=66448|GE=[LOC]|Gloss=LOC|nWord=25|RX=[ADP]
+26	.		.	_	_	_	_	_	AlignBegin=66448|AlignEnd=66740|Gloss=.|nWord=26
+
+# sent_id = SAB-TXT-PA-00000-04_13-13
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 67010, 70570
+# morphemic_text = ba hoke diaku gnanku la Calovebora .
+# text = ba hoke diaku gnanku la calovebora .
+# text_en = You go and soon after there is Calovebora.
+1	ba	ba	PRO	_	_	_	_	_	AlignBegin=67010|AlignEnd=67519|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
+2	hoke	hoke	V	_	_	_	_	_	AlignBegin=67519|AlignEnd=68028|GE=go|Gloss=go|nWord=2|RX=[V]
+3	diaku	diaku	ADV	_	_	_	_	_	AlignBegin=68028|AlignEnd=68537|GE=close|Gloss=close|nWord=3|RX=[ADV]
+4	gnanku	gnanku	ADV	_	_	_	_	_	AlignBegin=68537|AlignEnd=69046|GE=far.med|Gloss=far.med|nWord=4|RX=[ADV]
+5	la	la	ART	_	_	_	_	_	AlignBegin=69046|AlignEnd=69555|GE=the|Gloss=the|nWord=5|RX=[ART]
+6	Calovebora	Calovebora	NPROP	_	_	_	_	_	AlignBegin=69555|AlignEnd=70064|GE=[Calovebora]|Gloss=Calovebora|nWord=6|RX=[NPROP]
+7	.		.	_	_	_	_	_	AlignBegin=70064|AlignEnd=70570|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-PA-00000-04_14-14
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 71680, 77800
+# morphemic_text = che kle hoke ke ke chek -e tragdate ali que kada Moron .
+# text = che kle hoke ke ke cheke tragdate ali que kada moron .
+# text_en = We keep going and end up at Moron.
+1	che	che	PRO	_	_	_	_	_	AlignBegin=71680|AlignEnd=72190|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	kle	kle	V	_	_	_	_	_	AlignBegin=72190|AlignEnd=72700|GE=be|Gloss=be|nWord=2|RX=[V]
+3	hoke	hoke	V	_	_	_	_	_	AlignBegin=72700|AlignEnd=73210|GE=go|Gloss=go|nWord=3|RX=[V]
+4	ke	ke	N	_	_	_	_	_	AlignBegin=73210|AlignEnd=73720|GE=stone|Gloss=stone|nWord=4|RX=[N]
+5	ke	ke	ADP	_	_	_	_	_	AlignBegin=73720|AlignEnd=74230|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
+6	chek	chek	V	_	_	_	_	_	AlignBegin=74230|AlignEnd=74485|GE=stay|Gloss=stay|nWord=6|RX=[V]
+7	-e		V:ANY	_	_	_	_	_	AlignBegin=74485|AlignEnd=74740|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
+8	tragdate	tragdate	ADJ	_	_	_	_	_	AlignBegin=74740|AlignEnd=75250|GE=straight|Gloss=straight|nWord=7|RX=[ADJ]
+9	ali	ali	ADP	_	_	_	_	_	AlignBegin=75250|AlignEnd=75760|GE=with|Gloss=with|nWord=8|RX=[ADP]
+10	que	que	PRO	_	_	_	_	_	AlignBegin=75760|AlignEnd=76270|GE=that|Gloss=that|nWord=9|RX=[PRO]
+11	kada	kada	N	_	_	_	_	_	AlignBegin=76270|AlignEnd=76780|GE=name|Gloss=name|nWord=10|RX=[N]
+12	Moron	Moron	NPROP	_	_	_	_	_	AlignBegin=76780|AlignEnd=77290|GE=[Moron]|Gloss=Moron|nWord=11|RX=[NPROP]
+13	.		.	_	_	_	_	_	AlignBegin=77290|AlignEnd=77800|Gloss=.|nWord=12
+
+# sent_id = SAB-TXT-PA-00000-04_15-15
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 77955, 80045
+# morphemic_text = ble chi -u enika de Moron .
+# text = ble chiu enika de moron .
+# text_en = (We) come the the sea called Moron.
+1	ble	ble	N	_	_	_	_	_	AlignBegin=77955|AlignEnd=78303|GE=sea|Gloss=sea|nWord=1|RX=[N]
+2	chi	chi	V	_	_	_	_	_	AlignBegin=78303|AlignEnd=78477|GE=come|Gloss=come|nWord=2|RX=[V]
+3	-u		V:ANY	_	_	_	_	_	AlignBegin=78477|AlignEnd=78651|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
+4	enika	enika	_	_	_	_	_	_	AlignBegin=78651|AlignEnd=78999|nWord=3
+5	de	de	ADP	_	_	_	_	_	AlignBegin=78999|AlignEnd=79347|GE=from|Gloss=from|nWord=4|RX=[ADP]
+6	Moron	Moron	NPROP	_	_	_	_	_	AlignBegin=79347|AlignEnd=79695|GE=[Moron]|Gloss=Moron|nWord=5|RX=[NPROP]
+7	.		.	_	_	_	_	_	AlignBegin=79695|AlignEnd=80045|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-PA-00000-04_16-16
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 80225, 85345
+# morphemic_text = de ai che kle hoke diaku chi kweri kada kebra grande .
+# text = de ai che kle hoke diaku chi kweri kada kebra grande .
+# text_en = From there we soon go to a big river called River Grande.
+1	de	de	ADP	_	_	_	_	_	AlignBegin=80225|AlignEnd=80652|GE=from|Gloss=from|nWord=1|RX=[ADP]
+2	ai	ai	ADV	_	_	_	_	_	AlignBegin=80652|AlignEnd=81079|GE=here|Gloss=here|nWord=2|RX=[ADV]
+3	che	che	PRO	_	_	_	_	_	AlignBegin=81079|AlignEnd=81506|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
+4	kle	kle	V	_	_	_	_	_	AlignBegin=81506|AlignEnd=81933|GE=be|Gloss=be|nWord=4|RX=[V]
+5	hoke	hoke	V	_	_	_	_	_	AlignBegin=81933|AlignEnd=82360|GE=go|Gloss=go|nWord=5|RX=[V]
+6	diaku	diaku	ADV	_	_	_	_	_	AlignBegin=82360|AlignEnd=82787|GE=close|Gloss=close|nWord=6|RX=[ADV]
+7	chi	chi	N	_	_	_	_	_	AlignBegin=82787|AlignEnd=83214|GE=water|Gloss=water|nWord=7|RX=[N]
+8	kweri	kweri	ADJ	_	_	_	_	_	AlignBegin=83214|AlignEnd=83641|GE=big|Gloss=big|nWord=8|RX=[ADJ]
+9	kada	kada	N	_	_	_	_	_	AlignBegin=83641|AlignEnd=84068|GE=name|Gloss=name|nWord=9|RX=[N]
+10	kebra	kebra	N	_	_	_	_	_	AlignBegin=84068|AlignEnd=84495|GE=river|Gloss=river|nWord=10|RX=[N]
+11	grande	grande	ADJ	_	_	_	_	_	AlignBegin=84495|AlignEnd=84922|GE=big|Gloss=big|nWord=11|RX=[ADJ]
+12	.		.	_	_	_	_	_	AlignBegin=84922|AlignEnd=85345|Gloss=.|nWord=12
+
+# sent_id = SAB-TXT-PA-00000-04_17-18
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 85570, 92710
+# morphemic_text = de ai cha kle hoke hoke , chi nangka gda ite giti chi nangka gda ite kada kebra Mamei .
+# text = de ai cha kle hoke hoke , chi nangka gdaite giti chi nangka gdaite kada kebra mamei .
+# text_en = From there I go, and go, to the first river called Mamei.
+1	de	de	ADP	_	_	_	_	_	AlignBegin=85570|AlignEnd=85990|GE=from|Gloss=from|nWord=1|RX=[ADP]
+2	ai	ai	ADV	_	_	_	_	_	AlignBegin=85990|AlignEnd=86410|GE=here|Gloss=here|nWord=2|RX=[ADV]
+3	cha	cha	PRO	_	_	_	_	_	AlignBegin=86410|AlignEnd=86830|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
+4	kle	kle	V	_	_	_	_	_	AlignBegin=86830|AlignEnd=87250|GE=be|Gloss=be|nWord=4|RX=[V]
+5	hoke	hoke	V	_	_	_	_	_	AlignBegin=87250|AlignEnd=87670|GE=go|Gloss=go|nWord=5|RX=[V]
+6	hoke	hoke	V	_	_	_	_	_	AlignBegin=87670|AlignEnd=88090|GE=go|Gloss=go|nWord=6|RX=[V]
+7	,		_	_	_	_	_	_	AlignBegin=88090|AlignEnd=88510|nWord=7
+8	chi	chi	N	_	_	_	_	_	AlignBegin=88560|AlignEnd=88937|GE=water|Gloss=water|nWord=8|RX=[N]
+9	nangka	nangka	ADJ	_	_	_	_	_	AlignBegin=88937|AlignEnd=89314|GE=next|Gloss=next|nWord=9|RX=[ADJ]
+10	gda	gda	NUM	_	_	_	_	_	AlignBegin=89314|AlignEnd=89502|GE=cl|Gloss=cl|nWord=10|RX=[NUM]
+11	ite	ite	NUM	_	_	_	_	_	AlignBegin=89502|AlignEnd=89691|GE=one|Gloss=one|nWord=10|RX=[NUM]
+12	giti	giti	ADP	_	_	_	_	_	AlignBegin=89691|AlignEnd=90068|GE=[LOC]|Gloss=LOC|nWord=11|RX=[ADP]
+13	chi	chi	N	_	_	_	_	_	AlignBegin=90068|AlignEnd=90445|GE=water|Gloss=water|nWord=12|RX=[N]
+14	nangka	nangka	ADJ	_	_	_	_	_	AlignBegin=90445|AlignEnd=90822|GE=next|Gloss=next|nWord=13|RX=[ADJ]
+15	gda	gda	NUM	_	_	_	_	_	AlignBegin=90822|AlignEnd=91010|GE=cl|Gloss=cl|nWord=14|RX=[NUM]
+16	ite	ite	NUM	_	_	_	_	_	AlignBegin=91010|AlignEnd=91199|GE=one|Gloss=one|nWord=14|RX=[NUM]
+17	kada	kada	N	_	_	_	_	_	AlignBegin=91199|AlignEnd=91576|GE=name|Gloss=name|nWord=15|RX=[N]
+18	kebra	kebra	N	_	_	_	_	_	AlignBegin=91576|AlignEnd=91953|GE=river|Gloss=river|nWord=16|RX=[N]
+19	Mamei	Mamei	NPROP	_	_	_	_	_	AlignBegin=91953|AlignEnd=92330|GE=[Mamei]|Gloss=Mamei|nWord=17|RX=[NPROP]
+20	.		.	_	_	_	_	_	AlignBegin=92330|AlignEnd=92710|Gloss=.|nWord=18
+
+# sent_id = SAB-TXT-PA-00000-04_19-19
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 92920, 97070
+# morphemic_text = ya eni che kle hoke para una esta ya dek -u .
+# text = ya eni che kle hoke pa una ta ya deku .
+# text_en = From there we go trough a X.
+1	ya	ya	ADV	_	_	_	_	_	AlignBegin=92920|AlignEnd=93297|GE=now|Gloss=now|nWord=1|RX=[ADV]
+2	eni	eni	ADV	_	_	_	_	_	AlignBegin=93297|AlignEnd=93674|GE=there|Gloss=there|nWord=2|RX=[ADV]
+3	che	che	PRO	_	_	_	_	_	AlignBegin=93674|AlignEnd=94051|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
+4	kle	kle	V	_	_	_	_	_	AlignBegin=94051|AlignEnd=94428|GE=be|Gloss=be|nWord=4|RX=[V]
+5	hoke	hoke	V	_	_	_	_	_	AlignBegin=94428|AlignEnd=94805|GE=go|Gloss=go|nWord=5|RX=[V]
+6	para	para	ADP	_	_	_	_	_	AlignBegin=94805|AlignEnd=95182|GE=to|Gloss=to|nWord=6|RX=[ADP]
+7	una	una	N	_	_	_	_	_	AlignBegin=95182|AlignEnd=95559|GE=city|Gloss=city|nWord=7|RX=[N]
+8	esta	esta	V	_	_	_	_	_	AlignBegin=95559|AlignEnd=95936|GE=be|Gloss=be|nWord=8|RX=[V]
+9	ya	ya	ADV	_	_	_	_	_	AlignBegin=95936|AlignEnd=96313|GE=now|Gloss=now|nWord=9|RX=[ADV]
+10	dek	dek	V	_	_	_	_	_	AlignBegin=96313|AlignEnd=96501|GE=peel|Gloss=peel|nWord=10|RX=[V]
+11	-u		V:ANY	_	_	_	_	_	AlignBegin=96501|AlignEnd=96690|GE=[PST]|Gloss=-PST|nWord=10|RX=[V:ANY]
+12	.		.	_	_	_	_	_	AlignBegin=96690|AlignEnd=97070|Gloss=.|nWord=11
+
+# sent_id = SAB-TXT-PA-00000-04_20-20
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 97090, 102390
+# morphemic_text = chi gda ite ultimo chi kada Choro .
+# text = chi gdaite ultimo chi kada choro .
+# text_en = One last river called Tchoro.
+1	chi	chi	N	_	_	_	_	_	AlignBegin=97090|AlignEnd=97847|GE=water|Gloss=water|nWord=1|RX=[N]
+2	gda	gda	NUM	_	_	_	_	_	AlignBegin=97847|AlignEnd=98225|GE=cl|Gloss=cl|nWord=2|RX=[NUM]
+3	ite	ite	NUM	_	_	_	_	_	AlignBegin=98225|AlignEnd=98604|GE=one|Gloss=one|nWord=2|RX=[NUM]
+4	ultimo	ultimo	NUM	_	_	_	_	_	AlignBegin=98604|AlignEnd=99361|GE=last|Gloss=last|nWord=3|RX=[NUM]
+5	chi	chi	N	_	_	_	_	_	AlignBegin=99361|AlignEnd=100118|GE=water|Gloss=water|nWord=4|RX=[N]
+6	kada	kada	N	_	_	_	_	_	AlignBegin=100118|AlignEnd=100875|GE=name|Gloss=name|nWord=5|RX=[N]
+7	Choro	Choro	NPROP	_	_	_	_	_	AlignBegin=100875|AlignEnd=101632|GE=[Choro]|Gloss=Choro|nWord=6|RX=[NPROP]
+8	.		.	_	_	_	_	_	AlignBegin=101632|AlignEnd=102390|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-PA-00000-04_21-24
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 103280, 108595
+# morphemic_text = ya ai ba kle chk -e eni , ba kle obe ai , para hoke -dale nerku , ba kle obe .
+# text = ya ai ba kle chke eni , ba kle obe ai , pa hokedale nerku , ba kle obe .
+# text_en = From there you arrive here. You (usually) go swim there, In order to be able to go further, You (usually) swim.
+1	ya	ya	ADV	_	_	_	_	_	AlignBegin=103280|AlignEnd=103464|GE=now|Gloss=now|nWord=1|RX=[ADV]
+2	ai	ai	ADV	_	_	_	_	_	AlignBegin=103464|AlignEnd=103648|GE=here|Gloss=here|nWord=2|RX=[ADV]
+3	ba	ba	PRO	_	_	_	_	_	AlignBegin=103648|AlignEnd=103832|GE=[2SG]|Gloss=2SG|nWord=3|RX=[PRO]
+4	kle	kle	V	_	_	_	_	_	AlignBegin=103832|AlignEnd=104016|GE=be|Gloss=be|nWord=4|RX=[V]
+5	chk	chk	V	_	_	_	_	_	AlignBegin=104016|AlignEnd=104108|GE=arrive|Gloss=arrive|nWord=5|RX=[V]
+6	-e		V:ANY	_	_	_	_	_	AlignBegin=104108|AlignEnd=104200|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	eni	eni	ADV	_	_	_	_	_	AlignBegin=104200|AlignEnd=104384|GE=there|Gloss=there|nWord=6|RX=[ADV]
+8	,		_	_	_	_	_	_	AlignBegin=104384|AlignEnd=104570|nWord=7
+9	ba	ba	PRO	_	_	_	_	_	AlignBegin=104590|AlignEnd=104820|GE=[2SG]|Gloss=2SG|nWord=8|RX=[PRO]
+10	kle	kle	V	_	_	_	_	_	AlignBegin=104820|AlignEnd=105050|GE=be|Gloss=be|nWord=9|RX=[V]
+11	obe	obe	V	_	_	_	_	_	AlignBegin=105050|AlignEnd=105280|GE=bath|Gloss=bath|nWord=10|RX=[V]
+12	ai	ai	ADV	_	_	_	_	_	AlignBegin=105280|AlignEnd=105510|GE=here|Gloss=here|nWord=11|RX=[ADV]
+13	,		_	_	_	_	_	_	AlignBegin=105510|AlignEnd=105740|nWord=12
+14	para	para	ADP	_	_	_	_	_	AlignBegin=105800|AlignEnd=106210|GE=to|Gloss=to|nWord=13|RX=[ADP]
+15	hoke	hoke	V	_	_	_	_	_	AlignBegin=106210|AlignEnd=106415|GE=go|Gloss=go|nWord=14|RX=[V]
+16	-dale		V:ANY	_	_	_	_	_	AlignBegin=106415|AlignEnd=106620|GE=[IRR]|Gloss=-IRR|nWord=14|RX=[V:ANY]
+17	nerku	nerku	ADV	_	_	_	_	_	AlignBegin=106620|AlignEnd=107030|GE=ahead|Gloss=ahead|nWord=15|RX=[ADV]
+18	,		_	_	_	_	_	_	AlignBegin=107030|AlignEnd=107440|nWord=16
+19	ba	ba	PRO	_	_	_	_	_	AlignBegin=107485|AlignEnd=107763|GE=[2SG]|Gloss=2SG|nWord=17|RX=[PRO]
+20	kle	kle	V	_	_	_	_	_	AlignBegin=107763|AlignEnd=108041|GE=be|Gloss=be|nWord=18|RX=[V]
+21	obe	obe	V	_	_	_	_	_	AlignBegin=108041|AlignEnd=108319|GE=bath|Gloss=bath|nWord=19|RX=[V]
+22	.		.	_	_	_	_	_	AlignBegin=108319|AlignEnd=108595|Gloss=.|nWord=20
+
+# sent_id = SAB-TXT-PA-00000-04_25-25
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 108660, 110380
+# morphemic_text = ba kle gnome blit -e giti .
+# text = ba kle gnome blite giti .
+# text_en = Where you (usually) clean your clothes.
+1	ba	ba	PRO	_	_	_	_	_	AlignBegin=108660|AlignEnd=108947|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
+2	kle	kle	V	_	_	_	_	_	AlignBegin=108947|AlignEnd=109234|GE=be|Gloss=be|nWord=2|RX=[V]
+3	gnome	gnome	N	_	_	_	_	_	AlignBegin=109234|AlignEnd=109521|GE=clothes|Gloss=clothes|nWord=3|RX=[N]
+4	blit	blit	V	_	_	_	_	_	AlignBegin=109521|AlignEnd=109665|GE=change|Gloss=change|nWord=4|RX=[V]
+5	-e		V:ANY	_	_	_	_	_	AlignBegin=109665|AlignEnd=109808|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+6	giti	giti	ADV	_	_	_	_	_	AlignBegin=109808|AlignEnd=110095|GE=here|Gloss=here|nWord=5|RX=[ADV]
+7	.		.	_	_	_	_	_	AlignBegin=110095|AlignEnd=110380|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-PA-00000-04_26-26
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 110425, 111945
+# morphemic_text = ba kle gnome na bek -e .
+# text = ba kle gnome na beke .
+# text_en = You put other clothes.
+1	ba	ba	PRO	_	_	_	_	_	AlignBegin=110425|AlignEnd=110678|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
+2	kle	kle	V	_	_	_	_	_	AlignBegin=110678|AlignEnd=110931|GE=be|Gloss=be|nWord=2|RX=[V]
+3	gnome	gnome	N	_	_	_	_	_	AlignBegin=110931|AlignEnd=111184|GE=clothes|Gloss=clothes|nWord=3|RX=[N]
+4	na	na	DET	_	_	_	_	_	AlignBegin=111184|AlignEnd=111437|GE=other|Gloss=other|nWord=4|RX=[DET]
+5	bek	bek	V	_	_	_	_	_	AlignBegin=111437|AlignEnd=111563|GE=put|Gloss=put|nWord=5|RX=[V]
+6	-e		V:ANY	_	_	_	_	_	AlignBegin=111563|AlignEnd=111690|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	.		.	_	_	_	_	_	AlignBegin=111690|AlignEnd=111945|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-PA-00000-04_27-27
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 112090, 113260
+# morphemic_text = hagere bek -e .
+# text = hagere beke .
+# text_en = (You) put new (clothes).
+1	hagere	hagere	ADJ	_	_	_	_	_	AlignBegin=112090|AlignEnd=112480|GE=new|Gloss=new|nWord=1|RX=[ADJ]
+2	bek	bek	V	_	_	_	_	_	AlignBegin=112480|AlignEnd=112675|GE=put|Gloss=put|nWord=2|RX=[V]
+3	-e		V:ANY	_	_	_	_	_	AlignBegin=112675|AlignEnd=112870|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	.		.	_	_	_	_	_	AlignBegin=112870|AlignEnd=113260|Gloss=.|nWord=3
+
+# sent_id = SAB-TXT-PA-00000-04_28-28
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 113340, 114300
+# morphemic_text = ba kle hoke .
+# text = ba kle hoke .
+# text_en = You go.
+1	ba	ba	PRO	_	_	_	_	_	AlignBegin=113340|AlignEnd=113580|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
+2	kle	kle	V	_	_	_	_	_	AlignBegin=113580|AlignEnd=113820|GE=be|Gloss=be|nWord=2|RX=[V]
+3	hoke	hoke	V	_	_	_	_	_	AlignBegin=113820|AlignEnd=114060|GE=go|Gloss=go|nWord=3|RX=[V]
+4	.		.	_	_	_	_	_	AlignBegin=114060|AlignEnd=114300|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-PA-00000-04_29-29
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 114335, 116025
+# morphemic_text = usted sube kalera .
+# text = usted sube kalera .
+# text_en = You go up the ladder.
+1	usted	usted	PRO	_	_	_	_	_	AlignBegin=114335|AlignEnd=114757|GE=[2SG].[form]|Gloss=2SG.form|nWord=1|RX=[PRO]
+2	sube	sube	V	_	_	_	_	_	AlignBegin=114757|AlignEnd=115179|GE=go_up|Gloss=go_up|nWord=2|RX=[V]
+3	kalera	kalera	N	_	_	_	_	_	AlignBegin=115179|AlignEnd=115601|GE=ladder|Gloss=ladder|nWord=3|RX=[N]
+4	.		.	_	_	_	_	_	AlignBegin=115601|AlignEnd=116025|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-PA-00000-04_30-31
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 116105, 120145
+# morphemic_text = kalera kecho gwagat -a kalera -le , ba kle hoke .
+# text = Kalera kecho gwagata kalerale , ba kle hoke .
+# text_en = The ladder, the rock made as a ladder. You go.
+1	kalera	kalera	N	_	_	_	_	_	AlignBegin=116105|AlignEnd=116747|GE=ladder|Gloss=ladder|nWord=1|RX=[N]
+2	kecho	kecho	N	_	_	_	_	_	AlignBegin=116747|AlignEnd=117389|GE=rock|Gloss=rock|nWord=2|RX=[N]
+3	gwagat	gwagat	V	_	_	_	_	_	AlignBegin=117389|AlignEnd=117710|GE=prepare|Gloss=prepare|nWord=3|RX=[V]
+4	-a		V:ANY	_	_	_	_	_	AlignBegin=117710|AlignEnd=118031|GE=[PASS]|Gloss=-PASS|nWord=3|RX=[V:ANY]
+5	kalera	kalera	N	_	_	_	_	_	AlignBegin=118031|AlignEnd=118352|GE=ladder|Gloss=ladder|nWord=4|RX=[N]
+6	-le		N>ADJ	_	_	_	_	_	AlignBegin=118352|AlignEnd=118673|GE=[ADJZ]|Gloss=-ADJZ|nWord=4|RX=[N>ADJ]
+7	,		_	_	_	_	_	_	AlignBegin=118673|AlignEnd=119315|nWord=5
+8	ba	ba	PRO	_	_	_	_	_	AlignBegin=119375|AlignEnd=119567|GE=[2SG]|Gloss=2SG|nWord=6|RX=[PRO]
+9	kle	kle	V	_	_	_	_	_	AlignBegin=119567|AlignEnd=119759|GE=be|Gloss=be|nWord=7|RX=[V]
+10	hoke	hoke	V	_	_	_	_	_	AlignBegin=119759|AlignEnd=119951|GE=go|Gloss=go|nWord=8|RX=[V]
+11	.		.	_	_	_	_	_	AlignBegin=119951|AlignEnd=120145|Gloss=.|nWord=9
+
+# sent_id = SAB-TXT-PA-00000-04_32-32
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 120435, 126440
+# morphemic_text = ba kle chk -e iani nga ske pueblo kada kle Lapista Kagnu .
+# text = ba kle chke iani ngaske pueblo kada kle lapista kagnu .
+# text_en = You arrive in a village called Lapista, Kagnu.
+1	ba	ba	PRO	_	_	_	_	_	AlignBegin=120435|AlignEnd=120981|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
+2	kle	kle	V	_	_	_	_	_	AlignBegin=120981|AlignEnd=121527|GE=be|Gloss=be|nWord=2|RX=[V]
+3	chk	chk	V	_	_	_	_	_	AlignBegin=121527|AlignEnd=121800|GE=arrive|Gloss=arrive|nWord=3|RX=[V]
+4	-e		V:ANY	_	_	_	_	_	AlignBegin=121800|AlignEnd=122073|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+5	iani	iani	ADV	_	_	_	_	_	AlignBegin=122073|AlignEnd=122619|GE=there|Gloss=there|nWord=4|RX=[ADV]
+6	nga	nga	N	_	_	_	_	_	AlignBegin=122619|AlignEnd=122892|GE=village|Gloss=village|nWord=5|RX=[N]
+7	ske	ske	ADP	_	_	_	_	_	AlignBegin=122892|AlignEnd=123165|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
+8	pueblo	pueblo	N	_	_	_	_	_	AlignBegin=123165|AlignEnd=123711|GE=village|Gloss=village|nWord=6|RX=[N]
+9	kada	kada	N	_	_	_	_	_	AlignBegin=123711|AlignEnd=124257|GE=name|Gloss=name|nWord=7|RX=[N]
+10	kle	kle	V	_	_	_	_	_	AlignBegin=124257|AlignEnd=124803|GE=be|Gloss=be|nWord=8|RX=[V]
+11	Lapista	Lapista	NPROP	_	_	_	_	_	AlignBegin=124803|AlignEnd=125349|GE=[Lapista]|Gloss=Lapista|nWord=9|RX=[NPROP]
+12	Kagnu	Kagnu	NPROP	_	_	_	_	_	AlignBegin=125349|AlignEnd=125895|GE=[Kagnu]|Gloss=Kagnu|nWord=10|RX=[NPROP]
+13	.		.	_	_	_	_	_	AlignBegin=125895|AlignEnd=126440|Gloss=.|nWord=11
+
+# sent_id = SAB-TXT-PA-00000-04_33-34
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 127070, 132930
+# morphemic_text = cuando ba kle chi kweri ese cruza , ba kle chk -e chi kweri Calovebora ka ke .
+# text = cuando ba kle chi kweri ese cruza , ba kle chke chi kweri calovebora ka ke .
+# text_en = When you cross that big river, You arrive to the mouth of the big river Calovebora.
+1	cuando	cuando	Q	_	_	_	_	_	AlignBegin=127070|AlignEnd=127466|GE=when|Gloss=when|nWord=1|RX=[Q]
+2	ba	ba	PRO	_	_	_	_	_	AlignBegin=127466|AlignEnd=127862|GE=[2SG]|Gloss=2SG|nWord=2|RX=[PRO]
+3	kle	kle	V	_	_	_	_	_	AlignBegin=127862|AlignEnd=128258|GE=be|Gloss=be|nWord=3|RX=[V]
+4	chi	chi	N	_	_	_	_	_	AlignBegin=128258|AlignEnd=128654|GE=water|Gloss=water|nWord=4|RX=[N]
+5	kweri	kweri	ADJ	_	_	_	_	_	AlignBegin=128654|AlignEnd=129050|GE=big|Gloss=big|nWord=5|RX=[ADJ]
+6	ese	ese	DET	_	_	_	_	_	AlignBegin=129050|AlignEnd=129446|GE=that|Gloss=that|nWord=6|RX=[DET]
+7	cruza	cruza	V	_	_	_	_	_	AlignBegin=129446|AlignEnd=129842|GE=cross|Gloss=cross|nWord=7|RX=[V]
+8	,		_	_	_	_	_	_	AlignBegin=129842|AlignEnd=130240|nWord=8
+9	ba	ba	PRO	_	_	_	_	_	AlignBegin=130270|AlignEnd=130566|GE=[2SG]|Gloss=2SG|nWord=9|RX=[PRO]
+10	kle	kle	V	_	_	_	_	_	AlignBegin=130566|AlignEnd=130862|GE=be|Gloss=be|nWord=10|RX=[V]
+11	chk	chk	V	_	_	_	_	_	AlignBegin=130862|AlignEnd=131010|GE=arrive|Gloss=arrive|nWord=11|RX=[V]
+12	-e		V:ANY	_	_	_	_	_	AlignBegin=131010|AlignEnd=131158|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
+13	chi	chi	N	_	_	_	_	_	AlignBegin=131158|AlignEnd=131454|GE=water|Gloss=water|nWord=12|RX=[N]
+14	kweri	kweri	ADJ	_	_	_	_	_	AlignBegin=131454|AlignEnd=131750|GE=big|Gloss=big|nWord=13|RX=[ADJ]
+15	Calovebora	Calovebora	NPROP	_	_	_	_	_	AlignBegin=131750|AlignEnd=132046|GE=[Calovebora]|Gloss=Calovebora|nWord=14|RX=[NPROP]
+16	ka	ka	N	_	_	_	_	_	AlignBegin=132046|AlignEnd=132342|GE=mouth|Gloss=mouth|nWord=15|RX=[N]
+17	ke	ke	ADP	_	_	_	_	_	AlignBegin=132342|AlignEnd=132638|GE=[LOC]|Gloss=LOC|nWord=16|RX=[ADP]
+18	.		.	_	_	_	_	_	AlignBegin=132638|AlignEnd=132930|Gloss=.|nWord=17
+
+# sent_id = SAB-TXT-PA-00000-04_35-35
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-04.WAV/WAV/SAB-TXT-PA-00000-04.WAV
+# sent_timecode = 132985, 136215
+# morphemic_text = geru kle hoke nerku Rio Lui .
+# text = geru kle hoke nerku Rio Lui .
+# text_en = This is the story of how to go to Rio Luis.
+1	geru	geru	N	_	_	_	_	_	AlignBegin=132985|AlignEnd=133446|GE=story|Gloss=story|nWord=1|RX=[N]
+2	kle	kle	V	_	_	_	_	_	AlignBegin=133446|AlignEnd=133907|GE=be|Gloss=be|nWord=2|RX=[V]
+3	hoke	hoke	V	_	_	_	_	_	AlignBegin=133907|AlignEnd=134368|GE=go|Gloss=go|nWord=3|RX=[V]
+4	nerku	nerku	ADV	_	_	_	_	_	AlignBegin=134368|AlignEnd=134829|GE=ahead|Gloss=ahead|nWord=4|RX=[ADV]
+5	Rio	Rio	N	_	_	_	_	_	AlignBegin=134829|AlignEnd=135290|GE=[Rio]|Gloss=Rio|nWord=5|RX=[N]
+6	Lui	Lui	NPROP	_	_	_	_	_	AlignBegin=135290|AlignEnd=135751|GE=[Luis]|Gloss=Luis|nWord=6|RX=[NPROP]
+7	.		.	_	_	_	_	_	AlignBegin=135751|AlignEnd=136215|Gloss=.|nWord=7
+

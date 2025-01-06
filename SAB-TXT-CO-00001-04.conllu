@@ -4,17 +4,17 @@
 # sent_timecode = 21250, 25540
 # morphemic_text = cha aini kle koi gwe hu -ado giska ke .
 # text = cha aini kle koi gwe huado giska ke .
-# text_en =  I, here, kill the chicken (that is) put on a rope.
+# text_en = I, here, kill the chicken (that is) put on a rope.
 1	cha	cha	PRON	_	_	5	subj	_	AlignBegin=21250|AlignEnd=21727|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	aini	aini	ADV	_	_	5	mod:lmod	_	AlignBegin=21727|AlignEnd=22204|GE=here|Gloss=here|nWord=2|RX=[ADV]
-3	kle	kle	AUX	_	_	0	root	_	AlignBegin=22204|AlignEnd=22681|GE=be|Gloss=be|nWord=3|RX=[V]
+2	aini	aini	ADV	_	_	1	mod	_	AlignBegin=21727|AlignEnd=22204|GE=here|Gloss=here|nWord=2|RX=[ADV]
+3	kle	kle	AUX	_	_	_	_	_	AlignBegin=22204|AlignEnd=22681|GE=be|Gloss=be|nWord=3|RX=[V]
 4	koi	koi	NOUN	_	_	5	comp:obj	_	AlignBegin=22681|AlignEnd=23158|GE=chicken|Gloss=chicken|nWord=4|RX=[N]
 5	gwe	gwe	VERB	_	_	3	comp:aux	_	AlignBegin=23158|AlignEnd=23635|GE=kill|Gloss=kill|nWord=5|RX=[V]
-6	hu	hu	VERB	_	_	7	comp:aux	_	AlignBegin=23635|AlignEnd=23873|GE=[find].[PST]|Gloss=find.PST|nWord=6|RX=[V]
-7	-ado		AUX	_	_	5	mod	_	AlignBegin=23873|AlignEnd=24112|GE=[PART]|Gloss=-PART|nWord=6|RX=[VERB]
+6	hu	hu	VERB	_	_	7	comp:aux/m	_	AlignBegin=23635|AlignEnd=23873|GE=[find].[PST]|Gloss=find.PST|nWord=6|RX=[V]
+7	-ado		AUX	_	_	_	_	_	AlignBegin=23873|AlignEnd=24112|GE=[PART]|Gloss=-PART|nWord=6|RX=[VERB]
 8	giska	giska	NOUN	_	_	9	comp	_	AlignBegin=24112|AlignEnd=24589|GE=rope|Gloss=rope|nWord=7|RX=[N]
-9	ke	ke	ADP	_	_	6	comp:obl	_	AlignBegin=24589|AlignEnd=25066|GE=[INST]|Gloss=INST|nWord=8|RX=[ADP]
-10	.		.	_	_	3	punct	_	AlignBegin=25066|AlignEnd=25540|Gloss=.|nWord=9
+9	ke	ke	ADP	_	_	_	_	_	AlignBegin=24589|AlignEnd=25066|GE=[INST]|Gloss=INST|nWord=8|RX=[ADP]
+10	.		PUNCT	_	_	_	_	_	AlignBegin=25066|AlignEnd=25540|Gloss=.|nWord=9
 
 # sent_id = SAB-TXT-CO-00001-04_02-03
 # speaker_id = @04
@@ -22,19 +22,19 @@
 # sent_timecode = 26530, 29520
 # morphemic_text = koi gwe hu -ado giska ke , koi gwe -d- -a .
 # text = koi gwe huado giska ke , koi gweda .
-# text_en =  (I) kill the chicken put on a rope. The chicken is killed.
+# text_en = (I) kill the chicken put on a rope. The chicken is killed.
 1	koi	koi	NOUN	_	_	2	comp:obj	_	AlignBegin=26530|AlignEnd=26823|GE=chicken|Gloss=chicken|nWord=1|RX=[N]
 2	gwe	gwe	VERB	_	_	_	_	_	AlignBegin=26823|AlignEnd=27116|GE=kill|Gloss=kill|nWord=2|RX=[V]
-3	hu	hu	VERB	_	_	4	comp:aux	_	AlignBegin=27116|AlignEnd=27262|GE=[find].[PST]|Gloss=find.PST|nWord=3|RX=[V]
+3	hu	hu	VERB	_	_	4	comp:aux/m	_	AlignBegin=27116|AlignEnd=27262|GE=[find].[PST]|Gloss=find.PST|nWord=3|RX=[V]
 4	-ado		AUX	_	_	_	_	_	AlignBegin=27262|AlignEnd=27409|GE=[PART]|Gloss=-PART|nWord=3|RX=[VERB]
 5	giska	giska	NOUN	_	_	6	comp	_	AlignBegin=27409|AlignEnd=27702|GE=rope|Gloss=rope|nWord=4|RX=[N]
 6	ke	ke	ADP	_	_	_	_	_	AlignBegin=27702|AlignEnd=27995|GE=[INST]|Gloss=INST|nWord=5|RX=[ADP]
-7	,		_	_	_	_	_	_	AlignBegin=27995|AlignEnd=28290|nWord=6
+7	,		PUNCT	_	_	_	_	_	AlignBegin=27995|AlignEnd=28290|nWord=6
 8	koi	koi	NOUN	_	_	9	comp:obj	_	AlignBegin=28290|AlignEnd=28700|GE=chicken|Gloss=chicken|nWord=7|RX=[N]
 9	gwe	gwe	VERB	_	_	10	comp:aux/m	_	AlignBegin=28700|AlignEnd=28837|GE=kill|Gloss=kill|nWord=8|RX=[V]
 10	-d-		AUX	_	_	11	comp:aux/m	_	AlignBegin=28837|AlignEnd=28974|GE=[0]|Gloss=-0-|nWord=8|RX=[VERB]
 11	-a		X	_	_	_	_	_	AlignBegin=28974|AlignEnd=29110|GE=[0]|Gloss=-0|nWord=8|RX=[VERB]
-12	.		.	_	_	_	_	_	AlignBegin=29110|AlignEnd=29520|Gloss=.|nWord=9
+12	.		PUNCT	_	_	_	_	_	AlignBegin=29110|AlignEnd=29520|Gloss=.|nWord=9
 
 # sent_id = SAB-TXT-CO-00001-04_04-04
 # speaker_id = @04
@@ -42,7 +42,7 @@
 # sent_timecode = 32770, 35480
 # morphemic_text = cha chebi -a kle gerud -e koi gwagat -e .
 # text = cha chebia kle gerude koi gwagate .
-# text_en =  My mother says how to prepare the chicken.
+# text_en = My mother says how to prepare the chicken.
 1	cha	cha	PRON	_	_	3	mod:poss	_	AlignBegin=32770|AlignEnd=33157|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	chebi	chebi	NOUN	_	_	3	comp:aux/m	_	AlignBegin=33157|AlignEnd=33351|GE=mother|Gloss=mother|nWord=2|RX=[N]
 3	-a		AUX	_	_	5	subj	_	AlignBegin=33351|AlignEnd=33544|GE=[POSS]|Gloss=-POSS|nWord=2|RX=[N:ANY]
@@ -52,7 +52,7 @@
 7	koi	koi	NOUN	_	_	8	comp:obj	_	AlignBegin=34318|AlignEnd=34705|GE=chicken|Gloss=chicken|nWord=5|RX=[N]
 8	gwagat	gwagat	VERB	_	_	9	comp:aux/m	_	AlignBegin=34705|AlignEnd=34899|GE=prepare|Gloss=prepare|nWord=6|RX=[V]
 9	-e		AUX	_	_	6	comp:obj	_	AlignBegin=34899|AlignEnd=35092|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
-10	.		.	_	_	4	punct	_	AlignBegin=35092|AlignEnd=35480|Gloss=.|nWord=7
+10	.		PUNCT	_	_	4	punct	_	AlignBegin=35092|AlignEnd=35480|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-CO-00001-04_05-08
 # speaker_id = @04
@@ -60,27 +60,27 @@
 # sent_timecode = 35960, 40885
 # morphemic_text = chi bek -e hi -a ke , koi li -e , chi li -e , para koi huk -e .
 # text = chi beke hia ke , koi lie , chi lie , pa koi huke .
-# text_en =  (She) puts water on the fire. (She) boils the chicken, (She) boils the water, To pluck the chicken.
+# text_en = (She) puts water on the fire. (She) boils the chicken, (She) boils the water, To pluck the chicken.
 1	chi	chi	NOUN	_	_	2	comp:obj	_	AlignBegin=35960|AlignEnd=36238|GE=water|Gloss=water|nWord=1|RX=[N]
 2	bek	bek	VERB	_	_	3	comp:aux/m	_	AlignBegin=36238|AlignEnd=36377|GE=put|Gloss=put|nWord=2|RX=[V]
-3	-e		AUX	_	_	_	_	_	AlignBegin=36377|AlignEnd=36516|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+3	-e		AUX	_	_	0	root	_	AlignBegin=36377|AlignEnd=36516|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
 4	hi	hi	NOUN	_	_	5	comp:aux/m	_	AlignBegin=36516|AlignEnd=36655|GE=fire|Gloss=fire|nWord=3|RX=[N]
 5	-a		X	_	_	6	comp	_	AlignBegin=36655|AlignEnd=36794|GE=[0]|Gloss=-0|nWord=3|RX=[NOUN]
-6	ke	ke	ADP	_	_	_	_	_	AlignBegin=36794|AlignEnd=37072|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
-7	,		_	_	_	_	_	_	AlignBegin=37072|AlignEnd=37350|nWord=5
+6	ke	ke	ADP	_	_	2	comp:obl	_	AlignBegin=36794|AlignEnd=37072|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
+7	,		PUNCT	_	_	6	punct	_	AlignBegin=37072|AlignEnd=37350|nWord=5
 8	koi	koi	NOUN	_	_	9	comp:obj	_	AlignBegin=37450|AlignEnd=37790|GE=chicken|Gloss=chicken|nWord=6|RX=[N]
 9	li	li	VERB	_	_	10	comp:aux/m	_	AlignBegin=37790|AlignEnd=37960|GE=cook|Gloss=cook|nWord=7|RX=[V]
-10	-e		AUX	_	_	_	_	_	AlignBegin=37960|AlignEnd=38130|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
-11	,		_	_	_	_	_	_	AlignBegin=38130|AlignEnd=38470|nWord=8
+10	-e		AUX	_	_	3	conj:coord	_	AlignBegin=37960|AlignEnd=38130|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
+11	,		PUNCT	_	_	_	_	_	AlignBegin=38130|AlignEnd=38470|nWord=8
 12	chi	chi	NOUN	_	_	13	comp:obj	_	AlignBegin=38485|AlignEnd=38792|GE=water|Gloss=water|nWord=9|RX=[N]
 13	li	li	VERB	_	_	14	comp:aux/m	_	AlignBegin=38792|AlignEnd=38946|GE=cook|Gloss=cook|nWord=10|RX=[V]
 14	-e		AUX	_	_	_	_	_	AlignBegin=38946|AlignEnd=39099|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
-15	,		_	_	_	_	_	_	AlignBegin=39099|AlignEnd=39405|nWord=11
-16	para	para	ADP	_	_	_	_	_	AlignBegin=39435|AlignEnd=39797|GE=to|Gloss=to|nWord=12|RX=[ADP]
+15	,		PUNCT	_	_	_	_	_	AlignBegin=39099|AlignEnd=39405|nWord=11
+16	para	para	ADP	_	_	3	mod	_	AlignBegin=39435|AlignEnd=39797|GE=to|Gloss=to|nWord=12|RX=[ADP]
 17	koi	koi	NOUN	_	_	18	comp:obj	_	AlignBegin=39797|AlignEnd=40159|GE=chicken|Gloss=chicken|nWord=13|RX=[N]
 18	huk	huk	VERB	_	_	19	comp:aux/m	_	AlignBegin=40159|AlignEnd=40340|GE=pluck|Gloss=pluck|nWord=14|RX=[V]
-19	-e		AUX	_	_	_	_	_	AlignBegin=40340|AlignEnd=40521|GE=[THM]|Gloss=-THM|nWord=14|RX=[V:ANY]
-20	.		.	_	_	_	_	_	AlignBegin=40521|AlignEnd=40885|Gloss=.|nWord=15
+19	-e		AUX	_	_	16	comp	_	AlignBegin=40340|AlignEnd=40521|GE=[THM]|Gloss=-THM|nWord=14|RX=[V:ANY]
+20	.		PUNCT	_	_	_	_	_	AlignBegin=40521|AlignEnd=40885|Gloss=.|nWord=15
 
 # sent_id = SAB-TXT-CO-00001-04_09-09
 # speaker_id = @04
@@ -88,15 +88,15 @@
 # sent_timecode = 41960, 44620
 # morphemic_text = despues cha kle hoke koi gwagat -e .
 # text = despues cha kle hoke koi gwagate .
-# text_en =  Then i go prepare the chicken.
-1	despues	despues	ADV	_	_	4	discourse	_	AlignBegin=41960|AlignEnd=42340|GE=then|Gloss=then|nWord=1|RX=[ADV]
+# text_en = Then i go prepare the chicken.
+1	despues	despues	ADV	_	_	_	_	_	AlignBegin=41960|AlignEnd=42340|GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	4	subj	_	AlignBegin=42340|AlignEnd=42720|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	kle	kle	AUX	_	_	0	root	_	AlignBegin=42720|AlignEnd=43100|GE=be|Gloss=be|nWord=3|RX=[V]
 4	hoke	hoke	VERB	_	_	3	comp:aux	_	AlignBegin=43100|AlignEnd=43480|GE=go|Gloss=go|nWord=4|RX=[V]
 5	koi	koi	NOUN	_	_	6	comp:obj	_	AlignBegin=43480|AlignEnd=43860|GE=chicken|Gloss=chicken|nWord=5|RX=[N]
 6	gwagat	gwagat	VERB	_	_	7	comp:aux/m	_	AlignBegin=43860|AlignEnd=44050|GE=prepare|Gloss=prepare|nWord=6|RX=[V]
-7	-e		AUX	_	_	4	mod	_	AlignBegin=44050|AlignEnd=44240|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
-8	.		.	_	_	3	punct	_	AlignBegin=44240|AlignEnd=44620|Gloss=.|nWord=7
+7	-e		AUX	_	_	3	mod	_	AlignBegin=44050|AlignEnd=44240|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
+8	.		PUNCT	_	_	_	_	_	AlignBegin=44240|AlignEnd=44620|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-CO-00001-04_10-10
 # speaker_id = @04
@@ -104,11 +104,11 @@
 # sent_timecode = 44725, 45895
 # morphemic_text = koi gwagat -e .
 # text = koi gwagate .
-# text_en =  (I) prepare the chicken.
+# text_en = (I) prepare the chicken.
 1	koi	koi	NOUN	_	_	2	comp:obj	_	AlignBegin=44725|AlignEnd=45115|GE=chicken|Gloss=chicken|nWord=1|RX=[N]
 2	gwagat	gwagat	VERB	_	_	3	comp:aux/m	_	AlignBegin=45115|AlignEnd=45310|GE=prepare|Gloss=prepare|nWord=2|RX=[V]
 3	-e		AUX	_	_	_	_	_	AlignBegin=45310|AlignEnd=45505|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
-4	.		.	_	_	_	_	_	AlignBegin=45505|AlignEnd=45895|Gloss=.|nWord=3
+4	.		PUNCT	_	_	_	_	_	AlignBegin=45505|AlignEnd=45895|Gloss=.|nWord=3
 
 # sent_id = SAB-TXT-CO-00001-04_11-11
 # speaker_id = @04
@@ -116,11 +116,11 @@
 # sent_timecode = 46935, 48045
 # morphemic_text = koi mn -e .
 # text = koi mne .
-# text_en =  (I) cut the chicken.
+# text_en = (I) cut the chicken.
 1	koi	koi	NOUN	_	_	2	comp:obj	_	AlignBegin=46935|AlignEnd=47305|GE=chicken|Gloss=chicken|nWord=1|RX=[N]
 2	mn	mn	VERB	_	_	3	comp:aux/m	_	AlignBegin=47305|AlignEnd=47490|GE=cut|Gloss=cut|nWord=2|RX=[V]
 3	-e		AUX	_	_	_	_	_	AlignBegin=47490|AlignEnd=47675|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
-4	.		.	_	_	_	_	_	AlignBegin=47675|AlignEnd=48045|Gloss=.|nWord=3
+4	.		PUNCT	_	_	_	_	_	AlignBegin=47675|AlignEnd=48045|Gloss=.|nWord=3
 
 # sent_id = SAB-TXT-CO-00001-04_12-12
 # speaker_id = @04
@@ -128,7 +128,7 @@
 # sent_timecode = 48265, 49895
 # morphemic_text = y koi li -e hi -a ke .
 # text = y koi lie hia ke .
-# text_en =  And (I) cook the chicken in the fire.
+# text_en = And (I) cook the chicken in the fire.
 1	y	y	COORDCONN	_	_	_	_	_	AlignBegin=48265|AlignEnd=48537|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
 2	koi	koi	NOUN	_	_	3	comp:obj	_	AlignBegin=48537|AlignEnd=48809|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
 3	li	li	VERB	_	_	4	comp:aux/m	_	AlignBegin=48809|AlignEnd=48945|GE=cook|Gloss=cook|nWord=3|RX=[V]
@@ -136,7 +136,7 @@
 5	hi	hi	NOUN	_	_	6	comp:aux/m	_	AlignBegin=49081|AlignEnd=49217|GE=fire|Gloss=fire|nWord=4|RX=[N]
 6	-a		X	_	_	7	comp	_	AlignBegin=49217|AlignEnd=49353|GE=[0]|Gloss=-0|nWord=4|RX=[NOUN]
 7	ke	ke	ADP	_	_	_	_	_	AlignBegin=49353|AlignEnd=49625|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
-8	.		.	_	_	_	_	_	AlignBegin=49625|AlignEnd=49895|Gloss=.|nWord=6
+8	.		PUNCT	_	_	_	_	_	AlignBegin=49625|AlignEnd=49895|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-CO-00001-04_13-14
 # speaker_id = @04
@@ -144,18 +144,18 @@
 # sent_timecode = 50075, 53425
 # morphemic_text = koi li -e , pero koi li -e sin cho .
 # text = koi lie , pero koi lie sin cho .
-# text_en =  (I) cook the chicken. But (I) cook the chicken without salt.
+# text_en = (I) cook the chicken. But (I) cook the chicken without salt.
 1	koi	koi	NOUN	_	_	2	comp:obj	_	AlignBegin=50075|AlignEnd=50478|GE=chicken|Gloss=chicken|nWord=1|RX=[N]
 2	li	li	VERB	_	_	3	comp:aux/m	_	AlignBegin=50478|AlignEnd=50680|GE=cook|Gloss=cook|nWord=2|RX=[V]
 3	-e		AUX	_	_	_	_	_	AlignBegin=50680|AlignEnd=50881|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
-4	,		_	_	_	_	_	_	AlignBegin=50881|AlignEnd=51285|nWord=3
+4	,		PUNCT	_	_	_	_	_	AlignBegin=50881|AlignEnd=51285|nWord=3
 5	pero	pero	COORDCONN	_	_	_	_	_	AlignBegin=51755|AlignEnd=52033|GE=but|Gloss=but|nWord=4|RX=[COORDCONN]
 6	koi	koi	NOUN	_	_	7	comp:obj	_	AlignBegin=52033|AlignEnd=52311|GE=chicken|Gloss=chicken|nWord=5|RX=[N]
 7	li	li	VERB	_	_	8	comp:aux/m	_	AlignBegin=52311|AlignEnd=52450|GE=cook|Gloss=cook|nWord=6|RX=[V]
 8	-e		AUX	_	_	_	_	_	AlignBegin=52450|AlignEnd=52589|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 9	sin	sin	ADP	_	_	_	_	_	AlignBegin=52589|AlignEnd=52867|GE=without|Gloss=without|nWord=7|RX=[ADP]
 10	cho	cho	NOUN	_	_	_	_	_	AlignBegin=52867|AlignEnd=53145|GE=salt|Gloss=salt|nWord=8|RX=[N]
-11	.		.	_	_	_	_	_	AlignBegin=53145|AlignEnd=53425|Gloss=.|nWord=9
+11	.		PUNCT	_	_	_	_	_	AlignBegin=53145|AlignEnd=53425|Gloss=.|nWord=9
 
 # sent_id = SAB-TXT-CO-00001-04_15-16
 # speaker_id = @04
@@ -163,15 +163,15 @@
 # sent_timecode = 54205, 56575
 # morphemic_text = koi li -e skeke , chi -le .
 # text = koi lie skeke , chi le .
-# text_en =  (I) cook the chicken cold. With water.
+# text_en = (I) cook the chicken cold. With water.
 1	koi	koi	NOUN	_	_	2	comp:obj	_	AlignBegin=54205|AlignEnd=54507|GE=chicken|Gloss=chicken|nWord=1|RX=[N]
 2	li	li	VERB	_	_	3	comp:aux/m	_	AlignBegin=54507|AlignEnd=54658|GE=cook|Gloss=cook|nWord=2|RX=[V]
 3	-e		AUX	_	_	_	_	_	AlignBegin=54658|AlignEnd=54809|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
 4	skeke	skeke	ADJ	_	_	_	_	_	AlignBegin=54809|AlignEnd=55111|GE=cold|Gloss=cold|nWord=3|RX=[ADJ]
-5	,		_	_	_	_	_	_	AlignBegin=55111|AlignEnd=55415|nWord=4
+5	,		PUNCT	_	_	_	_	_	AlignBegin=55111|AlignEnd=55415|nWord=4
 6	chi	chi	NOUN	_	_	7	comp:aux/m	_	AlignBegin=55585|AlignEnd=55915|GE=water|Gloss=water|nWord=5|RX=[N]
 7	-le		AUX	_	_	_	_	_	AlignBegin=55915|AlignEnd=56245|GE=[ADJZ]|Gloss=-ADJZ|nWord=6|RX=[N>ADJ]
-8	.		.	_	_	_	_	_	AlignBegin=56245|AlignEnd=56575|Gloss=.|nWord=7
+8	.		PUNCT	_	_	_	_	_	AlignBegin=56245|AlignEnd=56575|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-CO-00001-04_17-17
 # speaker_id = @04
@@ -179,16 +179,16 @@
 # sent_timecode = 56735, 59065
 # morphemic_text = friado che me kle koi gut -e aini .
 # text = friado che me kle koi gute aini .
-# text_en =  We don't eat fried chicken here.
-1	friado	friado	ADJ	_	_	6	mod	_	AlignBegin=56735|AlignEnd=57026|GE=fried|Gloss=fried|nWord=1|RX=[ADJ]
-2	che	che	PRON	_	_	6	subj	_	AlignBegin=57026|AlignEnd=57317|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
-3	me	me	PART	_	_	6	mod	_	AlignBegin=57317|AlignEnd=57608|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
-4	kle	kle	AUX	_	_	0	root	_	AlignBegin=57608|AlignEnd=57899|GE=be|Gloss=be|nWord=4|RX=[V]
+# text_en = We don't eat fried chicken here.
+1	friado	friado	ADJ	_	_	_	_	_	AlignBegin=56735|AlignEnd=57026|GE=fried|Gloss=fried|nWord=1|RX=[ADJ]
+2	che	che	PRON	_	_	_	_	_	AlignBegin=57026|AlignEnd=57317|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
+3	me	me	PART	_	_	_	_	_	AlignBegin=57317|AlignEnd=57608|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+4	kle	kle	AUX	_	_	3	comp:aux	_	AlignBegin=57608|AlignEnd=57899|GE=be|Gloss=be|nWord=4|RX=[V]
 5	koi	koi	NOUN	_	_	6	comp:obj	_	AlignBegin=57899|AlignEnd=58190|GE=chicken|Gloss=chicken|nWord=5|RX=[N]
 6	gut	gut	VERB	_	_	7	comp:aux/m	_	AlignBegin=58190|AlignEnd=58336|GE=eat|Gloss=eat|nWord=6|RX=[V]
 7	-e		AUX	_	_	4	comp:aux	_	AlignBegin=58336|AlignEnd=58481|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
-8	aini	aini	ADV	_	_	6	mod:lmod	_	AlignBegin=58481|AlignEnd=58772|GE=here|Gloss=here|nWord=7|RX=[ADV]
-9	.		.	_	_	_	_	_	AlignBegin=58772|AlignEnd=59065|Gloss=.|nWord=8
+8	aini	aini	ADV	_	_	_	_	_	AlignBegin=58481|AlignEnd=58772|GE=here|Gloss=here|nWord=7|RX=[ADV]
+9	.		PUNCT	_	_	_	_	_	AlignBegin=58772|AlignEnd=59065|Gloss=.|nWord=8
 
 # sent_id = SAB-TXT-CO-00001-04_18-18
 # speaker_id = @04
@@ -196,15 +196,15 @@
 # sent_timecode = 59835, 61495
 # morphemic_text = friado me kle koi gut -e aini .
 # text = friado me kle koi gute aini .
-# text_en =  (We) don't eat fried chicken here.
+# text_en = (We) don't eat fried chicken here.
 1	friado	friado	ADJ	_	_	_	_	_	AlignBegin=59835|AlignEnd=60072|GE=fried|Gloss=fried|nWord=1|RX=[ADJ]
 2	me	me	PART	_	_	_	_	_	AlignBegin=60072|AlignEnd=60309|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
-3	kle	kle	AUX	_	_	_	_	_	AlignBegin=60309|AlignEnd=60546|GE=be|Gloss=be|nWord=3|RX=[V]
+3	kle	kle	AUX	_	_	2	comp:aux	_	AlignBegin=60309|AlignEnd=60546|GE=be|Gloss=be|nWord=3|RX=[V]
 4	koi	koi	NOUN	_	_	5	comp:obj	_	AlignBegin=60546|AlignEnd=60783|GE=chicken|Gloss=chicken|nWord=4|RX=[N]
 5	gut	gut	VERB	_	_	6	comp:aux/m	_	AlignBegin=60783|AlignEnd=60901|GE=eat|Gloss=eat|nWord=5|RX=[V]
 6	-e		AUX	_	_	3	comp:aux	_	AlignBegin=60901|AlignEnd=61020|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	aini	aini	ADV	_	_	_	_	_	AlignBegin=61020|AlignEnd=61257|GE=here|Gloss=here|nWord=6|RX=[ADV]
-8	.		.	_	_	_	_	_	AlignBegin=61257|AlignEnd=61495|Gloss=.|nWord=7
+8	.		PUNCT	_	_	_	_	_	AlignBegin=61257|AlignEnd=61495|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-CO-00001-04_19-19
 # speaker_id = @04
@@ -212,7 +212,7 @@
 # sent_timecode = 62800, 64730
 # morphemic_text = cha kle koi li -e chi dike .
 # text = cha kle koi lie chi dike .
-# text_en =  I cook the chicken with water.
+# text_en = I cook the chicken with water.
 1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=62800|AlignEnd=63076|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=63076|AlignEnd=63352|GE=be|Gloss=be|nWord=2|RX=[V]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=63352|AlignEnd=63628|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
@@ -220,7 +220,7 @@
 5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=63766|AlignEnd=63904|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 6	chi	chi	NOUN	_	_	7	comp	_	AlignBegin=63904|AlignEnd=64180|GE=water|Gloss=water|nWord=5|RX=[N]
 7	dike	dike	ADP	_	_	_	_	_	AlignBegin=64180|AlignEnd=64456|GE=[INST]|Gloss=INST|nWord=6|RX=[ADP]
-8	.		.	_	_	_	_	_	AlignBegin=64456|AlignEnd=64730|Gloss=.|nWord=7
+8	.		PUNCT	_	_	_	_	_	AlignBegin=64456|AlignEnd=64730|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-CO-00001-04_20-20
 # speaker_id = @04
@@ -228,7 +228,7 @@
 # sent_timecode = 65450, 68230
 # morphemic_text = sin cho solo culantra uga tk -a -bale .
 # text = sin cho solo culantra uga tkabale .
-# text_en =  Without salt, only coriander leaf are put.
+# text_en = Without salt, only coriander leaf are put.
 1	sin	sin	ADP	_	_	_	_	_	AlignBegin=65450|AlignEnd=65847|GE=without|Gloss=without|nWord=1|RX=[ADP]
 2	cho	cho	NOUN	_	_	_	_	_	AlignBegin=65847|AlignEnd=66244|GE=salt|Gloss=salt|nWord=2|RX=[N]
 3	solo	solo	ADV	_	_	_	_	_	AlignBegin=66244|AlignEnd=66641|GE=only|Gloss=only|nWord=3|RX=[ADV]
@@ -237,7 +237,7 @@
 6	tk	tk	VERB	_	_	7	comp:aux/m	_	AlignBegin=67435|AlignEnd=67567|GE=put|Gloss=put|nWord=6|RX=[V]
 7	-a		X	_	_	8	comp:aux/m	_	AlignBegin=67567|AlignEnd=67699|GE=[0]|Gloss=-0|nWord=6|RX=[VERB]
 8	-bale		AUX	_	_	_	_	_	AlignBegin=67699|AlignEnd=67832|GE=[PART]|Gloss=-PART|nWord=6|RX=[V:ANY]
-9	.		.	_	_	_	_	_	AlignBegin=67832|AlignEnd=68230|Gloss=.|nWord=7
+9	.		PUNCT	_	_	_	_	_	AlignBegin=67832|AlignEnd=68230|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-CO-00001-04_21-21
 # speaker_id = @04
@@ -245,13 +245,13 @@
 # sent_timecode = 71040, 72680
 # morphemic_text = koi li -e bla ske .
 # text = koi lie blaske .
-# text_en =  (I) cook the chicken with bananas.
+# text_en = (I) cook the chicken with bananas.
 1	koi	koi	NOUN	_	_	2	comp:obj	_	AlignBegin=71040|AlignEnd=71450|GE=chicken|Gloss=chicken|nWord=1|RX=[N]
 2	li	li	VERB	_	_	3	comp:aux/m	_	AlignBegin=71450|AlignEnd=71655|GE=cook|Gloss=cook|nWord=2|RX=[V]
 3	-e		AUX	_	_	_	_	_	AlignBegin=71655|AlignEnd=71860|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
 4	bla	bla	NOUN	_	_	5	comp	_	AlignBegin=71860|AlignEnd=72065|GE=banana|Gloss=banana|nWord=3|RX=[N]
 5	ske	ske	ADP	_	_	_	_	_	AlignBegin=72065|AlignEnd=72270|GE=with|Gloss=with|nWord=3|RX=[ADP]
-6	.		.	_	_	_	_	_	AlignBegin=72270|AlignEnd=72680|Gloss=.|nWord=4
+6	.		PUNCT	_	_	_	_	_	AlignBegin=72270|AlignEnd=72680|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-CO-00001-04_22-23
 # speaker_id = @04
@@ -259,13 +259,13 @@
 # sent_timecode = 72905, 77020
 # morphemic_text = pero cho mendale , sainkuli .
 # text = pero cho mendale , sainkuli .
-# text_en =  But there is no salt, It is forbidden.
+# text_en = But there is no salt, It is forbidden.
 1	pero	pero	COORDCONN	_	_	_	_	_	AlignBegin=72905|AlignEnd=73545|GE=but|Gloss=but|nWord=1|RX=[COORDCONN]
 2	cho	cho	NOUN	_	_	_	_	_	AlignBegin=73545|AlignEnd=74185|GE=salt|Gloss=salt|nWord=2|RX=[N]
 3	mendale	mendale	PART	_	_	_	_	_	AlignBegin=74185|AlignEnd=74825|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
-4	,		_	_	_	_	_	_	AlignBegin=74825|AlignEnd=75465|nWord=4
+4	,		PUNCT	_	_	_	_	_	AlignBegin=74825|AlignEnd=75465|nWord=4
 5	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=75830|AlignEnd=76425|GE=forbidden|Gloss=forbidden|nWord=5|RX=[ADV]
-6	.		.	_	_	_	_	_	AlignBegin=76425|AlignEnd=77020|Gloss=.|nWord=6
+6	.		PUNCT	_	_	_	_	_	AlignBegin=76425|AlignEnd=77020|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-CO-00001-04_24-24
 # speaker_id = @04
@@ -273,7 +273,7 @@
 # sent_timecode = 78360, 80770
 # morphemic_text = pone koi li -e hi -a ke honinke .
 # text = pone koi lie hia ke honinke .
-# text_en =  First (I) put the chicken to cook in the water.
+# text_en = First (I) put the chicken to cook in the water.
 1	pone	pone	VERB	_	_	_	_	_	AlignBegin=78360|AlignEnd=78704|GE=put|Gloss=put|nWord=1|RX=[V]
 2	koi	koi	NOUN	_	_	3	comp:obj	_	AlignBegin=78704|AlignEnd=79048|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
 3	li	li	VERB	_	_	4	comp:aux/m	_	AlignBegin=79048|AlignEnd=79220|GE=cook|Gloss=cook|nWord=3|RX=[V]
@@ -282,7 +282,7 @@
 6	-a		X	_	_	7	comp	_	AlignBegin=79564|AlignEnd=79736|GE=[0]|Gloss=-0|nWord=4|RX=[NOUN]
 7	ke	ke	ADP	_	_	_	_	_	AlignBegin=79736|AlignEnd=80080|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
 8	honinke	honinke	ADV	_	_	_	_	_	AlignBegin=80080|AlignEnd=80424|GE=first|Gloss=first|nWord=6|RX=[ADV]
-9	.		.	_	_	_	_	_	AlignBegin=80424|AlignEnd=80770|Gloss=.|nWord=7
+9	.		PUNCT	_	_	_	_	_	AlignBegin=80424|AlignEnd=80770|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-CO-00001-04_25-27
 # speaker_id = @04
@@ -290,26 +290,26 @@
 # sent_timecode = 80850, 86150
 # morphemic_text = cuando koi hoke eru bda , ( pone ) bla dek -e , y bla mlie koi ske .
 # text = cuando koi hoke erubda , ( pone ) bla deke , y bla mlie koi ske .
-# text_en =  When the chicken is ready, (I) peel bananas, and (I) throw the bananas with the chicken.
+# text_en = When the chicken is ready, (I) peel bananas, and (I) throw the bananas with the chicken.
 1	cuando	cuando	SCONJ	_	_	_	_	_	AlignBegin=80850|AlignEnd=81214|GE=when|Gloss=when|nWord=1|RX=[Q]
 2	koi	koi	NOUN	_	_	3	comp:obj	_	AlignBegin=81214|AlignEnd=81578|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
 3	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=81578|AlignEnd=81942|GE=go|Gloss=go|nWord=3|RX=[V]
 4	eru	eru	ADJ	_	_	_	_	_	AlignBegin=81942|AlignEnd=82124|GE=ready|Gloss=ready|nWord=4|RX=[ADJ]
 5	bda	bda	_	_	_	_	_	_	AlignBegin=82124|AlignEnd=82306|nWord=4
-6	,		_	_	_	_	_	_	AlignBegin=82306|AlignEnd=82670|nWord=5
-7	(		_	_	_	_	_	_	AlignBegin=83600|AlignEnd=83785|nWord=6
+6	,		PUNCT	_	_	_	_	_	AlignBegin=82306|AlignEnd=82670|nWord=5
+7	(		PUNCT	_	_	_	_	_	AlignBegin=83600|AlignEnd=83785|nWord=6
 8	pone	pone	VERB	_	_	_	_	_	AlignBegin=83785|AlignEnd=83970|GE=put|Gloss=put|nWord=7|RX=[V]
-9	)		_	_	_	_	_	_	AlignBegin=83970|AlignEnd=84155|nWord=8
+9	)		PUNCT	_	_	_	_	_	AlignBegin=83970|AlignEnd=84155|nWord=8
 10	bla	bla	NOUN	_	_	11	comp:obj	_	AlignBegin=84155|AlignEnd=84340|GE=banana|Gloss=banana|nWord=9|RX=[N]
 11	dek	dek	VERB	_	_	12	comp:aux/m	_	AlignBegin=84340|AlignEnd=84432|GE=peel|Gloss=peel|nWord=10|RX=[V]
 12	-e		AUX	_	_	_	_	_	AlignBegin=84432|AlignEnd=84525|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
-13	,		_	_	_	_	_	_	AlignBegin=84525|AlignEnd=84710|nWord=11
+13	,		PUNCT	_	_	_	_	_	AlignBegin=84525|AlignEnd=84710|nWord=11
 14	y	y	COORDCONN	_	_	_	_	_	AlignBegin=84740|AlignEnd=84975|GE=and|Gloss=and|nWord=12|RX=[COORDCONN]
 15	bla	bla	NOUN	_	_	16	comp:obj	_	AlignBegin=84975|AlignEnd=85210|GE=banana|Gloss=banana|nWord=13|RX=[N]
 16	mlie	mlie	VERB	_	_	_	_	_	AlignBegin=85210|AlignEnd=85445|GE=throw|Gloss=throw|nWord=14|RX=[V]
 17	koi	koi	NOUN	_	_	18	comp	_	AlignBegin=85445|AlignEnd=85680|GE=chicken|Gloss=chicken|nWord=15|RX=[N]
 18	ske	ske	ADP	_	_	_	_	_	AlignBegin=85680|AlignEnd=85915|GE=with|Gloss=with|nWord=16|RX=[ADP]
-19	.		.	_	_	_	_	_	AlignBegin=85915|AlignEnd=86150|Gloss=.|nWord=17
+19	.		PUNCT	_	_	_	_	_	AlignBegin=85915|AlignEnd=86150|Gloss=.|nWord=17
 
 # sent_id = SAB-TXT-CO-00001-04_28-28
 # speaker_id = @04
@@ -317,13 +317,13 @@
 # sent_timecode = 86525, 88215
 # morphemic_text = bla tagla mlie koi ske .
 # text = bla tagla mlie koi ske .
-# text_en =  (I) throw peeled bananas with the chicken.
+# text_en = (I) throw peeled bananas with the chicken.
 1	bla	bla	NOUN	_	_	_	_	_	AlignBegin=86525|AlignEnd=86807|GE=banana|Gloss=banana|nWord=1|RX=[N]
 2	tagla	tagla	ADJ	_	_	1	mod	_	AlignBegin=86807|AlignEnd=87089|GE=pealed|Gloss=pealed|nWord=2|RX=[ADJ]
 3	mlie	mlie	VERB	_	_	_	_	_	AlignBegin=87089|AlignEnd=87371|GE=throw|Gloss=throw|nWord=3|RX=[V]
 4	koi	koi	NOUN	_	_	5	comp	_	AlignBegin=87371|AlignEnd=87653|GE=chicken|Gloss=chicken|nWord=4|RX=[N]
 5	ske	ske	ADP	_	_	_	_	_	AlignBegin=87653|AlignEnd=87935|GE=with|Gloss=with|nWord=5|RX=[ADP]
-6	.		.	_	_	_	_	_	AlignBegin=87935|AlignEnd=88215|Gloss=.|nWord=6
+6	.		PUNCT	_	_	_	_	_	AlignBegin=87935|AlignEnd=88215|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-CO-00001-04_29-31
 # speaker_id = @04
@@ -331,22 +331,22 @@
 # sent_timecode = 88400, 92510
 # morphemic_text = koi esta eru bda , ya bla be hoke eru , ya koi ho chk -e .
 # text = koi ta erubda , ya bla be hoke eru , ya koi ho chke .
-# text_en =  (When) the chicken is ready, Then the bananas will be ready. Now (I) take the chicken out.
+# text_en = (When) the chicken is ready, Then the bananas will be ready. Now (I) take the chicken out.
 1	koi	koi	NOUN	_	_	2	comp:obj	_	AlignBegin=88400|AlignEnd=88700|GE=chicken|Gloss=chicken|nWord=1|RX=[N]
 2	esta	esta	VERB	_	_	_	_	_	AlignBegin=88700|AlignEnd=89000|GE=be|Gloss=be|nWord=2|RX=[V]
 3	eru	eru	ADJ	_	_	_	_	_	AlignBegin=89000|AlignEnd=89150|GE=ready|Gloss=ready|nWord=3|RX=[ADJ]
 4	bda	bda	_	_	_	_	_	_	AlignBegin=89150|AlignEnd=89300|nWord=3
-5	,		_	_	_	_	_	_	AlignBegin=89300|AlignEnd=89600|nWord=4
+5	,		PUNCT	_	_	_	_	_	AlignBegin=89300|AlignEnd=89600|nWord=4
 6	ya	ya	ADV	_	_	_	_	_	AlignBegin=89620|AlignEnd=89817|GE=now|Gloss=now|nWord=5|RX=[ADV]
-7	bla	bla	NOUN	_	_	9	subj	_	AlignBegin=89817|AlignEnd=90014|GE=banana|Gloss=banana|nWord=6|RX=[N]
+7	bla	bla	NOUN	_	_	_	_	_	AlignBegin=89817|AlignEnd=90014|GE=banana|Gloss=banana|nWord=6|RX=[N]
 8	be	be	AUX	_	_	_	_	_	AlignBegin=90014|AlignEnd=90211|GE=[FUT]|Gloss=FUT|nWord=7|RX=[VERBPRT]
 9	hoke	hoke	VERB	_	_	8	comp:aux	_	AlignBegin=90211|AlignEnd=90408|GE=go|Gloss=go|nWord=8|RX=[V]
 10	eru	eru	ADJ	_	_	_	_	_	AlignBegin=90408|AlignEnd=90605|GE=ready|Gloss=ready|nWord=9|RX=[ADJ]
-11	,		_	_	_	_	_	_	AlignBegin=90605|AlignEnd=90800|nWord=10
+11	,		PUNCT	_	_	_	_	_	AlignBegin=90605|AlignEnd=90800|nWord=10
 12	ya	ya	ADV	_	_	_	_	_	AlignBegin=90800|AlignEnd=91142|GE=now|Gloss=now|nWord=11|RX=[ADV]
 13	koi	koi	NOUN	_	_	14	comp:obj	_	AlignBegin=91142|AlignEnd=91484|GE=chicken|Gloss=chicken|nWord=12|RX=[N]
 14	ho	ho	VERB	_	_	_	_	_	AlignBegin=91484|AlignEnd=91826|GE=[go].[PST]|Gloss=go.PST|nWord=13|RX=[V]
 15	chk	chk	VERB	_	_	16	comp:aux/m	_	AlignBegin=91826|AlignEnd=91997|GE=arrive|Gloss=arrive|nWord=14|RX=[V]
 16	-e		AUX	_	_	_	_	_	AlignBegin=91997|AlignEnd=92168|GE=[THM]|Gloss=-THM|nWord=14|RX=[V:ANY]
-17	.		.	_	_	_	_	_	AlignBegin=92168|AlignEnd=92510|Gloss=.|nWord=15
+17	.		PUNCT	_	_	_	_	_	AlignBegin=92168|AlignEnd=92510|Gloss=.|nWord=15
 

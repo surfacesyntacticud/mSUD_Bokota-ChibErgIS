@@ -4,16 +4,16 @@
 # sent_timecode = 5620, 9310
 # morphemic_text = aini cha kle arroz li -e do ske .
 # text = aini cha kle aro lie do ske .
-# text_en =  Here, I cook rice with coco.
+# text_en = Here, I cook rice with coco.
 1	aini	aini	ADV	_	_	_	_	_	AlignBegin=5620|AlignEnd=6081|GE=here|Gloss=here|nWord=1|RX=[ADV]
-2	cha	cha	PRON	_	_	5	subj	_	AlignBegin=6081|AlignEnd=6542|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+2	cha	cha	PRON	_	_	3	comp:obj	_	AlignBegin=6081|AlignEnd=6542|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	kle	kle	AUX	_	_	_	_	_	AlignBegin=6542|AlignEnd=7003|GE=be|Gloss=be|nWord=3|RX=[V]
 4	arroz	arroz	NOUN	_	_	5	comp:obj	_	AlignBegin=7003|AlignEnd=7464|GE=rice|Gloss=rice|nWord=4|RX=[N]
 5	li	li	VERB	_	_	6	comp:aux/m	_	AlignBegin=7464|AlignEnd=7694|GE=cook|Gloss=cook|nWord=5|RX=[V]
 6	-e		AUX	_	_	3	comp:aux	_	AlignBegin=7694|AlignEnd=7925|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	do	do	NOUN	_	_	8	comp	_	AlignBegin=7925|AlignEnd=8386|GE=coco|Gloss=coco|nWord=6|RX=[N]
 8	ske	ske	ADP	_	_	_	_	_	AlignBegin=8386|AlignEnd=8847|GE=with|Gloss=with|nWord=7|RX=[ADP]
-9	.		.	_	_	_	_	_	AlignBegin=8847|AlignEnd=9310|Gloss=.|nWord=8
+9	.		PUNCT	_	_	_	_	_	AlignBegin=8847|AlignEnd=9310|Gloss=.|nWord=8
 
 # sent_id = SAB-TXT-CO-00002-04_02-02
 # speaker_id = @04
@@ -21,14 +21,14 @@
 # sent_timecode = 9880, 12580
 # morphemic_text = cha kle do huk -e honingke .
 # text = cha kle do huke honingke .
-# text_en =  First I pluck the coco.
-1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=9880|AlignEnd=10330|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+# text_en = First I pluck the coco.
+1	cha	cha	PRON	_	_	2	comp:obj	_	AlignBegin=9880|AlignEnd=10330|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=10330|AlignEnd=10780|GE=be|Gloss=be|nWord=2|RX=[V]
 3	do	do	NOUN	_	_	4	comp:obj	_	AlignBegin=10780|AlignEnd=11230|GE=coco|Gloss=coco|nWord=3|RX=[N]
 4	huk	huk	VERB	_	_	5	comp:aux/m	_	AlignBegin=11230|AlignEnd=11455|GE=pluck|Gloss=pluck|nWord=4|RX=[V]
 5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=11455|AlignEnd=11680|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 6	honingke	honingke	ADV	_	_	_	_	_	AlignBegin=11680|AlignEnd=12130|GE=first|Gloss=first|nWord=5|RX=[ADV]
-7	.		.	_	_	_	_	_	AlignBegin=12130|AlignEnd=12580|Gloss=.|nWord=6
+7	.		PUNCT	_	_	_	_	_	AlignBegin=12130|AlignEnd=12580|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-CO-00002-04_03-03
 # speaker_id = @04
@@ -36,15 +36,15 @@
 # sent_timecode = 13355, 15825
 # morphemic_text = do chi -a cha kle li -e .
 # text = do chia cha kle lie .
-# text_en =  I boil the water of the coco.
-1	do	do	NOUN	_	_	3	mod:poss	_	AlignBegin=13355|AlignEnd=13767|GE=coco|Gloss=coco|nWord=1|RX=[N]
+# text_en = I boil the water of the coco.
+1	do	do	NOUN	_	_	3	udep:poss	_	AlignBegin=13355|AlignEnd=13767|GE=coco|Gloss=coco|nWord=1|RX=[N]
 2	chi	chi	NOUN	_	_	3	comp:aux/m	_	AlignBegin=13767|AlignEnd=13973|GE=water|Gloss=water|nWord=2|RX=[N]
 3	-a		AUX	_	_	_	_	_	AlignBegin=13973|AlignEnd=14179|GE=[POSS]|Gloss=-POSS|nWord=2|RX=[N:ANY]
 4	cha	cha	PRON	_	_	6	subj	_	AlignBegin=14179|AlignEnd=14591|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
 5	kle	kle	AUX	_	_	_	_	_	AlignBegin=14591|AlignEnd=15003|GE=be|Gloss=be|nWord=4|RX=[V]
 6	li	li	VERB	_	_	7	comp:aux/m	_	AlignBegin=15003|AlignEnd=15209|GE=cook|Gloss=cook|nWord=5|RX=[V]
 7	-e		AUX	_	_	5	comp:aux	_	AlignBegin=15209|AlignEnd=15415|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
-8	.		.	_	_	_	_	_	AlignBegin=15415|AlignEnd=15825|Gloss=.|nWord=6
+8	.		PUNCT	_	_	_	_	_	AlignBegin=15415|AlignEnd=15825|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-CO-00002-04_04-04
 # speaker_id = @04
@@ -52,10 +52,10 @@
 # sent_timecode = 16510, 22440
 # morphemic_text = de ai cha kle bligda tk -e hania tk -e bla tk -e i tk -e do -ia ske .
 # text = de ai cha kle bligda tke hania tke bla tke i tke doia ske .
-# text_en =  From there I add some food, (I) add hania, (I) add banana, (I) add yucca, with the coco.
+# text_en = From there I add some food, (I) add hania, (I) add banana, (I) add yucca, with the coco.
 1	de	de	ADP	_	_	_	_	_	AlignBegin=16510|AlignEnd=16905|GE=from|Gloss=from|nWord=1|RX=[ADP]
 2	ai	ai	ADV	_	_	_	_	_	AlignBegin=16905|AlignEnd=17300|GE=here|Gloss=here|nWord=2|RX=[ADV]
-3	cha	cha	PRON	_	_	6	subj	_	AlignBegin=17300|AlignEnd=17695|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
+3	cha	cha	PRON	_	_	4	comp:obj	_	AlignBegin=17300|AlignEnd=17695|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
 4	kle	kle	AUX	_	_	_	_	_	AlignBegin=17695|AlignEnd=18090|GE=be|Gloss=be|nWord=4|RX=[V]
 5	bligda	bligda	NOUN	_	_	6	comp:obj	_	AlignBegin=18090|AlignEnd=18485|GE=food|Gloss=food|nWord=5|RX=[N]
 6	tk	tk	VERB	_	_	7	comp:aux/m	_	AlignBegin=18485|AlignEnd=18683|GE=put|Gloss=put|nWord=6|RX=[V]
@@ -72,7 +72,7 @@
 17	do	do	NOUN	_	_	18	comp:aux/m	_	AlignBegin=21250|AlignEnd=21448|GE=coco|Gloss=coco|nWord=13|RX=[N]
 18	-ia		AUX	_	_	19	comp	_	AlignBegin=21448|AlignEnd=21645|GE=[POSS]|Gloss=-POSS|nWord=13|RX=[N:ANY]
 19	ske	ske	ADP	_	_	_	_	_	AlignBegin=21645|AlignEnd=22040|GE=with|Gloss=with|nWord=14|RX=[ADP]
-20	.		.	_	_	_	_	_	AlignBegin=22040|AlignEnd=22440|Gloss=.|nWord=15
+20	.		PUNCT	_	_	_	_	_	AlignBegin=22040|AlignEnd=22440|Gloss=.|nWord=15
 
 # sent_id = SAB-TXT-CO-00002-04_05-06
 # speaker_id = @04
@@ -80,19 +80,19 @@
 # sent_timecode = 22970, 27585
 # morphemic_text = bla y hania y hoke eru , cha kle arroz mlie .
 # text = bla y hania y hoke eru , cha kle aro mlie .
-# text_en =  (When) the banana and hania are ready, I throw the rice in.
+# text_en = (When) the banana and hania are ready, I throw the rice in.
 1	bla	bla	NOUN	_	_	_	_	_	AlignBegin=22970|AlignEnd=23261|GE=banana|Gloss=banana|nWord=1|RX=[N]
 2	y	y	COORDCONN	_	_	_	_	_	AlignBegin=23261|AlignEnd=23552|GE=and|Gloss=and|nWord=2|RX=[COORDCONN]
 3	hania	hania	NOUN	_	_	_	_	_	AlignBegin=23552|AlignEnd=23843|GE=plant_type|Gloss=plant_type|nWord=3|RX=[N]
 4	y	y	COORDCONN	_	_	_	_	_	AlignBegin=23843|AlignEnd=24134|GE=and|Gloss=and|nWord=4|RX=[COORDCONN]
 5	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=24134|AlignEnd=24425|GE=go|Gloss=go|nWord=5|RX=[V]
 6	eru	eru	ADJ	_	_	_	_	_	AlignBegin=24425|AlignEnd=24716|GE=ready|Gloss=ready|nWord=6|RX=[ADJ]
-7	,		_	_	_	_	_	_	AlignBegin=24716|AlignEnd=25010|nWord=7
-8	cha	cha	PRON	_	_	11	subj	_	AlignBegin=25895|AlignEnd=26233|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
+7	,		PUNCT	_	_	_	_	_	AlignBegin=24716|AlignEnd=25010|nWord=7
+8	cha	cha	PRON	_	_	9	comp:obj	_	AlignBegin=25895|AlignEnd=26233|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
 9	kle	kle	AUX	_	_	_	_	_	AlignBegin=26233|AlignEnd=26571|GE=be|Gloss=be|nWord=9|RX=[V]
 10	arroz	arroz	NOUN	_	_	11	comp:obj	_	AlignBegin=26571|AlignEnd=26909|GE=rice|Gloss=rice|nWord=10|RX=[N]
 11	mlie	mlie	VERB	_	_	9	comp:aux	_	AlignBegin=26909|AlignEnd=27247|GE=throw|Gloss=throw|nWord=11|RX=[V]
-12	.		.	_	_	_	_	_	AlignBegin=27247|AlignEnd=27585|Gloss=.|nWord=12
+12	.		PUNCT	_	_	_	_	_	AlignBegin=27247|AlignEnd=27585|Gloss=.|nWord=12
 
 # sent_id = SAB-TXT-CO-00002-04_07-08
 # speaker_id = @04
@@ -100,17 +100,17 @@
 # sent_timecode = 28075, 31555
 # morphemic_text = cuando arroz hoke eru , che arroz gut -e .
 # text = cuando aro hoke eru , che aro gute .
-# text_en =  When the rice is ready, We eat the rice.
+# text_en = When the rice is ready, We eat the rice.
 1	cuando	cuando	SCONJ	_	_	_	_	_	AlignBegin=28075|AlignEnd=28483|GE=when|Gloss=when|nWord=1|RX=[Q]
 2	arroz	arroz	NOUN	_	_	3	comp:obj	_	AlignBegin=28483|AlignEnd=28891|GE=rice|Gloss=rice|nWord=2|RX=[N]
 3	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=28891|AlignEnd=29299|GE=go|Gloss=go|nWord=3|RX=[V]
 4	eru	eru	ADJ	_	_	_	_	_	AlignBegin=29299|AlignEnd=29707|GE=ready|Gloss=ready|nWord=4|RX=[ADJ]
-5	,		_	_	_	_	_	_	AlignBegin=29707|AlignEnd=30115|nWord=5
+5	,		PUNCT	_	_	_	_	_	AlignBegin=29707|AlignEnd=30115|nWord=5
 6	che	che	PRON	_	_	_	_	_	AlignBegin=30285|AlignEnd=30603|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=6|RX=[PRO]
 7	arroz	arroz	NOUN	_	_	8	comp:obj	_	AlignBegin=30603|AlignEnd=30921|GE=rice|Gloss=rice|nWord=7|RX=[N]
 8	gut	gut	VERB	_	_	9	comp:aux/m	_	AlignBegin=30921|AlignEnd=31080|GE=eat|Gloss=eat|nWord=8|RX=[V]
 9	-e		AUX	_	_	_	_	_	AlignBegin=31080|AlignEnd=31239|GE=[THM]|Gloss=-THM|nWord=8|RX=[V:ANY]
-10	.		.	_	_	_	_	_	AlignBegin=31239|AlignEnd=31555|Gloss=.|nWord=9
+10	.		PUNCT	_	_	_	_	_	AlignBegin=31239|AlignEnd=31555|Gloss=.|nWord=9
 
 # sent_id = SAB-TXT-CO-00002-04_09-09
 # speaker_id = @04
@@ -118,13 +118,13 @@
 # sent_timecode = 31800, 33790
 # morphemic_text = arroz li -e cho -le .
 # text = aro lie chole .
-# text_en =  (We) cook the rice salty.
+# text_en = (We) cook the rice salty.
 1	arroz	arroz	NOUN	_	_	2	comp:obj	_	AlignBegin=31800|AlignEnd=32298|GE=rice|Gloss=rice|nWord=1|RX=[N]
 2	li	li	VERB	_	_	3	comp:aux/m	_	AlignBegin=32298|AlignEnd=32547|GE=cook|Gloss=cook|nWord=2|RX=[V]
 3	-e		AUX	_	_	_	_	_	AlignBegin=32547|AlignEnd=32796|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
 4	cho	cho	NOUN	_	_	5	comp:aux/m	_	AlignBegin=32796|AlignEnd=33045|GE=salt|Gloss=salt|nWord=3|RX=[N]
 5	-le		AUX	_	_	_	_	_	AlignBegin=33045|AlignEnd=33294|GE=[ADJZ]|Gloss=-ADJZ|nWord=3|RX=[N>ADJ]
-6	.		.	_	_	_	_	_	AlignBegin=33294|AlignEnd=33790|Gloss=.|nWord=4
+6	.		PUNCT	_	_	_	_	_	AlignBegin=33294|AlignEnd=33790|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-CO-00002-04_10-10
 # speaker_id = @04
@@ -132,7 +132,7 @@
 # sent_timecode = 34080, 36950
 # morphemic_text = arroz si hay que li -e cho -le .
 # text = aro si hay que lie chole .
-# text_en =  The rice yes, one have to cook it salty.
+# text_en = The rice yes, one have to cook it salty.
 1	arroz	arroz	NOUN	_	_	_	_	_	AlignBegin=34080|AlignEnd=34490|GE=rice|Gloss=rice|nWord=1|RX=[N]
 2	si	si	PART	_	_	_	_	_	AlignBegin=34490|AlignEnd=34900|GE=yes|Gloss=yes|nWord=2|RX=[VERBPRT]
 3	hay	hay	VERB	_	_	_	_	_	AlignBegin=34900|AlignEnd=35310|GE=there_is|Gloss=there_is|nWord=3|RX=[V]
@@ -141,5 +141,5 @@
 6	-e		AUX	_	_	_	_	_	AlignBegin=35925|AlignEnd=36130|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	cho	cho	NOUN	_	_	8	comp:aux/m	_	AlignBegin=36130|AlignEnd=36335|GE=salt|Gloss=salt|nWord=6|RX=[N]
 8	-le		AUX	_	_	_	_	_	AlignBegin=36335|AlignEnd=36540|GE=[ADJZ]|Gloss=-ADJZ|nWord=6|RX=[N>ADJ]
-9	.		.	_	_	_	_	_	AlignBegin=36540|AlignEnd=36950|Gloss=.|nWord=7
+9	.		PUNCT	_	_	_	_	_	AlignBegin=36540|AlignEnd=36950|Gloss=.|nWord=7
 

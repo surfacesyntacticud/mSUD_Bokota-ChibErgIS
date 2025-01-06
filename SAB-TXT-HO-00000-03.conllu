@@ -4,10 +4,10 @@
 # sent_timecode = 10120, 14210
 # morphemic_text = este u ese ski -a -le skira wal -e honinke .
 # text = ete u ese skiale skira wale honinke .
-# text_en =  For this covered house (one) first take skira.
+# text_en = For this covered house (one) first take skira.
 1	este	este	DET	_	_	_	_	_	AlignBegin=10120|AlignEnd=10631|GE=that|Gloss=that|nWord=1|RX=[DET]
 2	u	u	NOUN	_	_	_	_	_	AlignBegin=10631|AlignEnd=11142|GE=house|Gloss=house|nWord=2|RX=[N]
-3	ese	ese	DET	_	_	_	_	_	AlignBegin=11142|AlignEnd=11653|GE=that|Gloss=that|nWord=3|RX=[DET]
+3	ese	ese	DET	_	_	2	mod	_	AlignBegin=11142|AlignEnd=11653|GE=that|Gloss=that|nWord=3|RX=[DET]
 4	ski	ski	VERB	_	_	5	comp:aux/m	_	AlignBegin=11653|AlignEnd=11823|GE=cover|Gloss=cover|nWord=4|RX=[V]
 5	-a		AUX	_	_	6	comp:aux/m	_	AlignBegin=11823|AlignEnd=11993|GE=[PASS]|Gloss=-PASS|nWord=4|RX=[V:ANY]
 6	-le		AUX	_	_	_	_	_	AlignBegin=11993|AlignEnd=12164|GE=[ADJZ]|Gloss=-ADJZ|nWord=4|RX=[N>ADJ]
@@ -23,7 +23,7 @@
 # sent_timecode = 14720, 20410
 # morphemic_text = gli lereka , gli glikreke , gli honinke .
 # text = gli lereka , gli glikreke , gli honinke .
-# text_en =  A light green tree. Another colored tree. First the trees.
+# text_en = A light green tree. Another colored tree. First the trees.
 1	gli	gli	NOUN	_	_	_	_	_	AlignBegin=14720|AlignEnd=15123|GE=tree|Gloss=tree|nWord=1|RX=[N]
 2	lereka	lereka	ADJ	_	_	1	mod	_	AlignBegin=15123|AlignEnd=15526|GE=color_type|Gloss=color_type|nWord=2|RX=[ADJ]
 3	,		_	_	_	_	_	_	AlignBegin=15526|AlignEnd=15930|nWord=3
@@ -40,7 +40,7 @@
 # sent_timecode = 20735, 23060
 # morphemic_text = despues gli hoke dui ke entonces tiene hoke uga hue .
 # text = despues gli hoke dui ke entonces tiene hoke uga hue .
-# text_en =  Then the trees go on the ground and so (one) must find some palms.
+# text_en = Then the trees go on the ground and so (one) must find some palms.
 1	despues	despues	ADV	_	_	_	_	_	AlignBegin=20735|AlignEnd=20946|GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	gli	gli	NOUN	_	_	_	_	_	AlignBegin=20946|AlignEnd=21157|GE=tree|Gloss=tree|nWord=2|RX=[N]
 3	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=21157|AlignEnd=21368|GE=go|Gloss=go|nWord=3|RX=[V]
@@ -51,7 +51,7 @@
 8	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=22212|AlignEnd=22423|GE=go|Gloss=go|nWord=8|RX=[V]
 9	uga	uga	NOUN	_	_	_	_	_	AlignBegin=22423|AlignEnd=22634|GE=palm|Gloss=palm|nWord=9|RX=[N]
 10	hue	hue	VERB	_	_	_	_	_	AlignBegin=22634|AlignEnd=22845|GE=[find].[NPST]|Gloss=find.NPST|nWord=10|RX=[V]
-11	.		.	_	_	_	_	_	AlignBegin=22845|AlignEnd=23060|Gloss=.|nWord=11
+11	.		PUNCT	_	_	_	_	_	AlignBegin=22845|AlignEnd=23060|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-HO-00000-03_06-06
 # speaker_id = @03
@@ -59,7 +59,7 @@
 # sent_timecode = 23980, 25350
 # morphemic_text = uga hue .
 # text = uga hue .
-# text_en =  (One) finds some palms
+# text_en = (One) finds some palms
 1	uga	uga	NOUN	_	_	_	_	_	AlignBegin=23980|AlignEnd=24437|GE=palm|Gloss=palm|nWord=1|RX=[N]
 2	hue	hue	VERB	_	_	_	_	_	AlignBegin=24437|AlignEnd=24894|GE=[find].[NPST]|Gloss=find.NPST|nWord=2|RX=[V]
 3	.		.	_	_	_	_	_	AlignBegin=24894|AlignEnd=25350|Gloss=.|nWord=3
@@ -70,7 +70,7 @@
 # sent_timecode = 25800, 26760
 # morphemic_text = glita hue .
 # text = glita hue .
-# text_en =  (One) finds some branch.
+# text_en = (One) finds some branch.
 1	glita	glita	NOUN	_	_	_	_	_	AlignBegin=25800|AlignEnd=26120|GE=branch|Gloss=branch|nWord=1|RX=[N]
 2	hue	hue	VERB	_	_	_	_	_	AlignBegin=26120|AlignEnd=26440|GE=[find].[NPST]|Gloss=find.NPST|nWord=2|RX=[V]
 3	.		.	_	_	_	_	_	AlignBegin=26440|AlignEnd=26760|Gloss=.|nWord=3
@@ -81,9 +81,9 @@
 # sent_timecode = 27785, 28645
 # morphemic_text = gli ese hue .
 # text = gli ese hue .
-# text_en =  (One) finds this tree.
+# text_en = (One) finds this tree.
 1	gli	gli	NOUN	_	_	_	_	_	AlignBegin=27785|AlignEnd=28000|GE=tree|Gloss=tree|nWord=1|RX=[N]
-2	ese	ese	DET	_	_	_	_	_	AlignBegin=28000|AlignEnd=28215|GE=that|Gloss=that|nWord=2|RX=[DET]
+2	ese	ese	DET	_	_	1	mod	_	AlignBegin=28000|AlignEnd=28215|GE=that|Gloss=that|nWord=2|RX=[DET]
 3	hue	hue	VERB	_	_	_	_	_	AlignBegin=28215|AlignEnd=28430|GE=[find].[NPST]|Gloss=find.NPST|nWord=3|RX=[V]
 4	.		.	_	_	_	_	_	AlignBegin=28430|AlignEnd=28645|Gloss=.|nWord=4
 
@@ -93,14 +93,14 @@
 # sent_timecode = 28660, 30620
 # morphemic_text = bu tk -a asi daba hegwale .
 # text = bu tka asi daba hegwale .
-# text_en =  the trees are put like that next to its brother.
+# text_en = the trees are put like that next to its brother.
 1	bu	bu	NOUN	_	_	_	_	_	AlignBegin=28660|AlignEnd=28987|GE=post|Gloss=post|nWord=1|RX=[N]
 2	tk	tk	VERB	_	_	3	comp:aux/m	_	AlignBegin=28987|AlignEnd=29151|GE=put|Gloss=put|nWord=2|RX=[V]
 3	-a		AUX	_	_	_	_	_	AlignBegin=29151|AlignEnd=29314|GE=[PASS]|Gloss=-PASS|nWord=2|RX=[V:ANY]
 4	asi	asi	ADV	_	_	_	_	_	AlignBegin=29314|AlignEnd=29641|GE=like_that|Gloss=like_that|nWord=3|RX=[ADV]
 5	daba	daba	NOUN	_	_	6	comp	_	AlignBegin=29641|AlignEnd=29968|GE=brother|Gloss=brother|nWord=4|RX=[N]
 6	hegwale	hegwale	ADP	_	_	_	_	_	AlignBegin=29968|AlignEnd=30295|GE=next_to|Gloss=next_to|nWord=5|RX=[ADP]
-7	.		.	_	_	_	_	_	AlignBegin=30295|AlignEnd=30620|Gloss=.|nWord=6
+7	.		PUNCT	_	_	_	_	_	AlignBegin=30295|AlignEnd=30620|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-HO-00000-03_10-12
 # speaker_id = @03
@@ -108,7 +108,7 @@
 # sent_timecode = 35820, 42310
 # morphemic_text = giska hue , para luk -e dike ulita , para be u be chek -e no .
 # text = giska hue , pa luke dike ulita , pa be u be cheke no .
-# text_en =  (One) finds some rope. To link everything with. So the house will stay good.
+# text_en = (One) finds some rope. To link everything with. So the house will stay good.
 1	giska	giska	NOUN	_	_	_	_	_	AlignBegin=35820|AlignEnd=36240|GE=rope|Gloss=rope|nWord=1|RX=[N]
 2	hue	hue	VERB	_	_	_	_	_	AlignBegin=36240|AlignEnd=36660|GE=[find].[NPST]|Gloss=find.NPST|nWord=2|RX=[V]
 3	,		_	_	_	_	_	_	AlignBegin=36660|AlignEnd=37080|nWord=3
@@ -133,7 +133,7 @@
 # sent_timecode = 42645, 44365
 # morphemic_text = despues hay que gigata hue .
 # text = despues hay que gigata hue .
-# text_en =  Then one have to find gigata.
+# text_en = Then one have to find gigata.
 1	despues	despues	ADV	_	_	_	_	_	AlignBegin=42645|AlignEnd=42932|GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	hay	hay	VERB	_	_	_	_	_	AlignBegin=42932|AlignEnd=43219|GE=there_is|Gloss=there_is|nWord=2|RX=[V]
 3	que	que	PRON	_	_	_	_	_	AlignBegin=43219|AlignEnd=43506|GE=that|Gloss=that|nWord=3|RX=[PRO]
@@ -147,7 +147,7 @@
 # sent_timecode = 44390, 46550
 # morphemic_text = gigata heresa hue .
 # text = gigata heresa hue .
-# text_en =  (One have to) find grey gigata.
+# text_en = (One have to) find grey gigata.
 1	gigata	gigata	NOUN	_	_	_	_	_	AlignBegin=44390|AlignEnd=44930|GE=tree_type|Gloss=tree_type|nWord=1|RX=[N]
 2	heresa	heresa	ADJ	_	_	1	mod	_	AlignBegin=44930|AlignEnd=45470|GE=grey|Gloss=grey|nWord=2|RX=[ADJ]
 3	hue	hue	VERB	_	_	_	_	_	AlignBegin=45470|AlignEnd=46010|GE=[find].[NPST]|Gloss=find.NPST|nWord=3|RX=[V]
@@ -159,9 +159,9 @@
 # sent_timecode = 47190, 50280
 # morphemic_text = gigata ese hue .
 # text = gigata ese hue .
-# text_en =  (One have to) find this gigata.
+# text_en = (One have to) find this gigata.
 1	gigata	gigata	NOUN	_	_	_	_	_	AlignBegin=47190|AlignEnd=47962|GE=tree_type|Gloss=tree_type|nWord=1|RX=[N]
-2	ese	ese	DET	_	_	_	_	_	AlignBegin=47962|AlignEnd=48734|GE=that|Gloss=that|nWord=2|RX=[DET]
+2	ese	ese	DET	_	_	1	mod	_	AlignBegin=47962|AlignEnd=48734|GE=that|Gloss=that|nWord=2|RX=[DET]
 3	hue	hue	VERB	_	_	_	_	_	AlignBegin=48734|AlignEnd=49506|GE=[find].[NPST]|Gloss=find.NPST|nWord=3|RX=[V]
 4	.		.	_	_	_	_	_	AlignBegin=49506|AlignEnd=50280|Gloss=.|nWord=4
 
@@ -171,7 +171,7 @@
 # sent_timecode = 50920, 52710
 # morphemic_text = entonces despues para u ski -e .
 # text = entonces despues pa u skie .
-# text_en =  So then to cover the house.
+# text_en = So then to cover the house.
 1	entonces	entonces	ADV	_	_	_	_	_	AlignBegin=50920|AlignEnd=51218|GE=so|Gloss=so|nWord=1|RX=[ADV]
 2	despues	despues	ADV	_	_	_	_	_	AlignBegin=51218|AlignEnd=51516|GE=then|Gloss=then|nWord=2|RX=[ADV]
 3	para	para	ADP	_	_	_	_	_	AlignBegin=51516|AlignEnd=51814|GE=to|Gloss=to|nWord=3|RX=[ADP]
@@ -186,7 +186,7 @@
 # sent_timecode = 52920, 53990
 # morphemic_text = gli luk -e .
 # text = gli luke .
-# text_en =  (One) link the trees.
+# text_en = (One) link the trees.
 1	gli	gli	NOUN	_	_	_	_	_	AlignBegin=52920|AlignEnd=53277|GE=tree|Gloss=tree|nWord=1|RX=[N]
 2	luk	luk	VERB	_	_	3	comp:aux/m	_	AlignBegin=53277|AlignEnd=53455|GE=link|Gloss=link|nWord=2|RX=[V]
 3	-e		AUX	_	_	_	_	_	AlignBegin=53455|AlignEnd=53634|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
@@ -198,7 +198,7 @@
 # sent_timecode = 54340, 56920
 # morphemic_text = para u ski -e , bdukude .
 # text = pa u skie , bdukude .
-# text_en =  To cover the house. Far up.
+# text_en = To cover the house. Far up.
 1	para	para	ADP	_	_	_	_	_	AlignBegin=54340|AlignEnd=54512|GE=to|Gloss=to|nWord=1|RX=[ADP]
 2	u	u	NOUN	_	_	_	_	_	AlignBegin=54512|AlignEnd=54684|GE=house|Gloss=house|nWord=2|RX=[N]
 3	ski	ski	VERB	_	_	4	comp:aux/m	_	AlignBegin=54684|AlignEnd=54770|GE=cover|Gloss=cover|nWord=3|RX=[V]
@@ -213,19 +213,19 @@
 # sent_timecode = 70635, 74915
 # morphemic_text = cha kle toi uswili , hay que hita bek -e gwa .
 # text = cha kle toi uswili , hay que hita beke gwa .
-# text_en =  (When) i was living before, One have to put the fire inside (the house).
-1	cha	cha	PRON	_	_	_	_	_	AlignBegin=70635|AlignEnd=71045|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+# text_en = (When) i was living before, One have to put the fire inside (the house).
+1	cha	cha	PRON	_	_	3	subj	_	AlignBegin=70635|AlignEnd=71045|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=71045|AlignEnd=71455|GE=be|Gloss=be|nWord=2|RX=[V]
 3	toi	toi	VERB	_	_	2	comp:aux	_	AlignBegin=71455|AlignEnd=71865|GE=live|Gloss=live|nWord=3|RX=[V]
 4	uswili	uswili	ADV	_	_	_	_	_	AlignBegin=71865|AlignEnd=72275|GE=before|Gloss=before|nWord=4|RX=[ADV]
-5	,		_	_	_	_	_	_	AlignBegin=72275|AlignEnd=72685|nWord=5
+5	,		PUNCT	_	_	_	_	_	AlignBegin=72275|AlignEnd=72685|nWord=5
 6	hay	hay	VERB	_	_	_	_	_	AlignBegin=72685|AlignEnd=73057|GE=there_is|Gloss=there_is|nWord=6|RX=[V]
 7	que	que	PRON	_	_	_	_	_	AlignBegin=73057|AlignEnd=73429|GE=that|Gloss=that|nWord=7|RX=[PRO]
 8	hita	hita	NOUN	_	_	_	_	_	AlignBegin=73429|AlignEnd=73801|GE=fire|Gloss=fire|nWord=8|RX=[N]
 9	bek	bek	VERB	_	_	10	comp:aux/m	_	AlignBegin=73801|AlignEnd=73987|GE=put|Gloss=put|nWord=9|RX=[V]
 10	-e		AUX	_	_	_	_	_	AlignBegin=73987|AlignEnd=74173|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
 11	gwa	gwa	ADV	_	_	_	_	_	AlignBegin=74173|AlignEnd=74545|GE=inside|Gloss=inside|nWord=10|RX=[ADV]
-12	.		.	_	_	_	_	_	AlignBegin=74545|AlignEnd=74915|Gloss=.|nWord=11
+12	.		PUNCT	_	_	_	_	_	AlignBegin=74545|AlignEnd=74915|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-HO-00000-03_22-23
 # speaker_id = @03
@@ -233,17 +233,17 @@
 # sent_timecode = 79380, 82000
 # morphemic_text = cha ahora kle u dodad -e , sukekre iani .
 # text = cha ahora kle u dodade , sukekre iani .
-# text_en =  Now (when) I make a house. there in a different place.
+# text_en = Now (when) I make a house. there in a different place.
 1	cha	cha	PRON	_	_	_	_	_	AlignBegin=79380|AlignEnd=79623|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	ahora	ahora	ADV	_	_	_	_	_	AlignBegin=79623|AlignEnd=79866|GE=now|Gloss=now|nWord=2|RX=[ADV]
 3	kle	kle	AUX	_	_	_	_	_	AlignBegin=79866|AlignEnd=80109|GE=be|Gloss=be|nWord=3|RX=[V]
-4	u	u	NOUN	_	_	_	_	_	AlignBegin=80109|AlignEnd=80352|GE=house|Gloss=house|nWord=4|RX=[N]
+4	u	u	NOUN	_	_	5	comp:obj	_	AlignBegin=80109|AlignEnd=80352|GE=house|Gloss=house|nWord=4|RX=[N]
 5	dodad	dodad	VERB	_	_	6	comp:aux/m	_	AlignBegin=80352|AlignEnd=80474|GE=make|Gloss=make|nWord=5|RX=[V]
 6	-e		AUX	_	_	3	comp:aux	_	AlignBegin=80474|AlignEnd=80595|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
-7	,		_	_	_	_	_	_	AlignBegin=80595|AlignEnd=80840|nWord=6
+7	,		PUNCT	_	_	_	_	_	AlignBegin=80595|AlignEnd=80840|nWord=6
 8	sukekre	sukekre	ADV	_	_	_	_	_	AlignBegin=80840|AlignEnd=81227|GE=elsewere|Gloss=elsewere|nWord=7|RX=[ADV]
 9	iani	iani	ADV	_	_	_	_	_	AlignBegin=81227|AlignEnd=81614|GE=there|Gloss=there|nWord=8|RX=[ADV]
-10	.		.	_	_	_	_	_	AlignBegin=81614|AlignEnd=82000|Gloss=.|nWord=9
+10	.		PUNCT	_	_	_	_	_	AlignBegin=81614|AlignEnd=82000|Gloss=.|nWord=9
 
 # sent_id = SAB-TXT-HO-00000-03_24-25
 # speaker_id = @03
@@ -251,7 +251,7 @@
 # sent_timecode = 82015, 86610
 # morphemic_text = para hiangwa no para que no hiangwa , chk -e gut -e .
 # text = pa hiangwa no pa que no hiangwa , chke gute .
-# text_en =  So there is no spirit, who come to eat (us).
+# text_en = So there is no spirit, who come to eat (us).
 1	para	para	ADP	_	_	_	_	_	AlignBegin=82015|AlignEnd=82263|GE=to|Gloss=to|nWord=1|RX=[ADP]
 2	hiangwa	hiangwa	NOUN	_	_	_	_	_	AlignBegin=82263|AlignEnd=82511|GE=spirit|Gloss=spirit|nWord=2|RX=[N]
 3	no	no	PART	_	_	_	_	_	AlignBegin=82511|AlignEnd=82759|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
@@ -259,12 +259,12 @@
 5	que	que	PRON	_	_	_	_	_	AlignBegin=83007|AlignEnd=83255|GE=that|Gloss=that|nWord=5|RX=[PRO]
 6	no	no	PART	_	_	_	_	_	AlignBegin=83255|AlignEnd=83503|GE=[NEG]|Gloss=NEG|nWord=6|RX=[VERBPRT]
 7	hiangwa	hiangwa	NOUN	_	_	_	_	_	AlignBegin=83503|AlignEnd=83751|GE=spirit|Gloss=spirit|nWord=7|RX=[N]
-8	,		_	_	_	_	_	_	AlignBegin=83751|AlignEnd=83995|nWord=8
+8	,		PUNCT	_	_	_	_	_	AlignBegin=83751|AlignEnd=83995|nWord=8
 9	chk	chk	VERB	_	_	10	comp:aux/m	_	AlignBegin=85465|AlignEnd=85656|GE=arrive|Gloss=arrive|nWord=9|RX=[V]
 10	-e		AUX	_	_	_	_	_	AlignBegin=85656|AlignEnd=85847|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
 11	gut	gut	VERB	_	_	12	comp:aux/m	_	AlignBegin=85847|AlignEnd=86038|GE=eat|Gloss=eat|nWord=10|RX=[V]
 12	-e		AUX	_	_	_	_	_	AlignBegin=86038|AlignEnd=86229|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
-13	.		.	_	_	_	_	_	AlignBegin=86229|AlignEnd=86610|Gloss=.|nWord=11
+13	.		PUNCT	_	_	_	_	_	AlignBegin=86229|AlignEnd=86610|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-HO-00000-03_26-27
 # speaker_id = @03
@@ -272,13 +272,13 @@
 # sent_timecode = 87226, 92276
 # morphemic_text = por eso esta sukekre iani , para que no hiangwa chk -e gut -e .
 # text = por eso esta sukekre iani , pa que no hiangwa chke gute .
-# text_en =  For that reason it is in a different place there. So that no spirit come to eat (us).
+# text_en = For that reason it is in a different place there. So that no spirit come to eat (us).
 1	por	por	ADP	_	_	_	_	_	AlignBegin=87226|AlignEnd=87534|GE=through|Gloss=through|nWord=1|RX=[ADP]
 2	eso	eso	PRON	_	_	_	_	_	AlignBegin=87534|AlignEnd=87842|GE=this|Gloss=this|nWord=2|RX=[PRO]
 3	esta	esta	VERB	_	_	_	_	_	AlignBegin=87842|AlignEnd=88150|GE=be|Gloss=be|nWord=3|RX=[V]
 4	sukekre	sukekre	ADV	_	_	_	_	_	AlignBegin=88150|AlignEnd=88458|GE=elsewere|Gloss=elsewere|nWord=4|RX=[ADV]
 5	iani	iani	ADV	_	_	_	_	_	AlignBegin=88458|AlignEnd=88766|GE=there|Gloss=there|nWord=5|RX=[ADV]
-6	,		_	_	_	_	_	_	AlignBegin=88766|AlignEnd=89076|nWord=6
+6	,		PUNCT	_	_	_	_	_	AlignBegin=88766|AlignEnd=89076|nWord=6
 7	para	para	ADP	_	_	_	_	_	AlignBegin=89976|AlignEnd=90305|GE=to|Gloss=to|nWord=7|RX=[ADP]
 8	que	que	PRON	_	_	_	_	_	AlignBegin=90305|AlignEnd=90634|GE=that|Gloss=that|nWord=8|RX=[PRO]
 9	no	no	PART	_	_	_	_	_	AlignBegin=90634|AlignEnd=90963|GE=[NEG]|Gloss=NEG|nWord=9|RX=[VERBPRT]
@@ -287,5 +287,5 @@
 12	-e		AUX	_	_	_	_	_	AlignBegin=91456|AlignEnd=91621|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
 13	gut	gut	VERB	_	_	14	comp:aux/m	_	AlignBegin=91621|AlignEnd=91785|GE=eat|Gloss=eat|nWord=12|RX=[V]
 14	-e		AUX	_	_	_	_	_	AlignBegin=91785|AlignEnd=91950|GE=[THM]|Gloss=-THM|nWord=12|RX=[V:ANY]
-15	.		.	_	_	_	_	_	AlignBegin=91950|AlignEnd=92276|Gloss=.|nWord=13
+15	.		PUNCT	_	_	_	_	_	AlignBegin=91950|AlignEnd=92276|Gloss=.|nWord=13
 
