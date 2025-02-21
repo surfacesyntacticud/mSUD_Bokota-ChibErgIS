@@ -5,11 +5,12 @@
 # morphemic_text = cha kle koi gwe .
 # text = cha kle koi gwe .
 # text_en = I kill the chicken.
+# text_ortho = cha kle koi gwe .
 1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=12470|AlignEnd=12814|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	kle	kle	AUX	_	_	_	_	_	AlignBegin=12814|AlignEnd=13158|GE=be|Gloss=be|nWord=2|RX=[V]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=12814|AlignEnd=13158|GE=be|Gloss=be|nWord=2|RX=[V]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=13158|AlignEnd=13502|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
-4	gwe	gwe	VERB	_	_	0	root	_	AlignBegin=13502|AlignEnd=13846|GE=kill|Gloss=kill|nWord=4|RX=[V]
-5	.		PUNCT	_	_	_	_	_	AlignBegin=13846|AlignEnd=14190|Gloss=.|nWord=5
+4	gwe	gwe	VERB	_	_	2	comp:aux	_	AlignBegin=13502|AlignEnd=13846|GE=kill|Gloss=kill|nWord=4|RX=[V]
+5	.		PUNCT	_	_	2	punct	_	AlignBegin=13846|AlignEnd=14190|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-CO-00000-09_02-02
 # speaker_id = @09
@@ -18,11 +19,12 @@
 # morphemic_text = cha kle koi gwe .
 # text = cha kle koi gwe .
 # text_en = I kill the chicken.
-1	cha	cha	PRON	_	_	2	comp:obj	_	AlignBegin=14295|AlignEnd=14485|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	kle	kle	AUX	_	_	_	_	_	AlignBegin=14485|AlignEnd=14675|GE=be|Gloss=be|nWord=2|RX=[V]
+# text_ortho = cha kle koi gwe .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=14295|AlignEnd=14485|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=14485|AlignEnd=14675|GE=be|Gloss=be|nWord=2|RX=[V]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=14675|AlignEnd=14865|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
 4	gwe	gwe	VERB	_	_	2	comp:aux	_	AlignBegin=14865|AlignEnd=15055|GE=kill|Gloss=kill|nWord=4|RX=[V]
-5	.		PUNCT	_	_	_	_	_	AlignBegin=15055|AlignEnd=15245|Gloss=.|nWord=5
+5	.		PUNCT	_	_	2	punct	_	AlignBegin=15055|AlignEnd=15245|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-CO-00000-09_03-03
 # speaker_id = @09
@@ -31,13 +33,14 @@
 # morphemic_text = cha kle koi gwe giska giti .
 # text = cha kle koi gwe giska giti .
 # text_en = I kill the chicken with a rope.
-1	cha	cha	PRON	_	_	2	comp:obj	_	AlignBegin=15275|AlignEnd=15572|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	kle	kle	AUX	_	_	_	_	_	AlignBegin=15572|AlignEnd=15869|GE=be|Gloss=be|nWord=2|RX=[V]
+# text_ortho = cha kle koi gwe giska giti .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=15275|AlignEnd=15572|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=15572|AlignEnd=15869|GE=be|Gloss=be|nWord=2|RX=[V]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=15869|AlignEnd=16166|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
 4	gwe	gwe	VERB	_	_	2	comp:aux	_	AlignBegin=16166|AlignEnd=16463|GE=kill|Gloss=kill|nWord=4|RX=[V]
 5	giska	giska	NOUN	_	_	6	comp	_	AlignBegin=16463|AlignEnd=16760|GE=rope|Gloss=rope|nWord=5|RX=[N]
-6	giti	giti	ADP	_	_	_	_	_	AlignBegin=16760|AlignEnd=17057|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
-7	.		PUNCT	_	_	_	_	_	AlignBegin=17057|AlignEnd=17355|Gloss=.|nWord=7
+6	giti	giti	ADP	_	_	4	comp:obl	_	AlignBegin=16760|AlignEnd=17057|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
+7	.		PUNCT	_	_	2	punct	_	AlignBegin=17057|AlignEnd=17355|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-CO-00000-09_04-04
 # speaker_id = @09
@@ -46,11 +49,12 @@
 # morphemic_text = giska tk -e ngania .
 # text = giska tke ngania .
 # text_en = I put the rope up there.
+# text_ortho = giska tke ngania .
 1	giska	giska	NOUN	_	_	2	comp:obj	_	AlignBegin=17355|AlignEnd=17657|GE=rope|Gloss=rope|nWord=1|RX=[N]
-2	tk	tk	VERB	_	_	3	comp:aux/m	_	AlignBegin=17657|AlignEnd=17808|GE=put|Gloss=put|nWord=2|RX=[V]
+2	tk	tk	VERB	_	_	3	comp:aux/m	_	AlignBegin=17657|AlignEnd=17808|GE=put|Gloss=put|nWord=2|RX=[VT]
 3	-e		AUX	_	_	0	root	_	AlignBegin=17808|AlignEnd=17959|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
 4	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=17959|AlignEnd=18261|GE=up|Gloss=up|nWord=3|RX=[ADV]
-5	.		PUNCT	_	_	_	_	_	AlignBegin=18261|AlignEnd=18565|Gloss=.|nWord=4
+5	.		PUNCT	_	_	3	punct	_	AlignBegin=18261|AlignEnd=18565|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-CO-00000-09_05-05
 # speaker_id = @09
@@ -59,15 +63,15 @@
 # morphemic_text = entonces koi ne kle ho ked -a bdagli .
 # text = entonces koi ne kle hokeda bdagli .
 # text_en = So the chicken dies at last.
-1	entonces	entonces	ADV	_	_	_	_	_	AlignBegin=18605|AlignEnd=18908|GE=so|Gloss=so|nWord=1|RX=[ADV]
-2	koi	koi	NOUN	_	_	_	_	_	AlignBegin=18908|AlignEnd=19211|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
+# text_ortho = entonces koi ne kle hokeda bdagli .
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=18605|AlignEnd=18908|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	koi	koi	NOUN	_	_	5	subj	_	AlignBegin=18908|AlignEnd=19211|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
 3	ne	ne	DET	_	_	2	mod	_	AlignBegin=19211|AlignEnd=19514|GE=that|Gloss=that|nWord=3|RX=[DET]
-4	kle	kle	AUX	_	_	_	_	_	AlignBegin=19514|AlignEnd=19817|GE=be|Gloss=be|nWord=4|RX=[V]
-5	ho	ho	VERB	_	_	4	comp:aux	_	AlignBegin=19817|AlignEnd=19918|GE=[go].[PST]|Gloss=go.PST|nWord=5|RX=[V]
-6	ked	ked	AUX	_	_	7	comp:aux/m	_	AlignBegin=19918|AlignEnd=20019|GE=die|Gloss=die|nWord=5|RX=[V]
-7	-a		X	_	_	_	_	_	AlignBegin=20019|AlignEnd=20120|GE=[0]|Gloss=-0|nWord=5|RX=[VERB]
-8	bdagli	bdagli	NUM	_	_	_	_	_	AlignBegin=20120|AlignEnd=20423|GE=last|Gloss=last|nWord=6|RX=[NUM]
-9	.		PUNCT	_	_	_	_	_	AlignBegin=20423|AlignEnd=20725|Gloss=.|nWord=7
+4	kle	kle	AUX	_	_	0	root	_	AlignBegin=19514|AlignEnd=19817|GE=be|Gloss=be|nWord=4|RX=[V]
+5	hoke	hoke	VERB	_	_	6	comp:aux/m	_	AlignBegin=19817|AlignEnd=19918|GE=[go].[PST]|Gloss=go|nWord=5|RX=[VI]
+6	-da	ked	AUX	_	_	4	comp:aux	_	AlignBegin=19918|AlignEnd=20120|GE=die|Gloss=-ASP|nWord=5|RX=[V]
+7	bdagli	bdagli	NUM	_	_	_	_	_	AlignBegin=20120|AlignEnd=20423|GE=last|Gloss=last|nWord=6|RX=[NUM]
+8	.		PUNCT	_	_	4	punct	_	AlignBegin=20423|AlignEnd=20725|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-CO-00000-09_06-08
 # speaker_id = @09
@@ -76,6 +80,7 @@
 # morphemic_text = cha kle koi blit -e hinkale , para que koi be ne tikeda -da , para que koi chek -e no .
 # text = cha kle koi blite hinkale , pa que koi be ne tikedada , pa que koi cheke no .
 # text_en = I turn the chicken the other way, So the blood goes out, So the chicken is good.
+# text_ortho = cha kle koi blite hinkale , pa que koi be ne tikedada , pa que koi cheke no .
 1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=21040|AlignEnd=21293|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=21293|AlignEnd=21546|GE=be|Gloss=be|nWord=2|RX=[V]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=21546|AlignEnd=21799|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
@@ -83,18 +88,18 @@
 5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=21925|AlignEnd=22052|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 6	hinkale	hinkale	ADV	_	_	_	_	_	AlignBegin=22052|AlignEnd=22305|GE=other_way|Gloss=other_way|nWord=5|RX=[ADV]
 7	,		PUNCT	_	_	_	_	_	AlignBegin=22305|AlignEnd=22560|nWord=6
-8	para	para	ADP	_	_	_	_	_	AlignBegin=22565|AlignEnd=22846|GE=to|Gloss=to|nWord=7|RX=[ADP]
-9	que	que	PRON	_	_	_	_	_	AlignBegin=22846|AlignEnd=23127|GE=that|Gloss=that|nWord=8|RX=[PRO]
-10	koi	koi	NOUN	_	_	_	_	_	AlignBegin=23127|AlignEnd=23408|GE=chicken|Gloss=chicken|nWord=9|RX=[N]
+8	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=22565|AlignEnd=22846|GE=to|Gloss=to|nWord=7|RX=[ADP]
+9	que	que	X	_	Foreign=Yes	8	compound	_	AlignBegin=22846|AlignEnd=23127|GE=that|Gloss=that|nWord=8|RX=[PRO]
+10	koi	koi	NOUN	_	_	11	udep:poss	_	AlignBegin=23127|AlignEnd=23408|GE=chicken|Gloss=chicken|nWord=9|RX=[N]
 11	be	be	NOUN	_	_	_	_	_	AlignBegin=23408|AlignEnd=23689|GE=blood|Gloss=blood|nWord=10|RX=[N]
 12	ne	ne	DET	_	_	11	mod	_	AlignBegin=23689|AlignEnd=23970|GE=that|Gloss=that|nWord=11|RX=[DET]
 13	tikeda	tikeda	VERB	_	_	14	comp:aux/m	_	AlignBegin=23970|AlignEnd=24110|GE=exit|Gloss=exit|nWord=12|RX=[V]
 14	-da		PART	_	_	_	_	_	AlignBegin=24110|AlignEnd=24251|GE=emph|Gloss=emph|nWord=12|RX=[VERB]
 15	,		PUNCT	_	_	_	_	_	AlignBegin=24251|AlignEnd=24535|nWord=13
-16	para	para	ADP	_	_	_	_	_	AlignBegin=24775|AlignEnd=24982|GE=to|Gloss=to|nWord=14|RX=[ADP]
-17	que	que	PRON	_	_	_	_	_	AlignBegin=24982|AlignEnd=25189|GE=that|Gloss=that|nWord=15|RX=[PRO]
-18	koi	koi	NOUN	_	_	_	_	_	AlignBegin=25189|AlignEnd=25396|GE=chicken|Gloss=chicken|nWord=16|RX=[N]
-19	chek	chek	VERB	_	_	20	comp:aux/m	_	AlignBegin=25396|AlignEnd=25500|GE=end|Gloss=end|nWord=17|RX=[V]
+16	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=24775|AlignEnd=24982|GE=to|Gloss=to|nWord=14|RX=[ADP]
+17	que	que	X	_	Foreign=Yes	16	compound	_	AlignBegin=24982|AlignEnd=25189|GE=that|Gloss=that|nWord=15|RX=[PRO]
+18	koi	koi	NOUN	_	_	19	subj	_	AlignBegin=25189|AlignEnd=25396|GE=chicken|Gloss=chicken|nWord=16|RX=[N]
+19	chek	chek	VERB	_	_	20	comp:aux/m	_	AlignBegin=25396|AlignEnd=25500|GE=end|Gloss=end|nWord=17|RX=[VI]
 20	-e		AUX	_	_	_	_	_	AlignBegin=25500|AlignEnd=25603|GE=[THM]|Gloss=-THM|nWord=17|RX=[V:ANY]
 21	no	no	ADJ	_	_	_	_	_	AlignBegin=25603|AlignEnd=25810|GE=good|Gloss=good|nWord=18|RX=[ADJ]
 22	.		PUNCT	_	_	_	_	_	AlignBegin=25810|AlignEnd=26015|Gloss=.|nWord=19
@@ -106,14 +111,15 @@
 # morphemic_text = cha kle koi li -e bla ske .
 # text = cha kle koi lie bla ske .
 # text_en = I cook the chicken with bananas.
-1	cha	cha	PRON	_	_	2	comp:obj	_	AlignBegin=26070|AlignEnd=26291|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	kle	kle	AUX	_	_	_	_	_	AlignBegin=26291|AlignEnd=26512|GE=be|Gloss=be|nWord=2|RX=[V]
+# text_ortho = cha kle koi lie bla ske .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=26070|AlignEnd=26291|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=26291|AlignEnd=26512|GE=be|Gloss=be|nWord=2|RX=[V]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=26512|AlignEnd=26733|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
-4	li	li	VERB	_	_	5	comp:aux/m	_	AlignBegin=26733|AlignEnd=26843|GE=cook|Gloss=cook|nWord=4|RX=[V]
+4	li	li	VERB	_	_	5	comp:aux/m	_	AlignBegin=26733|AlignEnd=26843|GE=cook|Gloss=cook|nWord=4|RX=[VT]
 5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=26843|AlignEnd=26954|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 6	bla	bla	NOUN	_	_	7	comp	_	AlignBegin=26954|AlignEnd=27175|GE=banana|Gloss=banana|nWord=5|RX=[N]
-7	ske	ske	ADP	_	_	_	_	_	AlignBegin=27175|AlignEnd=27396|GE=with|Gloss=with|nWord=6|RX=[ADP]
-8	.		PUNCT	_	_	_	_	_	AlignBegin=27396|AlignEnd=27620|Gloss=.|nWord=7
+7	ske	ske	ADP	_	_	4	comp:obl	_	AlignBegin=27175|AlignEnd=27396|GE=with|Gloss=with|nWord=6|RX=[ADP]
+8	.		PUNCT	_	_	2	punct	_	AlignBegin=27396|AlignEnd=27620|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-CO-00000-09_10-10
 # speaker_id = @09
@@ -122,14 +128,15 @@
 # morphemic_text = cha kle koi li -e hagna ske .
 # text = cha kle koi lie hagna ske .
 # text_en = ‎‎I cook the chicken with hagna.
-1	cha	cha	PRON	_	_	2	comp:obj	_	AlignBegin=27630|AlignEnd=27809|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	kle	kle	AUX	_	_	_	_	_	AlignBegin=27809|AlignEnd=27988|GE=be|Gloss=be|nWord=2|RX=[V]
+# text_ortho = cha kle koi lie hagna ske .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=27630|AlignEnd=27809|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=27809|AlignEnd=27988|GE=be|Gloss=be|nWord=2|RX=[V]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=27988|AlignEnd=28167|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
-4	li	li	VERB	_	_	5	comp:aux/m	_	AlignBegin=28167|AlignEnd=28257|GE=cook|Gloss=cook|nWord=4|RX=[V]
+4	li	li	VERB	_	_	5	comp:aux/m	_	AlignBegin=28167|AlignEnd=28257|GE=cook|Gloss=cook|nWord=4|RX=[VT]
 5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=28257|AlignEnd=28346|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 6	hagna	hagna	NOUN	_	_	7	comp	_	AlignBegin=28346|AlignEnd=28525|GE=plant_type|Gloss=plant_type|nWord=5|RX=[N]
-7	ske	ske	ADP	_	_	_	_	_	AlignBegin=28525|AlignEnd=28704|GE=with|Gloss=with|nWord=6|RX=[ADP]
-8	.		PUNCT	_	_	_	_	_	AlignBegin=28704|AlignEnd=28880|Gloss=.|nWord=7
+7	ske	ske	ADP	_	_	4	comp:obl	_	AlignBegin=28525|AlignEnd=28704|GE=with|Gloss=with|nWord=6|RX=[ADP]
+8	.		PUNCT	_	_	2	punct	_	AlignBegin=28704|AlignEnd=28880|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-CO-00000-09_11-11
 # speaker_id = @09
@@ -138,18 +145,19 @@
 # morphemic_text = cha kle koi li -e arroz ske gwa ite gwa ite .
 # text = cha kle koi lie arroz ske gwaite gwaite .
 # text_en = I cook the chicken with rice, little by little.
-1	cha	cha	PRON	_	_	2	comp:obj	_	AlignBegin=29350|AlignEnd=29633|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	kle	kle	AUX	_	_	_	_	_	AlignBegin=29633|AlignEnd=29916|GE=be|Gloss=be|nWord=2|RX=[V]
+# text_ortho = cha kle koi lie arroz ske gwaite gwaite .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=29350|AlignEnd=29633|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=29633|AlignEnd=29916|GE=be|Gloss=be|nWord=2|RX=[V]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=29916|AlignEnd=30199|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
-4	li	li	VERB	_	_	5	comp:aux/m	_	AlignBegin=30199|AlignEnd=30341|GE=cook|Gloss=cook|nWord=4|RX=[V]
+4	li	li	VERB	_	_	5	comp:aux/m	_	AlignBegin=30199|AlignEnd=30341|GE=cook|Gloss=cook|nWord=4|RX=[VT]
 5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=30341|AlignEnd=30482|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	arroz	arroz	NOUN	_	_	7	comp	_	AlignBegin=30482|AlignEnd=30765|GE=rice|Gloss=rice|nWord=5|RX=[N]
-7	ske	ske	ADP	_	_	_	_	_	AlignBegin=30765|AlignEnd=31048|GE=with|Gloss=with|nWord=6|RX=[ADP]
-8	gwa	gwa	NUM	_	_	_	_	_	AlignBegin=31048|AlignEnd=31190|GE=cl|Gloss=cl|nWord=7|RX=[NUM]
+6	arroz	arroz	NOUN	_	Foreign=Yes	7	comp	_	AlignBegin=30482|AlignEnd=30765|GE=rice|Gloss=rice|nWord=5|RX=[N]
+7	ske	ske	ADP	_	_	4	comp:obl	_	AlignBegin=30765|AlignEnd=31048|GE=with|Gloss=with|nWord=6|RX=[ADP]
+8	gwa	gwa	NUM	_	_	9	clf	_	AlignBegin=31048|AlignEnd=31190|GE=cl|Gloss=cl|nWord=7|RX=[NUM]
 9	ite	ite	NUM	_	_	_	_	_	AlignBegin=31190|AlignEnd=31331|GE=one|Gloss=one|nWord=7|RX=[NUM]
-10	gwa	gwa	NUM	_	_	_	_	_	AlignBegin=31331|AlignEnd=31473|GE=cl|Gloss=cl|nWord=8|RX=[NUM]
+10	gwa	gwa	NUM	_	_	11	clf	_	AlignBegin=31331|AlignEnd=31473|GE=cl|Gloss=cl|nWord=8|RX=[NUM]
 11	ite	ite	NUM	_	_	_	_	_	AlignBegin=31473|AlignEnd=31614|GE=one|Gloss=one|nWord=8|RX=[NUM]
-12	.		PUNCT	_	_	_	_	_	AlignBegin=31614|AlignEnd=31900|Gloss=.|nWord=9
+12	.		PUNCT	_	_	2	punct	_	AlignBegin=31614|AlignEnd=31900|Gloss=.|nWord=9
 
 # sent_id = SAB-TXT-CO-00000-09_12-12
 # speaker_id = @09
@@ -158,7 +166,8 @@
 # morphemic_text = para be bligda ulita no .
 # text = para be bligda ulita no .
 # text_en = So all the food will be good.
-1	para	para	ADP	_	_	_	_	_	AlignBegin=32010|AlignEnd=32310|GE=for|Gloss=for|nWord=1|RX=[ADP]
+# text_ortho = para be bligda ulita no .
+1	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=32010|AlignEnd=32310|GE=for|Gloss=for|nWord=1|RX=[ADP]
 2	be	be	AUX	_	_	_	_	_	AlignBegin=32310|AlignEnd=32610|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
 3	bligda	bligda	NOUN	_	_	_	_	_	AlignBegin=32610|AlignEnd=32910|GE=food|Gloss=food|nWord=3|RX=[N]
 4	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=32910|AlignEnd=33210|GE=all|Gloss=all|nWord=4|RX=[ADV]
@@ -172,9 +181,10 @@
 # morphemic_text = bligda kle chek -e chi -a daitra , ama cha kle gut -e kiro ole .
 # text = bligda kle cheke chia daitra , ama cha kle gute kiro ole .
 # text_en = The food ends up in a clear soup. So I eat with the children.
+# text_ortho = bligda kle cheke chia daitra , ama cha kle gute kiro ole .
 1	bligda	bligda	NOUN	_	_	3	subj	_	AlignBegin=34335|AlignEnd=34652|GE=food|Gloss=food|nWord=1|RX=[N]
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=34652|AlignEnd=34969|GE=be|Gloss=be|nWord=2|RX=[V]
-3	chek	chek	VERB	_	_	4	comp:aux/m	_	AlignBegin=34969|AlignEnd=35127|GE=end|Gloss=end|nWord=3|RX=[V]
+3	chek	chek	VERB	_	_	4	comp:aux/m	_	AlignBegin=34969|AlignEnd=35127|GE=end|Gloss=end|nWord=3|RX=[VI]
 4	-e		AUX	_	_	2	comp:aux	_	AlignBegin=35127|AlignEnd=35286|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	chi	chi	NOUN	_	_	6	comp:aux/m	_	AlignBegin=35286|AlignEnd=35444|GE=water|Gloss=water|nWord=4|RX=[N]
 6	-a		AUX	_	_	_	_	_	AlignBegin=35444|AlignEnd=35603|GE=[POSS]|Gloss=-POSS|nWord=4|RX=[N:ANY]
@@ -183,10 +193,10 @@
 9	ama	ama	ADV	_	_	_	_	_	AlignBegin=36310|AlignEnd=36630|GE=so|Gloss=so|nWord=7|RX=[ADV]
 10	cha	cha	PRON	_	_	12	subj	_	AlignBegin=36630|AlignEnd=36950|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
 11	kle	kle	AUX	_	_	_	_	_	AlignBegin=36950|AlignEnd=37270|GE=be|Gloss=be|nWord=9|RX=[V]
-12	gut	gut	VERB	_	_	13	comp:aux/m	_	AlignBegin=37270|AlignEnd=37430|GE=eat|Gloss=eat|nWord=10|RX=[V]
+12	gut	gut	VERB	_	_	13	comp:aux/m	_	AlignBegin=37270|AlignEnd=37430|GE=eat|Gloss=eat|nWord=10|RX=[VT]
 13	-e		AUX	_	_	11	comp:aux	_	AlignBegin=37430|AlignEnd=37590|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
 14	kiro	kiro	NOUN	_	_	15	comp	_	AlignBegin=37590|AlignEnd=37910|GE=child|Gloss=child|nWord=11|RX=[N]
-15	ole	ole	ADP	_	_	_	_	_	AlignBegin=37910|AlignEnd=38230|GE=[COM]|Gloss=COM|nWord=12|RX=[ADP]
+15	ole	ole	ADP	_	_	12	comp:obl	_	AlignBegin=37910|AlignEnd=38230|GE=[COM]|Gloss=COM|nWord=12|RX=[ADP]
 16	.		PUNCT	_	_	_	_	_	AlignBegin=38230|AlignEnd=38550|Gloss=.|nWord=13
 
 # sent_id = SAB-TXT-CO-00000-09_15-16
@@ -196,17 +206,18 @@
 # morphemic_text = para tener bligda gnanchk -e no , cha kle gwagaga bat -e .
 # text = pa tener bligda gnanchke no , cha kle gwagaga bate .
 # text_en = To have food taste good, I cut some onions.
-1	para	para	ADP	_	_	_	_	_	AlignBegin=40860|AlignEnd=41232|GE=to|Gloss=to|nWord=1|RX=[ADP]
+# text_ortho = pa tener bligda gnanchke no , cha kle gwagaga bate .
+1	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=40860|AlignEnd=41232|GE=to|Gloss=to|nWord=1|RX=[ADP]
 2	tener	tener	VERB	_	_	_	_	_	AlignBegin=41232|AlignEnd=41604|GE=have|Gloss=have|nWord=2|RX=[V]
 3	bligda	bligda	NOUN	_	_	4	comp:obj	_	AlignBegin=41604|AlignEnd=41976|GE=food|Gloss=food|nWord=3|RX=[N]
 4	gnanchk	gnanchk	VERB	_	_	5	comp:aux/m	_	AlignBegin=41976|AlignEnd=42162|GE=taste|Gloss=taste|nWord=4|RX=[V]
 5	-e		AUX	_	_	_	_	_	AlignBegin=42162|AlignEnd=42348|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 6	no	no	ADV	_	_	_	_	_	AlignBegin=42348|AlignEnd=42720|GE=well|Gloss=well|nWord=5|RX=[ADV]
 7	,		PUNCT	_	_	_	_	_	AlignBegin=42720|AlignEnd=43090|nWord=6
-8	cha	cha	PRON	_	_	9	comp:obj	_	AlignBegin=43110|AlignEnd=43602|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
+8	cha	cha	PRON	_	_	11	subj	_	AlignBegin=43110|AlignEnd=43602|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
 9	kle	kle	AUX	_	_	_	_	_	AlignBegin=43602|AlignEnd=44094|GE=be|Gloss=be|nWord=8|RX=[V]
 10	gwagaga	gwagaga	NOUN	_	_	11	comp:obj	_	AlignBegin=44094|AlignEnd=44586|GE=onion|Gloss=onion|nWord=9|RX=[N]
-11	bat	bat	VERB	_	_	12	comp:aux/m	_	AlignBegin=44586|AlignEnd=44832|GE=hit|Gloss=hit|nWord=10|RX=[V]
+11	bat	bat	VERB	_	_	12	comp:aux/m	_	AlignBegin=44586|AlignEnd=44832|GE=hit|Gloss=hit|nWord=10|RX=[VT]
 12	-e		AUX	_	_	9	comp:aux	_	AlignBegin=44832|AlignEnd=45078|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
 13	.		PUNCT	_	_	_	_	_	AlignBegin=45078|AlignEnd=45570|Gloss=.|nWord=11
 
@@ -217,16 +228,17 @@
 # morphemic_text = cha kle gwani bli tk -e , para que bligda gnanchk -e no .
 # text = cha kle gwani bli tke , pa que bligda gnanchke no .
 # text_en = I put some gwani in the food. So that the food tastes good.
+# text_ortho = cha kle gwani bli tke , pa que bligda gnanchke no .
 1	cha	cha	PRON	_	_	5	subj	_	AlignBegin=45655|AlignEnd=46108|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=46108|AlignEnd=46561|GE=be|Gloss=be|nWord=2|RX=[V]
-3	gwani	gwani	NOUN	_	_	_	_	_	AlignBegin=46561|AlignEnd=47014|GE=herb_type|Gloss=herb_type|nWord=3|RX=[N]
+3	gwani	gwani	NOUN	_	_	5	comp:obj	_	AlignBegin=46561|AlignEnd=47014|GE=herb_type|Gloss=herb_type|nWord=3|RX=[N]
 4	bli	bli	NOUN	_	_	_	_	_	AlignBegin=47014|AlignEnd=47467|GE=food|Gloss=food|nWord=4|RX=[N]
-5	tk	tk	VERB	_	_	6	comp:aux/m	_	AlignBegin=47467|AlignEnd=47693|GE=put|Gloss=put|nWord=5|RX=[V]
+5	tk	tk	VERB	_	_	6	comp:aux/m	_	AlignBegin=47467|AlignEnd=47693|GE=put|Gloss=put|nWord=5|RX=[VT]
 6	-e		AUX	_	_	2	comp:aux	_	AlignBegin=47693|AlignEnd=47920|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	,		PUNCT	_	_	_	_	_	AlignBegin=47920|AlignEnd=48375|nWord=6
-8	para	para	ADP	_	_	_	_	_	AlignBegin=48520|AlignEnd=48793|GE=to|Gloss=to|nWord=7|RX=[ADP]
-9	que	que	PRON	_	_	_	_	_	AlignBegin=48793|AlignEnd=49066|GE=that|Gloss=that|nWord=8|RX=[PRO]
-10	bligda	bligda	NOUN	_	_	_	_	_	AlignBegin=49066|AlignEnd=49339|GE=food|Gloss=food|nWord=9|RX=[N]
+8	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=48520|AlignEnd=48793|GE=to|Gloss=to|nWord=7|RX=[ADP]
+9	que	que	X	_	Foreign=Yes	8	compound	_	AlignBegin=48793|AlignEnd=49066|GE=that|Gloss=that|nWord=8|RX=[PRO]
+10	bligda	bligda	NOUN	_	_	11	subj	_	AlignBegin=49066|AlignEnd=49339|GE=food|Gloss=food|nWord=9|RX=[N]
 11	gnanchk	gnanchk	VERB	_	_	12	comp:aux/m	_	AlignBegin=49339|AlignEnd=49475|GE=taste|Gloss=taste|nWord=10|RX=[V]
 12	-e		AUX	_	_	_	_	_	AlignBegin=49475|AlignEnd=49612|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
 13	no	no	ADV	_	_	_	_	_	AlignBegin=49612|AlignEnd=49885|GE=well|Gloss=well|nWord=11|RX=[ADV]
@@ -239,13 +251,14 @@
 # morphemic_text = ama cha kle gut -e kiro gwa ole .
 # text = ama cha kle gute kirogwa ole .
 # text_en = So I eat with my children.
+# text_ortho = ama cha kle gute kirogwa ole .
 1	ama	ama	ADV	_	_	_	_	_	AlignBegin=50365|AlignEnd=50679|GE=so|Gloss=so|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	4	subj	_	AlignBegin=50679|AlignEnd=50993|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
-3	kle	kle	AUX	_	_	_	_	_	AlignBegin=50993|AlignEnd=51307|GE=be|Gloss=be|nWord=3|RX=[V]
-4	gut	gut	VERB	_	_	5	comp:aux/m	_	AlignBegin=51307|AlignEnd=51464|GE=eat|Gloss=eat|nWord=4|RX=[V]
+3	kle	kle	AUX	_	_	0	root	_	AlignBegin=50993|AlignEnd=51307|GE=be|Gloss=be|nWord=3|RX=[V]
+4	gut	gut	VERB	_	_	5	comp:aux/m	_	AlignBegin=51307|AlignEnd=51464|GE=eat|Gloss=eat|nWord=4|RX=[VT]
 5	-e		AUX	_	_	3	comp:aux	_	AlignBegin=51464|AlignEnd=51621|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 6	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=51621|AlignEnd=51778|GE=child|Gloss=child|nWord=5|RX=[N]
 7	gwa	gwa	_	_	_	_	_	_	AlignBegin=51778|AlignEnd=51935|nWord=5
-8	ole	ole	ADP	_	_	_	_	_	AlignBegin=51935|AlignEnd=52249|GE=[COM]|Gloss=COM|nWord=6|RX=[ADP]
-9	.		PUNCT	_	_	_	_	_	AlignBegin=52249|AlignEnd=52565|Gloss=.|nWord=7
+8	ole	ole	ADP	_	_	4	comp:obl	_	AlignBegin=51935|AlignEnd=52249|GE=[COM]|Gloss=COM|nWord=6|RX=[ADP]
+9	.		PUNCT	_	_	3	punct	_	AlignBegin=52249|AlignEnd=52565|Gloss=.|nWord=7
 

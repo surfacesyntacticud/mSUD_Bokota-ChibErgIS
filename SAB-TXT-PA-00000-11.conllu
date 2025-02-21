@@ -5,12 +5,13 @@
 # morphemic_text = cha chi -u iani Olechia giti .
 # text = cha chiu iani Olechia giti .
 # text_en = I came here from Olechia.
+# text_ortho = cha chiu iani Olechia giti .
 1	cha	cha	PRON	_	_	2	subj	_	AlignBegin=6510|AlignEnd=6947|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=6947|AlignEnd=7165|GE=come|Gloss=come|nWord=2|RX=[V]
+2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=6947|AlignEnd=7165|GE=come|Gloss=come|nWord=2|RX=[VI]
 3	-u		AUX	_	_	0	root	_	AlignBegin=7165|AlignEnd=7384|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	iani	iani	ADV	_	_	_	_	_	AlignBegin=7384|AlignEnd=7821|GE=there|Gloss=there|nWord=3|RX=[ADV]
 5	Olechia	Olechia	PROPN	_	_	6	comp	_	AlignBegin=7821|AlignEnd=8258|GE=[Olechia]|Gloss=Olechia|nWord=4|RX=[NPROP]
-6	giti	giti	ADP	_	_	_	_	_	AlignBegin=8258|AlignEnd=8695|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
+6	giti	giti	ADP	_	_	2	comp:obl	_	AlignBegin=8258|AlignEnd=8695|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
 7	.		PUNCT	_	_	3	punct	_	AlignBegin=8695|AlignEnd=9130|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-PA-00000-11_2-2
@@ -20,11 +21,12 @@
 # morphemic_text = cha chi -u Hato giti tengkle .
 # text = cha chiu Hato giti tengkle .
 # text_en = I crossed Rio Hato.
+# text_ortho = cha chiu Hato giti tengkle .
 1	cha	cha	PRON	_	_	2	subj	_	AlignBegin=9300|AlignEnd=9553|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=9553|AlignEnd=9679|GE=come|Gloss=come|nWord=2|RX=[V]
+2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=9553|AlignEnd=9679|GE=come|Gloss=come|nWord=2|RX=[VI]
 3	-u		AUX	_	_	0	root	_	AlignBegin=9679|AlignEnd=9806|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	Hato	Hato	PROPN	_	_	5	comp	_	AlignBegin=9806|AlignEnd=10059|GE=[Hato]|Gloss=Hato|nWord=3|RX=[NPROP]
-5	giti	giti	ADP	_	_	_	_	_	AlignBegin=10059|AlignEnd=10312|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
+5	giti	giti	ADP	_	_	2	comp:obl	_	AlignBegin=10059|AlignEnd=10312|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
 6	tengkle	tengkle	ADV	_	_	_	_	_	AlignBegin=10312|AlignEnd=10565|GE=through|Gloss=through|nWord=5|RX=[ADV]
 7	.		PUNCT	_	_	3	punct	_	AlignBegin=10565|AlignEnd=10820|Gloss=.|nWord=6
 
@@ -35,11 +37,12 @@
 # morphemic_text = cha chi -u Gifuichoia ke tengkle .
 # text = cha chiu Gifuichoia ke tengkle .
 # text_en = I crossed Gifuicho.
+# text_ortho = cha chiu Gifuichoia ke tengkle .
 1	cha	cha	PRON	_	_	2	subj	_	AlignBegin=10825|AlignEnd=11298|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=11298|AlignEnd=11534|GE=come|Gloss=come|nWord=2|RX=[V]
+2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=11298|AlignEnd=11534|GE=come|Gloss=come|nWord=2|RX=[VI]
 3	-u		AUX	_	_	0	root	_	AlignBegin=11534|AlignEnd=11771|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	Gifuichoia	Gifuichoia	PROPN	_	_	5	comp	_	AlignBegin=11771|AlignEnd=12244|GE=[Gifuicho]|Gloss=Gifuicho|nWord=3|RX=[NPROP]
-5	ke	ke	ADP	_	_	_	_	_	AlignBegin=12244|AlignEnd=12717|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
+5	ke	ke	ADP	_	_	2	comp:obl	_	AlignBegin=12244|AlignEnd=12717|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
 6	tengkle	tengkle	ADV	_	_	_	_	_	AlignBegin=12717|AlignEnd=13190|GE=through|Gloss=through|nWord=5|RX=[ADV]
 7	.		PUNCT	_	_	3	punct	_	AlignBegin=13190|AlignEnd=13665|Gloss=.|nWord=6
 
@@ -50,11 +53,12 @@
 # morphemic_text = cha chi -u irongchia giti .
 # text = cha chiu irongchia giti .
 # text_en = I went to the river Hiron.
+# text_ortho = cha chiu irongchia giti .
 1	cha	cha	PRON	_	_	2	subj	_	AlignBegin=13690|AlignEnd=13970|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=13970|AlignEnd=14110|GE=come|Gloss=come|nWord=2|RX=[V]
+2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=13970|AlignEnd=14110|GE=come|Gloss=come|nWord=2|RX=[VI]
 3	-u		AUX	_	_	0	root	_	AlignBegin=14110|AlignEnd=14250|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	irongchia	irongchia	PROPN	_	_	5	comp	_	AlignBegin=14250|AlignEnd=14530|GE=[Irongchia]|Gloss=Irongchia|nWord=3|RX=[NPROP]
-5	giti	giti	ADP	_	_	_	_	_	AlignBegin=14530|AlignEnd=14810|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
+5	giti	giti	ADP	_	_	2	comp:obl	_	AlignBegin=14530|AlignEnd=14810|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
 6	.		PUNCT	_	_	3	punct	_	AlignBegin=14810|AlignEnd=15090|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-PA-00000-11_5-5
@@ -64,11 +68,12 @@
 # morphemic_text = cha chi -u aini Klamengda ke .
 # text = cha chiu aini Klamengda ke .
 # text_en = I came here in Klamengda.
+# text_ortho = cha chiu aini Klamengda ke .
 1	cha	cha	PRON	_	_	2	subj	_	AlignBegin=15170|AlignEnd=15550|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=15550|AlignEnd=15740|GE=come|Gloss=come|nWord=2|RX=[V]
+2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=15550|AlignEnd=15740|GE=come|Gloss=come|nWord=2|RX=[VI]
 3	-u		AUX	_	_	0	root	_	AlignBegin=15740|AlignEnd=15930|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-4	aini	aini	ADV	_	_	_	_	_	AlignBegin=15930|AlignEnd=16310|GE=here|Gloss=here|nWord=3|RX=[ADV]
+4	aini	aini	ADV	_	_	2	mod:lmod	_	AlignBegin=15930|AlignEnd=16310|GE=here|Gloss=here|nWord=3|RX=[ADV]
 5	Klamengda	Klamengda	PROPN	_	_	6	comp	_	AlignBegin=16310|AlignEnd=16690|GE=[Klamengda]|Gloss=Klamengda|nWord=4|RX=[NPROP]
-6	ke	ke	ADP	_	_	_	_	_	AlignBegin=16690|AlignEnd=17070|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
+6	ke	ke	ADP	_	_	2	comp:obl	_	AlignBegin=16690|AlignEnd=17070|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
 7	.		PUNCT	_	_	3	punct	_	AlignBegin=17070|AlignEnd=17450|Gloss=.|nWord=6
 

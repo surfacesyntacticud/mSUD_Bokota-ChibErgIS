@@ -5,6 +5,7 @@
 # morphemic_text = daba salebli ulita kle no cha ole , y ulita un poco kle sainkuli cha ole .
 # text = daba salebli ulita kle no cha ole , y ulita un poco kle sainkuli cha ole .
 # text_en = My family members go along well with me. And some are evil to me.
+# text_ortho = daba salebli ulita kle no cha ole , y ulita un poco kle sainkuli cha ole .
 1	daba	daba	NOUN	_	_	_	_	_	AlignBegin=5730|AlignEnd=6435|GE=brother|Gloss=brother|nWord=1|RX=[N]
 2	salebli	salebli	ADJ	_	_	1	mod	_	AlignBegin=6435|AlignEnd=7140|GE=different|Gloss=different|nWord=2|RX=[ADJ]
 3	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=7140|AlignEnd=7845|GE=all|Gloss=all|nWord=3|RX=[ADV]
@@ -13,7 +14,7 @@
 6	cha	cha	PRON	_	_	7	comp	_	AlignBegin=9255|AlignEnd=9960|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
 7	ole	ole	ADP	_	_	_	_	_	AlignBegin=9960|AlignEnd=10665|GE=[COM]|Gloss=COM|nWord=7|RX=[ADP]
 8	,		PUNCT	_	_	_	_	_	AlignBegin=10665|AlignEnd=11370|nWord=8
-9	y	y	COORDCONN	_	_	_	_	_	AlignBegin=11390|AlignEnd=11863|GE=and|Gloss=and|nWord=9|RX=[COORDCONN]
+9	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=11390|AlignEnd=11863|GE=and|Gloss=and|nWord=9|RX=[COORDCONN]
 10	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=11863|AlignEnd=12336|GE=all|Gloss=all|nWord=10|RX=[ADV]
 11	un	un	DET	_	_	_	_	_	AlignBegin=12336|AlignEnd=12809|GE=[INDEF].[M]|Gloss=INDEF.M|nWord=11|RX=[DET]
 12	poco	poco	ADV	_	_	_	_	_	AlignBegin=12809|AlignEnd=13282|GE=few|Gloss=few|nWord=12|RX=[ADV]
@@ -30,10 +31,11 @@
 # morphemic_text = pero cha kle chage mung kira bek -a -bale daba salebli ulita .
 # text = pero cha kle chage mung kira bekabale daba salebli ulita .
 # text_en = But I recovered my strenth with my family.
-1	pero	pero	COORDCONN	_	_	_	_	_	AlignBegin=15720|AlignEnd=16165|GE=but|Gloss=but|nWord=1|RX=[COORDCONN]
+# text_ortho = pero cha kle chage mung kira bekabale daba salebli ulita .
+1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=15720|AlignEnd=16165|GE=but|Gloss=but|nWord=1|RX=[COORDCONN]
 2	cha	cha	PRON	_	_	4	subj	_	AlignBegin=16165|AlignEnd=16610|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
-3	kle	kle	AUX	_	_	_	_	_	AlignBegin=16610|AlignEnd=17055|GE=be|Gloss=be|nWord=3|RX=[V]
-4	chage	chage	VERB	_	_	3	comp:aux	_	AlignBegin=17055|AlignEnd=17500|GE=walk|Gloss=walk|nWord=4|RX=[V]
+3	kle	kle	AUX	_	_	0	root	_	AlignBegin=16610|AlignEnd=17055|GE=be|Gloss=be|nWord=3|RX=[V]
+4	chage	chage	VERB	_	_	3	comp:aux	_	AlignBegin=17055|AlignEnd=17500|GE=walk|Gloss=walk|nWord=4|RX=[VI]
 5	mung	mung	PART	_	_	_	_	_	AlignBegin=17500|AlignEnd=17945|GE=[REFL]|Gloss=REFL|nWord=5|RX=[VERBPRT]
 6	kira	kira	NOUN	_	_	_	_	_	AlignBegin=17945|AlignEnd=18390|GE=strenth|Gloss=strenth|nWord=6|RX=[N]
 7	bek	bek	VERB	_	_	8	comp:aux/m	_	AlignBegin=18390|AlignEnd=18538|GE=put|Gloss=put|nWord=7|RX=[V]
@@ -42,7 +44,7 @@
 10	daba	daba	NOUN	_	_	_	_	_	AlignBegin=18835|AlignEnd=19280|GE=brother|Gloss=brother|nWord=8|RX=[N]
 11	salebli	salebli	ADJ	_	_	10	mod	_	AlignBegin=19280|AlignEnd=19725|GE=different|Gloss=different|nWord=9|RX=[ADJ]
 12	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=19725|AlignEnd=20170|GE=all|Gloss=all|nWord=10|RX=[ADV]
-13	.		PUNCT	_	_	_	_	_	AlignBegin=20170|AlignEnd=20610|Gloss=.|nWord=11
+13	.		PUNCT	_	_	3	punct	_	AlignBegin=20170|AlignEnd=20610|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-OS-00000-10_04-08
 # speaker_id = @10
@@ -51,34 +53,35 @@
 # morphemic_text = cha kle chage mung bitaia ole , cha kle chage daba ole , cha kle chage cha nienugda ole , cha kle ru ole , cha kle chage ulita .
 # text = cha kle chage mung bitaia ole , cha kle chage daba ole , cha kle chage cha nienugda ole , cha kle ru ole , cha kle chage ulita .
 # text_en = I get along with my family, I get along with my brother, I get along with my step father, I get along with my uncle, I get along with everyone.
+# text_ortho = cha kle chage mung bitaia ole , cha kle chage daba ole , cha kle chage cha nienugda ole , cha kle ru ole , cha kle chage ulita .
 1	cha	cha	PRON	_	_	3	subj	_	AlignBegin=21450|AlignEnd=21698|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=21698|AlignEnd=21946|GE=be|Gloss=be|nWord=2|RX=[V]
-3	chage	chage	VERB	_	_	2	comp:aux	_	AlignBegin=21946|AlignEnd=22194|GE=walk|Gloss=walk|nWord=3|RX=[V]
+3	chage	chage	VERB	_	_	2	comp:aux	_	AlignBegin=21946|AlignEnd=22194|GE=walk|Gloss=walk|nWord=3|RX=[VI]
 4	mung	mung	PART	_	_	_	_	_	AlignBegin=22194|AlignEnd=22442|GE=[REFL]|Gloss=REFL|nWord=4|RX=[VERBPRT]
 5	bitaia	bitaia	NOUN	_	_	6	comp	_	AlignBegin=22442|AlignEnd=22690|GE=family|Gloss=family|nWord=5|RX=[N]
-6	ole	ole	ADP	_	_	_	_	_	AlignBegin=22690|AlignEnd=22938|GE=[COM]|Gloss=COM|nWord=6|RX=[ADP]
+6	ole	ole	ADP	_	_	3	comp:obl	_	AlignBegin=22690|AlignEnd=22938|GE=[COM]|Gloss=COM|nWord=6|RX=[ADP]
 7	,		PUNCT	_	_	_	_	_	AlignBegin=22938|AlignEnd=23185|nWord=7
 8	cha	cha	PRON	_	_	10	subj	_	AlignBegin=23185|AlignEnd=23384|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
 9	kle	kle	AUX	_	_	_	_	_	AlignBegin=23384|AlignEnd=23583|GE=be|Gloss=be|nWord=9|RX=[V]
-10	chage	chage	VERB	_	_	9	comp:aux	_	AlignBegin=23583|AlignEnd=23782|GE=walk|Gloss=walk|nWord=10|RX=[V]
+10	chage	chage	VERB	_	_	9	comp:aux	_	AlignBegin=23583|AlignEnd=23782|GE=walk|Gloss=walk|nWord=10|RX=[VI]
 11	daba	daba	NOUN	_	_	12	comp	_	AlignBegin=23782|AlignEnd=23981|GE=brother|Gloss=brother|nWord=11|RX=[N]
-12	ole	ole	ADP	_	_	_	_	_	AlignBegin=23981|AlignEnd=24180|GE=[COM]|Gloss=COM|nWord=12|RX=[ADP]
+12	ole	ole	ADP	_	_	10	comp:obl	_	AlignBegin=23981|AlignEnd=24180|GE=[COM]|Gloss=COM|nWord=12|RX=[ADP]
 13	,		PUNCT	_	_	_	_	_	AlignBegin=24180|AlignEnd=24380|nWord=13
 14	cha	cha	PRON	_	_	16	subj	_	AlignBegin=24380|AlignEnd=24699|GE=[1SG]|Gloss=1SG|nWord=14|RX=[PRO]
 15	kle	kle	AUX	_	_	_	_	_	AlignBegin=24699|AlignEnd=25018|GE=be|Gloss=be|nWord=15|RX=[V]
-16	chage	chage	VERB	_	_	15	comp:aux	_	AlignBegin=25018|AlignEnd=25337|GE=walk|Gloss=walk|nWord=16|RX=[V]
+16	chage	chage	VERB	_	_	15	comp:aux	_	AlignBegin=25018|AlignEnd=25337|GE=walk|Gloss=walk|nWord=16|RX=[VI]
 17	cha	cha	PRON	_	_	18	udep:poss	_	AlignBegin=25337|AlignEnd=25656|GE=[1SG]|Gloss=1SG|nWord=17|RX=[PRO]
 18	nienugda	nienugda	NOUN	_	_	19	comp	_	AlignBegin=25656|AlignEnd=25975|GE=stepfather|Gloss=stepfather|nWord=18|RX=[N]
-19	ole	ole	ADP	_	_	_	_	_	AlignBegin=25975|AlignEnd=26294|GE=[COM]|Gloss=COM|nWord=19|RX=[ADP]
+19	ole	ole	ADP	_	_	16	comp:obl	_	AlignBegin=25975|AlignEnd=26294|GE=[COM]|Gloss=COM|nWord=19|RX=[ADP]
 20	,		PUNCT	_	_	_	_	_	AlignBegin=26294|AlignEnd=26610|nWord=20
 21	cha	cha	PRON	_	_	_	_	_	AlignBegin=26620|AlignEnd=26780|GE=[1SG]|Gloss=1SG|nWord=21|RX=[PRO]
 22	kle	kle	AUX	_	_	_	_	_	AlignBegin=26780|AlignEnd=26940|GE=be|Gloss=be|nWord=22|RX=[V]
 23	ru	ru	NOUN	_	_	24	comp	_	AlignBegin=26940|AlignEnd=27100|GE=uncle|Gloss=uncle|nWord=23|RX=[N]
-24	ole	ole	ADP	_	_	_	_	_	AlignBegin=27100|AlignEnd=27260|GE=[COM]|Gloss=COM|nWord=24|RX=[ADP]
+24	ole	ole	ADP	_	_	16	comp:obl	_	AlignBegin=27100|AlignEnd=27260|GE=[COM]|Gloss=COM|nWord=24|RX=[ADP]
 25	,		PUNCT	_	_	_	_	_	AlignBegin=27260|AlignEnd=27420|nWord=25
 26	cha	cha	PRON	_	_	28	subj	_	AlignBegin=27445|AlignEnd=27863|GE=[1SG]|Gloss=1SG|nWord=26|RX=[PRO]
 27	kle	kle	AUX	_	_	_	_	_	AlignBegin=27863|AlignEnd=28281|GE=be|Gloss=be|nWord=27|RX=[V]
-28	chage	chage	VERB	_	_	27	comp:aux	_	AlignBegin=28281|AlignEnd=28699|GE=walk|Gloss=walk|nWord=28|RX=[V]
+28	chage	chage	VERB	_	_	27	comp:aux	_	AlignBegin=28281|AlignEnd=28699|GE=walk|Gloss=walk|nWord=28|RX=[VI]
 29	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=28699|AlignEnd=29117|GE=all|Gloss=all|nWord=29|RX=[ADV]
 30	.		PUNCT	_	_	_	_	_	AlignBegin=29117|AlignEnd=29535|Gloss=.|nWord=30
 
@@ -89,16 +92,17 @@
 # morphemic_text = y daba salebli a veces kle sainkuli cha ole .
 # text = y daba salebli a veces kle sainkuli cha ole .
 # text_en = And my family members are sometimes evil to me.
-1	y	y	COORDCONN	_	_	_	_	_	AlignBegin=29725|AlignEnd=30061|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
-2	daba	daba	NOUN	_	_	_	_	_	AlignBegin=30061|AlignEnd=30397|GE=brother|Gloss=brother|nWord=2|RX=[N]
+# text_ortho = y daba salebli a veces kle sainkuli cha ole .
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=29725|AlignEnd=30061|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+2	daba	daba	NOUN	_	_	6	subj	_	AlignBegin=30061|AlignEnd=30397|GE=brother|Gloss=brother|nWord=2|RX=[N]
 3	salebli	salebli	ADJ	_	_	2	mod	_	AlignBegin=30397|AlignEnd=30733|GE=different|Gloss=different|nWord=3|RX=[ADJ]
 4	a	a	ADP	_	_	_	_	_	AlignBegin=30733|AlignEnd=31069|GE=to|Gloss=to|nWord=4|RX=[ADP]
 5	veces	veces	NOUN	_	_	_	_	_	AlignBegin=31069|AlignEnd=31405|GE=[time].[PL]|Gloss=time.PL|nWord=5|RX=[N]
-6	kle	kle	AUX	_	_	_	_	_	AlignBegin=31405|AlignEnd=31741|GE=be|Gloss=be|nWord=6|RX=[V]
-7	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=31741|AlignEnd=32077|GE=forbidden|Gloss=forbidden|nWord=7|RX=[ADV]
+6	kle	kle	AUX	_	_	0	root	_	AlignBegin=31405|AlignEnd=31741|GE=be|Gloss=be|nWord=6|RX=[V]
+7	sainkuli	sainkuli	ADV	_	_	6	comp:pred	_	AlignBegin=31741|AlignEnd=32077|GE=forbidden|Gloss=forbidden|nWord=7|RX=[ADV]
 8	cha	cha	PRON	_	_	9	comp	_	AlignBegin=32077|AlignEnd=32413|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
 9	ole	ole	ADP	_	_	_	_	_	AlignBegin=32413|AlignEnd=32749|GE=[COM]|Gloss=COM|nWord=9|RX=[ADP]
-10	.		PUNCT	_	_	_	_	_	AlignBegin=32749|AlignEnd=33085|Gloss=.|nWord=10
+10	.		PUNCT	_	_	6	punct	_	AlignBegin=32749|AlignEnd=33085|Gloss=.|nWord=10
 
 # sent_id = SAB-TXT-OS-00000-10_10-10
 # speaker_id = @10
@@ -107,16 +111,17 @@
 # morphemic_text = y daba salebli a veces kle no cha ole .
 # text = y daba salebli a veces kle no cha ole .
 # text_en = And my family members are sometimes good to me.
-1	y	y	COORDCONN	_	_	_	_	_	AlignBegin=33510|AlignEnd=33801|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
-2	daba	daba	NOUN	_	_	_	_	_	AlignBegin=33801|AlignEnd=34092|GE=brother|Gloss=brother|nWord=2|RX=[N]
+# text_ortho = y daba salebli a veces kle no cha ole .
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=33510|AlignEnd=33801|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+2	daba	daba	NOUN	_	_	6	subj	_	AlignBegin=33801|AlignEnd=34092|GE=brother|Gloss=brother|nWord=2|RX=[N]
 3	salebli	salebli	ADJ	_	_	2	mod	_	AlignBegin=34092|AlignEnd=34383|GE=different|Gloss=different|nWord=3|RX=[ADJ]
 4	a	a	ADP	_	_	_	_	_	AlignBegin=34383|AlignEnd=34674|GE=to|Gloss=to|nWord=4|RX=[ADP]
 5	veces	veces	NOUN	_	_	_	_	_	AlignBegin=34674|AlignEnd=34965|GE=[time].[PL]|Gloss=time.PL|nWord=5|RX=[N]
-6	kle	kle	AUX	_	_	_	_	_	AlignBegin=34965|AlignEnd=35256|GE=be|Gloss=be|nWord=6|RX=[V]
+6	kle	kle	AUX	_	_	0	root	_	AlignBegin=34965|AlignEnd=35256|GE=be|Gloss=be|nWord=6|RX=[V]
 7	no	no	ADJ	_	_	6	comp:pred	_	AlignBegin=35256|AlignEnd=35547|GE=good|Gloss=good|nWord=7|RX=[ADJ]
 8	cha	cha	PRON	_	_	9	comp	_	AlignBegin=35547|AlignEnd=35838|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
 9	ole	ole	ADP	_	_	_	_	_	AlignBegin=35838|AlignEnd=36129|GE=[COM]|Gloss=COM|nWord=9|RX=[ADP]
-10	.		PUNCT	_	_	_	_	_	AlignBegin=36129|AlignEnd=36420|Gloss=.|nWord=10
+10	.		PUNCT	_	_	6	punct	_	AlignBegin=36129|AlignEnd=36420|Gloss=.|nWord=10
 
 # sent_id = SAB-TXT-OS-00000-10_11-12
 # speaker_id = @10
@@ -125,7 +130,8 @@
 # morphemic_text = entonces daba salebli kle no cha ole , cha kle mung gat -e -da dike .
 # text = entonces daba salebli kle no cha ole , cha kle mung gateda dike .
 # text_en = So the family members who are good to me, I keep them by my side.
-1	entonces	entonces	ADV	_	_	_	_	_	AlignBegin=37220|AlignEnd=37505|GE=so|Gloss=so|nWord=1|RX=[ADV]
+# text_ortho = entonces daba salebli kle no cha ole , cha kle mung gateda dike .
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=37220|AlignEnd=37505|GE=so|Gloss=so|nWord=1|RX=[ADV]
 2	daba	daba	NOUN	_	_	_	_	_	AlignBegin=37505|AlignEnd=37790|GE=brother|Gloss=brother|nWord=2|RX=[N]
 3	salebli	salebli	ADJ	_	_	2	mod	_	AlignBegin=37790|AlignEnd=38075|GE=different|Gloss=different|nWord=3|RX=[ADJ]
 4	kle	kle	AUX	_	_	_	_	_	AlignBegin=38075|AlignEnd=38360|GE=be|Gloss=be|nWord=4|RX=[V]
@@ -149,7 +155,8 @@
 # morphemic_text = pero daba salebli kle sainkuli cha ole , cha me kle mung gat -e -da dike , sino cha kle lingk -edo ngasuke .
 # text = pero daba salebli kle sainkuli cha ole , cha me kle mung gateda dike , sino cha kle lingkedo ngasuke .
 # text_en = But the family members who are evil to me, I do not keep them by my side, But I send them out.
-1	pero	pero	COORDCONN	_	_	_	_	_	AlignBegin=40935|AlignEnd=41159|GE=but|Gloss=but|nWord=1|RX=[COORDCONN]
+# text_ortho = pero daba salebli kle sainkuli cha ole , cha me kle mung gateda dike , sino cha kle lingkedo ngasuke .
+1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=40935|AlignEnd=41159|GE=but|Gloss=but|nWord=1|RX=[COORDCONN]
 2	daba	daba	NOUN	_	_	_	_	_	AlignBegin=41159|AlignEnd=41383|GE=brother|Gloss=brother|nWord=2|RX=[N]
 3	salebli	salebli	ADJ	_	_	2	mod	_	AlignBegin=41383|AlignEnd=41607|GE=different|Gloss=different|nWord=3|RX=[ADJ]
 4	kle	kle	AUX	_	_	_	_	_	AlignBegin=41607|AlignEnd=41831|GE=be|Gloss=be|nWord=4|RX=[V]
@@ -157,7 +164,7 @@
 6	cha	cha	PRON	_	_	7	comp	_	AlignBegin=42055|AlignEnd=42279|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
 7	ole	ole	ADP	_	_	_	_	_	AlignBegin=42279|AlignEnd=42503|GE=[COM]|Gloss=COM|nWord=7|RX=[ADP]
 8	,		PUNCT	_	_	_	_	_	AlignBegin=42503|AlignEnd=42725|nWord=8
-9	cha	cha	PRON	_	_	_	_	_	AlignBegin=42745|AlignEnd=42915|GE=[1SG]|Gloss=1SG|nWord=9|RX=[PRO]
+9	cha	cha	PRON	_	_	13	subj	_	AlignBegin=42745|AlignEnd=42915|GE=[1SG]|Gloss=1SG|nWord=9|RX=[PRO]
 10	me	me	PART	_	_	_	_	_	AlignBegin=42915|AlignEnd=43085|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]
 11	kle	kle	AUX	_	_	10	comp:aux	_	AlignBegin=43085|AlignEnd=43255|GE=be|Gloss=be|nWord=11|RX=[V]
 12	mung	mung	PART	_	_	_	_	_	AlignBegin=43255|AlignEnd=43425|GE=[REFL]|Gloss=REFL|nWord=12|RX=[VERBPRT]
@@ -166,7 +173,7 @@
 15	-da		PART	_	_	11	comp:aux	_	AlignBegin=43539|AlignEnd=43595|GE=emph|Gloss=emph|nWord=13|RX=[VERB]
 16	dike	dike	ADP	_	_	_	_	_	AlignBegin=43595|AlignEnd=43765|GE=[INST]|Gloss=INST|nWord=14|RX=[ADP]
 17	,		PUNCT	_	_	_	_	_	AlignBegin=43765|AlignEnd=43935|nWord=15
-18	sino	sino	CONN	_	_	_	_	_	AlignBegin=43955|AlignEnd=44178|GE=otherwise|Gloss=otherwise|nWord=16|RX=[CONN]
+18	sino	sino	X	_	_	_	_	_	AlignBegin=43955|AlignEnd=44178|GE=otherwise|Gloss=otherwise|nWord=16|RX=[CONN]
 19	cha	cha	PRON	_	_	21	subj	_	AlignBegin=44178|AlignEnd=44401|GE=[1SG]|Gloss=1SG|nWord=17|RX=[PRO]
 20	kle	kle	AUX	_	_	_	_	_	AlignBegin=44401|AlignEnd=44624|GE=be|Gloss=be|nWord=18|RX=[V]
 21	lingk	lingk	VERB	_	_	22	comp:aux/m	_	AlignBegin=44624|AlignEnd=44736|GE=place|Gloss=place|nWord=19|RX=[V]
@@ -181,10 +188,11 @@
 # morphemic_text = kaire cheigda no .
 # text = kaire cheigda no .
 # text_en = Like my aunt,
+# text_ortho = kaire cheigda no .
 1	kaire	kaire	ADV	_	_	_	_	_	AlignBegin=45360|AlignEnd=45645|GE=same|Gloss=same|nWord=1|RX=[ADV]
 2	cheigda	cheigda	NOUN	_	_	_	_	_	AlignBegin=45645|AlignEnd=45930|GE=aunt|Gloss=aunt|nWord=2|RX=[N]
 3	no	no	NOMPRT	_	_	_	_	_	AlignBegin=45930|AlignEnd=46215|GE=[FOC]|Gloss=FOC|nWord=3|RX=[NOMPRT]
-4	.		.	_	_	_	_	_	AlignBegin=46215|AlignEnd=46500|Gloss=.|nWord=4
+4	.		PUNCT	_	_	_	_	_	AlignBegin=46215|AlignEnd=46500|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-OS-00000-10_17-17
 # speaker_id = @10
@@ -193,11 +201,12 @@
 # morphemic_text = kaire cha ibote no .
 # text = kaire cha ibote no .
 # text_en = Like my sister,
+# text_ortho = kaire cha ibote no .
 1	kaire	kaire	ADV	_	_	_	_	_	AlignBegin=46975|AlignEnd=47514|GE=same|Gloss=same|nWord=1|RX=[ADV]
-2	cha	cha	PRON	_	_	_	_	_	AlignBegin=47514|AlignEnd=48053|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+2	cha	cha	PRON	_	_	3	udep:poss	_	AlignBegin=47514|AlignEnd=48053|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	ibote	ibote	NOUN	_	_	_	_	_	AlignBegin=48053|AlignEnd=48592|GE=sister|Gloss=sister|nWord=3|RX=[N]
 4	no	no	NOMPRT	_	_	_	_	_	AlignBegin=48592|AlignEnd=49131|GE=[FOC]|Gloss=FOC|nWord=4|RX=[NOMPRT]
-5	.		.	_	_	_	_	_	AlignBegin=49131|AlignEnd=49670|Gloss=.|nWord=5
+5	.		PUNCT	_	_	_	_	_	AlignBegin=49131|AlignEnd=49670|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-OS-00000-10_18-18
 # speaker_id = @10
@@ -206,11 +215,12 @@
 # morphemic_text = kaire cha higda no .
 # text = kaire cha higda no .
 # text_en = like my cousin,
+# text_ortho = kaire cha higda no .
 1	kaire	kaire	ADV	_	_	_	_	_	AlignBegin=49670|AlignEnd=50134|GE=same|Gloss=same|nWord=1|RX=[ADV]
-2	cha	cha	PRON	_	_	_	_	_	AlignBegin=50134|AlignEnd=50598|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+2	cha	cha	PRON	_	_	3	udep:poss	_	AlignBegin=50134|AlignEnd=50598|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	higda	higda	NOUN	_	_	_	_	_	AlignBegin=50598|AlignEnd=51062|GE=cousin|Gloss=cousin|nWord=3|RX=[N]
 4	no	no	NOMPRT	_	_	_	_	_	AlignBegin=51062|AlignEnd=51526|GE=[FOC]|Gloss=FOC|nWord=4|RX=[NOMPRT]
-5	.		.	_	_	_	_	_	AlignBegin=51526|AlignEnd=51990|Gloss=.|nWord=5
+5	.		PUNCT	_	_	_	_	_	AlignBegin=51526|AlignEnd=51990|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-OS-00000-10_19-19
 # speaker_id = @10
@@ -219,11 +229,12 @@
 # morphemic_text = kaire cha suba no .
 # text = kaire cha suba no .
 # text_en = Like my niece.
+# text_ortho = kaire cha suba no .
 1	kaire	kaire	ADV	_	_	_	_	_	AlignBegin=52155|AlignEnd=52723|GE=same|Gloss=same|nWord=1|RX=[ADV]
-2	cha	cha	PRON	_	_	_	_	_	AlignBegin=52723|AlignEnd=53291|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+2	cha	cha	PRON	_	_	3	udep:poss	_	AlignBegin=52723|AlignEnd=53291|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	suba	suba	NOUN	_	_	_	_	_	AlignBegin=53291|AlignEnd=53859|GE=niece|Gloss=niece|nWord=3|RX=[N]
 4	no	no	NOMPRT	_	_	_	_	_	AlignBegin=53859|AlignEnd=54427|GE=[FOC]|Gloss=FOC|nWord=4|RX=[NOMPRT]
-5	.		.	_	_	_	_	_	AlignBegin=54427|AlignEnd=54995|Gloss=.|nWord=5
+5	.		PUNCT	_	_	_	_	_	AlignBegin=54427|AlignEnd=54995|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-OS-00000-10_20-21
 # speaker_id = @10
@@ -232,11 +243,12 @@
 # morphemic_text = porque daba salebli kle chage sainkuli cha ole , cha kle mung lingk -e ngasuke .
 # text = porque daba salebli kle chage sainkuli cha ole , cha kle mung lingke ngasuke .
 # text_en = Because these family members are evil to me, I send the away.
-1	porque	porque	CONN	_	_	_	_	_	AlignBegin=55460|AlignEnd=55744|GE=because|Gloss=because|nWord=1|RX=[CONN]
+# text_ortho = porque daba salebli kle chage sainkuli cha ole , cha kle mung lingke ngasuke .
+1	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=55460|AlignEnd=55744|GE=because|Gloss=because|nWord=1|RX=[CONN]
 2	daba	daba	NOUN	_	_	5	subj	_	AlignBegin=55744|AlignEnd=56028|GE=brother|Gloss=brother|nWord=2|RX=[N]
 3	salebli	salebli	ADJ	_	_	2	mod	_	AlignBegin=56028|AlignEnd=56312|GE=different|Gloss=different|nWord=3|RX=[ADJ]
 4	kle	kle	AUX	_	_	_	_	_	AlignBegin=56312|AlignEnd=56596|GE=be|Gloss=be|nWord=4|RX=[V]
-5	chage	chage	VERB	_	_	4	comp:aux	_	AlignBegin=56596|AlignEnd=56880|GE=walk|Gloss=walk|nWord=5|RX=[V]
+5	chage	chage	VERB	_	_	4	comp:aux	_	AlignBegin=56596|AlignEnd=56880|GE=walk|Gloss=walk|nWord=5|RX=[VI]
 6	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=56880|AlignEnd=57164|GE=forbidden|Gloss=forbidden|nWord=6|RX=[ADV]
 7	cha	cha	PRON	_	_	8	comp	_	AlignBegin=57164|AlignEnd=57448|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
 8	ole	ole	ADP	_	_	_	_	_	AlignBegin=57448|AlignEnd=57732|GE=[COM]|Gloss=COM|nWord=8|RX=[ADP]
@@ -256,23 +268,24 @@
 # morphemic_text = y daba salebli kle chage no cha ole , entonces cha kle mung lingk -e daba dike .
 # text = y daba salebli kle chage no cha ole , entonces cha kle mung lingke daba dike .
 # text_en = And the family members who are good to me, I stay on their side.
-1	y	y	COORDCONN	_	_	_	_	_	AlignBegin=59420|AlignEnd=59569|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+# text_ortho = y daba salebli kle chage no cha ole , entonces cha kle mung lingke daba dike .
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=59420|AlignEnd=59569|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
 2	daba	daba	NOUN	_	_	5	subj	_	AlignBegin=59569|AlignEnd=59718|GE=brother|Gloss=brother|nWord=2|RX=[N]
 3	salebli	salebli	ADJ	_	_	2	mod	_	AlignBegin=59718|AlignEnd=59867|GE=different|Gloss=different|nWord=3|RX=[ADJ]
 4	kle	kle	AUX	_	_	_	_	_	AlignBegin=59867|AlignEnd=60016|GE=be|Gloss=be|nWord=4|RX=[V]
-5	chage	chage	VERB	_	_	4	comp:aux	_	AlignBegin=60016|AlignEnd=60165|GE=walk|Gloss=walk|nWord=5|RX=[V]
+5	chage	chage	VERB	_	_	4	comp:aux	_	AlignBegin=60016|AlignEnd=60165|GE=walk|Gloss=walk|nWord=5|RX=[VI]
 6	no	no	ADV	_	_	_	_	_	AlignBegin=60165|AlignEnd=60314|GE=well|Gloss=well|nWord=6|RX=[ADV]
 7	cha	cha	PRON	_	_	8	comp	_	AlignBegin=60314|AlignEnd=60463|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
 8	ole	ole	ADP	_	_	_	_	_	AlignBegin=60463|AlignEnd=60612|GE=[COM]|Gloss=COM|nWord=8|RX=[ADP]
 9	,		PUNCT	_	_	_	_	_	AlignBegin=60612|AlignEnd=60760|nWord=9
-10	entonces	entonces	ADV	_	_	_	_	_	AlignBegin=60770|AlignEnd=61016|GE=so|Gloss=so|nWord=10|RX=[ADV]
+10	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=60770|AlignEnd=61016|GE=so|Gloss=so|nWord=10|RX=[ADV]
 11	cha	cha	PRON	_	_	14	subj	_	AlignBegin=61016|AlignEnd=61262|GE=[1SG]|Gloss=1SG|nWord=11|RX=[PRO]
 12	kle	kle	AUX	_	_	_	_	_	AlignBegin=61262|AlignEnd=61508|GE=be|Gloss=be|nWord=12|RX=[V]
 13	mung	mung	PART	_	_	_	_	_	AlignBegin=61508|AlignEnd=61754|GE=[REFL]|Gloss=REFL|nWord=13|RX=[VERBPRT]
 14	lingk	lingk	VERB	_	_	15	comp:aux/m	_	AlignBegin=61754|AlignEnd=61877|GE=place|Gloss=place|nWord=14|RX=[V]
 15	-e		AUX	_	_	12	comp:aux	_	AlignBegin=61877|AlignEnd=62000|GE=[THM]|Gloss=-THM|nWord=14|RX=[V:ANY]
 16	daba	daba	NOUN	_	_	17	comp	_	AlignBegin=62000|AlignEnd=62246|GE=brother|Gloss=brother|nWord=15|RX=[N]
-17	dike	dike	ADP	_	_	_	_	_	AlignBegin=62246|AlignEnd=62492|GE=[INST]|Gloss=INST|nWord=16|RX=[ADP]
+17	dike	dike	ADP	_	_	14	comp:obl	_	AlignBegin=62246|AlignEnd=62492|GE=[INST]|Gloss=INST|nWord=16|RX=[ADP]
 18	.		PUNCT	_	_	_	_	_	AlignBegin=62492|AlignEnd=62740|Gloss=.|nWord=17
 
 # sent_id = SAB-TXT-OS-00000-10_24-25
@@ -282,22 +295,23 @@
 # morphemic_text = chage daba ole , trabajo giti , nga giti asi , cha kle dieboi daba ole .
 # text = chage daba ole , trabajo giti , nga giti asi , cha kle dieboi daba ole .
 # text_en = I get along with my brothers, At work, in the fields, I work with my brothers.
-1	chage	chage	VERB	_	_	_	_	_	AlignBegin=62840|AlignEnd=63225|GE=walk|Gloss=walk|nWord=1|RX=[V]
+# text_ortho = chage daba ole , trabajo giti , nga giti asi , cha kle dieboi daba ole .
+1	chage	chage	VERB	_	_	_	_	_	AlignBegin=62840|AlignEnd=63225|GE=walk|Gloss=walk|nWord=1|RX=[VI]
 2	daba	daba	NOUN	_	_	3	comp	_	AlignBegin=63225|AlignEnd=63610|GE=brother|Gloss=brother|nWord=2|RX=[N]
-3	ole	ole	ADP	_	_	_	_	_	AlignBegin=63610|AlignEnd=63995|GE=[COM]|Gloss=COM|nWord=3|RX=[ADP]
+3	ole	ole	ADP	_	_	1	comp:obl	_	AlignBegin=63610|AlignEnd=63995|GE=[COM]|Gloss=COM|nWord=3|RX=[ADP]
 4	,		PUNCT	_	_	_	_	_	AlignBegin=63995|AlignEnd=64380|nWord=4
-5	trabajo	trabajo	NOUN	_	_	6	comp	_	AlignBegin=64825|AlignEnd=65144|GE=work|Gloss=work|nWord=5|RX=[N]
-6	giti	giti	ADP	_	_	_	_	_	AlignBegin=65144|AlignEnd=65463|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
+5	trabajo	trabajo	NOUN	_	Foreign=Yes	6	comp	_	AlignBegin=64825|AlignEnd=65144|GE=work|Gloss=work|nWord=5|RX=[N]
+6	giti	giti	ADP	_	_	1	comp:obl	_	AlignBegin=65144|AlignEnd=65463|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
 7	,		PUNCT	_	_	_	_	_	AlignBegin=65463|AlignEnd=65782|nWord=7
 8	nga	nga	NOUN	_	_	9	comp	_	AlignBegin=65782|AlignEnd=66101|GE=field|Gloss=field|nWord=8|RX=[N]
-9	giti	giti	ADP	_	_	_	_	_	AlignBegin=66101|AlignEnd=66420|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
-10	asi	asi	ADV	_	_	_	_	_	AlignBegin=66420|AlignEnd=66739|GE=like_that|Gloss=like_that|nWord=10|RX=[ADV]
+9	giti	giti	ADP	_	_	1	comp:obl	_	AlignBegin=66101|AlignEnd=66420|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
+10	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=66420|AlignEnd=66739|GE=like_that|Gloss=like_that|nWord=10|RX=[ADV]
 11	,		PUNCT	_	_	_	_	_	AlignBegin=66739|AlignEnd=67058|nWord=11
 12	cha	cha	PRON	_	_	14	subj	_	AlignBegin=67058|AlignEnd=67377|GE=[1SG]|Gloss=1SG|nWord=12|RX=[PRO]
 13	kle	kle	AUX	_	_	_	_	_	AlignBegin=67377|AlignEnd=67696|GE=be|Gloss=be|nWord=13|RX=[V]
 14	dieboi	dieboi	VERB	_	_	13	comp:aux	_	AlignBegin=67696|AlignEnd=68015|GE=work|Gloss=work|nWord=14|RX=[V]
 15	daba	daba	NOUN	_	_	16	comp	_	AlignBegin=68015|AlignEnd=68334|GE=brother|Gloss=brother|nWord=15|RX=[N]
-16	ole	ole	ADP	_	_	_	_	_	AlignBegin=68334|AlignEnd=68653|GE=[COM]|Gloss=COM|nWord=16|RX=[ADP]
+16	ole	ole	ADP	_	_	14	comp:obl	_	AlignBegin=68334|AlignEnd=68653|GE=[COM]|Gloss=COM|nWord=16|RX=[ADP]
 17	.		PUNCT	_	_	_	_	_	AlignBegin=68653|AlignEnd=68975|Gloss=.|nWord=17
 
 # sent_id = SAB-TXT-OS-00000-10_26-26
@@ -307,6 +321,7 @@
 # morphemic_text = daba salebli a veces kle malo , cha kle rite daba salebli chada ole , curandero , cha kle rite .
 # text = daba salebli a veces kle malo , cha kle rite daba salebli chada ole , curandero , cha kle rite .
 # text_en = If a family member is ill, I go to the doctor for them.
+# text_ortho = daba salebli a veces kle malo , cha kle rite daba salebli chada ole , curandero , cha kle rite .
 1	daba	daba	NOUN	_	_	_	_	_	AlignBegin=69740|AlignEnd=70031|GE=brother|Gloss=brother|nWord=1|RX=[N]
 2	salebli	salebli	ADJ	_	_	1	mod	_	AlignBegin=70031|AlignEnd=70322|GE=different|Gloss=different|nWord=2|RX=[ADJ]
 3	a	a	ADP	_	_	_	_	_	AlignBegin=70322|AlignEnd=70613|GE=to|Gloss=to|nWord=3|RX=[ADP]
@@ -320,7 +335,7 @@
 11	daba	daba	NOUN	_	_	_	_	_	AlignBegin=72650|AlignEnd=72941|GE=brother|Gloss=brother|nWord=11|RX=[N]
 12	salebli	salebli	ADJ	_	_	11	mod	_	AlignBegin=72941|AlignEnd=73232|GE=different|Gloss=different|nWord=12|RX=[ADJ]
 13	chada	chada	NOUN	_	_	14	comp	_	AlignBegin=73232|AlignEnd=73523|GE=color|Gloss=color|nWord=13|RX=[N]
-14	ole	ole	ADP	_	_	_	_	_	AlignBegin=73523|AlignEnd=73814|GE=[COM]|Gloss=COM|nWord=14|RX=[ADP]
+14	ole	ole	ADP	_	_	10	comp:obl	_	AlignBegin=73523|AlignEnd=73814|GE=[COM]|Gloss=COM|nWord=14|RX=[ADP]
 15	,		PUNCT	_	_	_	_	_	AlignBegin=73814|AlignEnd=74105|nWord=15
 16	curandero	curandero	NOUN	_	_	_	_	_	AlignBegin=74105|AlignEnd=74396|GE=doctor|Gloss=doctor|nWord=16|RX=[N]
 17	,		PUNCT	_	_	_	_	_	AlignBegin=74396|AlignEnd=74687|nWord=17
@@ -336,7 +351,8 @@
 # morphemic_text = y daba salebli a veces kle no cha ole , cha kle chage no daba ole .
 # text = y daba salebli a veces kle no cha ole , cha kle chage no daba ole .
 # text_en = And when my family members are good to me, I get along well with them.
-1	y	y	COORDCONN	_	_	_	_	_	AlignBegin=76610|AlignEnd=76868|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+# text_ortho = y daba salebli a veces kle no cha ole , cha kle chage no daba ole .
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=76610|AlignEnd=76868|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
 2	daba	daba	NOUN	_	_	_	_	_	AlignBegin=76868|AlignEnd=77126|GE=brother|Gloss=brother|nWord=2|RX=[N]
 3	salebli	salebli	ADJ	_	_	2	mod	_	AlignBegin=77126|AlignEnd=77384|GE=different|Gloss=different|nWord=3|RX=[ADJ]
 4	a	a	ADP	_	_	_	_	_	AlignBegin=77384|AlignEnd=77642|GE=to|Gloss=to|nWord=4|RX=[ADP]
@@ -348,10 +364,10 @@
 10	,		PUNCT	_	_	_	_	_	AlignBegin=78932|AlignEnd=79190|nWord=10
 11	cha	cha	PRON	_	_	13	subj	_	AlignBegin=79190|AlignEnd=79448|GE=[1SG]|Gloss=1SG|nWord=11|RX=[PRO]
 12	kle	kle	AUX	_	_	_	_	_	AlignBegin=79448|AlignEnd=79706|GE=be|Gloss=be|nWord=12|RX=[V]
-13	chage	chage	VERB	_	_	12	comp:aux	_	AlignBegin=79706|AlignEnd=79964|GE=walk|Gloss=walk|nWord=13|RX=[V]
+13	chage	chage	VERB	_	_	12	comp:aux	_	AlignBegin=79706|AlignEnd=79964|GE=walk|Gloss=walk|nWord=13|RX=[VI]
 14	no	no	ADV	_	_	_	_	_	AlignBegin=79964|AlignEnd=80222|GE=well|Gloss=well|nWord=14|RX=[ADV]
 15	daba	daba	NOUN	_	_	16	comp	_	AlignBegin=80222|AlignEnd=80480|GE=brother|Gloss=brother|nWord=15|RX=[N]
-16	ole	ole	ADP	_	_	_	_	_	AlignBegin=80480|AlignEnd=80738|GE=[COM]|Gloss=COM|nWord=16|RX=[ADP]
+16	ole	ole	ADP	_	_	13	comp:obl	_	AlignBegin=80480|AlignEnd=80738|GE=[COM]|Gloss=COM|nWord=16|RX=[ADP]
 17	.		PUNCT	_	_	_	_	_	AlignBegin=80738|AlignEnd=80990|Gloss=.|nWord=17
 
 # sent_id = SAB-TXT-OS-00000-10_28-28
@@ -361,6 +377,7 @@
 # morphemic_text = agwa daba salebli kle ( sainkuli ) tiraoke cha di ole , kle sko -le cha ole , bueno cha kle lingk -e ngasuke .
 # text = agwa daba salebli kle ( sainkuli ) tiraoke cha di ole , kle skole cha ole , bueno cha kle lingke ngasuke .
 # text_en = But the family members who are evil to me, who bad mouth me, who get angry at me, I send them away.
+# text_ortho = agwa daba salebli kle ( sainkuli ) tiraoke cha di ole , kle skole cha ole , bueno cha kle lingke ngasuke .
 1	agwa	agwa	ADV	_	_	_	_	_	AlignBegin=81740|AlignEnd=81955|GE=[DISC]|Gloss=DISC|nWord=1|RX=[ADV]
 2	daba	daba	NOUN	_	_	_	_	_	AlignBegin=81955|AlignEnd=82170|GE=brother|Gloss=brother|nWord=2|RX=[N]
 3	salebli	salebli	ADJ	_	_	2	mod	_	AlignBegin=82170|AlignEnd=82385|GE=different|Gloss=different|nWord=3|RX=[ADJ]
@@ -394,13 +411,14 @@
 # morphemic_text = ese cha iani raca iani kle chage ole , ulita daba ole .
 # text = ese cha iani raca iani kle chage ole , ulita daba ole .
 # text_en = So here my people, all my brother, they get along with me.
+# text_ortho = ese cha iani raca iani kle chage ole , ulita daba ole .
 1	ese	ese	PRON	_	_	_	_	_	AlignBegin=86950|AlignEnd=87332|GE=that|Gloss=that|nWord=1|RX=[PRO]
 2	cha	cha	PRON	_	_	_	_	_	AlignBegin=87332|AlignEnd=87714|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	iani	iani	ADV	_	_	_	_	_	AlignBegin=87714|AlignEnd=88096|GE=there|Gloss=there|nWord=3|RX=[ADV]
 4	raca	raca	NOUN	_	_	_	_	_	AlignBegin=88096|AlignEnd=88478|GE=race|Gloss=race|nWord=4|RX=[N]
 5	iani	iani	ADV	_	_	_	_	_	AlignBegin=88478|AlignEnd=88860|GE=there|Gloss=there|nWord=5|RX=[ADV]
 6	kle	kle	AUX	_	_	_	_	_	AlignBegin=88860|AlignEnd=89242|GE=be|Gloss=be|nWord=6|RX=[V]
-7	chage	chage	VERB	_	_	6	comp:aux	_	AlignBegin=89242|AlignEnd=89624|GE=walk|Gloss=walk|nWord=7|RX=[V]
+7	chage	chage	VERB	_	_	6	comp:aux	_	AlignBegin=89242|AlignEnd=89624|GE=walk|Gloss=walk|nWord=7|RX=[VI]
 8	ole	ole	ADP	_	_	_	_	_	AlignBegin=89624|AlignEnd=90006|GE=[COM]|Gloss=COM|nWord=8|RX=[ADP]
 9	,		PUNCT	_	_	_	_	_	AlignBegin=90006|AlignEnd=90388|nWord=9
 10	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=90388|AlignEnd=90770|GE=all|Gloss=all|nWord=10|RX=[ADV]

@@ -5,16 +5,17 @@
 # morphemic_text = cha kle koi ai , cha kle koi gai .
 # text = cha kle koi ai , cha kle koi gai .
 # text_en = Here I (make) the chicken. I pick up the chicken.
+# text_ortho = cha kle koi ai , cha kle koi gai .
 1	cha	cha	PRON	_	_	_	_	_	AlignBegin=26290|AlignEnd=26534|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=26534|AlignEnd=26778|GE=be|Gloss=be|nWord=2|RX=[V]
 3	koi	koi	NOUN	_	_	_	_	_	AlignBegin=26778|AlignEnd=27022|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
 4	ai	ai	PART	_	_	3	mod	_	AlignBegin=27022|AlignEnd=27266|GE=local|Gloss=local|nWord=4|RX=[PRO]
-5	,		PUNCT	_	_	_	_	_	AlignBegin=27266|AlignEnd=27510|nWord=5
+5	,		PUNCT	_	_	7	punct	_	AlignBegin=27266|AlignEnd=27510|nWord=5
 6	cha	cha	PRON	_	_	9	subj	_	AlignBegin=27985|AlignEnd=28251|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
-7	kle	kle	AUX	_	_	_	_	_	AlignBegin=28251|AlignEnd=28517|GE=be|Gloss=be|nWord=7|RX=[V]
+7	kle	kle	AUX	_	_	0	root	_	AlignBegin=28251|AlignEnd=28517|GE=be|Gloss=be|nWord=7|RX=[V]
 8	koi	koi	NOUN	_	_	9	comp:obj	_	AlignBegin=28517|AlignEnd=28783|GE=chicken|Gloss=chicken|nWord=8|RX=[N]
-9	gai	gai	VERB	_	_	0	root	_	AlignBegin=28783|AlignEnd=29049|GE=pick_up|Gloss=pick_up|nWord=9|RX=[V]
-10	.		PUNCT	_	_	9	punct	_	AlignBegin=29049|AlignEnd=29315|Gloss=.|nWord=10
+9	gai	gai	VERB	_	_	7	comp:aux	_	AlignBegin=28783|AlignEnd=29049|GE=pick_up|Gloss=pick_up|nWord=9|RX=[VT]
+10	.		PUNCT	_	_	7	punct	_	AlignBegin=29049|AlignEnd=29315|Gloss=.|nWord=10
 
 # sent_id = SAB-TXT-CO-00000-06_3-3
 # speaker_id = @06
@@ -23,15 +24,16 @@
 # morphemic_text = cha kle giska tk -e koi siro ke .
 # text = cha kle giska tke koi siro ke .
 # text_en = I put a rope on the chicken's neck.
-1	cha	cha	PRON	_	_	5	subj	_	AlignBegin=29755|AlignEnd=29971|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	kle	kle	AUX	_	_	5	comp:aux/m	_	AlignBegin=29971|AlignEnd=30187|GE=be|Gloss=be|nWord=2|RX=[V]
+# text_ortho = cha kle giska tke koi siro ke .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=29755|AlignEnd=29971|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=29971|AlignEnd=30187|GE=be|Gloss=be|nWord=2|RX=[V]
 3	giska	giska	NOUN	_	_	4	comp:obj	_	AlignBegin=30187|AlignEnd=30403|GE=rope|Gloss=rope|nWord=3|RX=[N]
-4	tk	tk	VERB	_	_	5	comp:aux/m	_	AlignBegin=30403|AlignEnd=30511|GE=put|Gloss=put|nWord=4|RX=[V]
-5	-e		AUX	_	_	0	root	_	AlignBegin=30511|AlignEnd=30619|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	koi	koi	NOUN	_	_	_	_	_	AlignBegin=30619|AlignEnd=30835|GE=chicken|Gloss=chicken|nWord=5|RX=[N]
+4	tk	tk	VERB	_	_	5	comp:aux/m	_	AlignBegin=30403|AlignEnd=30511|GE=put|Gloss=put|nWord=4|RX=[VT]
+5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=30511|AlignEnd=30619|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+6	koi	koi	NOUN	_	_	7	udep:poss	_	AlignBegin=30619|AlignEnd=30835|GE=chicken|Gloss=chicken|nWord=5|RX=[N]
 7	siro	siro	NOUN	_	_	8	comp	_	AlignBegin=30835|AlignEnd=31051|GE=neck|Gloss=neck|nWord=6|RX=[N]
-8	ke	ke	ADP	_	_	_	_	_	AlignBegin=31051|AlignEnd=31267|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
-9	.		PUNCT	_	_	5	punct	_	AlignBegin=31267|AlignEnd=31485|Gloss=.|nWord=8
+8	ke	ke	ADP	_	_	4	comp:obl	_	AlignBegin=31051|AlignEnd=31267|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
+9	.		PUNCT	_	_	2	punct	_	AlignBegin=31267|AlignEnd=31485|Gloss=.|nWord=8
 
 # sent_id = SAB-TXT-CO-00000-06_4-4
 # speaker_id = @06
@@ -40,13 +42,14 @@
 # morphemic_text = cha kle koi mn -e ngania .
 # text = cha kle koi mne ngania .
 # text_en = I cut the chicken up there.
-1	cha	cha	PRON	_	_	5	subj	_	AlignBegin=31895|AlignEnd=32173|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	kle	kle	AUX	_	_	5	comp:aux/m	_	AlignBegin=32173|AlignEnd=32451|GE=be|Gloss=be|nWord=2|RX=[V]
+# text_ortho = cha kle koi mne ngania .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=31895|AlignEnd=32173|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=32173|AlignEnd=32451|GE=be|Gloss=be|nWord=2|RX=[V]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=32451|AlignEnd=32729|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
-4	mn	mn	VERB	_	_	5	comp:aux/m	_	AlignBegin=32729|AlignEnd=32868|GE=cut|Gloss=cut|nWord=4|RX=[V]
-5	-e		AUX	_	_	0	root	_	AlignBegin=32868|AlignEnd=33007|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+4	mn	mn	VERB	_	_	5	comp:aux/m	_	AlignBegin=32729|AlignEnd=32868|GE=cut|Gloss=cut|nWord=4|RX=[VT]
+5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=32868|AlignEnd=33007|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 6	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=33007|AlignEnd=33285|GE=up|Gloss=up|nWord=5|RX=[ADV]
-7	.		PUNCT	_	_	5	punct	_	AlignBegin=33285|AlignEnd=33565|Gloss=.|nWord=6
+7	.		PUNCT	_	_	2	punct	_	AlignBegin=33285|AlignEnd=33565|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-CO-00000-06_5-5
 # speaker_id = @06
@@ -55,12 +58,13 @@
 # morphemic_text = cha kle koi dodad -e .
 # text = cha kle koi dodade .
 # text_en = I make the chicken.
-1	cha	cha	PRON	_	_	5	subj	_	AlignBegin=34535|AlignEnd=34743|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	kle	kle	AUX	_	_	5	comp:aux/m	_	AlignBegin=34743|AlignEnd=34951|GE=be|Gloss=be|nWord=2|RX=[V]
+# text_ortho = cha kle koi dodade .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=34535|AlignEnd=34743|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=34743|AlignEnd=34951|GE=be|Gloss=be|nWord=2|RX=[V]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=34951|AlignEnd=35159|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
-4	dodad	dodad	VERB	_	_	5	comp:aux/m	_	AlignBegin=35159|AlignEnd=35263|GE=make|Gloss=make|nWord=4|RX=[V]
-5	-e		AUX	_	_	0	root	_	AlignBegin=35263|AlignEnd=35367|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	.		PUNCT	_	_	5	punct	_	AlignBegin=35367|AlignEnd=35575|Gloss=.|nWord=5
+4	dodad	dodad	VERB	_	_	5	comp:aux/m	_	AlignBegin=35159|AlignEnd=35263|GE=make|Gloss=make|nWord=4|RX=[VT]
+5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=35263|AlignEnd=35367|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+6	.		PUNCT	_	_	2	punct	_	AlignBegin=35367|AlignEnd=35575|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-CO-00000-06_6-6
 # speaker_id = @06
@@ -69,12 +73,13 @@
 # morphemic_text = cha kle koi li -e .
 # text = cha kle koi lie .
 # text_en = I cook the chicken.
-1	cha	cha	PRON	_	_	5	subj	_	AlignBegin=37410|AlignEnd=37686|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	kle	kle	AUX	_	_	5	comp:aux/m	_	AlignBegin=37686|AlignEnd=37962|GE=be|Gloss=be|nWord=2|RX=[V]
+# text_ortho = cha kle koi lie .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=37410|AlignEnd=37686|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=37686|AlignEnd=37962|GE=be|Gloss=be|nWord=2|RX=[V]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=37962|AlignEnd=38238|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
-4	li	li	VERB	_	_	5	comp:aux/m	_	AlignBegin=38238|AlignEnd=38376|GE=cook|Gloss=cook|nWord=4|RX=[V]
-5	-e		AUX	_	_	0	root	_	AlignBegin=38376|AlignEnd=38514|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	.		PUNCT	_	_	5	punct	_	AlignBegin=38514|AlignEnd=38790|Gloss=.|nWord=5
+4	li	li	VERB	_	_	5	comp:aux/m	_	AlignBegin=38238|AlignEnd=38376|GE=cook|Gloss=cook|nWord=4|RX=[VT]
+5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=38376|AlignEnd=38514|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+6	.		PUNCT	_	_	2	punct	_	AlignBegin=38514|AlignEnd=38790|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-CO-00000-06_7-7
 # speaker_id = @06
@@ -83,8 +88,9 @@
 # morphemic_text = bla li -e .
 # text = bla lie .
 # text_en = (I) cook the bananas.
+# text_ortho = bla lie .
 1	bla	bla	NOUN	_	_	2	comp:obj	_	AlignBegin=40665|AlignEnd=41048|GE=banana|Gloss=banana|nWord=1|RX=[N]
-2	li	li	VERB	_	_	3	comp:aux/m	_	AlignBegin=41048|AlignEnd=41240|GE=cook|Gloss=cook|nWord=2|RX=[V]
+2	li	li	VERB	_	_	3	comp:aux/m	_	AlignBegin=41048|AlignEnd=41240|GE=cook|Gloss=cook|nWord=2|RX=[VT]
 3	-e		AUX	_	_	0	root	_	AlignBegin=41240|AlignEnd=41431|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
 4	.		PUNCT	_	_	3	punct	_	AlignBegin=41431|AlignEnd=41815|Gloss=.|nWord=3
 
@@ -95,10 +101,11 @@
 # morphemic_text = cha kle koi gut -e .
 # text = cha kle koi gute .
 # text_en = I eat the chicken.
-1	cha	cha	PRON	_	_	5	subj	_	AlignBegin=42445|AlignEnd=42653|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	kle	kle	AUX	_	_	5	comp:aux/m	_	AlignBegin=42653|AlignEnd=42861|GE=be|Gloss=be|nWord=2|RX=[V]
+# text_ortho = cha kle koi gute .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=42445|AlignEnd=42653|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=42653|AlignEnd=42861|GE=be|Gloss=be|nWord=2|RX=[V]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=42861|AlignEnd=43069|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
-4	gut	gut	VERB	_	_	5	comp:aux/m	_	AlignBegin=43069|AlignEnd=43173|GE=eat|Gloss=eat|nWord=4|RX=[V]
-5	-e		AUX	_	_	0	root	_	AlignBegin=43173|AlignEnd=43277|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	.		PUNCT	_	_	5	punct	_	AlignBegin=43277|AlignEnd=43485|Gloss=.|nWord=5
+4	gut	gut	VERB	_	_	5	comp:aux/m	_	AlignBegin=43069|AlignEnd=43173|GE=eat|Gloss=eat|nWord=4|RX=[VT]
+5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=43173|AlignEnd=43277|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+6	.		PUNCT	_	_	2	punct	_	AlignBegin=43277|AlignEnd=43485|Gloss=.|nWord=5
 
