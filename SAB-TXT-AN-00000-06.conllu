@@ -121,15 +121,15 @@
 # text = y ama entonces che chku chekeda nerku ke aini guacamaya ke .
 # text_en = So they went further here in Guacamaya.
 # text_ortho = y ama entonces che chku chekeda nerku ke aini guacamaya ke .
-1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=34310|AlignEnd=34525|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=34310|AlignEnd=34525|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
 2	ama	ama	ADV	_	_	_	_	_	AlignBegin=34525|AlignEnd=34740|GE=so|Gloss=so|nWord=2|RX=[ADV]
-3	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=34740|AlignEnd=34955|GE=so|Gloss=so|nWord=3|RX=[ADV]
+3	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=34740|AlignEnd=34955|GE=so|Gloss=so|Lang=es|nWord=3|RX=[ADV]
 4	che	che	PRON	_	_	5	subj	_	AlignBegin=34955|AlignEnd=35170|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=4|RX=[PRO]
 5	chk	chk	VERB	_	_	6	comp:aux/m	_	AlignBegin=35170|AlignEnd=35278|GE=arrive|Gloss=arrive|nWord=5|RX=[VI]
 6	-u		AUX	_	_	_	_	_	AlignBegin=35278|AlignEnd=35385|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]
 7	chek	chek	VERB	_	_	8	comp:aux/m	_	AlignBegin=35385|AlignEnd=35457|GE=stay|Gloss=stay|nWord=6|RX=[VI]
 8	-e		AUX	_	_	9	comp:aux/m	_	AlignBegin=35457|AlignEnd=35529|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
-9	-da		PART	_	_	_	_	_	AlignBegin=35529|AlignEnd=35600|GE=emph|Gloss=emph|nWord=6|RX=[VERB]
+9	-da		AUX	_	_	_	_	_	AlignBegin=35529|AlignEnd=35600|GE=emph|Gloss=emph|nWord=6|RX=[VERB]
 10	nerku	nerku	ADV	_	_	_	_	_	AlignBegin=35600|AlignEnd=35815|GE=ahead|Gloss=ahead|nWord=7|RX=[ADV]
 11	ke	ke	ADP	_	_	_	_	_	AlignBegin=35815|AlignEnd=36030|GE=[LOC]|Gloss=LOC|nWord=8|RX=[ADP]
 12	aini	aini	ADV	_	_	7	mod:lmod	_	AlignBegin=36030|AlignEnd=36245|GE=here|Gloss=here|nWord=9|RX=[ADV]
@@ -162,12 +162,12 @@
 # text = pero nengke ama nengke giti ya cha geru hu hula trake (_) ke .
 # text_en = But today, I learnt Spanish.
 # text_ortho = pero nengke ama nengke giti ya cha geru hu hula trake (_) ke .
-1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=41140|AlignEnd=41613|GE=but|Gloss=but|nWord=1|RX=[COORDCONN]
+1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=41140|AlignEnd=41613|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
 2	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=41613|AlignEnd=42086|GE=today|Gloss=today|nWord=2|RX=[ADV]
 3	ama	ama	ADV	_	_	_	_	_	AlignBegin=42086|AlignEnd=42559|GE=so|Gloss=so|nWord=3|RX=[ADV]
 4	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=42559|AlignEnd=43032|GE=today|Gloss=today|nWord=4|RX=[ADV]
 5	giti	giti	ADP	_	_	_	_	_	AlignBegin=43032|AlignEnd=43505|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
-6	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=43505|AlignEnd=43978|GE=now|Gloss=now|nWord=6|RX=[ADV]
+6	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=43505|AlignEnd=43978|GE=now|Gloss=now|Lang=es|nWord=6|RX=[ADV]
 7	cha	cha	PRON	_	_	9	subj	_	AlignBegin=43978|AlignEnd=44451|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
 8	geru	geru	NOUN	_	_	9	comp:obj	_	AlignBegin=44451|AlignEnd=44924|GE=story|Gloss=story|nWord=8|RX=[N]
 9	hu	hue	VERB	_	_	_	_	_	AlignBegin=44924|AlignEnd=45397|GE=[learn].[PST]|Gloss=learn.PST|nWord=9|RX=[VT]
@@ -185,11 +185,11 @@
 # text = asi que ya nengke ya cha kle toi (_) ke .
 # text_en = So today I live in Guacamaya.
 # text_ortho = asi que ya nengke ya cha kle toi (_) ke .
-1	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=48660|AlignEnd=48877|GE=like_that|Gloss=like_that|nWord=1|RX=[ADV]
-2	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=48877|AlignEnd=49094|GE=that|Gloss=that|nWord=2|RX=[PRO]
-3	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=49094|AlignEnd=49311|GE=now|Gloss=now|nWord=3|RX=[ADV]
+1	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=48660|AlignEnd=48877|GE=like_that|Gloss=like_that|Lang=es|nWord=1|RX=[ADV]
+2	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=48877|AlignEnd=49094|GE=that|Gloss=that|Lang=es|nWord=2|RX=[PRO]
+3	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=49094|AlignEnd=49311|GE=now|Gloss=now|Lang=es|nWord=3|RX=[ADV]
 4	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=49311|AlignEnd=49528|GE=today|Gloss=today|nWord=4|RX=[ADV]
-5	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=49528|AlignEnd=49745|GE=now|Gloss=now|nWord=5|RX=[ADV]
+5	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=49528|AlignEnd=49745|GE=now|Gloss=now|Lang=es|nWord=5|RX=[ADV]
 6	cha	cha	PRON	_	_	8	subj	_	AlignBegin=49745|AlignEnd=49962|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
 7	kle	kle	AUX	_	_	_	_	_	AlignBegin=49962|AlignEnd=50179|GE=be|Gloss=be|nWord=7|RX=[V]
 8	toi	toi	VERB	_	_	7	comp:aux	_	AlignBegin=50179|AlignEnd=50396|GE=live|Gloss=live|nWord=8|RX=[VI]
@@ -205,7 +205,7 @@
 # text = porque wania honingke ai cha cruzanodale sino hay hula guerra .
 # text_en = Because at first my bokota people had to cross (the river) otherwise there would be a war with the white men.
 # text_ortho = porque wania honingke ai cha cruzanodale sino hay hula guerra .
-1	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=51200|AlignEnd=51612|GE=because|Gloss=because|nWord=1|RX=[CONN]
+1	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=51200|AlignEnd=51612|GE=because|Gloss=because|Lang=es|nWord=1|RX=[CONN]
 2	wania	wania	_	_	_	_	_	_	AlignBegin=51612|AlignEnd=52024|nWord=2
 3	honingke	honingke	ADV	_	_	_	_	_	AlignBegin=52024|AlignEnd=52436|GE=first|Gloss=first|nWord=3|RX=[ADV]
 4	ai	ai	PRON	_	_	_	_	_	AlignBegin=52436|AlignEnd=52848|GE=local|Gloss=local|nWord=4|RX=[PRO]
@@ -213,7 +213,7 @@
 6	cruzano	cruzano	VERB	_	_	7	comp:aux/m	_	AlignBegin=53260|AlignEnd=53466|GE=cross|Gloss=cross|nWord=6|RX=[V]
 7	-dale		AUX	_	_	_	_	_	AlignBegin=53466|AlignEnd=53672|GE=[IRR]|Gloss=-IRR|nWord=6|RX=[V:ANY]
 8	sino	sino	X	_	_	_	_	_	AlignBegin=53672|AlignEnd=54084|GE=otherwise|Gloss=otherwise|nWord=7|RX=[CONN]
-9	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=54084|AlignEnd=54496|GE=there_is|Gloss=there_is|nWord=8|RX=[V]
+9	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=54084|AlignEnd=54496|GE=there_is|Gloss=there_is|Lang=es|nWord=8|RX=[V]
 10	hula	hula	NOUN	_	_	_	_	_	AlignBegin=54496|AlignEnd=54908|GE=white_man|Gloss=white_man|nWord=9|RX=[N]
 11	guerra	guerra	NOUN	_	_	_	_	_	AlignBegin=54908|AlignEnd=55320|GE=war|Gloss=war|nWord=10|RX=[N]
 12	.		PUNCT	_	_	_	_	_	AlignBegin=55320|AlignEnd=55730|Gloss=.|nWord=11
@@ -230,7 +230,7 @@
 2	kle	kle	AUX	_	_	0	root	_	AlignBegin=56687|AlignEnd=56994|GE=be|Gloss=be|nWord=2|RX=[V]
 3	gnome	gnome	NOUN	_	_	5	comp:obj	_	AlignBegin=56994|AlignEnd=57301|GE=clothes|Gloss=clothes|nWord=3|RX=[N]
 4	diferente	diferente	ADJ	_	_	3	mod	_	AlignBegin=57301|AlignEnd=57608|GE=diferent|Gloss=diferent|nWord=4|RX=[ADJ]
-5	usamos	usamos	VERB	_	Foreign=Yes	2	comp:aux	_	AlignBegin=57608|AlignEnd=57915|GE=[use].[1PL]|Gloss=use.1PL|nWord=5|RX=[V]
+5	usamos	usamos	VERB	_	Foreign=Yes	2	comp:aux	_	AlignBegin=57608|AlignEnd=57915|GE=[use].[1PL]|Gloss=use.1PL|Lang=es|nWord=5|RX=[V]
 6	.		PUNCT	_	_	2	punct	_	AlignBegin=57915|AlignEnd=58220|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-AN-00000-06_12-12
@@ -253,10 +253,10 @@
 10	hula	hula	NOUN	_	_	_	_	_	AlignBegin=64500|AlignEnd=65150|GE=white_man|Gloss=white_man|nWord=9|RX=[N]
 11	gnome	gnome	NOUN	_	_	_	_	_	AlignBegin=65150|AlignEnd=65800|GE=clothes|Gloss=clothes|nWord=10|RX=[N]
 12	die	die	NOUN	_	_	_	_	_	AlignBegin=65800|AlignEnd=66450|GE=thing|Gloss=thing|nWord=11|RX=[N]
-13	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=66450|AlignEnd=67100|GE=that|Gloss=that|nWord=12|RX=[PRO]
+13	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=66450|AlignEnd=67100|GE=that|Gloss=that|Lang=es|nWord=12|RX=[PRO]
 14	chek	chek	VERB	_	_	15	comp:aux/m	_	AlignBegin=67100|AlignEnd=67425|GE=stay|Gloss=stay|nWord=13|RX=[VI]
 15	-e		AUX	_	_	_	_	_	AlignBegin=67425|AlignEnd=67750|GE=[THM]|Gloss=-THM|nWord=13|RX=[V:ANY]
-16	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=67750|AlignEnd=68400|GE=more|Gloss=more|nWord=14|RX=[ADV]
+16	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=67750|AlignEnd=68400|GE=more|Gloss=more|Lang=es|nWord=14|RX=[ADV]
 17	no	no	ADJ	_	_	_	_	_	AlignBegin=68400|AlignEnd=69050|GE=good|Gloss=good|nWord=15|RX=[ADJ]
 18	.		PUNCT	_	_	_	_	_	AlignBegin=69050|AlignEnd=69700|Gloss=.|nWord=16
 
@@ -357,7 +357,7 @@
 # text_en = All those things are from here.
 # text_ortho = puro son de dike de aini .
 1	puro	puro	DET	_	_	_	_	_	AlignBegin=81465|AlignEnd=81769|GE=all|Gloss=all|nWord=1|RX=[DET]
-2	son	son	VERB	_	Foreign=Yes	_	_	_	AlignBegin=81769|AlignEnd=82073|GE=[be].[3PL]|Gloss=be.3PL|nWord=2|RX=[V]
+2	son	son	VERB	_	Foreign=Yes	_	_	_	AlignBegin=81769|AlignEnd=82073|GE=[be].[3PL]|Gloss=be.3PL|Lang=es|nWord=2|RX=[V]
 3	de	de	ADP	_	_	_	_	_	AlignBegin=82073|AlignEnd=82377|GE=from|Gloss=from|nWord=3|RX=[ADP]
 4	dike	dike	ADP	_	_	_	_	_	AlignBegin=82377|AlignEnd=82681|GE=[INST]|Gloss=INST|nWord=4|RX=[ADP]
 5	de	de	ADP	_	_	_	_	_	AlignBegin=82681|AlignEnd=82985|GE=from|Gloss=from|nWord=5|RX=[ADP]
@@ -419,7 +419,7 @@
 # text = pa chude dike ulita .
 # text_en = To (plant) all the seeds.
 # text_ortho = pa chude dike ulita .
-1	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=95240|AlignEnd=95620|GE=to|Gloss=to|nWord=1|RX=[ADP]
+1	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=95240|AlignEnd=95620|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
 2	chude	chude	NOUN	_	_	_	_	_	AlignBegin=95620|AlignEnd=96000|GE=seed|Gloss=seed|nWord=2|RX=[N]
 3	dike	dike	ADP	_	_	_	_	_	AlignBegin=96000|AlignEnd=96380|GE=[INST]|Gloss=INST|nWord=3|RX=[ADP]
 4	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=96380|AlignEnd=96760|GE=all|Gloss=all|nWord=4|RX=[ADV]
@@ -433,18 +433,18 @@
 # text = como cha chugaia uswili kle chage asi mismo , cha ta nengke ulita .
 # text_en = Like my ancestors did before, I do all of this today.
 # text_ortho = como cha chugaia uswili kle chage asi mismo , cha ta nengke ulita .
-1	como	como	ADP	_	Foreign=Yes	_	_	_	AlignBegin=97760|AlignEnd=98240|GE=like|Gloss=like|nWord=1|RX=[ADP]
+1	como	como	ADP	_	Foreign=Yes	_	_	_	AlignBegin=97760|AlignEnd=98240|GE=like|Gloss=like|Lang=es|nWord=1|RX=[ADP]
 2	cha	cha	PRON	_	_	4	udep:poss	_	AlignBegin=98240|AlignEnd=98720|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	chuga	chuga	NOUN	_	_	4	comp:aux/m	_	AlignBegin=98720|AlignEnd=98960|GE=head|Gloss=head|nWord=3|RX=[N]
 4	-ia		AUX	_	_	7	subj	_	AlignBegin=98960|AlignEnd=99200|GE=[POSS]|Gloss=-POSS|nWord=3|RX=[N:ANY]
 5	uswili	uswili	ADV	_	_	_	_	_	AlignBegin=99200|AlignEnd=99680|GE=before|Gloss=before|nWord=4|RX=[ADV]
 6	kle	kle	AUX	_	_	_	_	_	AlignBegin=99680|AlignEnd=100160|GE=be|Gloss=be|nWord=5|RX=[V]
 7	chage	chage	VERB	_	_	6	comp:aux	_	AlignBegin=100160|AlignEnd=100640|GE=walk|Gloss=walk|nWord=6|RX=[VI]
-8	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=100640|AlignEnd=101120|GE=like_that|Gloss=like_that|nWord=7|RX=[ADV]
-9	mismo	mismo	ADV	_	Foreign=Yes	_	_	_	AlignBegin=101120|AlignEnd=101600|GE=as_well|Gloss=as_well|nWord=8|RX=[ADV]
+8	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=100640|AlignEnd=101120|GE=like_that|Gloss=like_that|Lang=es|nWord=7|RX=[ADV]
+9	mismo	mismo	ADV	_	Foreign=Yes	_	_	_	AlignBegin=101120|AlignEnd=101600|GE=as_well|Gloss=as_well|Lang=es|nWord=8|RX=[ADV]
 10	,		PUNCT	_	_	_	_	_	AlignBegin=101600|AlignEnd=102080|nWord=9
 11	cha	cha	PRON	_	_	_	_	_	AlignBegin=102135|AlignEnd=102465|GE=[1SG]|Gloss=1SG|nWord=10|RX=[PRO]
-12	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=102465|AlignEnd=102795|GE=be|Gloss=be|nWord=11|RX=[V]
+12	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=102465|AlignEnd=102795|GE=be|Gloss=be|Lang=es|nWord=11|RX=[V]
 13	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=102795|AlignEnd=103125|GE=today|Gloss=today|nWord=12|RX=[ADV]
 14	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=103125|AlignEnd=103455|GE=all|Gloss=all|nWord=13|RX=[ADV]
 15	.		PUNCT	_	_	_	_	_	AlignBegin=103455|AlignEnd=103785|Gloss=.|nWord=14

@@ -89,7 +89,7 @@
 16	tk	tk	VERB	_	_	17	comp:aux/m	_	AlignBegin=29875|AlignEnd=29983|GE=put|Gloss=put|nWord=14|RX=[VT]
 17	-e		AUX	_	_	15	comp:aux	_	AlignBegin=29983|AlignEnd=30090|GE=[THM]|Gloss=-THM|nWord=14|RX=[V:ANY]
 18	hi	hi	NOUN	_	_	19	comp:aux/m	_	AlignBegin=30090|AlignEnd=30198|GE=fire|Gloss=fire|nWord=15|RX=[N]
-19	-a		X	_	_	20	comp	_	AlignBegin=30198|AlignEnd=30305|GE=[0]|Gloss=-0|nWord=15|RX=[NOUN]
+19	-a		AUX	_	_	20	comp	_	AlignBegin=30198|AlignEnd=30305|GE=[0]|Gloss=-0|nWord=15|RX=[NOUN]
 20	ke	ke	ADP	_	_	_	_	_	AlignBegin=30305|AlignEnd=30520|GE=[LOC]|Gloss=LOC|nWord=16|RX=[ADP]
 21	.		PUNCT	_	_	_	_	_	AlignBegin=30520|AlignEnd=30735|Gloss=.|nWord=17
 
@@ -101,7 +101,7 @@
 # text = cuando koi kle hoke eru , cha kle bla tke koi ske .
 # text_en = When the chicken is ready, I put bananas with the chicken.
 # text_ortho = cuando koi kle hoke eru , cha kle bla tke koi ske .
-1	cuando	cuando	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=31835|AlignEnd=32078|GE=when|Gloss=when|nWord=1|RX=[Q]
+1	cuando	cuando	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=31835|AlignEnd=32078|GE=when|Gloss=when|Lang=es|nWord=1|RX=[Q]
 2	koi	koi	NOUN	_	_	4	subj	_	AlignBegin=32078|AlignEnd=32321|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
 3	kle	kle	AUX	_	_	_	_	_	AlignBegin=32321|AlignEnd=32564|GE=be|Gloss=be|nWord=3|RX=[V]
 4	hoke	hoke	VERB	_	_	3	comp:aux	_	AlignBegin=32564|AlignEnd=32807|GE=go|Gloss=go|nWord=4|RX=[VI]

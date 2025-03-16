@@ -255,7 +255,7 @@
 # text = entonces cha be hoke .
 # text_en = So I will go.
 # text_ortho = entonces cha be hoke .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=43680|AlignEnd=43902|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=43680|AlignEnd=43902|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	4	subj	_	AlignBegin=43902|AlignEnd=44124|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	be	be	AUX	_	_	0	root	_	AlignBegin=44124|AlignEnd=44346|GE=[FUT]|Gloss=FUT|nWord=3|RX=[VERBPRT]
 4	hoke	hoke	VERB	_	_	3	comp:aux	_	AlignBegin=44346|AlignEnd=44568|GE=go|Gloss=go|nWord=4|RX=[VI]
@@ -385,7 +385,7 @@
 1	ngabate	ngabate	VERB	_	_	_	_	_	AlignBegin=65480|AlignEnd=66165|GE=work_in_fields|Gloss=work_in_fields|nWord=1|RX=[V]
 2	ngaunda	ngaunda	NOUN	_	_	_	_	_	AlignBegin=66165|AlignEnd=66850|GE=trash|Gloss=trash|nWord=2|RX=[N]
 3	dwa	dwa	ADV	_	_	_	_	_	AlignBegin=66850|AlignEnd=67535|GE=down|Gloss=down|nWord=3|RX=[ADV]
-4	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=67535|AlignEnd=68220|GE=like_that|Gloss=like_that|nWord=4|RX=[ADV]
+4	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=67535|AlignEnd=68220|GE=like_that|Gloss=like_that|Lang=es|nWord=4|RX=[ADV]
 5	bat	bat	VERB	_	_	6	comp:aux/m	_	AlignBegin=68220|AlignEnd=68562|GE=hit|Gloss=hit|nWord=5|RX=[VT]
 6	-e		AUX	_	_	_	_	_	AlignBegin=68562|AlignEnd=68905|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	.		PUNCT	_	_	_	_	_	AlignBegin=68905|AlignEnd=69590|Gloss=.|nWord=6
@@ -398,7 +398,7 @@
 # text = y hoke ule ulita .
 # text_en = And go with everyone.
 # text_ortho = y hoke ule ulita .
-1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=69890|AlignEnd=70290|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=69890|AlignEnd=70290|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
 2	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=70290|AlignEnd=70690|GE=go|Gloss=go|nWord=2|RX=[VI]
 3	ule	ule	ADP	_	_	_	_	_	AlignBegin=70690|AlignEnd=71090|GE=[COM]|Gloss=COM|nWord=3|RX=[ADP]
 4	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=71090|AlignEnd=71490|GE=all|Gloss=all|nWord=4|RX=[ADV]
@@ -509,7 +509,7 @@
 # text = cuando cha e chieni chui bduke , ya bligda kle hoke eru .
 # text_en = When I come back for lunch, The food is cooked.
 # text_ortho = cuando cha e chieni chui bduke , ya bligda kle hoke eru .
-1	cuando	cuando	SCONJ	_	Foreign=Yes	13	mod	_	AlignBegin=84295|AlignEnd=84578|GE=when|Gloss=when|nWord=1|RX=[Q]
+1	cuando	cuando	SCONJ	_	Foreign=Yes	13	mod	_	AlignBegin=84295|AlignEnd=84578|GE=when|Gloss=when|Lang=es|nWord=1|RX=[Q]
 2	cha	cha	PRON	_	_	4	subj	_	AlignBegin=84578|AlignEnd=84861|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	e	e	ADV	_	_	_	_	_	AlignBegin=84861|AlignEnd=85144|GE=now|Gloss=now|nWord=3|RX=[ADV]
 4	chi	chi	VERB	_	_	5	comp:aux/m	_	AlignBegin=85144|AlignEnd=85238|GE=come|Gloss=come|nWord=4|RX=[VI]
@@ -518,7 +518,7 @@
 7	chui	chui	NOUN	_	_	_	_	_	AlignBegin=85427|AlignEnd=85710|GE=sun|Gloss=sun|nWord=5|RX=[N]
 8	bduk	bduk	VERB	_	_	_	_	_	AlignBegin=85710|AlignEnd=85993|GE=go_up|Gloss=go_up|nWord=6|RX=[V]
 9	,		PUNCT	_	_	_	_	_	AlignBegin=85993|AlignEnd=86275|nWord=7
-10	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=86440|AlignEnd=86787|GE=now|Gloss=now|nWord=8|RX=[ADV]
+10	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=86440|AlignEnd=86787|GE=now|Gloss=now|Lang=es|nWord=8|RX=[ADV]
 11	bligda	bligda	NOUN	_	_	13	subj	_	AlignBegin=86787|AlignEnd=87134|GE=food|Gloss=food|nWord=9|RX=[N]
 12	kle	kle	AUX	_	_	_	_	_	AlignBegin=87134|AlignEnd=87481|GE=be|Gloss=be|nWord=10|RX=[V]
 13	hoke	hoke	VERB	_	_	12	comp:aux	_	AlignBegin=87481|AlignEnd=87828|GE=go|Gloss=go|nWord=11|RX=[VI]
@@ -534,7 +534,7 @@
 # text_en = The food is there.
 # text_ortho = bligda ta eni .
 1	bligda	bligda	NOUN	_	_	2	subj	_	AlignBegin=88595|AlignEnd=88947|GE=food|Gloss=food|nWord=1|RX=[N]
-2	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=88947|AlignEnd=89299|GE=be|Gloss=be|nWord=2|RX=[V]
+2	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=88947|AlignEnd=89299|GE=be|Gloss=be|Lang=es|nWord=2|RX=[V]
 3	eni	eni	ADV	_	_	2	comp:pred	_	AlignBegin=89299|AlignEnd=89651|GE=there|Gloss=there|nWord=3|RX=[ADV]
 4	.		PUNCT	_	_	_	_	_	AlignBegin=89651|AlignEnd=90005|Gloss=.|nWord=4
 
@@ -546,7 +546,7 @@
 # text = entonces cha e chke gude .
 # text_en = So now I arrive home.
 # text_ortho = entonces cha e chke gude .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=90485|AlignEnd=90813|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=90485|AlignEnd=90813|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	4	subj	_	AlignBegin=90813|AlignEnd=91141|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	e	e	ADV	_	_	_	_	_	AlignBegin=91141|AlignEnd=91469|GE=now|Gloss=now|nWord=3|RX=[ADV]
 4	chk	chk	VERB	_	_	5	comp:aux/m	_	AlignBegin=91469|AlignEnd=91633|GE=arrive|Gloss=arrive|nWord=4|RX=[VI]
@@ -700,11 +700,11 @@
 # text = si hay aro cha aro lie .
 # text_en = If there is rice, I cook the rice.
 # text_ortho = si hay aro cha aro lie .
-1	si	si	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=112090|AlignEnd=112503|GE=if|Gloss=if|nWord=1|RX=[CONN]
-2	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=112503|AlignEnd=112916|GE=there_is|Gloss=there_is|nWord=2|RX=[V]
-3	arroz	arroz	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=112916|AlignEnd=113329|GE=rice|Gloss=rice|nWord=3|RX=[N]
+1	si	si	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=112090|AlignEnd=112503|GE=if|Gloss=if|Lang=es|nWord=1|RX=[CONN]
+2	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=112503|AlignEnd=112916|GE=there_is|Gloss=there_is|Lang=es|nWord=2|RX=[V]
+3	arroz	arroz	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=112916|AlignEnd=113329|GE=rice|Gloss=rice|Lang=es|nWord=3|RX=[N]
 4	cha	cha	PRON	_	_	6	subj	_	AlignBegin=113329|AlignEnd=113742|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
-5	arroz	arroz	NOUN	_	Foreign=Yes	6	comp:obj	_	AlignBegin=113742|AlignEnd=114155|GE=rice|Gloss=rice|nWord=5|RX=[N]
+5	arroz	arroz	NOUN	_	Foreign=Yes	6	comp:obj	_	AlignBegin=113742|AlignEnd=114155|GE=rice|Gloss=rice|Lang=es|nWord=5|RX=[N]
 6	li	li	VERB	_	_	7	comp:aux/m	_	AlignBegin=114155|AlignEnd=114361|GE=cook|Gloss=cook|nWord=6|RX=[VT]
 7	-e		AUX	_	_	0	root	_	AlignBegin=114361|AlignEnd=114568|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 8	.		PUNCT	_	_	7	punct	_	AlignBegin=114568|AlignEnd=114980|Gloss=.|nWord=7
@@ -717,16 +717,16 @@
 # text = si hay aro pa gutadale , cha aro lie .
 # text_en = If there is rice to eat. I cook the rice.
 # text_ortho = si hay aro pa gutadale , cha aro lie .
-1	si	si	SCONJ	_	Foreign=Yes	11	mod	_	AlignBegin=115130|AlignEnd=115383|GE=if|Gloss=if|nWord=1|RX=[CONN]
-2	hay	hay	VERB	_	Foreign=Yes	1	comp	_	AlignBegin=115383|AlignEnd=115636|GE=there_is|Gloss=there_is|nWord=2|RX=[V]
-3	arroz	arroz	NOUN	_	Foreign=Yes	2	subj	_	AlignBegin=115636|AlignEnd=115889|GE=rice|Gloss=rice|nWord=3|RX=[N]
-4	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=115889|AlignEnd=116142|GE=to|Gloss=to|nWord=4|RX=[ADP]
+1	si	si	SCONJ	_	Foreign=Yes	11	mod	_	AlignBegin=115130|AlignEnd=115383|GE=if|Gloss=if|Lang=es|nWord=1|RX=[CONN]
+2	hay	hay	VERB	_	Foreign=Yes	1	comp	_	AlignBegin=115383|AlignEnd=115636|GE=there_is|Gloss=there_is|Lang=es|nWord=2|RX=[V]
+3	arroz	arroz	NOUN	_	Foreign=Yes	2	subj	_	AlignBegin=115636|AlignEnd=115889|GE=rice|Gloss=rice|Lang=es|nWord=3|RX=[N]
+4	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=115889|AlignEnd=116142|GE=to|Gloss=to|Lang=es|nWord=4|RX=[ADP]
 5	gut	gut	VERB	_	_	6	comp:aux/m	_	AlignBegin=116142|AlignEnd=116226|GE=eat|Gloss=eat|nWord=5|RX=[VT]
-6	-a		X	_	_	7	comp:aux/m	_	AlignBegin=116226|AlignEnd=116310|GE=[0]|Gloss=-0|nWord=5|RX=[VERB]
-7	-dale		AUX	_	_	_	_	_	AlignBegin=116310|AlignEnd=116395|GE=[IRR]|Gloss=-IRR|nWord=5|RX=[V:ANY]
+6	-a		AUX	_	_	7	comp:aux/m	_	AlignBegin=116226|AlignEnd=116310|GE=[0]|Gloss=-0|nWord=5|RX=[VERB]
+7	-dale		AUX	_	_	4	comp	_	AlignBegin=116310|AlignEnd=116395|GE=[IRR]|Gloss=-IRR|nWord=5|RX=[V:ANY]
 8	,		PUNCT	_	_	_	_	_	AlignBegin=116395|AlignEnd=116650|nWord=6
 9	cha	cha	PRON	_	_	11	subj	_	AlignBegin=116985|AlignEnd=117265|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
-10	arroz	arroz	NOUN	_	Foreign=Yes	11	comp:obj	_	AlignBegin=117265|AlignEnd=117545|GE=rice|Gloss=rice|nWord=8|RX=[N]
+10	arroz	arroz	NOUN	_	Foreign=Yes	11	comp:obj	_	AlignBegin=117265|AlignEnd=117545|GE=rice|Gloss=rice|Lang=es|nWord=8|RX=[N]
 11	li	li	VERB	_	_	12	comp:aux/m	_	AlignBegin=117545|AlignEnd=117685|GE=cook|Gloss=cook|nWord=9|RX=[VT]
 12	-e		AUX	_	_	0	root	_	AlignBegin=117685|AlignEnd=117825|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
 13	.		PUNCT	_	_	_	_	_	AlignBegin=117825|AlignEnd=118105|Gloss=.|nWord=10
@@ -758,7 +758,7 @@
 1	nahere	nahere	NOUN	_	_	2	comp:aux/m	_	AlignBegin=122170|AlignEnd=122283|GE=night|Gloss=night|nWord=1|RX=[N]
 2	-d-		AUX	_	_	3	comp:aux/m	_	AlignBegin=122283|AlignEnd=122396|GE=[0]|Gloss=-0-|nWord=1|RX=[VERB]
 3	-u		AUX	_	_	_	_	_	AlignBegin=122396|AlignEnd=122510|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]
-4	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=122510|AlignEnd=122850|GE=now|Gloss=now|nWord=2|RX=[ADV]
+4	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=122510|AlignEnd=122850|GE=now|Gloss=now|Lang=es|nWord=2|RX=[ADV]
 5	che	che	PRON	_	_	7	subj	_	AlignBegin=122850|AlignEnd=123190|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
 6	be	be	AUX	_	_	0	root	_	AlignBegin=123190|AlignEnd=123530|GE=[FUT]|Gloss=FUT|nWord=4|RX=[VERBPRT]
 7	blid	blid	VERB	_	_	8	comp:aux	_	AlignBegin=123530|AlignEnd=123700|GE=eat|Gloss=eat|nWord=5|RX=[VI]
@@ -773,7 +773,7 @@
 # text = ya chui gwedu .
 # text_en = Now the sun went to sleep.
 # text_ortho = ya chui gwedu .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=124225|AlignEnd=124477|GE=now|Gloss=now|nWord=1|RX=[ADV]
+1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=124225|AlignEnd=124477|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	chui	chui	NOUN	_	_	3	subj	_	AlignBegin=124477|AlignEnd=124729|GE=sun|Gloss=sun|nWord=2|RX=[N]
 3	gwe	gwe	VERB	_	_	4	comp:aux/m	_	AlignBegin=124729|AlignEnd=124813|GE=sleep|Gloss=sleep|nWord=3|RX=[VI]
 4	-d-		AUX	_	_	5	comp:aux/m	_	AlignBegin=124813|AlignEnd=124897|GE=[0]|Gloss=-0-|nWord=3|RX=[VERB]
@@ -835,9 +835,9 @@
 # text = y si hay samla samla lie .
 # text_en = And if there is meat, (we) cook the meat.
 # text_ortho = y si hay samla samla lie .
-1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=135735|AlignEnd=136306|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
-2	si	si	SCONJ	_	Foreign=Yes	6	mod	_	AlignBegin=136306|AlignEnd=136877|GE=if|Gloss=if|nWord=2|RX=[CONN]
-3	hay	hay	VERB	_	Foreign=Yes	2	comp	_	AlignBegin=136877|AlignEnd=137448|GE=there_is|Gloss=there_is|nWord=3|RX=[V]
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=135735|AlignEnd=136306|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
+2	si	si	SCONJ	_	Foreign=Yes	6	mod	_	AlignBegin=136306|AlignEnd=136877|GE=if|Gloss=if|Lang=es|nWord=2|RX=[CONN]
+3	hay	hay	VERB	_	Foreign=Yes	2	comp	_	AlignBegin=136877|AlignEnd=137448|GE=there_is|Gloss=there_is|Lang=es|nWord=3|RX=[V]
 4	samla	samla	NOUN	_	_	3	subj	_	AlignBegin=137448|AlignEnd=138019|GE=meat|Gloss=meat|nWord=4|RX=[N]
 5	samla	samla	NOUN	_	_	6	comp:obj	_	AlignBegin=138019|AlignEnd=138590|GE=meat|Gloss=meat|nWord=5|RX=[N]
 6	li	li	VERB	_	_	7	comp:aux/m	_	AlignBegin=138590|AlignEnd=138876|GE=cook|Gloss=cook|nWord=6|RX=[VT]
@@ -881,8 +881,8 @@
 # text = si hay mue che mue gute bla nwale .
 # text_en = If there is fish, we eat fish with good bananas.
 # text_ortho = si hay mue che mue gute bla nwale .
-1	si	si	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=143635|AlignEnd=143927|GE=if|Gloss=if|nWord=1|RX=[CONN]
-2	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=143927|AlignEnd=144219|GE=there_is|Gloss=there_is|nWord=2|RX=[V]
+1	si	si	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=143635|AlignEnd=143927|GE=if|Gloss=if|Lang=es|nWord=1|RX=[CONN]
+2	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=143927|AlignEnd=144219|GE=there_is|Gloss=there_is|Lang=es|nWord=2|RX=[V]
 3	mue	mue	NOUN	_	_	_	_	_	AlignBegin=144219|AlignEnd=144511|GE=fish|Gloss=fish|nWord=3|RX=[N]
 4	che	che	PRON	_	_	6	subj	_	AlignBegin=144511|AlignEnd=144803|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=4|RX=[PRO]
 5	mue	mue	NOUN	_	_	6	comp:obj	_	AlignBegin=144803|AlignEnd=145095|GE=fish|Gloss=fish|nWord=5|RX=[N]
@@ -900,7 +900,7 @@
 # text = me bla gute todo lo dia nwale .
 # text_en = (We) can't eat something good with the bananas every day.
 # text_ortho = me bla gute todo lo dia nwale .
-1	me	me	PART	_	_	0	root	_	AlignBegin=146485|AlignEnd=146757|GE=[NEG]|Gloss=NEG|nWord=1|RX=[VERBPRT]
+1	me	me	AUX	_	_	0	root	_	AlignBegin=146485|AlignEnd=146757|GE=[NEG]|Gloss=NEG|nWord=1|RX=[VERBPRT]
 2	bla	bla	NOUN	_	_	3	comp:obj	_	AlignBegin=146757|AlignEnd=147029|GE=banana|Gloss=banana|nWord=2|RX=[N]
 3	gut	gut	VERB	_	_	4	comp:aux/m	_	AlignBegin=147029|AlignEnd=147165|GE=eat|Gloss=eat|nWord=3|RX=[VT]
 4	-e		AUX	_	_	1	comp:aux	_	AlignBegin=147165|AlignEnd=147301|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
@@ -1008,9 +1008,9 @@
 # text = si cha ta no , cha be hoke ngaske ule .
 # text_en = If I feel good, I will go to the fields with (everbody).
 # text_ortho = si cha ta no , cha be hoke ngaske ule .
-1	si	si	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=163925|AlignEnd=164274|GE=if|Gloss=if|nWord=1|RX=[CONN]
+1	si	si	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=163925|AlignEnd=164274|GE=if|Gloss=if|Lang=es|nWord=1|RX=[CONN]
 2	cha	cha	PRON	_	_	3	subj	_	AlignBegin=164274|AlignEnd=164623|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
-3	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=164623|AlignEnd=164972|GE=be|Gloss=be|nWord=3|RX=[V]
+3	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=164623|AlignEnd=164972|GE=be|Gloss=be|Lang=es|nWord=3|RX=[V]
 4	no	no	ADJ	_	_	3	comp:pred	_	AlignBegin=164972|AlignEnd=165321|GE=good|Gloss=good|nWord=4|RX=[ADJ]
 5	,		PUNCT	_	_	_	_	_	AlignBegin=165321|AlignEnd=165670|nWord=5
 6	cha	cha	PRON	_	_	8	subj	_	AlignBegin=165670|AlignEnd=166089|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
@@ -1088,25 +1088,25 @@
 # text = si gnome ta miaska , gnome ta miaska duile , che tiene hoke gnome glike , pa kiro agere .
 # text_en = If the clothes are dirty, (If) the clothes are dirty with dirt, We have to go wash the clothes. For the young kids.
 # text_ortho = si gnome ta miaska , gnome ta miaska duile , che tiene hoke gnome glike , pa kiro agere .
-1	si	si	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=178080|AlignEnd=178476|GE=if|Gloss=if|nWord=1|RX=[CONN]
+1	si	si	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=178080|AlignEnd=178476|GE=if|Gloss=if|Lang=es|nWord=1|RX=[CONN]
 2	gnome	gnome	NOUN	_	_	_	_	_	AlignBegin=178476|AlignEnd=178872|GE=clothes|Gloss=clothes|nWord=2|RX=[N]
-3	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=178872|AlignEnd=179268|GE=be|Gloss=be|nWord=3|RX=[V]
+3	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=178872|AlignEnd=179268|GE=be|Gloss=be|Lang=es|nWord=3|RX=[V]
 4	miaska	miaska	ADJ	_	_	3	comp:pred	_	AlignBegin=179268|AlignEnd=179664|GE=dirty|Gloss=dirty|nWord=4|RX=[ADJ]
 5	,		PUNCT	_	_	_	_	_	AlignBegin=179664|AlignEnd=180060|nWord=5
 6	gnome	gnome	NOUN	_	_	_	_	_	AlignBegin=180585|AlignEnd=181003|GE=clothes|Gloss=clothes|nWord=6|RX=[N]
-7	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=181003|AlignEnd=181421|GE=be|Gloss=be|nWord=7|RX=[V]
+7	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=181003|AlignEnd=181421|GE=be|Gloss=be|Lang=es|nWord=7|RX=[V]
 8	miaska	miaska	ADJ	_	_	7	comp:pred	_	AlignBegin=181421|AlignEnd=181839|GE=dirty|Gloss=dirty|nWord=8|RX=[ADJ]
 9	dui	dui	NOUN	_	_	10	comp:aux/m	_	AlignBegin=181839|AlignEnd=182048|GE=dirt|Gloss=dirt|nWord=9|RX=[N]
 10	-le		AUX	_	_	_	_	_	AlignBegin=182048|AlignEnd=182257|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
 11	,		PUNCT	_	_	_	_	_	AlignBegin=182257|AlignEnd=182675|nWord=10
 12	che	che	PRON	_	_	16	subj	_	AlignBegin=182695|AlignEnd=183022|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=11|RX=[PRO]
-13	tiene	tiene	VERB	_	Foreign=Yes	_	_	_	AlignBegin=183022|AlignEnd=183349|GE=have|Gloss=have|nWord=12|RX=[V]
+13	tiene	tiene	VERB	_	Foreign=Yes	_	_	_	AlignBegin=183022|AlignEnd=183349|GE=have|Gloss=have|Lang=es|nWord=12|RX=[V]
 14	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=183349|AlignEnd=183676|GE=go|Gloss=go|nWord=13|RX=[VI]
 15	gnome	gnome	NOUN	_	_	16	comp:obj	_	AlignBegin=183676|AlignEnd=184003|GE=clothes|Gloss=clothes|nWord=14|RX=[N]
 16	glik	glik	VERB	_	_	17	comp:aux/m	_	AlignBegin=184003|AlignEnd=184167|GE=clean|Gloss=clean|nWord=15|RX=[VT]
 17	-e		AUX	_	_	_	_	_	AlignBegin=184167|AlignEnd=184330|GE=[THM]|Gloss=-THM|nWord=15|RX=[V:ANY]
 18	,		PUNCT	_	_	_	_	_	AlignBegin=184330|AlignEnd=184655|nWord=16
-19	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=184950|AlignEnd=185338|GE=to|Gloss=to|nWord=17|RX=[ADP]
+19	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=184950|AlignEnd=185338|GE=to|Gloss=to|Lang=es|nWord=17|RX=[ADP]
 20	kiro	kiro	NOUN	_	_	19	comp	_	AlignBegin=185338|AlignEnd=185726|GE=child|Gloss=child|nWord=18|RX=[N]
 21	agere	agere	ADJ	_	_	20	mod	_	AlignBegin=185726|AlignEnd=186114|GE=new|Gloss=new|nWord=19|RX=[ADJ]
 22	.		PUNCT	_	_	_	_	_	AlignBegin=186114|AlignEnd=186500|Gloss=.|nWord=20
@@ -1119,14 +1119,14 @@
 # text = pa kiro kweri , pa kwia hombre aling .
 # text_en = For the big kids. For the men.
 # text_ortho = pa kiro kweri , pa kwia hombre aling .
-1	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=186520|AlignEnd=186822|GE=to|Gloss=to|nWord=1|RX=[ADP]
+1	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=186520|AlignEnd=186822|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
 2	kiro	kiro	NOUN	_	_	1	comp	_	AlignBegin=186822|AlignEnd=187124|GE=child|Gloss=child|nWord=2|RX=[N]
 3	kweri	kweri	ADJ	_	_	2	mod	_	AlignBegin=187124|AlignEnd=187426|GE=big|Gloss=big|nWord=3|RX=[ADJ]
 4	,		PUNCT	_	_	_	_	_	AlignBegin=187426|AlignEnd=187730|nWord=4
-5	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=187780|AlignEnd=188068|GE=to|Gloss=to|nWord=5|RX=[ADP]
+5	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=187780|AlignEnd=188068|GE=to|Gloss=to|Lang=es|nWord=5|RX=[ADP]
 6	kwia	kwia	NOUN	_	_	8	comp	_	AlignBegin=188068|AlignEnd=188356|GE=people|Gloss=people|nWord=6|RX=[N]
 7	hombre	hombre	ADJ	_	_	6	mod	_	AlignBegin=188356|AlignEnd=188644|GE=male|Gloss=male|nWord=7|RX=[ADJ]
-8	aling	aling	ADP	_	_	_	_	_	AlignBegin=188644|AlignEnd=188932|GE=for|Gloss=for|nWord=8|RX=[ADP]
+8	aling	aling	ADP	_	_	5	conj:dicto	_	AlignBegin=188644|AlignEnd=188932|GE=for|Gloss=for|nWord=8|RX=[ADP]
 9	.		PUNCT	_	_	_	_	_	AlignBegin=188932|AlignEnd=189220|Gloss=.|nWord=9
 
 # sent_id = SAB-TXT-AN-00002-03_81-81

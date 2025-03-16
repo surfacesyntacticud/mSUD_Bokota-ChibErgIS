@@ -10,7 +10,7 @@
 2	enusuli	enusuli	NOUN	_	_	3	comp:aux/m	_	AlignBegin=11266|AlignEnd=11939|GE=grandfather|Gloss=grandfather|nWord=2|RX=[N]
 3	-a		AUX	_	_	_	_	_	AlignBegin=11939|AlignEnd=12612|GE=[POSS]|Gloss=-POSS|nWord=2|RX=[N:ANY]
 4	fui	fui	PART	_	_	5	comp:aux/m	_	AlignBegin=12612|AlignEnd=13285|GE=loc.origin|Gloss=loc.origin|nWord=3|RX=[VERBPRT]
-5	-a		X	_	_	_	_	_	AlignBegin=13285|AlignEnd=13958|GE=[0]|Gloss=-0|nWord=3|RX=[VERB]
+5	-a		AUX	_	_	_	_	_	AlignBegin=13285|AlignEnd=13958|GE=[0]|Gloss=-0|nWord=3|RX=[VERB]
 6	Panama	Panama	PROPN	_	_	_	_	_	AlignBegin=13958|AlignEnd=15304|GE=[Panama]|Gloss=Panama|nWord=4|RX=[NPROP]
 7	.		PUNCT	_	_	_	_	_	AlignBegin=15304|AlignEnd=16650|Gloss=.|nWord=5
 
@@ -207,7 +207,7 @@
 3	-u		AUX	_	_	0	root	_	AlignBegin=92282|AlignEnd=92936|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	Blagdagwada	Blagdagwada	NOUN	_	_	_	_	_	AlignBegin=92936|AlignEnd=94244|GE=[Blagdagwada]|Gloss=Blagdagwada|nWord=3|RX=[N]
 5	kweri	kweri	ADJ	_	_	6	comp:aux/m	_	AlignBegin=94244|AlignEnd=94898|GE=big|Gloss=big|nWord=4|RX=[ADJ]
-6	-a		X	_	_	4	mod	_	AlignBegin=94898|AlignEnd=95552|GE=[0]|Gloss=-0|nWord=4|RX=[NOUN]
+6	-a		AUX	_	_	4	mod	_	AlignBegin=94898|AlignEnd=95552|GE=[0]|Gloss=-0|nWord=4|RX=[NOUN]
 7	.		PUNCT	_	_	3	punct	_	AlignBegin=95552|AlignEnd=96860|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-AN-00000-01_17-17

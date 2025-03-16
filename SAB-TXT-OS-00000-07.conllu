@@ -30,7 +30,7 @@
 9	soli	soli	ADJ	_	_	_	_	_	AlignBegin=13143|AlignEnd=13512|GE=little|Gloss=little|nWord=8|RX=[N]
 10	bi	bi	ADV	_	_	_	_	_	AlignBegin=13512|AlignEnd=13881|GE=then|Gloss=then|nWord=9|RX=[ADV]
 11	,		PUNCT	_	_	_	_	_	AlignBegin=13881|AlignEnd=14250|nWord=10
-12	cuando	cuando	SCONJ	_	Foreign=Yes	22	mod	_	AlignBegin=14390|AlignEnd=14861|GE=when|Gloss=when|nWord=11|RX=[Q]
+12	cuando	cuando	SCONJ	_	Foreign=Yes	22	mod	_	AlignBegin=14390|AlignEnd=14861|GE=when|Gloss=when|Lang=es|nWord=11|RX=[Q]
 13	cha	cha	PRON	_	_	14	subj	_	AlignBegin=14861|AlignEnd=15332|GE=[1SG]|Gloss=1SG|nWord=12|RX=[PRO]
 14	chi	chi	VERB	_	_	15	comp:aux/m	_	AlignBegin=15332|AlignEnd=15568|GE=come|Gloss=come|nWord=13|RX=[VI]
 15	-u		AUX	_	_	12	comp	_	AlignBegin=15568|AlignEnd=15803|GE=[PST]|Gloss=-PST|nWord=13|RX=[V:ANY]
@@ -41,25 +41,25 @@
 20	geru	geru	NOUN	_	_	22	comp:obj	_	AlignBegin=18095|AlignEnd=18621|GE=story|Gloss=story|nWord=18|RX=[N]
 21	nware	nware	ADJ	_	_	20	mod	_	AlignBegin=18621|AlignEnd=19147|GE=good|Gloss=good|nWord=19|RX=[ADJ]
 22	trak	trak	VERB	_	_	23	comp:aux/m	_	AlignBegin=19147|AlignEnd=19322|GE=tell|Gloss=tell|nWord=20|RX=[V]
-23	-a		X	_	_	24	comp:aux/m	_	AlignBegin=19322|AlignEnd=19497|GE=[0]|Gloss=-0|nWord=20|RX=[VERB]
+23	-a		AUX	_	_	24	comp:aux/m	_	AlignBegin=19322|AlignEnd=19497|GE=[0]|Gloss=-0|nWord=20|RX=[VERB]
 24	-dale		AUX	_	_	_	_	_	AlignBegin=19497|AlignEnd=19673|GE=[IRR]|Gloss=-IRR|nWord=20|RX=[V:ANY]
 25	cha	cha	PRON	_	_	26	udep:poss	_	AlignBegin=19673|AlignEnd=20199|GE=[1SG]|Gloss=1SG|nWord=21|RX=[PRO]
 26	bitaia	bitaia	NOUN	_	_	27	comp	_	AlignBegin=20199|AlignEnd=20725|GE=family|Gloss=family|nWord=22|RX=[N]
 27	ske	ske	ADP	_	_	22	comp:obl	_	AlignBegin=20725|AlignEnd=21251|GE=with|Gloss=with|nWord=23|RX=[ADP]
-28	:		_	_	_	_	_	_	AlignBegin=21251|AlignEnd=21775|nWord=24
-29	como	como	ADP	_	Foreign=Yes	_	_	_	AlignBegin=21915|AlignEnd=22293|GE=like|Gloss=like|nWord=25|RX=[ADP]
+28	:		PUNCT	_	_	_	_	_	AlignBegin=21251|AlignEnd=21775|nWord=24
+29	como	como	ADP	_	Foreign=Yes	_	_	_	AlignBegin=21915|AlignEnd=22293|GE=like|Gloss=like|Lang=es|nWord=25|RX=[ADP]
 30	chube	chube	NOUN	_	_	_	_	_	AlignBegin=22293|AlignEnd=22671|GE=chief|Gloss=chief|nWord=26|RX=[N]
 31	(		PUNCT	_	_	_	_	_	AlignBegin=22671|AlignEnd=23049|nWord=27
 32	ponia	ponia	VERB	_	_	_	_	_	AlignBegin=23049|AlignEnd=23427|GE=[put].[PST]|Gloss=put.PST|nWord=28|RX=[V]
 33	)		PUNCT	_	_	_	_	_	AlignBegin=23427|AlignEnd=23805|nWord=29
 34	che	che	PRON	_	_	35	udep:poss	_	AlignBegin=23805|AlignEnd=24183|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=30|RX=[PRO]
-35	bitaia	bitaia	NOUN	_	_	_	_	_	AlignBegin=24183|AlignEnd=24561|GE=family|Gloss=family|nWord=31|RX=[N]
+35	bitaia	bitaia	NOUN	_	_	36	comp:obj	_	AlignBegin=24183|AlignEnd=24561|GE=family|Gloss=family|nWord=31|RX=[N]
 36	gai	gai	VERB	_	_	_	_	_	AlignBegin=24561|AlignEnd=24939|GE=pick_up|Gloss=pick_up|nWord=32|RX=[VT]
 37	,		PUNCT	_	_	_	_	_	AlignBegin=24939|AlignEnd=25315|nWord=33
-38	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=25335|AlignEnd=25783|GE=for|Gloss=for|nWord=34|RX=[ADP]
+38	para	para	SCONJ	_	Foreign=Yes	36	mod:purpose	_	AlignBegin=25335|AlignEnd=25783|GE=for|Gloss=for|Lang=es|nWord=34|RX=[ADP]
 39	giska	giska	NOUN	_	_	40	comp:obj	_	AlignBegin=25783|AlignEnd=26231|GE=rope|Gloss=rope|nWord=35|RX=[N]
 40	hue	hue	VERB	_	_	41	comp:aux/m	_	AlignBegin=26231|AlignEnd=26455|GE=[find].[NPST]|Gloss=find.NPST|nWord=36|RX=[VT]
-41	-nga		AUX	_	_	_	_	_	AlignBegin=26455|AlignEnd=26679|GE=[SUB]|Gloss=-SUB|nWord=36|RX=[V:ANY]
+41	-nga		AUX	_	_	38	comp	_	AlignBegin=26455|AlignEnd=26679|GE=[SUB]|Gloss=-SUB|nWord=36|RX=[V:ANY]
 42	cha	cha	PRON	_	_	43	udep:poss	_	AlignBegin=26679|AlignEnd=27127|GE=[1SG]|Gloss=1SG|nWord=37|RX=[PRO]
 43	bitaia	bitaia	NOUN	_	_	44	comp	_	AlignBegin=27127|AlignEnd=27575|GE=family|Gloss=family|nWord=38|RX=[N]
 44	aling	aling	ADP	_	_	_	_	_	AlignBegin=27575|AlignEnd=28023|GE=for|Gloss=for|nWord=39|RX=[ADP]
@@ -74,14 +74,14 @@
 # text = ya me cheku che ske , ya ho fatenga .
 # text_en = Now it is not the case anymore. Now everything is falling apart.
 # text_ortho = ya me cheku che ske , ya ho fatenga .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=29415|AlignEnd=29615|GE=now|Gloss=now|nWord=1|RX=[ADV]
-2	me	me	PART	_	_	_	_	_	AlignBegin=29615|AlignEnd=29815|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=29415|AlignEnd=29615|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
+2	me	me	AUX	_	_	_	_	_	AlignBegin=29615|AlignEnd=29815|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	chek	chek	VERB	_	_	4	comp:aux/m	_	AlignBegin=29815|AlignEnd=29915|GE=stay|Gloss=stay|nWord=3|RX=[VI]
 4	-u		AUX	_	_	2	comp:aux	_	AlignBegin=29915|AlignEnd=30015|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
 5	che	che	PRON	_	_	6	comp	_	AlignBegin=30015|AlignEnd=30215|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=4|RX=[PRO]
 6	ske	ske	ADP	_	_	3	comp:obl	_	AlignBegin=30215|AlignEnd=30415|GE=with|Gloss=with|nWord=5|RX=[ADP]
 7	,		PUNCT	_	_	_	_	_	AlignBegin=30415|AlignEnd=30615|nWord=6
-8	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=30630|AlignEnd=30945|GE=now|Gloss=now|nWord=7|RX=[ADV]
+8	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=30630|AlignEnd=30945|GE=now|Gloss=now|Lang=es|nWord=7|RX=[ADV]
 9	ho	hoke	VERB	_	_	_	_	_	AlignBegin=30945|AlignEnd=31260|GE=[go].[PST]|Gloss=go.PST|nWord=8|RX=[VI]
 10	fatenga	fatenga	VERB	_	_	_	_	_	AlignBegin=31260|AlignEnd=31575|GE=[fall].[NPST]|Gloss=fall.NPST|nWord=9|RX=[V]
 11	.		PUNCT	_	_	_	_	_	AlignBegin=31575|AlignEnd=31890|Gloss=.|nWord=10
@@ -98,7 +98,7 @@
 2	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=32507|AlignEnd=32699|GE=go|Gloss=go|nWord=2|RX=[VI]
 3	)		PUNCT	_	_	_	_	_	AlignBegin=32699|AlignEnd=32891|nWord=3
 4	che	che	PRON	_	_	7	subj	_	AlignBegin=32891|AlignEnd=33083|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=4|RX=[PRO]
-5	ho	hoke	VERB	_	_	_	_	_	AlignBegin=33083|AlignEnd=33275|GE=[go].[PST]|Gloss=go.PST|nWord=5|RX=[VI]
+5	ho	hoke	AUX	_	_	_	_	_	AlignBegin=33083|AlignEnd=33275|GE=[go].[PST]|Gloss=go.PST|nWord=5|RX=[VI]
 6	ko	ko	NOUN	_	_	7	comp:obj	_	AlignBegin=33275|AlignEnd=33467|GE=hand|Gloss=hand|nWord=6|RX=[N]
 7	ket	ket	VERB	_	_	8	comp:aux/m	_	AlignBegin=33467|AlignEnd=33563|GE=give|Gloss=give|nWord=7|RX=[V]
 8	-e		AUX	_	_	5	comp:aux	_	AlignBegin=33563|AlignEnd=33659|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
@@ -107,8 +107,8 @@
 11	-le		AUX	_	_	12	comp	_	AlignBegin=33947|AlignEnd=34043|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
 12	ke	ke	ADP	_	_	_	_	_	AlignBegin=34043|AlignEnd=34235|GE=[DAT]|Gloss=DAT|nWord=10|RX=[ADP]
 13	,		PUNCT	_	_	_	_	_	AlignBegin=34235|AlignEnd=34430|nWord=11
-14	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=34430|AlignEnd=34770|GE=so|Gloss=so|nWord=12|RX=[ADV]
-15	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=34770|AlignEnd=35110|GE=now|Gloss=now|nWord=13|RX=[ADV]
+14	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=34430|AlignEnd=34770|GE=so|Gloss=so|Lang=es|nWord=12|RX=[ADV]
+15	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=34770|AlignEnd=35110|GE=now|Gloss=now|Lang=es|nWord=13|RX=[ADV]
 16	me	me	PART	_	_	_	_	_	AlignBegin=35110|AlignEnd=35450|GE=[NEG]|Gloss=NEG|nWord=14|RX=[VERBPRT]
 17	chek	chek	VERB	_	_	18	comp:aux/m	_	AlignBegin=35450|AlignEnd=35620|GE=stay|Gloss=stay|nWord=15|RX=[VI]
 18	-u		AUX	_	_	_	_	_	AlignBegin=35620|AlignEnd=35790|GE=[PST]|Gloss=-PST|nWord=15|RX=[V:ANY]
@@ -139,8 +139,8 @@
 13	che	che	PRON	_	_	14	comp	_	AlignBegin=45800|AlignEnd=46545|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=12|RX=[PRO]
 14	giti	giti	ADP	_	_	_	_	_	AlignBegin=46545|AlignEnd=47290|GE=[LOC]|Gloss=LOC|nWord=13|RX=[ADP]
 15	,		PUNCT	_	_	_	_	_	AlignBegin=47290|AlignEnd=48040|nWord=14
-16	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=48370|AlignEnd=48810|GE=but|Gloss=but|nWord=15|RX=[COORDCONN]
-17	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=48810|AlignEnd=49250|GE=now|Gloss=now|nWord=16|RX=[ADV]
+16	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=48370|AlignEnd=48810|GE=but|Gloss=but|Lang=es|nWord=15|RX=[COORDCONN]
+17	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=48810|AlignEnd=49250|GE=now|Gloss=now|Lang=es|nWord=16|RX=[ADV]
 18	me	me	PART	_	_	_	_	_	AlignBegin=49250|AlignEnd=49690|GE=[NEG]|Gloss=NEG|nWord=17|RX=[VERBPRT]
 19	chek	chek	VERB	_	_	20	comp:aux/m	_	AlignBegin=49690|AlignEnd=49910|GE=stay|Gloss=stay|nWord=18|RX=[VI]
 20	-u		AUX	_	_	_	_	_	AlignBegin=49910|AlignEnd=50130|GE=[PST]|Gloss=-PST|nWord=18|RX=[V:ANY]

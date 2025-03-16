@@ -15,7 +15,7 @@
 7	chebi	chebi	NOUN	_	_	8	comp:aux/m	_	AlignBegin=11030|AlignEnd=11195|GE=mother|Gloss=mother|nWord=5|RX=[N]
 8	-a		AUX	_	_	9	comp	_	AlignBegin=11195|AlignEnd=11360|GE=[POSS]|Gloss=-POSS|nWord=5|RX=[N:ANY]
 9	ole	ole	ADP	_	_	4	comp:obl	_	AlignBegin=11360|AlignEnd=11690|GE=[COM]|Gloss=COM|nWord=6|RX=[ADP]
-10	y	y	X	_	Foreign=Yes	14	cc	_	AlignBegin=11690|AlignEnd=12020|GE=and|Gloss=and|nWord=7|RX=[COORDCONN]
+10	y	y	X	_	Foreign=Yes	14	cc	_	AlignBegin=11690|AlignEnd=12020|GE=and|Gloss=and|Lang=es|nWord=7|RX=[COORDCONN]
 11	che	che	PRON	_	_	12	udep:poss	_	AlignBegin=12020|AlignEnd=12350|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=8|RX=[PRO]
 12	nienu	nienu	NOUN	_	_	13	comp:aux/m	_	AlignBegin=12350|AlignEnd=12515|GE=father|Gloss=father|nWord=9|RX=[N]
 13	-a		AUX	_	_	14	comp	_	AlignBegin=12515|AlignEnd=12680|GE=[POSS]|Gloss=-POSS|nWord=9|RX=[N:ANY]
@@ -47,7 +47,7 @@
 3	-le		AUX	_	_	1	mod	_	AlignBegin=20269|AlignEnd=20468|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
 4	mil	mil	NUM	_	_	_	_	_	AlignBegin=20468|AlignEnd=20867|GE=thousand|Gloss=thousand|nWord=3|RX=[NUM]
 5	quiniento	quiniento	NUM	_	_	_	_	_	AlignBegin=20867|AlignEnd=21266|GE=five_hundred|Gloss=five_hundred|nWord=4|RX=[NUM]
-6	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=21266|AlignEnd=21665|GE=and|Gloss=and|nWord=5|RX=[COORDCONN]
+6	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=21266|AlignEnd=21665|GE=and|Gloss=and|Lang=es|nWord=5|RX=[COORDCONN]
 7	dos	dos	NUM	_	_	_	_	_	AlignBegin=21665|AlignEnd=22064|GE=two|Gloss=two|nWord=6|RX=[NUM]
 8	llego	llego	VERB	_	_	_	_	_	AlignBegin=22064|AlignEnd=22463|GE=arrive|Gloss=arrive|nWord=7|RX=[V]
 9	Cristobald	Cristobald	PROPN	_	_	_	_	_	AlignBegin=22463|AlignEnd=22862|GE=[Cristobald]|Gloss=Cristobald|nWord=8|RX=[NPROP]
@@ -56,8 +56,8 @@
 12	che	che	PRON	_	_	_	_	_	AlignBegin=23660|AlignEnd=24059|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=11|RX=[PRO]
 13	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=24059|AlignEnd=24458|GE=up|Gloss=up|nWord=12|RX=[ADV]
 14	giti	giti	ADP	_	_	_	_	_	AlignBegin=24458|AlignEnd=24857|GE=[LOC]|Gloss=LOC|nWord=13|RX=[ADP]
-15	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=24857|AlignEnd=25256|GE=that|Gloss=that|nWord=14|RX=[PRO]
-16	significa	significa	VERB	_	Foreign=Yes	_	_	_	AlignBegin=25256|AlignEnd=25655|GE=mean|Gloss=mean|nWord=15|RX=[V]
+15	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=24857|AlignEnd=25256|GE=that|Gloss=that|Lang=es|nWord=14|RX=[PRO]
+16	significa	significa	VERB	_	Foreign=Yes	_	_	_	AlignBegin=25256|AlignEnd=25655|GE=mean|Gloss=mean|Lang=es|nWord=15|RX=[V]
 17	Panama	Panama	PROPN	_	_	_	_	_	AlignBegin=25655|AlignEnd=26054|GE=[Panama]|Gloss=Panama|nWord=16|RX=[NPROP]
 18	,		PUNCT	_	_	_	_	_	AlignBegin=26054|AlignEnd=26460|nWord=17
 19	hula	hula	NOUN	_	_	20	subj	_	AlignBegin=28020|AlignEnd=28423|GE=white_man|Gloss=white_man|nWord=18|RX=[N]
@@ -108,7 +108,7 @@
 # text = pero che me aini Cahuita .
 # text_en = But not here in Cahuita.
 # text_ortho = pero che me aini Cahuita .
-1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=34585|AlignEnd=34888|GE=but|Gloss=but|nWord=1|RX=[COORDCONN]
+1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=34585|AlignEnd=34888|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
 2	che	che	PRON	_	_	_	_	_	AlignBegin=34888|AlignEnd=35191|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
 3	me	me	PART	_	_	_	_	_	AlignBegin=35191|AlignEnd=35494|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	aini	aini	ADV	_	_	_	_	_	AlignBegin=35494|AlignEnd=35797|GE=here|Gloss=here|nWord=4|RX=[ADV]
@@ -127,7 +127,7 @@
 2	kada	kada	NOUN	_	_	_	_	_	AlignBegin=37247|AlignEnd=37669|GE=name|Gloss=name|nWord=2|RX=[N]
 3	Klamengda	Klamengda	PROPN	_	_	_	_	_	AlignBegin=37669|AlignEnd=38091|GE=[Klamengda]|Gloss=Klamengda|nWord=3|RX=[NPROP]
 4	Che	Che	PROPN	_	_	_	_	_	AlignBegin=38091|AlignEnd=38513|GE=[Che]|Gloss=Che|nWord=4|RX=[NPROP]
-5	es	es	VERB	_	Foreign=Yes	_	_	_	AlignBegin=38513|AlignEnd=38935|GE=be|Gloss=be|nWord=5|RX=[V]
+5	es	es	VERB	_	Foreign=Yes	_	_	_	AlignBegin=38513|AlignEnd=38935|GE=be|Gloss=be|Lang=es|nWord=5|RX=[V]
 6	Olechia	Olechia	PROPN	_	_	7	comp	_	AlignBegin=38935|AlignEnd=39357|GE=[Olechia]|Gloss=Olechia|nWord=6|RX=[NPROP]
 7	giti	giti	ADP	_	_	_	_	_	AlignBegin=39357|AlignEnd=39779|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
 8	,		PUNCT	_	_	_	_	_	AlignBegin=39779|AlignEnd=40200|nWord=8
@@ -148,7 +148,7 @@
 # text = pero che ngliare me , ho toi daba ole , entonces enusuli chku aini nante .
 # text_en = But there were no chief. They went to live with their brothers. So the ancestor came further here.
 # text_ortho = pero che ngliare me , ho toi daba ole , entonces enusuli chku aini nante .
-1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=44122|AlignEnd=44722|GE=but|Gloss=but|nWord=1|RX=[COORDCONN]
+1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=44122|AlignEnd=44722|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
 2	che	che	PRON	_	_	3	udep:poss	_	AlignBegin=44722|AlignEnd=45322|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
 3	nglia	nglia	NOUN	_	_	4	comp:aux/m	_	AlignBegin=45322|AlignEnd=45622|GE=king|Gloss=king|nWord=3|RX=[N]
 4	-re		AUX	_	_	_	_	_	AlignBegin=45622|AlignEnd=45922|GE=[ADJZ]|Gloss=-ADJZ|nWord=3|RX=[N>ADJ]
@@ -159,7 +159,7 @@
 9	daba	daba	NOUN	_	_	10	comp	_	AlignBegin=48158|AlignEnd=48362|GE=brother|Gloss=brother|nWord=8|RX=[N]
 10	ole	ole	ADP	_	_	8	comp:obl	_	AlignBegin=48362|AlignEnd=48566|GE=[COM]|Gloss=COM|nWord=9|RX=[ADP]
 11	,		PUNCT	_	_	_	_	_	AlignBegin=48566|AlignEnd=48770|nWord=10
-12	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=48810|AlignEnd=49203|GE=so|Gloss=so|nWord=11|RX=[ADV]
+12	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=48810|AlignEnd=49203|GE=so|Gloss=so|Lang=es|nWord=11|RX=[ADV]
 13	enusuli	enusuli	NOUN	_	_	14	subj	_	AlignBegin=49203|AlignEnd=49596|GE=grandfather|Gloss=grandfather|nWord=12|RX=[N]
 14	chk	chk	VERB	_	_	15	comp:aux/m	_	AlignBegin=49596|AlignEnd=49792|GE=arrive|Gloss=arrive|nWord=13|RX=[VI]
 15	-u		AUX	_	_	_	_	_	AlignBegin=49792|AlignEnd=49989|GE=[PST]|Gloss=-PST|nWord=13|RX=[V:ANY]
@@ -217,7 +217,7 @@
 8	gerud	gerud	VERB	_	_	9	comp:aux/m	_	AlignBegin=64374|AlignEnd=64520|GE=speak|Gloss=speak|nWord=6|RX=[V]
 9	-e		AUX	_	_	_	_	_	AlignBegin=64520|AlignEnd=64666|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 10	,		PUNCT	_	_	_	_	_	AlignBegin=64666|AlignEnd=64960|nWord=7
-11	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=64975|AlignEnd=65385|GE=that|Gloss=that|nWord=8|RX=[PRO]
+11	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=64975|AlignEnd=65385|GE=that|Gloss=that|Lang=es|nWord=8|RX=[PRO]
 12	che	che	PRON	_	_	14	subj	_	AlignBegin=65385|AlignEnd=65795|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=9|RX=[PRO]
 13	kle	kle	AUX	_	_	_	_	_	AlignBegin=65795|AlignEnd=66205|GE=be|Gloss=be|nWord=10|RX=[V]
 14	toi	toi	VERB	_	_	13	comp:aux	_	AlignBegin=66205|AlignEnd=66615|GE=live|Gloss=live|nWord=11|RX=[VI]
@@ -360,20 +360,20 @@
 # text_ortho = geru uliai que chiu kike hula dike , cuando hula che batunga unaske , porque che chugao che toi che ngania che onia alla Panama , ama ( cha ) che cheku aini .
 1	geru	geru	NOUN	_	_	_	_	_	AlignBegin=99797|AlignEnd=100472|GE=story|Gloss=story|nWord=1|RX=[N]
 2	uliai	uliai	ADJ	_	_	1	mod	_	AlignBegin=100472|AlignEnd=101147|GE=true|Gloss=true|nWord=2|RX=[ADJ]
-3	que	que	PRON	_	Foreign=Yes	4	subj	_	AlignBegin=101147|AlignEnd=101822|GE=that|Gloss=that|nWord=3|RX=[PRO]
+3	que	que	PRON	_	Foreign=Yes	4	subj	_	AlignBegin=101147|AlignEnd=101822|GE=that|Gloss=that|Lang=es|nWord=3|RX=[PRO]
 4	chi	chi	VERB	_	_	5	comp:aux/m	_	AlignBegin=101822|AlignEnd=102160|GE=come|Gloss=come|nWord=4|RX=[VI]
 5	-u		AUX	_	_	_	_	_	AlignBegin=102160|AlignEnd=102497|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
 6	kike	kike	VERB	_	_	_	_	_	AlignBegin=102497|AlignEnd=103172|GE=escape|Gloss=escape|nWord=5|RX=[VI]
 7	hula	hula	NOUN	_	_	8	comp	_	AlignBegin=103172|AlignEnd=103847|GE=white_man|Gloss=white_man|nWord=6|RX=[N]
 8	dike	dike	ADP	_	_	6	comp:obl	_	AlignBegin=103847|AlignEnd=104522|GE=[INST]|Gloss=INST|nWord=7|RX=[ADP]
 9	,		PUNCT	_	_	_	_	_	AlignBegin=104522|AlignEnd=105197|nWord=8
-10	cuando	cuando	SCONJ	_	Foreign=Yes	4	mod	_	AlignBegin=105262|AlignEnd=105597|GE=when|Gloss=when|nWord=9|RX=[Q]
+10	cuando	cuando	SCONJ	_	Foreign=Yes	4	mod	_	AlignBegin=105262|AlignEnd=105597|GE=when|Gloss=when|Lang=es|nWord=9|RX=[Q]
 11	hula	hula	NOUN	_	_	13	subj	_	AlignBegin=105597|AlignEnd=105932|GE=white_man|Gloss=white_man|nWord=10|RX=[N]
 12	che	che	PRON	_	_	13	comp:obj	_	AlignBegin=105932|AlignEnd=106267|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=11|RX=[PRO]
 13	batunga	batenga	VERB	_	_	10	comp	_	AlignBegin=106267|AlignEnd=106602|GE=[end].[PST]|Gloss=end.PST|nWord=12|RX=[V]
 14	unaske	unaske	NOUN	_	_	_	_	_	AlignBegin=106602|AlignEnd=106937|GE=city|Gloss=city|nWord=13|RX=[N]
 15	,		PUNCT	_	_	_	_	_	AlignBegin=106937|AlignEnd=107272|nWord=14
-16	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=107272|AlignEnd=107698|GE=because|Gloss=because|nWord=15|RX=[CONN]
+16	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=107272|AlignEnd=107698|GE=because|Gloss=because|Lang=es|nWord=15|RX=[CONN]
 17	che	che	PRON	_	_	18	udep:poss	_	AlignBegin=107698|AlignEnd=108124|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=16|RX=[PRO]
 18	chugao	chugao	NOUN	_	_	_	_	_	AlignBegin=108124|AlignEnd=108550|GE=head|Gloss=head|nWord=17|RX=[N]
 19	che	che	PRON	_	_	_	_	_	AlignBegin=108550|AlignEnd=108976|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=18|RX=[PRO]
@@ -403,14 +403,14 @@
 # text = pero asi como che chiu kike asi , daba salebli koladu ka be chie ole , guerra hue che ole , y ama cha cheku ata aini .
 # text_en = But then they came escaping. The other persons mocked (us) changing (our) language, (They) are looking for trouble against me, And so I stayed until now.
 # text_ortho = pero asi como che chiu kike asi , daba salebli koladu ka be chie ole , guerra hue che ole , y ama cha cheku ata aini .
-1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=114442|AlignEnd=114677|GE=but|Gloss=but|nWord=1|RX=[COORDCONN]
-2	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=114677|AlignEnd=114912|GE=like_that|Gloss=like_that|nWord=2|RX=[ADV]
-3	como	como	ADP	_	Foreign=Yes	_	_	_	AlignBegin=114912|AlignEnd=115147|GE=like|Gloss=like|nWord=3|RX=[ADP]
+1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=114442|AlignEnd=114677|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
+2	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=114677|AlignEnd=114912|GE=like_that|Gloss=like_that|Lang=es|nWord=2|RX=[ADV]
+3	como	como	ADP	_	Foreign=Yes	_	_	_	AlignBegin=114912|AlignEnd=115147|GE=like|Gloss=like|Lang=es|nWord=3|RX=[ADP]
 4	che	che	PRON	_	_	5	subj	_	AlignBegin=115147|AlignEnd=115382|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=4|RX=[PRO]
 5	chi	chi	VERB	_	_	6	comp:aux/m	_	AlignBegin=115382|AlignEnd=115500|GE=come|Gloss=come|nWord=5|RX=[VI]
 6	-u		AUX	_	_	_	_	_	AlignBegin=115500|AlignEnd=115617|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]
 7	kike	kike	VERB	_	_	_	_	_	AlignBegin=115617|AlignEnd=115852|GE=escape|Gloss=escape|nWord=6|RX=[VI]
-8	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=115852|AlignEnd=116087|GE=like_that|Gloss=like_that|nWord=7|RX=[ADV]
+8	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=115852|AlignEnd=116087|GE=like_that|Gloss=like_that|Lang=es|nWord=7|RX=[ADV]
 9	,		PUNCT	_	_	_	_	_	AlignBegin=116087|AlignEnd=116322|nWord=8
 10	daba	daba	NOUN	_	_	_	_	_	AlignBegin=116370|AlignEnd=117025|GE=brother|Gloss=brother|nWord=9|RX=[N]
 11	salebli	salebli	ADJ	_	_	10	mod	_	AlignBegin=117025|AlignEnd=117680|GE=different|Gloss=different|nWord=10|RX=[ADJ]
@@ -426,13 +426,13 @@
 21	che	che	PRON	_	_	22	comp	_	AlignBegin=122382|AlignEnd=122578|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=19|RX=[PRO]
 22	ole	ole	ADP	_	_	20	comp:obl	_	AlignBegin=122578|AlignEnd=122774|GE=[COM]|Gloss=COM|nWord=20|RX=[ADP]
 23	,		PUNCT	_	_	_	_	_	AlignBegin=122774|AlignEnd=122970|nWord=21
-24	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=123000|AlignEnd=123200|GE=and|Gloss=and|nWord=22|RX=[COORDCONN]
+24	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=123000|AlignEnd=123200|GE=and|Gloss=and|Lang=es|nWord=22|RX=[COORDCONN]
 25	ama	ama	ADV	_	_	_	_	_	AlignBegin=123200|AlignEnd=123400|GE=so|Gloss=so|nWord=23|RX=[ADV]
 26	cha	cha	PRON	_	_	27	subj	_	AlignBegin=123400|AlignEnd=123600|GE=[1SG]|Gloss=1SG|nWord=24|RX=[PRO]
 27	chek	chek	VERB	_	_	28	comp:aux/m	_	AlignBegin=123600|AlignEnd=123700|GE=stay|Gloss=stay|nWord=25|RX=[VI]
 28	-u		AUX	_	_	_	_	_	AlignBegin=123700|AlignEnd=123800|GE=[PST]|Gloss=-PST|nWord=25|RX=[V:ANY]
-29	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=123800|AlignEnd=124000|GE=to|Gloss=to|nWord=26|RX=[ADP]
-30	aini	aini	ADV	_	_	_	_	_	AlignBegin=124000|AlignEnd=124200|GE=here|Gloss=here|nWord=27|RX=[ADV]
+29	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=123800|AlignEnd=124000|GE=to|Gloss=to|Lang=es|nWord=26|RX=[ADP]
+30	aini	aini	ADV	_	_	29	comp	_	AlignBegin=124000|AlignEnd=124200|GE=here|Gloss=here|nWord=27|RX=[ADV]
 31	.		PUNCT	_	_	_	_	_	AlignBegin=124200|AlignEnd=124400|Gloss=.|nWord=28
 
 # sent_id = SAB-TXT-AN-00000-07_39-39
@@ -443,12 +443,12 @@
 # text = ya che me gna hoke mas .
 # text_en = I can not go again.
 # text_ortho = ya che me gna hoke mas .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=124560|AlignEnd=124946|GE=now|Gloss=now|nWord=1|RX=[ADV]
+1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=124560|AlignEnd=124946|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	che	che	PRON	_	_	5	subj	_	AlignBegin=124946|AlignEnd=125332|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
-3	me	me	PART	_	_	0	root	_	AlignBegin=125332|AlignEnd=125718|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	me	me	AUX	_	_	0	root	_	AlignBegin=125332|AlignEnd=125718|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	gna	gna	AUX	_	_	3	comp:aux	_	AlignBegin=125718|AlignEnd=126104|GE=can|Gloss=can|nWord=4|RX=[V]
 5	hoke	hoke	VERB	_	_	4	comp:aux	_	AlignBegin=126104|AlignEnd=126490|GE=go|Gloss=go|nWord=5|RX=[VI]
-6	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=126490|AlignEnd=126876|GE=more|Gloss=more|nWord=6|RX=[ADV]
+6	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=126490|AlignEnd=126876|GE=more|Gloss=more|Lang=es|nWord=6|RX=[ADV]
 7	.		PUNCT	_	_	3	punct	_	AlignBegin=126876|AlignEnd=127260|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-AN-00000-07_40-40
@@ -459,7 +459,7 @@
 # text = ya na me cheku che ali .
 # text_en = Now the others did not stay with me.
 # text_ortho = ya na me cheku che ali .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=128020|AlignEnd=128200|GE=now|Gloss=now|nWord=1|RX=[ADV]
+1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=128020|AlignEnd=128200|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	na	na	ADJ	_	_	_	_	_	AlignBegin=128200|AlignEnd=128380|GE=other|Gloss=other|nWord=2|RX=[DET]
 3	me	me	PART	_	_	_	_	_	AlignBegin=128380|AlignEnd=128560|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	chek	chek	VERB	_	_	5	comp:aux/m	_	AlignBegin=128560|AlignEnd=128650|GE=stay|Gloss=stay|nWord=4|RX=[VI]
@@ -476,7 +476,7 @@
 # text = ya che toi aini .
 # text_en = Now I live here.
 # text_ortho = ya che toi aini .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=129480|AlignEnd=129710|GE=now|Gloss=now|nWord=1|RX=[ADV]
+1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=129480|AlignEnd=129710|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	che	che	PRON	_	_	3	subj	_	AlignBegin=129710|AlignEnd=129940|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
 3	toi	toi	VERB	_	_	_	_	_	AlignBegin=129940|AlignEnd=130170|GE=live|Gloss=live|nWord=3|RX=[VI]
 4	aini	aini	ADV	_	_	3	mod:lmod	_	AlignBegin=130170|AlignEnd=130400|GE=here|Gloss=here|nWord=4|RX=[ADV]

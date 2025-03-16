@@ -53,7 +53,7 @@
 1	giska	giska	NOUN	_	_	2	comp:obj	_	AlignBegin=17355|AlignEnd=17657|GE=rope|Gloss=rope|nWord=1|RX=[N]
 2	tk	tk	VERB	_	_	3	comp:aux/m	_	AlignBegin=17657|AlignEnd=17808|GE=put|Gloss=put|nWord=2|RX=[VT]
 3	-e		AUX	_	_	0	root	_	AlignBegin=17808|AlignEnd=17959|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
-4	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=17959|AlignEnd=18261|GE=up|Gloss=up|nWord=3|RX=[ADV]
+4	ngania	ngania	ADV	_	_	2	mod:lmod	_	AlignBegin=17959|AlignEnd=18261|GE=up|Gloss=up|nWord=3|RX=[ADV]
 5	.		PUNCT	_	_	3	punct	_	AlignBegin=18261|AlignEnd=18565|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-CO-00000-09_05-05
@@ -64,7 +64,7 @@
 # text = entonces koi ne kle hokeda bdagli .
 # text_en = So the chicken dies at last.
 # text_ortho = entonces koi ne kle hokeda bdagli .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=18605|AlignEnd=18908|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=18605|AlignEnd=18908|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	koi	koi	NOUN	_	_	5	subj	_	AlignBegin=18908|AlignEnd=19211|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
 3	ne	ne	DET	_	_	2	mod	_	AlignBegin=19211|AlignEnd=19514|GE=that|Gloss=that|nWord=3|RX=[DET]
 4	kle	kle	AUX	_	_	0	root	_	AlignBegin=19514|AlignEnd=19817|GE=be|Gloss=be|nWord=4|RX=[V]
@@ -88,20 +88,20 @@
 5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=21925|AlignEnd=22052|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 6	hinkale	hinkale	ADV	_	_	_	_	_	AlignBegin=22052|AlignEnd=22305|GE=other_way|Gloss=other_way|nWord=5|RX=[ADV]
 7	,		PUNCT	_	_	_	_	_	AlignBegin=22305|AlignEnd=22560|nWord=6
-8	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=22565|AlignEnd=22846|GE=to|Gloss=to|nWord=7|RX=[ADP]
-9	que	que	X	_	Foreign=Yes	8	compound	_	AlignBegin=22846|AlignEnd=23127|GE=that|Gloss=that|nWord=8|RX=[PRO]
+8	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=22565|AlignEnd=22846|GE=to|Gloss=to|Lang=es|nWord=7|RX=[ADP]
+9	que	que	X	_	Foreign=Yes	8	compound	_	AlignBegin=22846|AlignEnd=23127|GE=that|Gloss=that|Lang=es|nWord=8|RX=[PRO]
 10	koi	koi	NOUN	_	_	11	udep:poss	_	AlignBegin=23127|AlignEnd=23408|GE=chicken|Gloss=chicken|nWord=9|RX=[N]
 11	be	be	NOUN	_	_	_	_	_	AlignBegin=23408|AlignEnd=23689|GE=blood|Gloss=blood|nWord=10|RX=[N]
 12	ne	ne	DET	_	_	11	mod	_	AlignBegin=23689|AlignEnd=23970|GE=that|Gloss=that|nWord=11|RX=[DET]
 13	tikeda	tikeda	VERB	_	_	14	comp:aux/m	_	AlignBegin=23970|AlignEnd=24110|GE=exit|Gloss=exit|nWord=12|RX=[V]
-14	-da		PART	_	_	_	_	_	AlignBegin=24110|AlignEnd=24251|GE=emph|Gloss=emph|nWord=12|RX=[VERB]
+14	-da		AUX	_	_	_	_	_	AlignBegin=24110|AlignEnd=24251|GE=emph|Gloss=emph|nWord=12|RX=[VERB]
 15	,		PUNCT	_	_	_	_	_	AlignBegin=24251|AlignEnd=24535|nWord=13
-16	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=24775|AlignEnd=24982|GE=to|Gloss=to|nWord=14|RX=[ADP]
-17	que	que	X	_	Foreign=Yes	16	compound	_	AlignBegin=24982|AlignEnd=25189|GE=that|Gloss=that|nWord=15|RX=[PRO]
+16	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=24775|AlignEnd=24982|GE=to|Gloss=to|Lang=es|nWord=14|RX=[ADP]
+17	que	que	X	_	Foreign=Yes	16	compound	_	AlignBegin=24982|AlignEnd=25189|GE=that|Gloss=that|Lang=es|nWord=15|RX=[PRO]
 18	koi	koi	NOUN	_	_	19	subj	_	AlignBegin=25189|AlignEnd=25396|GE=chicken|Gloss=chicken|nWord=16|RX=[N]
 19	chek	chek	VERB	_	_	20	comp:aux/m	_	AlignBegin=25396|AlignEnd=25500|GE=end|Gloss=end|nWord=17|RX=[VI]
 20	-e		AUX	_	_	_	_	_	AlignBegin=25500|AlignEnd=25603|GE=[THM]|Gloss=-THM|nWord=17|RX=[V:ANY]
-21	no	no	ADJ	_	_	_	_	_	AlignBegin=25603|AlignEnd=25810|GE=good|Gloss=good|nWord=18|RX=[ADJ]
+21	no	no	ADJ	_	_	19	comp:pred	_	AlignBegin=25603|AlignEnd=25810|GE=good|Gloss=good|nWord=18|RX=[ADJ]
 22	.		PUNCT	_	_	_	_	_	AlignBegin=25810|AlignEnd=26015|Gloss=.|nWord=19
 
 # sent_id = SAB-TXT-CO-00000-09_09-09
@@ -151,7 +151,7 @@
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=29916|AlignEnd=30199|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
 4	li	li	VERB	_	_	5	comp:aux/m	_	AlignBegin=30199|AlignEnd=30341|GE=cook|Gloss=cook|nWord=4|RX=[VT]
 5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=30341|AlignEnd=30482|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	arroz	arroz	NOUN	_	Foreign=Yes	7	comp	_	AlignBegin=30482|AlignEnd=30765|GE=rice|Gloss=rice|nWord=5|RX=[N]
+6	arroz	arroz	NOUN	_	Foreign=Yes	7	comp	_	AlignBegin=30482|AlignEnd=30765|GE=rice|Gloss=rice|Lang=es|nWord=5|RX=[N]
 7	ske	ske	ADP	_	_	4	comp:obl	_	AlignBegin=30765|AlignEnd=31048|GE=with|Gloss=with|nWord=6|RX=[ADP]
 8	gwa	gwa	NUM	_	_	9	clf	_	AlignBegin=31048|AlignEnd=31190|GE=cl|Gloss=cl|nWord=7|RX=[NUM]
 9	ite	ite	NUM	_	_	_	_	_	AlignBegin=31190|AlignEnd=31331|GE=one|Gloss=one|nWord=7|RX=[NUM]
@@ -167,8 +167,8 @@
 # text = para be bligda ulita no .
 # text_en = So all the food will be good.
 # text_ortho = para be bligda ulita no .
-1	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=32010|AlignEnd=32310|GE=for|Gloss=for|nWord=1|RX=[ADP]
-2	be	be	AUX	_	_	_	_	_	AlignBegin=32310|AlignEnd=32610|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
+1	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=32010|AlignEnd=32310|GE=for|Gloss=for|Lang=es|nWord=1|RX=[ADP]
+2	be	be	AUX	_	_	1	comp	_	AlignBegin=32310|AlignEnd=32610|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
 3	bligda	bligda	NOUN	_	_	_	_	_	AlignBegin=32610|AlignEnd=32910|GE=food|Gloss=food|nWord=3|RX=[N]
 4	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=32910|AlignEnd=33210|GE=all|Gloss=all|nWord=4|RX=[ADV]
 5	no	no	ADJ	_	_	_	_	_	AlignBegin=33210|AlignEnd=33510|GE=good|Gloss=good|nWord=5|RX=[ADJ]
@@ -188,7 +188,7 @@
 4	-e		AUX	_	_	2	comp:aux	_	AlignBegin=35127|AlignEnd=35286|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	chi	chi	NOUN	_	_	6	comp:aux/m	_	AlignBegin=35286|AlignEnd=35444|GE=water|Gloss=water|nWord=4|RX=[N]
 6	-a		AUX	_	_	_	_	_	AlignBegin=35444|AlignEnd=35603|GE=[POSS]|Gloss=-POSS|nWord=4|RX=[N:ANY]
-7	daitra	daitra	ADJ	_	_	_	_	_	AlignBegin=35603|AlignEnd=35920|GE=clear|Gloss=clear|nWord=5|RX=[ADJ]
+7	daitra	daitra	ADJ	_	_	5	mod	_	AlignBegin=35603|AlignEnd=35920|GE=clear|Gloss=clear|nWord=5|RX=[ADJ]
 8	,		PUNCT	_	_	_	_	_	AlignBegin=35920|AlignEnd=36235|nWord=6
 9	ama	ama	ADV	_	_	_	_	_	AlignBegin=36310|AlignEnd=36630|GE=so|Gloss=so|nWord=7|RX=[ADV]
 10	cha	cha	PRON	_	_	12	subj	_	AlignBegin=36630|AlignEnd=36950|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
@@ -207,7 +207,7 @@
 # text = pa tener bligda gnanchke no , cha kle gwagaga bate .
 # text_en = To have food taste good, I cut some onions.
 # text_ortho = pa tener bligda gnanchke no , cha kle gwagaga bate .
-1	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=40860|AlignEnd=41232|GE=to|Gloss=to|nWord=1|RX=[ADP]
+1	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=40860|AlignEnd=41232|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
 2	tener	tener	VERB	_	_	_	_	_	AlignBegin=41232|AlignEnd=41604|GE=have|Gloss=have|nWord=2|RX=[V]
 3	bligda	bligda	NOUN	_	_	4	comp:obj	_	AlignBegin=41604|AlignEnd=41976|GE=food|Gloss=food|nWord=3|RX=[N]
 4	gnanchk	gnanchk	VERB	_	_	5	comp:aux/m	_	AlignBegin=41976|AlignEnd=42162|GE=taste|Gloss=taste|nWord=4|RX=[V]
@@ -230,17 +230,17 @@
 # text_en = I put some gwani in the food. So that the food tastes good.
 # text_ortho = cha kle gwani bli tke , pa que bligda gnanchke no .
 1	cha	cha	PRON	_	_	5	subj	_	AlignBegin=45655|AlignEnd=46108|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	kle	kle	AUX	_	_	_	_	_	AlignBegin=46108|AlignEnd=46561|GE=be|Gloss=be|nWord=2|RX=[V]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=46108|AlignEnd=46561|GE=be|Gloss=be|nWord=2|RX=[V]
 3	gwani	gwani	NOUN	_	_	5	comp:obj	_	AlignBegin=46561|AlignEnd=47014|GE=herb_type|Gloss=herb_type|nWord=3|RX=[N]
 4	bli	bli	NOUN	_	_	_	_	_	AlignBegin=47014|AlignEnd=47467|GE=food|Gloss=food|nWord=4|RX=[N]
 5	tk	tk	VERB	_	_	6	comp:aux/m	_	AlignBegin=47467|AlignEnd=47693|GE=put|Gloss=put|nWord=5|RX=[VT]
 6	-e		AUX	_	_	2	comp:aux	_	AlignBegin=47693|AlignEnd=47920|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	,		PUNCT	_	_	_	_	_	AlignBegin=47920|AlignEnd=48375|nWord=6
-8	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=48520|AlignEnd=48793|GE=to|Gloss=to|nWord=7|RX=[ADP]
-9	que	que	X	_	Foreign=Yes	8	compound	_	AlignBegin=48793|AlignEnd=49066|GE=that|Gloss=that|nWord=8|RX=[PRO]
+8	para	para	SCONJ	_	Foreign=Yes	5	mod:purpose	_	AlignBegin=48520|AlignEnd=48793|GE=to|Gloss=to|Lang=es|nWord=7|RX=[ADP]
+9	que	que	X	_	Foreign=Yes	8	compound	_	AlignBegin=48793|AlignEnd=49066|GE=that|Gloss=that|Lang=es|nWord=8|RX=[PRO]
 10	bligda	bligda	NOUN	_	_	11	subj	_	AlignBegin=49066|AlignEnd=49339|GE=food|Gloss=food|nWord=9|RX=[N]
 11	gnanchk	gnanchk	VERB	_	_	12	comp:aux/m	_	AlignBegin=49339|AlignEnd=49475|GE=taste|Gloss=taste|nWord=10|RX=[V]
-12	-e		AUX	_	_	_	_	_	AlignBegin=49475|AlignEnd=49612|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
+12	-e		AUX	_	_	8	comp	_	AlignBegin=49475|AlignEnd=49612|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
 13	no	no	ADV	_	_	_	_	_	AlignBegin=49612|AlignEnd=49885|GE=well|Gloss=well|nWord=11|RX=[ADV]
 14	.		PUNCT	_	_	_	_	_	AlignBegin=49885|AlignEnd=50160|Gloss=.|nWord=12
 

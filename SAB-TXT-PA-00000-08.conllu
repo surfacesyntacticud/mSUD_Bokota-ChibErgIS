@@ -10,7 +10,7 @@
 2	dike	dike	ADP	_	_	_	_	_	AlignBegin=33425|AlignEnd=33800|GE=[INST]|Gloss=INST|nWord=2|RX=[ADP]
 3	cha	cha	PRON	_	_	6	subj	_	AlignBegin=33800|AlignEnd=34175|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
 4	kle	kle	AUX	_	_	_	_	_	AlignBegin=34175|AlignEnd=34550|GE=be|Gloss=be|nWord=4|RX=[V]
-5	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=34550|AlignEnd=34925|GE=now|Gloss=now|nWord=5|RX=[ADV]
+5	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=34550|AlignEnd=34925|GE=now|Gloss=now|Lang=es|nWord=5|RX=[ADV]
 6	chk	chk	VERB	_	_	7	comp:aux/m	_	AlignBegin=34925|AlignEnd=35113|GE=arrive|Gloss=arrive|nWord=6|RX=[VI]
 7	-e		AUX	_	_	4	comp:aux	_	AlignBegin=35113|AlignEnd=35300|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 8	aqui	aqui	ADV	_	_	_	_	_	AlignBegin=35300|AlignEnd=35675|GE=here|Gloss=here|nWord=7|RX=[ADV]

@@ -31,7 +31,7 @@
 3	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=10500|AlignEnd=10650|GE=[go].[PST]|Gloss=go|nWord=3|RX=[VI]
 4	-da	ked	AUX	_	_	_	_	_	AlignBegin=10650|AlignEnd=10950|GE=die|Gloss=-ASP|nWord=3|RX=[V]
 5	,		PUNCT	_	_	_	_	_	AlignBegin=10950|AlignEnd=11400|nWord=4
-6	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=11565|AlignEnd=11930|GE=and|Gloss=and|nWord=5|RX=[COORDCONN]
+6	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=11565|AlignEnd=11930|GE=and|Gloss=and|Lang=es|nWord=5|RX=[COORDCONN]
 7	cha	cha	PRON	_	_	8	subj	_	AlignBegin=11930|AlignEnd=12295|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
 8	chek	chek	VERB	_	_	9	comp:aux/m	_	AlignBegin=12295|AlignEnd=12477|GE=stay|Gloss=stay|nWord=7|RX=[VI]
 9	-u		AUX	_	_	_	_	_	AlignBegin=12477|AlignEnd=12660|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]
@@ -47,20 +47,20 @@
 # text = entonces ahora cha nienua chekedo nienu ko ke nama y cha mismo .
 # text_en = So now I just have my father at hand, nothing more.
 # text_ortho = entonces ahora cha nienua chekedo nienu ko ke nama y cha mismo .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=14000|AlignEnd=14485|GE=so|Gloss=so|nWord=1|RX=[ADV]
-2	ahora	ahora	ADV	_	Foreign=Yes	_	_	_	AlignBegin=14485|AlignEnd=14970|GE=now|Gloss=now|nWord=2|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=14000|AlignEnd=14485|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
+2	ahora	ahora	ADV	_	Foreign=Yes	_	_	_	AlignBegin=14485|AlignEnd=14970|GE=now|Gloss=now|Lang=es|nWord=2|RX=[ADV]
 3	cha	cha	PRON	_	_	4	udep:poss	_	AlignBegin=14970|AlignEnd=15455|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
 4	nienu	nienu	NOUN	_	_	5	comp:aux/m	_	AlignBegin=15455|AlignEnd=15697|GE=father|Gloss=father|nWord=4|RX=[N]
 5	-a		AUX	_	_	_	_	_	AlignBegin=15697|AlignEnd=15940|GE=[POSS]|Gloss=-POSS|nWord=4|RX=[N:ANY]
 6	chek	chek	VERB	_	_	7	comp:aux/m	_	AlignBegin=15940|AlignEnd=16182|GE=stay|Gloss=stay|nWord=5|RX=[VI]
-7	-edo		PART	_	_	_	_	_	AlignBegin=16182|AlignEnd=16425|GE=[PART]|Gloss=-PART|nWord=5|RX=[VERBAL_PARTICLE]
+7	-edo		AUX	_	_	_	_	_	AlignBegin=16182|AlignEnd=16425|GE=[PART]|Gloss=-PART|nWord=5|RX=[VERBAL_PARTICLE]
 8	nienu	nienu	NOUN	_	_	_	_	_	AlignBegin=16425|AlignEnd=16910|GE=father|Gloss=father|nWord=6|RX=[N]
 9	ko	ko	NOUN	_	_	10	comp	_	AlignBegin=16910|AlignEnd=17395|GE=hand|Gloss=hand|nWord=7|RX=[N]
 10	ke	ke	ADP	_	_	6	comp:obl	_	AlignBegin=17395|AlignEnd=17880|GE=[LOC]|Gloss=LOC|nWord=8|RX=[ADP]
 11	nama	nama	ADV	_	_	_	_	_	AlignBegin=17880|AlignEnd=18365|GE=no_more|Gloss=no_more|nWord=9|RX=[ADV]
-12	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=18365|AlignEnd=18850|GE=and|Gloss=and|nWord=10|RX=[COORDCONN]
+12	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=18365|AlignEnd=18850|GE=and|Gloss=and|Lang=es|nWord=10|RX=[COORDCONN]
 13	cha	cha	PRON	_	_	_	_	_	AlignBegin=18850|AlignEnd=19335|GE=[1SG]|Gloss=1SG|nWord=11|RX=[PRO]
-14	mismo	mismo	ADV	_	Foreign=Yes	_	_	_	AlignBegin=19335|AlignEnd=19820|GE=as_well|Gloss=as_well|nWord=12|RX=[ADV]
+14	mismo	mismo	ADV	_	Foreign=Yes	_	_	_	AlignBegin=19335|AlignEnd=19820|GE=as_well|Gloss=as_well|Lang=es|nWord=12|RX=[ADV]
 15	.		PUNCT	_	_	_	_	_	AlignBegin=19820|AlignEnd=20300|Gloss=.|nWord=13
 
 # sent_id = SAB-TXT-DS-00000-10_05-05
@@ -86,7 +86,7 @@
 # text_en = The people here dresses their brother corpse. The dead body is lied down, The people dresses their brother corpse, With their own clothes, So it is all clean.
 # text_ortho = ( y cha olia kle ) kwia iani kwia kle daba dra blie , kwia kwiale skwatike dwa , kwia kle daba dra blie , gnome hudade ulita , porque sera que trate ulita .
 1	(		PUNCT	_	_	_	_	_	AlignBegin=22660|AlignEnd=22951|nWord=1
-2	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=22951|AlignEnd=23242|GE=and|Gloss=and|nWord=2|RX=[COORDCONN]
+2	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=22951|AlignEnd=23242|GE=and|Gloss=and|Lang=es|nWord=2|RX=[COORDCONN]
 3	cha	cha	PRON	_	_	4	udep:poss	_	AlignBegin=23242|AlignEnd=23533|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
 4	oli	oli	NOUN	_	_	5	comp:aux/m	_	AlignBegin=23533|AlignEnd=23679|GE=descendant|Gloss=descendant|nWord=4|RX=[N]
 5	-a		AUX	_	_	_	_	_	AlignBegin=23679|AlignEnd=23824|GE=[POSS]|Gloss=-POSS|nWord=4|RX=[N:ANY]
@@ -119,9 +119,9 @@
 32	hudade	hudade	ADJ	_	_	31	mod	_	AlignBegin=30662|AlignEnd=31034|GE=old|Gloss=old|nWord=27|RX=[ADJ]
 33	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=31034|AlignEnd=31406|GE=all|Gloss=all|nWord=28|RX=[ADV]
 34	,		PUNCT	_	_	_	_	_	AlignBegin=31406|AlignEnd=31780|nWord=29
-35	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=31810|AlignEnd=32057|GE=because|Gloss=because|nWord=30|RX=[CONN]
+35	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=31810|AlignEnd=32057|GE=because|Gloss=because|Lang=es|nWord=30|RX=[CONN]
 36	sera	sera	VERB	_	_	_	_	_	AlignBegin=32057|AlignEnd=32304|GE=be|Gloss=be|nWord=31|RX=[V]
-37	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=32304|AlignEnd=32551|GE=that|Gloss=that|nWord=32|RX=[PRO]
+37	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=32304|AlignEnd=32551|GE=that|Gloss=that|Lang=es|nWord=32|RX=[PRO]
 38	trate	trate	ADJ	_	_	_	_	_	AlignBegin=32551|AlignEnd=32798|GE=clean|Gloss=clean|nWord=33|RX=[ADJ]
 39	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=32798|AlignEnd=33045|GE=all|Gloss=all|nWord=34|RX=[ADV]
 40	.		PUNCT	_	_	_	_	_	AlignBegin=33045|AlignEnd=33290|Gloss=.|nWord=35
@@ -150,7 +150,7 @@
 # text = y despues nengke uswiali ( daba salebli ) cha hoke iani daba salebli no ole iani , ata cha kle hoke iani dui dike .
 # text_en = And then, today, before, I go there with a friend, there, Until I arrive there on the dirt.
 # text_ortho = y despues nengke uswiali ( daba salebli ) cha hoke iani daba salebli no ole iani , ata cha kle hoke iani dui dike .
-1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=36170|AlignEnd=36467|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=36170|AlignEnd=36467|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
 2	despues	despues	ADV	_	_	_	_	_	AlignBegin=36467|AlignEnd=36764|GE=then|Gloss=then|nWord=2|RX=[ADV]
 3	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=36764|AlignEnd=37061|GE=today|Gloss=today|nWord=3|RX=[ADV]
 4	uswiali	uswiali	ADV	_	_	_	_	_	AlignBegin=37061|AlignEnd=37358|GE=before|Gloss=before|nWord=4|RX=[ADV]
@@ -163,11 +163,11 @@
 11	iani	iani	ADV	_	_	10	mod:lmod	_	AlignBegin=39140|AlignEnd=39437|GE=there|Gloss=there|nWord=11|RX=[ADV]
 12	daba	daba	NOUN	_	_	_	_	_	AlignBegin=39437|AlignEnd=39734|GE=brother|Gloss=brother|nWord=12|RX=[N]
 13	salebli	salebli	ADJ	_	_	12	mod	_	AlignBegin=39734|AlignEnd=40031|GE=different|Gloss=different|nWord=13|RX=[ADJ]
-14	no	no	NOMPRT	_	_	_	_	_	AlignBegin=40031|AlignEnd=40328|GE=[FOC]|Gloss=FOC|nWord=14|RX=[NOMPRT]
+14	no	no	AUX	_	_	_	_	_	AlignBegin=40031|AlignEnd=40328|GE=[FOC]|Gloss=FOC|nWord=14|RX=[NOMPRT]
 15	ole	ole	ADP	_	_	10	comp:obl	_	AlignBegin=40328|AlignEnd=40625|GE=[COM]|Gloss=COM|nWord=15|RX=[ADP]
 16	iani	iani	ADV	_	_	_	_	_	AlignBegin=40625|AlignEnd=40922|GE=there|Gloss=there|nWord=16|RX=[ADV]
 17	,		PUNCT	_	_	_	_	_	AlignBegin=40922|AlignEnd=41215|nWord=17
-18	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=41427|AlignEnd=41658|GE=to|Gloss=to|nWord=18|RX=[ADP]
+18	hasta	hasta	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=41427|AlignEnd=41658|GE=to|Gloss=to|Lang=es|nWord=18|RX=[ADP]
 19	cha	cha	PRON	_	_	21	subj	_	AlignBegin=41658|AlignEnd=41889|GE=[1SG]|Gloss=1SG|nWord=19|RX=[PRO]
 20	kle	kle	AUX	_	_	_	_	_	AlignBegin=41889|AlignEnd=42120|GE=be|Gloss=be|nWord=20|RX=[V]
 21	hoke	hoke	VERB	_	_	20	comp:aux	_	AlignBegin=42120|AlignEnd=42351|GE=go|Gloss=go|nWord=21|RX=[VI]
@@ -200,7 +200,7 @@
 # text = y cha kle chieni , cha kle chkeni gude .
 # text_en = And I come back. I come back in the house.
 # text_ortho = y cha kle chieni , cha kle chkeni gude .
-1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=45527|AlignEnd=45759|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=45527|AlignEnd=45759|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
 2	cha	cha	PRON	_	_	4	subj	_	AlignBegin=45759|AlignEnd=45991|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	kle	kle	AUX	_	_	_	_	_	AlignBegin=45991|AlignEnd=46223|GE=be|Gloss=be|nWord=3|RX=[V]
 4	chi	chi	VERB	_	_	5	comp:aux	_	AlignBegin=46223|AlignEnd=46300|GE=come|Gloss=come|nWord=4|RX=[VI]

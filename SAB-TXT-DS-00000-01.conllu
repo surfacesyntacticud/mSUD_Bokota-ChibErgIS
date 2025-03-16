@@ -61,7 +61,7 @@
 # text_ortho = sainkuli tiengda onia dra dwa dike .
 1	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=30680|AlignEnd=31183|GE=forbidden|Gloss=forbidden|nWord=1|RX=[ADV]
 2	tieng	tieng	VERB	_	_	3	comp:aux/m	_	AlignBegin=31183|AlignEnd=31435|GE=[see].[NPST]|Gloss=see.NPST|nWord=2|RX=[V]
-3	-da		PART	_	_	_	_	_	AlignBegin=31435|AlignEnd=31686|GE=emph|Gloss=emph|nWord=2|RX=[VERB]
+3	-da		AUX	_	_	_	_	_	AlignBegin=31435|AlignEnd=31686|GE=emph|Gloss=emph|nWord=2|RX=[VERB]
 4	onia	onia	NOUN	_	_	_	_	_	AlignBegin=31686|AlignEnd=32189|GE=soul|Gloss=soul|nWord=3|RX=[N]
 5	dra	dra	NOUN	_	_	_	_	_	AlignBegin=32189|AlignEnd=32692|GE=corpse|Gloss=corpse|nWord=4|RX=[N]
 6	dwa	dwa	ADV	_	_	_	_	_	AlignBegin=32692|AlignEnd=33195|GE=down|Gloss=down|nWord=5|RX=[ADV]
@@ -101,7 +101,7 @@
 # text = y daba salebli na oli che oli ese chekebale .
 # text_en = And another orphan stay with the orphan.
 # text_ortho = y daba salebli na oli che oli ese chekebale .
-1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=41520|AlignEnd=42033|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=41520|AlignEnd=42033|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
 2	daba	daba	NOUN	_	_	_	_	_	AlignBegin=42033|AlignEnd=42546|GE=brother|Gloss=brother|nWord=2|RX=[N]
 3	salebli	salebli	ADJ	_	_	2	mod	_	AlignBegin=42546|AlignEnd=43059|GE=different|Gloss=different|nWord=3|RX=[ADJ]
 4	na	na	ADJ	_	_	_	_	_	AlignBegin=43059|AlignEnd=43572|GE=other|Gloss=other|nWord=4|RX=[DET]
@@ -168,7 +168,7 @@
 31	,		PUNCT	_	_	_	_	_	AlignBegin=59730|AlignEnd=60015|nWord=27
 32	tieng	tieng	VERB	_	_	_	_	_	AlignBegin=60250|AlignEnd=60848|GE=[see].[NPST]|Gloss=see.NPST|nWord=28|RX=[V]
 33	die	die	NOUN	_	_	_	_	_	AlignBegin=60848|AlignEnd=61446|GE=thing|Gloss=thing|nWord=29|RX=[N]
-34	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=61446|AlignEnd=62044|GE=be|Gloss=be|nWord=30|RX=[V]
+34	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=61446|AlignEnd=62044|GE=be|Gloss=be|Lang=es|nWord=30|RX=[V]
 35	nengke	nengke	ADV	_	_	34	comp:pred	_	AlignBegin=62044|AlignEnd=62642|GE=today|Gloss=today|nWord=31|RX=[ADV]
 36	hong	hong	NOUN	_	_	37	comp	_	AlignBegin=62642|AlignEnd=63240|GE=path|Gloss=path|nWord=32|RX=[N]
 37	ke	ke	ADP	_	_	34	comp:obl	_	AlignBegin=63240|AlignEnd=63838|GE=[LOC]|Gloss=LOC|nWord=33|RX=[ADP]
@@ -236,19 +236,19 @@
 # text_ortho = oli gatalenga , oli gatalenga , ata dai ta nengke .
 1	oli	oli	NOUN	_	_	_	_	_	AlignBegin=75190|AlignEnd=75640|GE=orphan|Gloss=orphan|nWord=1|RX=[N]
 2	gat	gat	VERB	_	_	3	comp:aux/m	_	AlignBegin=75640|AlignEnd=75752|GE=close|Gloss=close|nWord=2|RX=[V]
-3	-a		X	_	_	4	comp:aux/m	_	AlignBegin=75752|AlignEnd=75864|GE=[0]|Gloss=-0|nWord=2|RX=[VERB]
+3	-a		AUX	_	_	4	comp:aux/m	_	AlignBegin=75752|AlignEnd=75864|GE=[0]|Gloss=-0|nWord=2|RX=[VERB]
 4	-le		AUX	_	_	5	comp:aux/m	_	AlignBegin=75864|AlignEnd=75976|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
 5	-nga		AUX	_	_	_	_	_	AlignBegin=75976|AlignEnd=76090|GE=[SUB]|Gloss=-SUB|nWord=2|RX=[V:ANY]
 6	,		PUNCT	_	_	_	_	_	AlignBegin=76090|AlignEnd=76540|nWord=3
 7	oli	oli	NOUN	_	_	_	_	_	AlignBegin=76595|AlignEnd=77032|GE=orphan|Gloss=orphan|nWord=4|RX=[N]
 8	gat	gat	VERB	_	_	9	comp:aux/m	_	AlignBegin=77032|AlignEnd=77141|GE=close|Gloss=close|nWord=5|RX=[V]
-9	-a		X	_	_	10	comp:aux/m	_	AlignBegin=77141|AlignEnd=77250|GE=[0]|Gloss=-0|nWord=5|RX=[VERB]
+9	-a		AUX	_	_	10	comp:aux/m	_	AlignBegin=77141|AlignEnd=77250|GE=[0]|Gloss=-0|nWord=5|RX=[VERB]
 10	-le		AUX	_	_	11	comp:aux/m	_	AlignBegin=77250|AlignEnd=77359|GE=[ADJZ]|Gloss=-ADJZ|nWord=5|RX=[N>ADJ]
 11	-nga		AUX	_	_	_	_	_	AlignBegin=77359|AlignEnd=77469|GE=[SUB]|Gloss=-SUB|nWord=5|RX=[V:ANY]
 12	,		PUNCT	_	_	_	_	_	AlignBegin=77469|AlignEnd=77905|nWord=6
-13	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=78345|AlignEnd=78763|GE=to|Gloss=to|nWord=7|RX=[ADP]
+13	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=78345|AlignEnd=78763|GE=to|Gloss=to|Lang=es|nWord=7|RX=[ADP]
 14	dai	dai	NOUN	_	_	15	subj	_	AlignBegin=78763|AlignEnd=79181|GE=moon|Gloss=moon|nWord=8|RX=[N]
-15	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=79181|AlignEnd=79599|GE=be|Gloss=be|nWord=9|RX=[V]
+15	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=79181|AlignEnd=79599|GE=be|Gloss=be|Lang=es|nWord=9|RX=[V]
 16	nengke	nengke	ADV	_	_	15	comp:pred	_	AlignBegin=79599|AlignEnd=80017|GE=today|Gloss=today|nWord=10|RX=[ADV]
 17	.		PUNCT	_	_	_	_	_	AlignBegin=80017|AlignEnd=80435|Gloss=.|nWord=11
 
@@ -262,7 +262,7 @@
 # text_ortho = che oli me gna dieboi .
 1	che	che	PRON	_	_	2	udep:poss	_	AlignBegin=80925|AlignEnd=81348|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	oli	oli	NOUN	_	_	5	subj	_	AlignBegin=81348|AlignEnd=81771|GE=orphan|Gloss=orphan|nWord=2|RX=[N]
-3	me	me	PART	_	_	0	root	_	AlignBegin=81771|AlignEnd=82194|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	me	me	AUX	_	_	0	root	_	AlignBegin=81771|AlignEnd=82194|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	gna	gna	AUX	_	_	3	comp:aux	_	AlignBegin=82194|AlignEnd=82617|GE=can|Gloss=can|nWord=4|RX=[V]
 5	dieboi	dieboi	VERB	_	_	4	comp:aux	_	AlignBegin=82617|AlignEnd=83040|GE=work|Gloss=work|nWord=5|RX=[V]
 6	.		PUNCT	_	_	3	punct	_	AlignBegin=83040|AlignEnd=83465|Gloss=.|nWord=6
@@ -277,7 +277,7 @@
 # text_ortho = che oli me gna hoke ngabuoka ke .
 1	che	che	PRON	_	_	2	udep:poss	_	AlignBegin=83560|AlignEnd=84112|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	oli	oli	NOUN	_	_	5	subj	_	AlignBegin=84112|AlignEnd=84664|GE=orphan|Gloss=orphan|nWord=2|RX=[N]
-3	me	me	PART	_	_	0	root	_	AlignBegin=84664|AlignEnd=85216|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	me	me	AUX	_	_	0	root	_	AlignBegin=84664|AlignEnd=85216|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	gna	gna	AUX	_	_	3	comp:aux	_	AlignBegin=85216|AlignEnd=85768|GE=can|Gloss=can|nWord=4|RX=[V]
 5	hoke	hoke	VERB	_	_	4	comp:aux	_	AlignBegin=85768|AlignEnd=86320|GE=go|Gloss=go|nWord=5|RX=[VI]
 6	ngabuoka	ngabuoka	ADV	_	_	7	comp	_	AlignBegin=86320|AlignEnd=86872|GE=out_in_the_air|Gloss=out_in_the_air|nWord=6|RX=[ADV]
@@ -310,13 +310,13 @@
 16	trate	trate	ADJ	_	_	_	_	_	AlignBegin=95538|AlignEnd=96206|GE=clean|Gloss=clean|nWord=13|RX=[ADJ]
 17	hegwale	hegwale	ADP	_	_	_	_	_	AlignBegin=96206|AlignEnd=96874|GE=next_to|Gloss=next_to|nWord=14|RX=[ADP]
 18	,		PUNCT	_	_	_	_	_	AlignBegin=96874|AlignEnd=97540|nWord=15
-19	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=97560|AlignEnd=97908|GE=to|Gloss=to|nWord=16|RX=[ADP]
-20	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=97908|AlignEnd=98256|GE=that|Gloss=that|nWord=17|RX=[PRO]
+19	hasta	hasta	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=97560|AlignEnd=97908|GE=to|Gloss=to|Lang=es|nWord=16|RX=[ADP]
+20	que	que	X	_	Foreign=Yes	19	compound	_	AlignBegin=97908|AlignEnd=98256|GE=that|Gloss=that|Lang=es|nWord=17|RX=[PRO]
 21	chui	chui	NOUN	_	_	_	_	_	AlignBegin=98256|AlignEnd=98604|GE=sun|Gloss=sun|nWord=18|RX=[N]
-22	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=98604|AlignEnd=98952|GE=be|Gloss=be|nWord=19|RX=[V]
+22	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=98604|AlignEnd=98952|GE=be|Gloss=be|Lang=es|nWord=19|RX=[V]
 23	ne	ne	DET	_	_	_	_	_	AlignBegin=98952|AlignEnd=99300|GE=that|Gloss=that|nWord=20|RX=[DET]
 24	dai	dai	NOUN	_	_	_	_	_	AlignBegin=99300|AlignEnd=99648|GE=moon|Gloss=moon|nWord=21|RX=[N]
-25	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=99648|AlignEnd=99996|GE=be|Gloss=be|nWord=22|RX=[V]
+25	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=99648|AlignEnd=99996|GE=be|Gloss=be|Lang=es|nWord=22|RX=[V]
 26	ne	ne	DET	_	_	_	_	_	AlignBegin=99996|AlignEnd=100344|GE=that|Gloss=that|nWord=23|RX=[DET]
 27	be	be	AUX	_	_	_	_	_	AlignBegin=100344|AlignEnd=100692|GE=[FUT]|Gloss=FUT|nWord=24|RX=[VERBPRT]
 28	chk	chk	VERB	_	_	29	comp:aux	_	AlignBegin=100692|AlignEnd=100866|GE=arrive|Gloss=arrive|nWord=25|RX=[VI]
@@ -332,12 +332,12 @@
 # text = entonces ya che me gna ...
 # text_en = So now he can't...
 # text_ortho = entonces ya che me gna ...
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=101740|AlignEnd=102082|GE=so|Gloss=so|nWord=1|RX=[ADV]
-2	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=102082|AlignEnd=102424|GE=now|Gloss=now|nWord=2|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=101740|AlignEnd=102082|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
+2	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=102082|AlignEnd=102424|GE=now|Gloss=now|Lang=es|nWord=2|RX=[ADV]
 3	che	che	PRON	_	_	_	_	_	AlignBegin=102424|AlignEnd=102766|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
-4	me	me	PART	_	_	_	_	_	AlignBegin=102766|AlignEnd=103108|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
+4	me	me	AUX	_	_	_	_	_	AlignBegin=102766|AlignEnd=103108|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
 5	gna	gna	AUX	_	_	4	comp:aux	_	AlignBegin=103108|AlignEnd=103450|GE=can|Gloss=can|nWord=5|RX=[V]
-6	...		_	_	_	_	_	_	AlignBegin=103450|AlignEnd=103790|nWord=6
+6	...		PUNCT	_	_	_	_	_	AlignBegin=103450|AlignEnd=103790|nWord=6
 
 # sent_id = SAB-TXT-DS-00000-01_30-30
 # speaker_id = @01
@@ -351,7 +351,7 @@
 2	chek	chek	VERB	_	_	3	comp:aux/m	_	AlignBegin=104070|AlignEnd=104175|GE=stay|Gloss=stay|nWord=2|RX=[VI]
 3	-e		AUX	_	_	_	_	_	AlignBegin=104175|AlignEnd=104280|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
 4	obe	obe	VERB	_	_	_	_	_	AlignBegin=104280|AlignEnd=104490|GE=bath|Gloss=bath|nWord=3|RX=[VI]
-5	nwale	nwale	ADJ	_	_	_	_	_	AlignBegin=104490|AlignEnd=104700|GE=beautiful|Gloss=beautiful|nWord=4|RX=[ADJ]
+5	nwale	nwale	ADJ	_	_	4	comp:pred	_	AlignBegin=104490|AlignEnd=104700|GE=beautiful|Gloss=beautiful|nWord=4|RX=[ADJ]
 6	che	che	PRON	_	_	8	subj	_	AlignBegin=104700|AlignEnd=104910|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=5|RX=[PRO]
 7	gna	gna	AUX	_	_	_	_	_	AlignBegin=104910|AlignEnd=105120|GE=can|Gloss=can|nWord=6|RX=[V]
 8	hoke	hoke	VERB	_	_	7	comp:aux	_	AlignBegin=105120|AlignEnd=105330|GE=go|Gloss=go|nWord=7|RX=[VI]
@@ -366,7 +366,7 @@
 # text_en = Why is it forbidden ?
 # text_ortho = sainkuli porque
 1	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=106250|AlignEnd=106567|GE=forbidden|Gloss=forbidden|nWord=1|RX=[ADV]
-2	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=106567|AlignEnd=106884|GE=because|Gloss=because|nWord=2|RX=[CONN]
+2	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=106567|AlignEnd=106884|GE=because|Gloss=because|Lang=es|nWord=2|RX=[CONN]
 
 # sent_id = SAB-TXT-DS-00000-01_32-32
 # speaker_id = @01
@@ -437,18 +437,18 @@
 # text = si die kle rite nante , ta ne giti ata che kle samla hue nante , blikaia che kle nga gai .
 # text_en = If an enemy is hunting for human, It will do until it finds the meat. Soon it will pick up the whole village.
 # text_ortho = si die kle rite nante , ta ne giti ata che kle samla hue nante , blikaia che kle nga gai .
-1	si	si	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=120850|AlignEnd=121080|GE=if|Gloss=if|nWord=1|RX=[CONN]
+1	si	si	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=120850|AlignEnd=121080|GE=if|Gloss=if|Lang=es|nWord=1|RX=[CONN]
 2	die	die	NOUN	_	_	4	subj	_	AlignBegin=121080|AlignEnd=121310|GE=thing|Gloss=thing|nWord=2|RX=[N]
 3	kle	kle	AUX	_	_	_	_	_	AlignBegin=121310|AlignEnd=121540|GE=be|Gloss=be|nWord=3|RX=[V]
 4	rite	rite	VERB	_	_	3	comp:aux	_	AlignBegin=121540|AlignEnd=121770|GE=track|Gloss=track|nWord=4|RX=[V]
 5	nante	nante	ADP	_	_	_	_	_	AlignBegin=121770|AlignEnd=122000|GE=directional|Gloss=directional|nWord=5|RX=[ADP]
 6	,		PUNCT	_	_	_	_	_	AlignBegin=122000|AlignEnd=122230|nWord=6
-7	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=122235|AlignEnd=122443|GE=be|Gloss=be|nWord=7|RX=[V]
+7	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=122235|AlignEnd=122443|GE=be|Gloss=be|Lang=es|nWord=7|RX=[V]
 8	ne	ne	DET	_	_	_	_	_	AlignBegin=122443|AlignEnd=122651|GE=that|Gloss=that|nWord=8|RX=[DET]
 9	giti	giti	ADP	_	_	_	_	_	AlignBegin=122651|AlignEnd=122859|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
-10	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=122859|AlignEnd=123067|GE=to|Gloss=to|nWord=10|RX=[ADP]
+10	hasta	hasta	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=122859|AlignEnd=123067|GE=to|Gloss=to|Lang=es|nWord=10|RX=[ADP]
 11	che	che	PRON	_	_	14	subj	_	AlignBegin=123067|AlignEnd=123275|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=11|RX=[PRO]
-12	kle	kle	AUX	_	_	_	_	_	AlignBegin=123275|AlignEnd=123483|GE=be|Gloss=be|nWord=12|RX=[V]
+12	kle	kle	AUX	_	_	10	comp	_	AlignBegin=123275|AlignEnd=123483|GE=be|Gloss=be|nWord=12|RX=[V]
 13	samla	samla	NOUN	_	_	14	comp:obj	_	AlignBegin=123483|AlignEnd=123691|GE=meat|Gloss=meat|nWord=13|RX=[N]
 14	hue	hue	VERB	_	_	12	comp:aux	_	AlignBegin=123691|AlignEnd=123899|GE=[find].[NPST]|Gloss=find.NPST|nWord=14|RX=[VT]
 15	nante	nante	ADP	_	_	_	_	_	AlignBegin=123899|AlignEnd=124107|GE=directional|Gloss=directional|nWord=15|RX=[ADP]
@@ -468,7 +468,7 @@
 # text = asi che doia boi che ai ole .
 # text_en = This is how the enemy does with us.
 # text_ortho = asi che doia boi che ai ole .
-1	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=126435|AlignEnd=126779|GE=like_that|Gloss=like_that|nWord=1|RX=[ADV]
+1	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=126435|AlignEnd=126779|GE=like_that|Gloss=like_that|Lang=es|nWord=1|RX=[ADV]
 2	che	che	PRON	_	_	3	udep:poss	_	AlignBegin=126779|AlignEnd=127123|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
 3	doia	doia	NOUN	_	_	4	subj	_	AlignBegin=127123|AlignEnd=127467|GE=enemy|Gloss=enemy|nWord=3|RX=[N]
 4	boi	boi	VERB	_	_	0	root	_	AlignBegin=127467|AlignEnd=127811|GE=do|Gloss=do|nWord=4|RX=[V]
@@ -505,7 +505,7 @@
 18	ga	gai	VERB	_	_	19	comp:aux/m	_	AlignBegin=138564|AlignEnd=138960|GE=pick_up|Gloss=pick_up|nWord=17|RX=[VT]
 19	-le		AUX	_	_	_	_	_	AlignBegin=138960|AlignEnd=139356|GE=[ADJZ]|Gloss=-ADJZ|nWord=17|RX=[N>ADJ]
 20	kote	kote	ADV	_	_	_	_	_	AlignBegin=139356|AlignEnd=140148|GE=in_hand|Gloss=in_hand|nWord=18|RX=[ADV]
-21	...		_	_	_	_	_	_	AlignBegin=140148|AlignEnd=140940|nWord=19
+21	...		PUNCT	_	_	_	_	_	AlignBegin=140148|AlignEnd=140940|nWord=19
 
 # sent_id = SAB-TXT-DS-00000-01_43-47
 # speaker_id = @01
@@ -549,7 +549,7 @@
 32	-le		AUX	_	_	33	comp:aux/m	_	AlignBegin=152621|AlignEnd=152709|GE=[ADJZ]|Gloss=-ADJZ|nWord=26|RX=[N>ADJ]
 33	-nga		AUX	_	_	_	_	_	AlignBegin=152709|AlignEnd=152795|GE=[SUB]|Gloss=-SUB|nWord=26|RX=[V:ANY]
 34	,		PUNCT	_	_	_	_	_	AlignBegin=152795|AlignEnd=153145|nWord=27
-35	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=153165|AlignEnd=153455|GE=and|Gloss=and|nWord=28|RX=[COORDCONN]
+35	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=153165|AlignEnd=153455|GE=and|Gloss=and|Lang=es|nWord=28|RX=[COORDCONN]
 36	gliga	gliga	NOUN	_	_	_	_	_	AlignBegin=153455|AlignEnd=153745|GE=plant_type|Gloss=plant_type|nWord=29|RX=[N]
 37	na	na	ADJ	_	_	36	mod	_	AlignBegin=153745|AlignEnd=154035|GE=other|Gloss=other|nWord=30|RX=[DET]
 38	hu	hue	VERB	_	_	39	comp:aux/m	_	AlignBegin=154035|AlignEnd=154132|GE=[find].[PST]|Gloss=find.PST|nWord=31|RX=[VT]
@@ -611,7 +611,7 @@
 16	,		PUNCT	_	_	_	_	_	AlignBegin=162622|AlignEnd=162910|nWord=13
 17	che	che	PRON	_	_	18	subj	_	AlignBegin=162910|AlignEnd=163310|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=14|RX=[PRO]
 18	gut	gut	VERB	_	_	19	comp:aux/m	_	AlignBegin=163310|AlignEnd=163443|GE=eat|Gloss=eat|nWord=15|RX=[VT]
-19	-a		X	_	_	20	comp:aux/m	_	AlignBegin=163443|AlignEnd=163576|GE=[0]|Gloss=-0|nWord=15|RX=[VERB]
+19	-a		AUX	_	_	20	comp:aux/m	_	AlignBegin=163443|AlignEnd=163576|GE=[0]|Gloss=-0|nWord=15|RX=[VERB]
 20	-nga		AUX	_	_	21	subj	_	AlignBegin=163576|AlignEnd=163710|GE=[SUB]|Gloss=-SUB|nWord=15|RX=[V:ANY]
 21	gwak	gwak	VERB	_	_	22	comp:aux/m	_	AlignBegin=163710|AlignEnd=163910|GE=see|Gloss=see|nWord=16|RX=[V]
 22	-e		AUX	_	_	_	_	_	AlignBegin=163910|AlignEnd=164110|GE=[THM]|Gloss=-THM|nWord=16|RX=[V:ANY]
@@ -637,22 +637,22 @@
 # text = sainkuli cho gute , sainkuli ata chui ta ne be chkenga , entonces che be blide , kwaite ali gute .
 # text_en = It is forbidden to eat salt, It is forbidden until the day of the death comes back, Then we will eat, (We) will eat together.
 # text_ortho = sainkuli cho gute , sainkuli ata chui ta ne be chkenga , entonces che be blide , kwaite ali gute .
-1	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=168915|AlignEnd=169537|GE=forbidden|Gloss=forbidden|nWord=1|RX=[ADV]
+1	sainkuli	sainkuli	ADV	_	_	0	root	_	AlignBegin=168915|AlignEnd=169537|GE=forbidden|Gloss=forbidden|nWord=1|RX=[ADV]
 2	cho	cho	NOUN	_	_	3	comp:obj	_	AlignBegin=169537|AlignEnd=170159|GE=salt|Gloss=salt|nWord=2|RX=[N]
 3	gut	gut	VERB	_	_	4	comp:aux/m	_	AlignBegin=170159|AlignEnd=170470|GE=eat|Gloss=eat|nWord=3|RX=[VT]
-4	-e		AUX	_	_	_	_	_	AlignBegin=170470|AlignEnd=170781|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+4	-e		AUX	_	_	1	subj	_	AlignBegin=170470|AlignEnd=170781|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	,		PUNCT	_	_	_	_	_	AlignBegin=170781|AlignEnd=171405|nWord=4
-6	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=171415|AlignEnd=171799|GE=forbidden|Gloss=forbidden|nWord=5|RX=[ADV]
-7	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=171799|AlignEnd=172183|GE=to|Gloss=to|nWord=6|RX=[ADP]
+6	sainkuli	sainkuli	ADV	_	_	1	parataxis	_	AlignBegin=171415|AlignEnd=171799|GE=forbidden|Gloss=forbidden|nWord=5|RX=[ADV]
+7	hasta	hasta	SCONJ	_	Foreign=Yes	6	mod:tmod	_	AlignBegin=171799|AlignEnd=172183|GE=to|Gloss=to|Lang=es|nWord=6|RX=[ADP]
 8	chui	chui	NOUN	_	_	_	_	_	AlignBegin=172183|AlignEnd=172567|GE=sun|Gloss=sun|nWord=7|RX=[N]
-9	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=172567|AlignEnd=172951|GE=be|Gloss=be|nWord=8|RX=[V]
+9	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=172567|AlignEnd=172951|GE=be|Gloss=be|Lang=es|nWord=8|RX=[V]
 10	ne	ne	DET	_	_	_	_	_	AlignBegin=172951|AlignEnd=173335|GE=that|Gloss=that|nWord=9|RX=[DET]
-11	be	be	AUX	_	_	_	_	_	AlignBegin=173335|AlignEnd=173719|GE=[FUT]|Gloss=FUT|nWord=10|RX=[VERBPRT]
+11	be	be	AUX	_	_	7	comp	_	AlignBegin=173335|AlignEnd=173719|GE=[FUT]|Gloss=FUT|nWord=10|RX=[VERBPRT]
 12	chk	chk	VERB	_	_	13	comp:aux	_	AlignBegin=173719|AlignEnd=173847|GE=arrive|Gloss=arrive|nWord=11|RX=[VI]
 13	-e		AUX	_	_	14	comp:aux	_	AlignBegin=173847|AlignEnd=173975|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
 14	-nga		AUX	_	_	11	comp:aux	_	AlignBegin=173975|AlignEnd=174103|GE=[SUB]|Gloss=-SUB|nWord=11|RX=[V:ANY]
 15	,		PUNCT	_	_	_	_	_	AlignBegin=174103|AlignEnd=174485|nWord=12
-16	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=174680|AlignEnd=175108|GE=so|Gloss=so|nWord=13|RX=[ADV]
+16	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=174680|AlignEnd=175108|GE=so|Gloss=so|Lang=es|nWord=13|RX=[ADV]
 17	che	che	PRON	_	_	19	subj	_	AlignBegin=175108|AlignEnd=175536|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=14|RX=[PRO]
 18	be	be	AUX	_	_	_	_	_	AlignBegin=175536|AlignEnd=175964|GE=[FUT]|Gloss=FUT|nWord=15|RX=[VERBPRT]
 19	blid	blid	VERB	_	_	20	comp:aux	_	AlignBegin=175964|AlignEnd=176178|GE=eat|Gloss=eat|nWord=16|RX=[VI]

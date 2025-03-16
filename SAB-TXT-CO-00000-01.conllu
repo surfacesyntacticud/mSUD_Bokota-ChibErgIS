@@ -42,9 +42,9 @@
 1	koi	koi	NOUN	_	_	2	subj@pass	_	AlignBegin=24960|AlignEnd=25282|GE=chicken|Gloss=chicken|nWord=1|RX=[N]
 2	hu	hue	VERB	_	_	3	comp:aux/m	_	AlignBegin=25282|AlignEnd=25389|GE=[find].[PST]|Gloss=find.PST|nWord=2|RX=[VT]
 3	-a		AUX	_	_	4	comp:aux/m	_	AlignBegin=25389|AlignEnd=25496|GE=[PASS]|Gloss=-PASS|nWord=2|RX=[V:ANY]
-4	-le		AUX	_	_	_	_	_	AlignBegin=25496|AlignEnd=25604|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
-5	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=25604|AlignEnd=25926|GE=up|Gloss=up|nWord=3|RX=[ADV]
-6	.		PUNCT	_	_	_	_	_	AlignBegin=25926|AlignEnd=26250|Gloss=.|nWord=4
+4	-le		AUX	_	_	0	root	_	AlignBegin=25496|AlignEnd=25604|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
+5	ngania	ngania	ADV	_	_	2	mod:lmod	_	AlignBegin=25604|AlignEnd=25926|GE=up|Gloss=up|nWord=3|RX=[ADV]
+6	.		PUNCT	_	_	4	punct	_	AlignBegin=25926|AlignEnd=26250|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-CO-00000-01_04-06
 # speaker_id = @01

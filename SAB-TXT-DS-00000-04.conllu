@@ -62,21 +62,21 @@
 # text_ortho = kiro oli me gna chage chui nwang ke , me gna beu chra tieng ke , me gna obe chi ske sainkuli .
 1	kiro	kiro	NOUN	_	_	5	subj	_	AlignBegin=21148|AlignEnd=21394|GE=child|Gloss=child|nWord=1|RX=[N]
 2	oli	oli	NOUN	_	_	1	mod	_	AlignBegin=21394|AlignEnd=21640|GE=orphan|Gloss=orphan|nWord=2|RX=[N]
-3	me	me	PART	_	_	_	_	_	AlignBegin=21640|AlignEnd=21886|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	me	me	AUX	_	_	_	_	_	AlignBegin=21640|AlignEnd=21886|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	gna	gna	AUX	_	_	3	comp:aux	_	AlignBegin=21886|AlignEnd=22132|GE=can|Gloss=can|nWord=4|RX=[V]
 5	chage	chage	VERB	_	_	4	comp:aux	_	AlignBegin=22132|AlignEnd=22378|GE=walk|Gloss=walk|nWord=5|RX=[VI]
 6	chui	chui	NOUN	_	_	_	_	_	AlignBegin=22378|AlignEnd=22624|GE=sun|Gloss=sun|nWord=6|RX=[N]
 7	nwang	nwang	NOUN	_	_	8	comp	_	AlignBegin=22624|AlignEnd=22870|GE=heat|Gloss=heat|nWord=7|RX=[N]
 8	ke	ke	ADP	_	_	5	comp:obl	_	AlignBegin=22870|AlignEnd=23116|GE=[LOC]|Gloss=LOC|nWord=8|RX=[ADP]
 9	,		PUNCT	_	_	_	_	_	AlignBegin=23116|AlignEnd=23358|nWord=9
-10	me	me	PART	_	_	_	_	_	AlignBegin=23418|AlignEnd=23659|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]
+10	me	me	AUX	_	_	_	_	_	AlignBegin=23418|AlignEnd=23659|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]
 11	gna	gna	AUX	_	_	10	comp:aux	_	AlignBegin=23659|AlignEnd=23900|GE=can|Gloss=can|nWord=11|RX=[V]
 12	beu	beu	NOUN	_	_	_	_	_	AlignBegin=23900|AlignEnd=24141|GE=star|Gloss=star|nWord=12|RX=[N]
 13	chra	chra	NOUN	_	_	_	_	_	AlignBegin=24141|AlignEnd=24382|GE=light|Gloss=light|nWord=13|RX=[N]
 14	tieng	tieng	VERB	_	_	11	comp:aux	_	AlignBegin=24382|AlignEnd=24623|GE=[see].[NPST]|Gloss=see.NPST|nWord=14|RX=[V]
 15	ke	ke	ADP	_	_	_	_	_	AlignBegin=24623|AlignEnd=24864|GE=[LOC]|Gloss=LOC|nWord=15|RX=[ADP]
 16	,		PUNCT	_	_	_	_	_	AlignBegin=24864|AlignEnd=25108|nWord=16
-17	me	me	PART	_	_	_	_	_	AlignBegin=25348|AlignEnd=25652|GE=[NEG]|Gloss=NEG|nWord=17|RX=[VERBPRT]
+17	me	me	AUX	_	_	_	_	_	AlignBegin=25348|AlignEnd=25652|GE=[NEG]|Gloss=NEG|nWord=17|RX=[VERBPRT]
 18	gna	gna	AUX	_	_	17	comp:aux	_	AlignBegin=25652|AlignEnd=25956|GE=can|Gloss=can|nWord=18|RX=[V]
 19	obe	obe	VERB	_	_	18	comp:aux	_	AlignBegin=25956|AlignEnd=26260|GE=bath|Gloss=bath|nWord=19|RX=[VI]
 20	chi	chi	NOUN	_	_	21	comp	_	AlignBegin=26260|AlignEnd=26564|GE=water|Gloss=water|nWord=20|RX=[N]
@@ -138,28 +138,28 @@
 # text_ortho = die hi ke me gna gute , cho me gna gute , samla me gna gute , ata chui apake .
 1	die	die	NOUN	_	_	6	comp:obj	_	AlignBegin=36918|AlignEnd=37121|GE=thing|Gloss=thing|nWord=1|RX=[N]
 2	hi	hi	NOUN	_	_	3	comp	_	AlignBegin=37121|AlignEnd=37324|GE=fire|Gloss=fire|nWord=2|RX=[N]
-3	ke	ke	ADP	_	_	_	_	_	AlignBegin=37324|AlignEnd=37527|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
-4	me	me	PART	_	_	_	_	_	AlignBegin=37527|AlignEnd=37730|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
+3	ke	ke	ADP	_	_	1	mod	_	AlignBegin=37324|AlignEnd=37527|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
+4	me	me	AUX	_	_	0	root	_	AlignBegin=37527|AlignEnd=37730|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
 5	gna	gna	AUX	_	_	4	comp:aux	_	AlignBegin=37730|AlignEnd=37933|GE=can|Gloss=can|nWord=5|RX=[V]
 6	gut	gut	VERB	_	_	7	comp:aux/m	_	AlignBegin=37933|AlignEnd=38035|GE=eat|Gloss=eat|nWord=6|RX=[VT]
 7	-e		AUX	_	_	5	comp:aux	_	AlignBegin=38035|AlignEnd=38136|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 8	,		PUNCT	_	_	_	_	_	AlignBegin=38136|AlignEnd=38338|nWord=7
 9	cho	cho	NOUN	_	_	12	comp:obj	_	AlignBegin=38398|AlignEnd=38620|GE=salt|Gloss=salt|nWord=8|RX=[N]
-10	me	me	PART	_	_	_	_	_	AlignBegin=38620|AlignEnd=38842|GE=[NEG]|Gloss=NEG|nWord=9|RX=[VERBPRT]
+10	me	me	AUX	_	_	4	conj:coord	_	AlignBegin=38620|AlignEnd=38842|GE=[NEG]|Gloss=NEG|nWord=9|RX=[VERBPRT]
 11	gna	gna	AUX	_	_	10	comp:aux	_	AlignBegin=38842|AlignEnd=39064|GE=can|Gloss=can|nWord=10|RX=[V]
 12	gut	gut	VERB	_	_	13	comp:aux/m	_	AlignBegin=39064|AlignEnd=39175|GE=eat|Gloss=eat|nWord=11|RX=[VT]
 13	-e		AUX	_	_	11	comp:aux	_	AlignBegin=39175|AlignEnd=39286|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
 14	,		PUNCT	_	_	_	_	_	AlignBegin=39286|AlignEnd=39508|nWord=12
 15	samla	samla	NOUN	_	_	18	comp:obj	_	AlignBegin=39508|AlignEnd=39780|GE=meat|Gloss=meat|nWord=13|RX=[N]
-16	me	me	PART	_	_	_	_	_	AlignBegin=39780|AlignEnd=40052|GE=[NEG]|Gloss=NEG|nWord=14|RX=[VERBPRT]
+16	me	me	AUX	_	_	10	conj:conj	_	AlignBegin=39780|AlignEnd=40052|GE=[NEG]|Gloss=NEG|nWord=14|RX=[VERBPRT]
 17	gna	gna	AUX	_	_	16	comp:aux	_	AlignBegin=40052|AlignEnd=40324|GE=can|Gloss=can|nWord=15|RX=[V]
 18	gut	gut	VERB	_	_	19	comp:aux/m	_	AlignBegin=40324|AlignEnd=40460|GE=eat|Gloss=eat|nWord=16|RX=[VT]
 19	-e		AUX	_	_	17	comp:aux	_	AlignBegin=40460|AlignEnd=40596|GE=[THM]|Gloss=-THM|nWord=16|RX=[V:ANY]
 20	,		PUNCT	_	_	_	_	_	AlignBegin=40596|AlignEnd=40868|nWord=17
-21	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=41098|AlignEnd=41433|GE=to|Gloss=to|nWord=18|RX=[ADP]
-22	chui	chui	NOUN	_	_	_	_	_	AlignBegin=41433|AlignEnd=41768|GE=sun|Gloss=sun|nWord=19|RX=[N]
+21	hasta	hasta	ADP	_	Foreign=Yes	18	mod:tmod	_	AlignBegin=41098|AlignEnd=41433|GE=to|Gloss=to|Lang=es|nWord=18|RX=[ADP]
+22	chui	chui	NOUN	_	_	24	comp	_	AlignBegin=41433|AlignEnd=41768|GE=sun|Gloss=sun|nWord=19|RX=[N]
 23	apa	apa	NUM	_	_	22	mod	_	AlignBegin=41768|AlignEnd=41936|GE=eight|Gloss=eight|nWord=20|RX=[NUM]
-24	ke	ke	ADP	_	_	_	_	_	AlignBegin=41936|AlignEnd=42103|GE=[LOC]|Gloss=LOC|nWord=20|RX=[ADP]
+24	ke	ke	ADP	_	_	21	compound	_	AlignBegin=41936|AlignEnd=42103|GE=[LOC]|Gloss=LOC|nWord=20|RX=[ADP]
 25	.		PUNCT	_	_	_	_	_	AlignBegin=42103|AlignEnd=42438|Gloss=.|nWord=21
 
 # sent_id = SAB-TXT-DS-00000-04_15-16
@@ -198,9 +198,9 @@
 # text = y ya porque cha nienua cha chebia hokeda .
 # text_en = And it is all, (I know) because my father and my mother died.
 # text_ortho = y ya porque cha nienua cha chebia hokeda .
-1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=49118|AlignEnd=49458|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
-2	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=49458|AlignEnd=49798|GE=now|Gloss=now|nWord=2|RX=[ADV]
-3	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=49798|AlignEnd=50138|GE=because|Gloss=because|nWord=3|RX=[CONN]
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=49118|AlignEnd=49458|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
+2	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=49458|AlignEnd=49798|GE=now|Gloss=now|Lang=es|nWord=2|RX=[ADV]
+3	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=49798|AlignEnd=50138|GE=because|Gloss=because|Lang=es|nWord=3|RX=[CONN]
 4	cha	cha	PRON	_	_	5	udep:poss	_	AlignBegin=50138|AlignEnd=50478|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
 5	nienu	nienu	NOUN	_	_	6	comp:aux/m	_	AlignBegin=50478|AlignEnd=50648|GE=father|Gloss=father|nWord=5|RX=[N]
 6	-a		AUX	_	_	_	_	_	AlignBegin=50648|AlignEnd=50818|GE=[POSS]|Gloss=-POSS|nWord=5|RX=[N:ANY]
@@ -222,8 +222,8 @@
 1	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=52268|AlignEnd=52655|GE=child|Gloss=child|nWord=1|RX=[N]
 2	oli	oli	NOUN	_	_	1	mod	_	AlignBegin=52655|AlignEnd=53042|GE=orphan|Gloss=orphan|nWord=2|RX=[N]
 3	aini	aini	ADV	_	_	_	_	_	AlignBegin=53042|AlignEnd=53429|GE=here|Gloss=here|nWord=3|RX=[ADV]
-4	tiene	tiene	VERB	_	Foreign=Yes	_	_	_	AlignBegin=53429|AlignEnd=53816|GE=have|Gloss=have|nWord=4|RX=[V]
-5	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=53816|AlignEnd=54203|GE=that|Gloss=that|nWord=5|RX=[PRO]
+4	tiene	tiene	VERB	_	Foreign=Yes	_	_	_	AlignBegin=53429|AlignEnd=53816|GE=have|Gloss=have|Lang=es|nWord=4|RX=[V]
+5	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=53816|AlignEnd=54203|GE=that|Gloss=that|Lang=es|nWord=5|RX=[PRO]
 6	bag	bag	VERB	_	_	7	comp:aux/m	_	AlignBegin=54203|AlignEnd=54397|GE=ceremoniate|Gloss=ceremoniate|nWord=6|RX=[VI]
 7	-e		AUX	_	_	_	_	_	AlignBegin=54397|AlignEnd=54590|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 8	.		PUNCT	_	_	_	_	_	AlignBegin=54590|AlignEnd=54978|Gloss=.|nWord=7

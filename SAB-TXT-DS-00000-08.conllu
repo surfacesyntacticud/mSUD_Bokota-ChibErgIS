@@ -16,7 +16,7 @@
 8	hoke	hoke	VERB	_	_	9	comp:aux/m	_	AlignBegin=10190|AlignEnd=10300|GE=[go].[PST]|Gloss=go|nWord=7|RX=[VI]
 9	-da	ked	AUX	_	_	7	comp:aux	_	AlignBegin=10300|AlignEnd=10520|GE=die|Gloss=-ASP|nWord=7|RX=[V]
 10	,		PUNCT	_	_	_	_	_	AlignBegin=10520|AlignEnd=10850|nWord=8
-11	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=10865|AlignEnd=11208|GE=so|Gloss=so|nWord=9|RX=[ADV]
+11	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=10865|AlignEnd=11208|GE=so|Gloss=so|Lang=es|nWord=9|RX=[ADV]
 12	cha	cha	PRON	_	_	15	subj	_	AlignBegin=11208|AlignEnd=11551|GE=[1SG]|Gloss=1SG|nWord=10|RX=[PRO]
 13	kle	kle	AUX	_	_	_	_	_	AlignBegin=11551|AlignEnd=11894|GE=be|Gloss=be|nWord=11|RX=[V]
 14	daba	daba	NOUN	_	_	15	comp:obj	_	AlignBegin=11894|AlignEnd=12237|GE=brother|Gloss=brother|nWord=12|RX=[N]
@@ -48,14 +48,14 @@
 # text = entonces cha kle bage ata baka ke .
 # text_en = Then I mourn for four day.
 # text_ortho = entonces cha kle bage ata baka ke .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=14955|AlignEnd=15364|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	3	discourse	_	AlignBegin=14955|AlignEnd=15364|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	4	subj	_	AlignBegin=15364|AlignEnd=15773|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	kle	kle	AUX	_	_	0	root	_	AlignBegin=15773|AlignEnd=16182|GE=be|Gloss=be|nWord=3|RX=[V]
 4	bag	bag	VERB	_	_	5	comp:aux	_	AlignBegin=16182|AlignEnd=16386|GE=ceremoniate|Gloss=ceremoniate|nWord=4|RX=[VI]
 5	-e		AUX	_	_	3	comp:aux	_	AlignBegin=16386|AlignEnd=16591|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=16591|AlignEnd=17000|GE=to|Gloss=to|nWord=5|RX=[ADP]
+6	hasta	hasta	ADP	_	Foreign=Yes	4	mod:tmod	_	AlignBegin=16591|AlignEnd=17000|GE=to|Gloss=to|Lang=es|nWord=5|RX=[ADP]
 7	baka	baka	NOUN	_	_	8	comp	_	AlignBegin=17000|AlignEnd=17409|GE=four|Gloss=four|nWord=6|RX=[N]
-8	ke	ke	ADP	_	_	_	_	_	AlignBegin=17409|AlignEnd=17818|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
+8	ke	ke	ADP	_	_	6	compound	_	AlignBegin=17409|AlignEnd=17818|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
 9	.		PUNCT	_	_	3	punct	_	AlignBegin=17818|AlignEnd=18225|Gloss=.|nWord=8
 
 # sent_id = SAB-TXT-DS-00000-08_6-6
@@ -120,8 +120,8 @@
 # text = entonces ya cha bitaia cha kle gwa hokenga ke .
 # text_en = So then my family is with me who went inside.
 # text_ortho = entonces ya cha bitaia cha kle gwa hokenga ke .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=29540|AlignEnd=29919|GE=so|Gloss=so|nWord=1|RX=[ADV]
-2	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=29919|AlignEnd=30298|GE=now|Gloss=now|nWord=2|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=29540|AlignEnd=29919|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
+2	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=29919|AlignEnd=30298|GE=now|Gloss=now|Lang=es|nWord=2|RX=[ADV]
 3	cha	cha	PRON	_	_	4	udep:poss	_	AlignBegin=30298|AlignEnd=30677|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
 4	bitaia	bitaia	NOUN	_	_	_	_	_	AlignBegin=30677|AlignEnd=31056|GE=family|Gloss=family|nWord=4|RX=[N]
 5	cha	cha	PRON	_	_	8	subj	_	AlignBegin=31056|AlignEnd=31435|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]

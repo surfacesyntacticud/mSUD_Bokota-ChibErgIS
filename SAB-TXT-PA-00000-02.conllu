@@ -10,7 +10,7 @@
 2	iake	iake	ADJ	_	_	1	mod	_	AlignBegin=10523|AlignEnd=11136|GE=ancient|Gloss=ancient|nWord=2|RX=[ADJ]
 3	aini	aini	ADV	_	_	_	_	_	AlignBegin=11136|AlignEnd=11749|GE=here|Gloss=here|nWord=3|RX=[ADV]
 4	hong	hong	NOUN	_	_	6	subj	_	AlignBegin=11749|AlignEnd=12362|GE=path|Gloss=path|nWord=4|RX=[N]
-5	me	me	PART	_	_	0	root	_	AlignBegin=12362|AlignEnd=12975|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
+5	me	me	AUX	_	_	0	root	_	AlignBegin=12362|AlignEnd=12975|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
 6	hoke	hoke	VERB	_	_	5	comp:aux	_	AlignBegin=12975|AlignEnd=13588|GE=go|Gloss=go|nWord=6|RX=[VI]
 7	Rio	Rio	NOUN	_	_	_	_	_	AlignBegin=13588|AlignEnd=14201|GE=[Rio]|Gloss=Rio|nWord=7|RX=[N]
 8	Lui	Lui	PROPN	_	_	_	_	_	AlignBegin=14201|AlignEnd=14814|GE=[Luis]|Gloss=Luis|nWord=8|RX=[NPROP]
@@ -60,7 +60,7 @@
 7	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=29568|AlignEnd=30266|GE=go|Gloss=go|nWord=7|RX=[VI]
 8	iani	iani	ADV	_	_	_	_	_	AlignBegin=30266|AlignEnd=30964|GE=there|Gloss=there|nWord=8|RX=[ADV]
 9	,		PUNCT	_	_	_	_	_	AlignBegin=30964|AlignEnd=31660|nWord=9
-10	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=31660|AlignEnd=31870|GE=and|Gloss=and|nWord=10|RX=[COORDCONN]
+10	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=31660|AlignEnd=31870|GE=and|Gloss=and|Lang=es|nWord=10|RX=[COORDCONN]
 11	chk	chk	VERB	_	_	12	comp:aux/m	_	AlignBegin=31870|AlignEnd=31975|GE=arrive|Gloss=arrive|nWord=11|RX=[VI]
 12	-e		AUX	_	_	_	_	_	AlignBegin=31975|AlignEnd=32080|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
 13	aini	aini	ADV	_	_	11	mod:lmod	_	AlignBegin=32080|AlignEnd=32290|GE=here|Gloss=here|nWord=12|RX=[ADV]
@@ -113,7 +113,7 @@
 5	dat	dat	VERB	_	_	6	comp:aux/m	_	AlignBegin=39083|AlignEnd=39163|GE=cut|Gloss=cut|nWord=5|RX=[VT]
 6	-a		AUX	_	_	7	comp:aux/m	_	AlignBegin=39163|AlignEnd=39243|GE=[PASS]|Gloss=-PASS|nWord=5|RX=[V:ANY]
 7	-le		AUX	_	_	8	comp:aux/m	_	AlignBegin=39243|AlignEnd=39323|GE=[ADJZ]|Gloss=-ADJZ|nWord=5|RX=[N>ADJ]
-8	-da		PART	_	_	_	_	_	AlignBegin=39323|AlignEnd=39405|GE=emph|Gloss=emph|nWord=5|RX=[VERB]
+8	-da		AUX	_	_	_	_	_	AlignBegin=39323|AlignEnd=39405|GE=emph|Gloss=emph|nWord=5|RX=[VERB]
 9	enusuli	enusuli	NOUN	_	_	11	subj	_	AlignBegin=39405|AlignEnd=39727|GE=grandfather|Gloss=grandfather|nWord=6|RX=[N]
 10	hong	hong	NOUN	_	_	11	comp:obj	_	AlignBegin=39727|AlignEnd=40049|GE=path|Gloss=path|nWord=7|RX=[N]
 11	tkunga	tkenga	VERB	_	_	_	_	_	AlignBegin=40049|AlignEnd=40371|GE=[cut].[PST]|Gloss=cut.PST|nWord=8|RX=[VT]
@@ -121,12 +121,12 @@
 13	dat	dat	VERB	_	_	14	comp:aux/m	_	AlignBegin=40693|AlignEnd=40773|GE=cut|Gloss=cut|nWord=10|RX=[VT]
 14	-a		AUX	_	_	15	comp:aux/m	_	AlignBegin=40773|AlignEnd=40853|GE=[PASS]|Gloss=-PASS|nWord=10|RX=[V:ANY]
 15	-le		AUX	_	_	16	comp:aux/m	_	AlignBegin=40853|AlignEnd=40933|GE=[ADJZ]|Gloss=-ADJZ|nWord=10|RX=[N>ADJ]
-16	-da		PART	_	_	_	_	_	AlignBegin=40933|AlignEnd=41015|GE=emph|Gloss=emph|nWord=10|RX=[VERB]
-17	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=41015|AlignEnd=41337|GE=to|Gloss=to|nWord=11|RX=[ADP]
-18	enusuli	enusuli	NOUN	_	_	_	_	_	AlignBegin=41337|AlignEnd=41659|GE=grandfather|Gloss=grandfather|nWord=12|RX=[N]
-19	hong	hong	NOUN	_	_	20	subj	_	AlignBegin=41659|AlignEnd=41981|GE=path|Gloss=path|nWord=13|RX=[N]
+16	-da		AUX	_	_	_	_	_	AlignBegin=40933|AlignEnd=41015|GE=emph|Gloss=emph|nWord=10|RX=[VERB]
+17	hasta	hasta	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=41015|AlignEnd=41337|GE=to|Gloss=to|Lang=es|nWord=11|RX=[ADP]
+18	enusuli	enusuli	NOUN	_	_	20	subj	_	AlignBegin=41337|AlignEnd=41659|GE=grandfather|Gloss=grandfather|nWord=12|RX=[N]
+19	hong	hong	NOUN	_	_	20	comp:obj	_	AlignBegin=41659|AlignEnd=41981|GE=path|Gloss=path|nWord=13|RX=[N]
 20	tk	tk	VERB	_	_	21	comp:aux/m	_	AlignBegin=41981|AlignEnd=42142|GE=put|Gloss=put|nWord=14|RX=[VT]
-21	-u		AUX	_	_	_	_	_	AlignBegin=42142|AlignEnd=42303|GE=[PST]|Gloss=-PST|nWord=14|RX=[V:ANY]
+21	-u		AUX	_	_	17	comp	_	AlignBegin=42142|AlignEnd=42303|GE=[PST]|Gloss=-PST|nWord=14|RX=[V:ANY]
 22	tengkle	tengkle	ADV	_	_	_	_	_	AlignBegin=42303|AlignEnd=42625|GE=through|Gloss=through|nWord=15|RX=[ADV]
 23	.		PUNCT	_	_	_	_	_	AlignBegin=42625|AlignEnd=42955|Gloss=.|nWord=16
 
@@ -159,14 +159,14 @@
 # text = ya hong ta tkabalenga biale .
 # text_en = Now the path is ready.
 # text_ortho = ya hong ta tkabalenga biale .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=47395|AlignEnd=47780|GE=now|Gloss=now|nWord=1|RX=[ADV]
+1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=47395|AlignEnd=47780|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	hong	hong	NOUN	_	_	_	_	_	AlignBegin=47780|AlignEnd=48165|GE=path|Gloss=path|nWord=2|RX=[N]
-3	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=48165|AlignEnd=48550|GE=be|Gloss=be|nWord=3|RX=[V]
+3	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=48165|AlignEnd=48550|GE=be|Gloss=be|Lang=es|nWord=3|RX=[V]
 4	tk	tk	VERB	_	_	5	comp:aux/m	_	AlignBegin=48550|AlignEnd=48646|GE=put|Gloss=put|nWord=4|RX=[VT]
-5	-a		X	_	_	6	comp:aux/m	_	AlignBegin=48646|AlignEnd=48742|GE=[0]|Gloss=-0|nWord=4|RX=[VERB]
+5	-a		AUX	_	_	6	comp:aux/m	_	AlignBegin=48646|AlignEnd=48742|GE=[0]|Gloss=-0|nWord=4|RX=[VERB]
 6	-bale		AUX	_	_	7	comp:aux/m	_	AlignBegin=48742|AlignEnd=48838|GE=[PART]|Gloss=-PART|nWord=4|RX=[V:ANY]
 7	-nga		AUX	_	_	_	_	_	AlignBegin=48838|AlignEnd=48935|GE=[SUB]|Gloss=-SUB|nWord=4|RX=[V:ANY]
-8	biale	biale	ADJ	_	_	_	_	_	AlignBegin=48935|AlignEnd=49320|GE=ready|Gloss=ready|nWord=5|RX=[ADJ]
+8	biale	biale	ADJ	_	_	4	comp:pred	_	AlignBegin=48935|AlignEnd=49320|GE=ready|Gloss=ready|nWord=5|RX=[ADJ]
 9	.		PUNCT	_	_	_	_	_	AlignBegin=49320|AlignEnd=49705|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-PA-00000-02_12-12
@@ -195,10 +195,10 @@
 # text = y du me entonces kwia chie chage sra dike .
 # text_en = And there were no cars so people went walking by foot.
 # text_ortho = y du me entonces kwia chie chage sra dike .
-1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=63880|AlignEnd=64358|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=63880|AlignEnd=64358|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
 2	du	du	NOUN	_	_	_	_	_	AlignBegin=64358|AlignEnd=64836|GE=car|Gloss=car|nWord=2|RX=[N]
 3	me	me	PART	_	_	_	_	_	AlignBegin=64836|AlignEnd=65314|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
-4	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=65314|AlignEnd=65792|GE=so|Gloss=so|nWord=4|RX=[ADV]
+4	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=65314|AlignEnd=65792|GE=so|Gloss=so|Lang=es|nWord=4|RX=[ADV]
 5	kwia	kwia	NOUN	_	_	6	subj	_	AlignBegin=65792|AlignEnd=66270|GE=people|Gloss=people|nWord=5|RX=[N]
 6	chi	chi	VERB	_	_	7	comp:aux/m	_	AlignBegin=66270|AlignEnd=66509|GE=come|Gloss=come|nWord=6|RX=[VI]
 7	-e		AUX	_	_	_	_	_	AlignBegin=66509|AlignEnd=66748|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
@@ -231,7 +231,7 @@
 # text = entonces enusuli hong tkenga , ba hokedale , daba sale mung bitaia dike , o kanan tkanga nante .
 # text_en = So the grand father made the path. So you could come (one day). As a friend with my family. Or so (we) go hunting.
 # text_ortho = entonces enusuli hong tkenga , ba hokedale , daba sale mung bitaia dike , o kanan tkanga nante .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=70975|AlignEnd=71341|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	4	discourse	_	AlignBegin=70975|AlignEnd=71341|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	enusuli	enusuli	NOUN	_	_	4	subj	_	AlignBegin=71341|AlignEnd=71707|GE=grandfather|Gloss=grandfather|nWord=2|RX=[N]
 3	hong	hong	NOUN	_	_	4	comp:obj	_	AlignBegin=71707|AlignEnd=72073|GE=path|Gloss=path|nWord=3|RX=[N]
 4	tkenga	tkenga	VERB	_	_	_	_	_	AlignBegin=72073|AlignEnd=72439|GE=[cut].[NPST]|Gloss=cut.NPST|nWord=4|RX=[VT]
@@ -301,9 +301,9 @@
 8	hong	hong	NOUN	_	_	_	_	_	AlignBegin=86316|AlignEnd=86657|GE=path|Gloss=path|nWord=7|RX=[N]
 9	ese	ese	DET	_	_	8	mod	_	AlignBegin=86657|AlignEnd=86998|GE=that|Gloss=that|nWord=8|RX=[DET]
 10	tk	tk	VERB	_	_	11	comp:aux/m	_	AlignBegin=86998|AlignEnd=87112|GE=put|Gloss=put|nWord=9|RX=[VT]
-11	-a		X	_	_	12	comp:aux/m	_	AlignBegin=87112|AlignEnd=87226|GE=[0]|Gloss=-0|nWord=9|RX=[VERB]
+11	-a		AUX	_	_	12	comp:aux/m	_	AlignBegin=87112|AlignEnd=87226|GE=[0]|Gloss=-0|nWord=9|RX=[VERB]
 12	-bale		AUX	_	_	_	_	_	AlignBegin=87226|AlignEnd=87339|GE=[PART]|Gloss=-PART|nWord=9|RX=[V:ANY]
-13	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=87339|AlignEnd=87680|GE=now|Gloss=now|nWord=10|RX=[ADV]
+13	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=87339|AlignEnd=87680|GE=now|Gloss=now|Lang=es|nWord=10|RX=[ADV]
 14	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=87680|AlignEnd=88021|GE=today|Gloss=today|nWord=11|RX=[ADV]
 15	.		PUNCT	_	_	_	_	_	AlignBegin=88021|AlignEnd=88360|Gloss=.|nWord=12
 
@@ -319,7 +319,7 @@
 2	ble	ble	NOUN	_	_	3	comp	_	AlignBegin=88795|AlignEnd=89050|GE=sea|Gloss=sea|nWord=2|RX=[N]
 3	ke	ke	ADP	_	_	1	comp:obl	_	AlignBegin=89050|AlignEnd=89305|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
 4	,		PUNCT	_	_	_	_	_	AlignBegin=89305|AlignEnd=89560|nWord=4
-5	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=89560|AlignEnd=89753|GE=and|Gloss=and|nWord=5|RX=[COORDCONN]
+5	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=89560|AlignEnd=89753|GE=and|Gloss=and|Lang=es|nWord=5|RX=[COORDCONN]
 6	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=89753|AlignEnd=89946|GE=go|Gloss=go|nWord=6|RX=[VI]
 7	chi	chi	NOUN	_	_	_	_	_	AlignBegin=89946|AlignEnd=90139|GE=water|Gloss=water|nWord=7|RX=[N]
 8	ka	ka	NOUN	_	_	9	comp	_	AlignBegin=90139|AlignEnd=90332|GE=mouth|Gloss=mouth|nWord=8|RX=[N]

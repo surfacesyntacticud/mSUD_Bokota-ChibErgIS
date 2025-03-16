@@ -6,7 +6,7 @@
 # text = ya kiro muinga soli kle hoke gnome glike agale .
 # text_en = Now the young girls go clean the clothes.
 # text_ortho = ya kiro muinga soli kle hoke gnome glike agale .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=24940|AlignEnd=25398|GE=now|Gloss=now|nWord=1|RX=[ADV]
+1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=24940|AlignEnd=25398|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=25398|AlignEnd=25856|GE=child|Gloss=child|nWord=2|RX=[N]
 3	muinga	muinga	NOUN	_	_	2	mod	_	AlignBegin=25856|AlignEnd=26314|GE=woman|Gloss=woman|nWord=3|RX=[N]
 4	soli	soli	NOUN	_	_	2	mod	_	AlignBegin=26314|AlignEnd=26772|GE=little|Gloss=little|nWord=4|RX=[N]
@@ -15,7 +15,7 @@
 7	gnome	gnome	NOUN	_	_	8	comp:obj	_	AlignBegin=27688|AlignEnd=28146|GE=clothes|Gloss=clothes|nWord=7|RX=[N]
 8	glik	glik	VERB	_	_	9	comp:aux/m	_	AlignBegin=28146|AlignEnd=28375|GE=clean|Gloss=clean|nWord=8|RX=[VT]
 9	-e		AUX	_	_	_	_	_	AlignBegin=28375|AlignEnd=28604|GE=[THM]|Gloss=-THM|nWord=8|RX=[V:ANY]
-10	agale	agale	ADJ	_	_	_	_	_	AlignBegin=28604|AlignEnd=29062|GE=clean|Gloss=clean|nWord=9|RX=[ADJ]
+10	agale	agale	ADJ	_	_	8	comp:pred	_	AlignBegin=28604|AlignEnd=29062|GE=clean|Gloss=clean|nWord=9|RX=[ADJ]
 11	.		PUNCT	_	_	5	punct	_	AlignBegin=29062|AlignEnd=29520|Gloss=.|nWord=10
 
 # sent_id = SAB-TXT-AN-00003-03_02-02
@@ -33,8 +33,8 @@
 5	-e		AUX	_	_	3	comp:aux	_	AlignBegin=31115|AlignEnd=31429|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 6	gnome	gnome	NOUN	_	_	7	comp:obj	_	AlignBegin=31429|AlignEnd=32057|GE=clothes|Gloss=clothes|nWord=4|RX=[N]
 7	glik	glik	VERB	_	_	8	comp:aux/m	_	AlignBegin=32057|AlignEnd=32371|GE=clean|Gloss=clean|nWord=5|RX=[VT]
-8	-e		AUX	_	_	_	_	_	AlignBegin=32371|AlignEnd=32685|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
-9	agale	agale	ADJ	_	_	_	_	_	AlignBegin=32685|AlignEnd=33313|GE=clean|Gloss=clean|nWord=6|RX=[ADJ]
+8	-e		AUX	_	_	4	comp:pred	_	AlignBegin=32371|AlignEnd=32685|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+9	agale	agale	ADJ	_	_	7	comp:pred	_	AlignBegin=32685|AlignEnd=33313|GE=clean|Gloss=clean|nWord=6|RX=[ADJ]
 10	.		PUNCT	_	_	3	punct	_	AlignBegin=33313|AlignEnd=33940|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-AN-00003-03_03-03
@@ -45,16 +45,16 @@
 # text = entonces kiro hombre chebia kle gnome glike agale .
 # text_en = So the boys, their mother clean their cothes.
 # text_ortho = entonces kiro hombre chebia kle gnome glike agale .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=33975|AlignEnd=34393|GE=so|Gloss=so|nWord=1|RX=[ADV]
-2	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=34393|AlignEnd=34811|GE=child|Gloss=child|nWord=2|RX=[N]
-3	hombre	hombre	ADJ	_	_	_	_	_	AlignBegin=34811|AlignEnd=35229|GE=male|Gloss=male|nWord=3|RX=[ADJ]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=33975|AlignEnd=34393|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
+2	kiro	kiro	NOUN	_	_	8	comp:obl	_	AlignBegin=34393|AlignEnd=34811|GE=child|Gloss=child|nWord=2|RX=[N]
+3	hombre	hombre	ADJ	_	_	2	mod	_	AlignBegin=34811|AlignEnd=35229|GE=male|Gloss=male|nWord=3|RX=[ADJ]
 4	chebi	chebi	NOUN	_	_	5	comp:aux/m	_	AlignBegin=35229|AlignEnd=35438|GE=mother|Gloss=mother|nWord=4|RX=[N]
 5	-a		AUX	_	_	8	subj	_	AlignBegin=35438|AlignEnd=35647|GE=[POSS]|Gloss=-POSS|nWord=4|RX=[N:ANY]
 6	kle	kle	AUX	_	_	0	root	_	AlignBegin=35647|AlignEnd=36065|GE=be|Gloss=be|nWord=5|RX=[V]
 7	gnome	gnome	NOUN	_	_	8	comp:obj	_	AlignBegin=36065|AlignEnd=36483|GE=clothes|Gloss=clothes|nWord=6|RX=[N]
 8	glik	glik	VERB	_	_	9	comp:aux/m	_	AlignBegin=36483|AlignEnd=36692|GE=clean|Gloss=clean|nWord=7|RX=[VT]
 9	-e		AUX	_	_	6	comp:aux	_	AlignBegin=36692|AlignEnd=36901|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
-10	agale	agale	ADJ	_	_	_	_	_	AlignBegin=36901|AlignEnd=37319|GE=clean|Gloss=clean|nWord=8|RX=[ADJ]
+10	agale	agale	ADJ	_	_	8	comp:pred	_	AlignBegin=36901|AlignEnd=37319|GE=clean|Gloss=clean|nWord=8|RX=[ADJ]
 11	.		PUNCT	_	_	6	punct	_	AlignBegin=37319|AlignEnd=37735|Gloss=.|nWord=9
 
 # sent_id = SAB-TXT-AN-00003-03_04-04
@@ -65,12 +65,12 @@
 # text = cuando kiro hombre kle hoke ...
 # text_en = When the boys go.
 # text_ortho = cuando kiro hombre kle hoke ...
-1	cuando	cuando	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=40380|AlignEnd=40918|GE=when|Gloss=when|nWord=1|RX=[Q]
+1	cuando	cuando	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=40380|AlignEnd=40918|GE=when|Gloss=when|Lang=es|nWord=1|RX=[Q]
 2	kiro	kiro	NOUN	_	_	5	subj	_	AlignBegin=40918|AlignEnd=41456|GE=child|Gloss=child|nWord=2|RX=[N]
 3	hombre	hombre	ADJ	_	_	2	mod	_	AlignBegin=41456|AlignEnd=41994|GE=male|Gloss=male|nWord=3|RX=[ADJ]
 4	kle	kle	AUX	_	_	1	comp	_	AlignBegin=41994|AlignEnd=42532|GE=be|Gloss=be|nWord=4|RX=[V]
 5	hoke	hoke	VERB	_	_	4	comp:aux	_	AlignBegin=42532|AlignEnd=43070|GE=go|Gloss=go|nWord=5|RX=[VI]
-6	...		_	_	_	_	_	_	AlignBegin=43070|AlignEnd=43610|nWord=6
+6	...		PUNCT	_	_	_	_	_	AlignBegin=43070|AlignEnd=43610|nWord=6
 
 # sent_id = SAB-TXT-AN-00003-03_05-05
 # speaker_id = @03
@@ -86,14 +86,14 @@
 4	a	a	ADP	_	_	_	_	_	AlignBegin=45552|AlignEnd=46006|GE=to|Gloss=to|nWord=4|RX=[ADP]
 5	doce	doce	NUM	_	_	_	_	_	AlignBegin=46006|AlignEnd=46460|GE=twelve|Gloss=twelve|nWord=5|RX=[NUM]
 6	año	año	NOUN	_	_	_	_	_	AlignBegin=46460|AlignEnd=46914|GE=year|Gloss=year|nWord=6|RX=[N]
-7	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=46914|AlignEnd=47368|GE=now|Gloss=now|nWord=7|RX=[ADV]
+7	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=46914|AlignEnd=47368|GE=now|Gloss=now|Lang=es|nWord=7|RX=[ADV]
 8	kiro	kiro	NOUN	_	_	9	subj	_	AlignBegin=47368|AlignEnd=47822|GE=child|Gloss=child|nWord=8|RX=[N]
 9	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=47822|AlignEnd=48276|GE=go|Gloss=go|nWord=9|RX=[VI]
 10	die	die	NOUN	_	_	11	comp:obj	_	AlignBegin=48276|AlignEnd=48730|GE=thing|Gloss=thing|nWord=10|RX=[N]
 11	glik	glik	VERB	_	_	12	comp:aux/m	_	AlignBegin=48730|AlignEnd=48881|GE=clean|Gloss=clean|nWord=11|RX=[VT]
 12	-e		AUX	_	_	13	comp:aux/m	_	AlignBegin=48881|AlignEnd=49032|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
 13	-nga		AUX	_	_	_	_	_	AlignBegin=49032|AlignEnd=49184|GE=[SUB]|Gloss=-SUB|nWord=11|RX=[V:ANY]
-14	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=49184|AlignEnd=49638|GE=be|Gloss=be|nWord=12|RX=[V]
+14	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=49184|AlignEnd=49638|GE=be|Gloss=be|Lang=es|nWord=12|RX=[V]
 15	me	me	PART	_	_	_	_	_	AlignBegin=49638|AlignEnd=50092|GE=[NEG]|Gloss=NEG|nWord=13|RX=[VERBPRT]
 16	agale	agale	ADJ	_	_	_	_	_	AlignBegin=50092|AlignEnd=50546|GE=clean|Gloss=clean|nWord=14|RX=[ADJ]
 17	.		PUNCT	_	_	_	_	_	AlignBegin=50546|AlignEnd=51000|Gloss=.|nWord=15
@@ -108,9 +108,9 @@
 # text_ortho = gnome glike agale .
 1	gnome	gnome	NOUN	_	_	2	comp:obj	_	AlignBegin=51130|AlignEnd=51505|GE=clothes|Gloss=clothes|nWord=1|RX=[N]
 2	glik	glik	VERB	_	_	3	comp:aux/m	_	AlignBegin=51505|AlignEnd=51693|GE=clean|Gloss=clean|nWord=2|RX=[VT]
-3	-e		AUX	_	_	_	_	_	AlignBegin=51693|AlignEnd=51880|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
-4	agale	agale	ADJ	_	_	_	_	_	AlignBegin=51880|AlignEnd=52255|GE=clean|Gloss=clean|nWord=3|RX=[ADJ]
-5	.		PUNCT	_	_	_	_	_	AlignBegin=52255|AlignEnd=52630|Gloss=.|nWord=4
+3	-e		AUX	_	_	0	root	_	AlignBegin=51693|AlignEnd=51880|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	agale	agale	ADJ	_	_	2	comp:pred	_	AlignBegin=51880|AlignEnd=52255|GE=clean|Gloss=clean|nWord=3|RX=[ADJ]
+5	.		PUNCT	_	_	3	punct	_	AlignBegin=52255|AlignEnd=52630|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-AN-00003-03_07-07
 # speaker_id = @03
@@ -120,7 +120,7 @@
 # text = pero kiro muinga ama kle dieboi gwa .
 # text_en = But the girls work inside.
 # text_ortho = pero kiro muinga ama kle dieboi gwa .
-1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=52820|AlignEnd=53438|GE=but|Gloss=but|nWord=1|RX=[COORDCONN]
+1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=52820|AlignEnd=53438|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
 2	kiro	kiro	NOUN	_	_	6	subj	_	AlignBegin=53438|AlignEnd=54056|GE=child|Gloss=child|nWord=2|RX=[N]
 3	muinga	muinga	NOUN	_	_	2	mod	_	AlignBegin=54056|AlignEnd=54674|GE=woman|Gloss=woman|nWord=3|RX=[N]
 4	ama	ama	ADV	_	_	_	_	_	AlignBegin=54674|AlignEnd=55292|GE=so|Gloss=so|nWord=4|RX=[ADV]
@@ -185,7 +185,7 @@
 3	gnome	gnome	NOUN	_	_	4	comp:obj	_	AlignBegin=65128|AlignEnd=65572|GE=clothes|Gloss=clothes|nWord=3|RX=[N]
 4	glik	glik	VERB	_	_	5	comp:aux/m	_	AlignBegin=65572|AlignEnd=65794|GE=clean|Gloss=clean|nWord=4|RX=[VT]
 5	-e		AUX	_	_	_	_	_	AlignBegin=65794|AlignEnd=66016|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	agale	agale	ADJ	_	_	_	_	_	AlignBegin=66016|AlignEnd=66460|GE=clean|Gloss=clean|nWord=5|RX=[ADJ]
+6	agale	agale	ADJ	_	_	4	comp:pred	_	AlignBegin=66016|AlignEnd=66460|GE=clean|Gloss=clean|nWord=5|RX=[ADJ]
 7	chi	chi	NOUN	_	_	8	comp	_	AlignBegin=66460|AlignEnd=66904|GE=water|Gloss=water|nWord=6|RX=[N]
 8	ke	ke	ADP	_	_	4	comp:obl	_	AlignBegin=66904|AlignEnd=67348|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
 9	.		PUNCT	_	_	1	punct	_	AlignBegin=67348|AlignEnd=67790|Gloss=.|nWord=8
@@ -292,7 +292,7 @@
 # text_en = That are the things that the boys do.
 # text_ortho = ese ta kiro hombre kle die boi .
 1	ese	ese	PRON	_	_	_	_	_	AlignBegin=87435|AlignEnd=87806|GE=that|Gloss=that|nWord=1|RX=[PRO]
-2	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=87806|AlignEnd=88177|GE=be|Gloss=be|nWord=2|RX=[V]
+2	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=87806|AlignEnd=88177|GE=be|Gloss=be|Lang=es|nWord=2|RX=[V]
 3	kiro	kiro	NOUN	_	_	7	subj	_	AlignBegin=88177|AlignEnd=88548|GE=child|Gloss=child|nWord=3|RX=[N]
 4	hombre	hombre	ADJ	_	_	3	mod	_	AlignBegin=88548|AlignEnd=88919|GE=male|Gloss=male|nWord=4|RX=[ADJ]
 5	kle	kle	AUX	_	_	0	root	_	AlignBegin=88919|AlignEnd=89290|GE=be|Gloss=be|nWord=5|RX=[V]
@@ -358,7 +358,7 @@
 4	kak	kak	VERB	_	_	5	comp:aux/m	_	AlignBegin=98977|AlignEnd=99250|GE=send|Gloss=send|nWord=3|RX=[V]
 5	-e		AUX	_	_	3	comp:aux	_	AlignBegin=99250|AlignEnd=99523|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 6	dieboi	dieboi	VERB	_	_	_	_	_	AlignBegin=99523|AlignEnd=100069|GE=work|Gloss=work|nWord=4|RX=[V]
-7	...		_	_	_	_	_	_	AlignBegin=100069|AlignEnd=100615|nWord=5
+7	...		PUNCT	_	_	_	_	_	AlignBegin=100069|AlignEnd=100615|nWord=5
 
 # sent_id = SAB-TXT-AN-00003-03_23-23
 # speaker_id = @03
@@ -368,12 +368,12 @@
 # text = ya kiro kle hoke ese ...
 # text_en = Now all kids go do that.
 # text_ortho = ya kiro kle hoke ese ...
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=100915|AlignEnd=101245|GE=now|Gloss=now|nWord=1|RX=[ADV]
+1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=100915|AlignEnd=101245|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	kiro	kiro	NOUN	_	_	4	subj	_	AlignBegin=101245|AlignEnd=101575|GE=child|Gloss=child|nWord=2|RX=[N]
 3	kle	kle	AUX	_	_	_	_	_	AlignBegin=101575|AlignEnd=101905|GE=be|Gloss=be|nWord=3|RX=[V]
 4	hoke	hoke	VERB	_	_	3	comp:aux	_	AlignBegin=101905|AlignEnd=102235|GE=go|Gloss=go|nWord=4|RX=[VI]
 5	ese	ese	DET	_	_	_	_	_	AlignBegin=102235|AlignEnd=102565|GE=that|Gloss=that|nWord=5|RX=[DET]
-6	...		_	_	_	_	_	_	AlignBegin=102565|AlignEnd=102895|nWord=6
+6	...		PUNCT	_	_	_	_	_	AlignBegin=102565|AlignEnd=102895|nWord=6
 
 # sent_id = SAB-TXT-AN-00003-03_24-24
 # speaker_id = @03
@@ -385,13 +385,13 @@
 # text_ortho = nueve año ya kiro kle hoke dieboi gwadia ya .
 1	nueve	nueve	NUM	_	_	_	_	_	AlignBegin=103270|AlignEnd=103674|GE=nine|Gloss=nine|nWord=1|RX=[NUM]
 2	año	año	NOUN	_	_	_	_	_	AlignBegin=103674|AlignEnd=104078|GE=year|Gloss=year|nWord=2|RX=[N]
-3	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=104078|AlignEnd=104482|GE=now|Gloss=now|nWord=3|RX=[ADV]
+3	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=104078|AlignEnd=104482|GE=now|Gloss=now|Lang=es|nWord=3|RX=[ADV]
 4	kiro	kiro	NOUN	_	_	6	subj	_	AlignBegin=104482|AlignEnd=104886|GE=child|Gloss=child|nWord=4|RX=[N]
 5	kle	kle	AUX	_	_	_	_	_	AlignBegin=104886|AlignEnd=105290|GE=be|Gloss=be|nWord=5|RX=[V]
 6	hoke	hoke	VERB	_	_	5	comp:aux	_	AlignBegin=105290|AlignEnd=105694|GE=go|Gloss=go|nWord=6|RX=[VI]
 7	dieboi	dieboi	VERB	_	_	_	_	_	AlignBegin=105694|AlignEnd=106098|GE=work|Gloss=work|nWord=7|RX=[V]
-8	gwadia	gwadia	ADJ	_	_	_	_	_	AlignBegin=106098|AlignEnd=106502|GE=lonely|Gloss=lonely|nWord=8|RX=[ADJ]
-9	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=106502|AlignEnd=106906|GE=now|Gloss=now|nWord=9|RX=[ADV]
+8	gwadia	gwadia	ADJ	_	_	7	comp:pred	_	AlignBegin=106098|AlignEnd=106502|GE=lonely|Gloss=lonely|nWord=8|RX=[ADJ]
+9	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=106502|AlignEnd=106906|GE=now|Gloss=now|Lang=es|nWord=9|RX=[ADV]
 10	.		PUNCT	_	_	_	_	_	AlignBegin=106906|AlignEnd=107310|Gloss=.|nWord=10
 
 # sent_id = SAB-TXT-AN-00003-03_25-25
@@ -415,12 +415,12 @@
 # text = ata que kiro kle hoke .
 # text_en = Until the kid go.
 # text_ortho = ata que kiro kle hoke .
-1	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=109645|AlignEnd=109928|GE=to|Gloss=to|nWord=1|RX=[ADP]
-2	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=109928|AlignEnd=110211|GE=that|Gloss=that|nWord=2|RX=[PRO]
+1	hasta	hasta	SCONJ	_	Foreign=Yes	0	root	_	AlignBegin=109645|AlignEnd=109928|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
+2	que	que	X	_	Foreign=Yes	1	compound	_	AlignBegin=109928|AlignEnd=110211|GE=that|Gloss=that|Lang=es|nWord=2|RX=[PRO]
 3	kiro	kiro	NOUN	_	_	5	subj	_	AlignBegin=110211|AlignEnd=110494|GE=child|Gloss=child|nWord=3|RX=[N]
-4	kle	kle	AUX	_	_	_	_	_	AlignBegin=110494|AlignEnd=110777|GE=be|Gloss=be|nWord=4|RX=[V]
+4	kle	kle	AUX	_	_	1	comp	_	AlignBegin=110494|AlignEnd=110777|GE=be|Gloss=be|nWord=4|RX=[V]
 5	hoke	hoke	VERB	_	_	4	comp:aux	_	AlignBegin=110777|AlignEnd=111060|GE=go|Gloss=go|nWord=5|RX=[VI]
-6	.		PUNCT	_	_	_	_	_	AlignBegin=111060|AlignEnd=111345|Gloss=.|nWord=6
+6	.		PUNCT	_	_	1	punct	_	AlignBegin=111060|AlignEnd=111345|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-AN-00003-03_27-27
 # speaker_id = @03
@@ -433,7 +433,7 @@
 1	nueve	nueve	NUM	_	_	_	_	_	AlignBegin=111590|AlignEnd=111994|GE=nine|Gloss=nine|nWord=1|RX=[NUM]
 2	año	año	NOUN	_	_	_	_	_	AlignBegin=111994|AlignEnd=112398|GE=year|Gloss=year|nWord=2|RX=[N]
 3	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=112398|AlignEnd=112802|GE=child|Gloss=child|nWord=3|RX=[N]
-4	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=112802|AlignEnd=113206|GE=now|Gloss=now|nWord=4|RX=[ADV]
+4	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=112802|AlignEnd=113206|GE=now|Gloss=now|Lang=es|nWord=4|RX=[ADV]
 5	pone	pone	VERB	_	_	_	_	_	AlignBegin=113206|AlignEnd=113610|GE=put|Gloss=put|nWord=5|RX=[V]
 6	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=113610|AlignEnd=114014|GE=go|Gloss=go|nWord=6|RX=[VI]
 7	chude	chude	NOUN	_	_	8	comp:obj	_	AlignBegin=114014|AlignEnd=114418|GE=seed|Gloss=seed|nWord=7|RX=[N]
@@ -502,7 +502,7 @@
 # text_en = So the mother, I, can stay inside. and do things.
 # text_ortho = ( asi cha kle ) chebia kle cha kle gwa batenga , die boi .
 1	(		PUNCT	_	_	_	_	_	AlignBegin=123075|AlignEnd=123433|nWord=1
-2	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=123433|AlignEnd=123791|GE=like_that|Gloss=like_that|nWord=2|RX=[ADV]
+2	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=123433|AlignEnd=123791|GE=like_that|Gloss=like_that|Lang=es|nWord=2|RX=[ADV]
 3	cha	cha	PRON	_	_	_	_	_	AlignBegin=123791|AlignEnd=124149|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
 4	kle	kle	AUX	_	_	_	_	_	AlignBegin=124149|AlignEnd=124507|GE=be|Gloss=be|nWord=4|RX=[V]
 5	)		PUNCT	_	_	_	_	_	AlignBegin=124507|AlignEnd=124865|nWord=5
@@ -526,7 +526,7 @@
 # text = porque kohong kle gerude , che kia chienga , che me die skie , che be dion gute .
 # text_en = Because the elders say: Laziness will come upon them, If they don't plant things. What will they eat ?
 # text_ortho = porque kohong kle gerude , che kia chienga , che me die skie , che be dion gute .
-1	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=129145|AlignEnd=129496|GE=because|Gloss=because|nWord=1|RX=[CONN]
+1	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=129145|AlignEnd=129496|GE=because|Gloss=because|Lang=es|nWord=1|RX=[CONN]
 2	kohong	kohong	NOUN	_	_	4	subj	_	AlignBegin=129496|AlignEnd=129847|GE=ancestor|Gloss=ancestor|nWord=2|RX=[N]
 3	kle	kle	AUX	_	_	_	_	_	AlignBegin=129847|AlignEnd=130198|GE=be|Gloss=be|nWord=3|RX=[V]
 4	gerud	gerud	VERB	_	_	5	comp:aux/m	_	AlignBegin=130198|AlignEnd=130374|GE=speak|Gloss=speak|nWord=4|RX=[V]
@@ -539,7 +539,7 @@
 11	-nga		AUX	_	_	_	_	_	AlignBegin=131740|AlignEnd=131845|GE=[SUB]|Gloss=-SUB|nWord=8|RX=[V:ANY]
 12	,		PUNCT	_	_	_	_	_	AlignBegin=131845|AlignEnd=132160|nWord=9
 13	che	che	PRON	_	_	16	subj	_	AlignBegin=132200|AlignEnd=132450|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=10|RX=[PRO]
-14	me	me	PART	_	_	_	_	_	AlignBegin=132450|AlignEnd=132700|GE=[NEG]|Gloss=NEG|nWord=11|RX=[VERBPRT]
+14	me	me	AUX	_	_	_	_	_	AlignBegin=132450|AlignEnd=132700|GE=[NEG]|Gloss=NEG|nWord=11|RX=[VERBPRT]
 15	die	die	NOUN	_	_	16	comp:obj	_	AlignBegin=132700|AlignEnd=132950|GE=thing|Gloss=thing|nWord=12|RX=[N]
 16	ski	ski	VERB	_	_	17	comp:aux/m	_	AlignBegin=132950|AlignEnd=133075|GE=plant|Gloss=plant|nWord=13|RX=[VT]
 17	-e		AUX	_	_	14	comp:aux	_	AlignBegin=133075|AlignEnd=133200|GE=[THM]|Gloss=-THM|nWord=13|RX=[V:ANY]
@@ -603,7 +603,7 @@
 # text = y kle hoke die na boi .
 # text_en = And (they) go do other things.
 # text_ortho = y kle hoke die na boi .
-1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=145860|AlignEnd=146143|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=145860|AlignEnd=146143|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=146143|AlignEnd=146426|GE=be|Gloss=be|nWord=2|RX=[V]
 3	hoke	hoke	VERB	_	_	2	comp:aux	_	AlignBegin=146426|AlignEnd=146709|GE=go|Gloss=go|nWord=3|RX=[VI]
 4	die	die	NOUN	_	_	6	comp:obj	_	AlignBegin=146709|AlignEnd=146992|GE=thing|Gloss=thing|nWord=4|RX=[N]
@@ -796,7 +796,7 @@
 # text = entonces kiro muinga soli kle die ese dodade .
 # text_en = And so the young girls prepare those things.
 # text_ortho = entonces kiro muinga soli kle die ese dodade .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=175340|AlignEnd=175679|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=175340|AlignEnd=175679|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	kiro	kiro	NOUN	_	_	8	subj	_	AlignBegin=175679|AlignEnd=176018|GE=child|Gloss=child|nWord=2|RX=[N]
 3	muinga	muinga	NOUN	_	_	2	mod	_	AlignBegin=176018|AlignEnd=176357|GE=woman|Gloss=woman|nWord=3|RX=[N]
 4	soli	soli	NOUN	_	_	2	mod	_	AlignBegin=176357|AlignEnd=176696|GE=little|Gloss=little|nWord=4|RX=[N]
@@ -869,16 +869,16 @@
 # text = pa que gnome miaska ese be cha chiena boio miaska .
 # text_en = So that the dirty clothes will return to me... ... not dirty.
 # text_ortho = pa que gnome miaska ese be cha chiena boio miaska .
-1	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=194780|AlignEnd=195324|GE=to|Gloss=to|nWord=1|RX=[ADP]
-2	que	que	X	_	Foreign=Yes	1	compound	_	AlignBegin=195324|AlignEnd=195868|GE=that|Gloss=that|nWord=2|RX=[PRO]
+1	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=194780|AlignEnd=195324|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
+2	que	que	X	_	Foreign=Yes	1	compound	_	AlignBegin=195324|AlignEnd=195868|GE=that|Gloss=that|Lang=es|nWord=2|RX=[PRO]
 3	gnome	gnome	NOUN	_	_	_	_	_	AlignBegin=195868|AlignEnd=196412|GE=clothes|Gloss=clothes|nWord=3|RX=[N]
-4	miaska	miaska	ADJ	_	_	_	_	_	AlignBegin=196412|AlignEnd=196956|GE=dirty|Gloss=dirty|nWord=4|RX=[ADJ]
+4	miaska	miaska	ADJ	_	_	3	mod	_	AlignBegin=196412|AlignEnd=196956|GE=dirty|Gloss=dirty|nWord=4|RX=[ADJ]
 5	ese	ese	DET	_	_	_	_	_	AlignBegin=196956|AlignEnd=197500|GE=that|Gloss=that|nWord=5|RX=[DET]
 6	be	be	AUX	_	_	_	_	_	AlignBegin=197500|AlignEnd=198044|GE=[FUT]|Gloss=FUT|nWord=6|RX=[VERBPRT]
 7	cha	cha	PRON	_	_	_	_	_	AlignBegin=198044|AlignEnd=198588|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
 8	chiena	chiena	VERB	_	_	6	comp:aux	_	AlignBegin=198588|AlignEnd=199132|GE=return|Gloss=return|nWord=8|RX=[V]
 9	boio	boio	ADV	_	_	_	_	_	AlignBegin=199132|AlignEnd=199676|GE=very|Gloss=very|nWord=9|RX=[ADV]
-10	miaska	miaska	ADJ	_	_	_	_	_	AlignBegin=199676|AlignEnd=200220|GE=dirty|Gloss=dirty|nWord=10|RX=[ADJ]
+10	miaska	miaska	ADJ	_	_	8	comp:pred	_	AlignBegin=199676|AlignEnd=200220|GE=dirty|Gloss=dirty|nWord=10|RX=[ADJ]
 11	.		PUNCT	_	_	_	_	_	AlignBegin=200220|AlignEnd=200760|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-AN-00003-03_59-59
@@ -905,10 +905,10 @@
 # text = para chek -e hasta no naskoni .
 # text_en = To return good.
 # text_ortho = pa cheke ta no naskoni .
-1	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=203610|AlignEnd=203992|GE=to|Gloss=to|nWord=1|RX=[ADP]
+1	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=203610|AlignEnd=203992|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
 2	chek	chek	VERB	_	_	3	comp:aux/m	_	AlignBegin=203992|AlignEnd=204183|GE=stay|Gloss=stay|nWord=2|RX=[VI]
-3	-e		AUX	_	_	_	_	_	AlignBegin=204183|AlignEnd=204374|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
-4	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=204374|AlignEnd=204756|GE=until|Gloss=until|nWord=3|RX=[V]
+3	-e		AUX	_	_	1	comp	_	AlignBegin=204183|AlignEnd=204374|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=204374|AlignEnd=204756|GE=until|Gloss=until|Lang=es|nWord=3|RX=[V]
 5	no	no	ADJ	_	_	_	_	_	AlignBegin=204756|AlignEnd=205138|GE=good|Gloss=good|nWord=4|RX=[ADJ]
 6	naskoni	naskoni	ADV	_	_	_	_	_	AlignBegin=205138|AlignEnd=205520|GE=back|Gloss=back|nWord=5|RX=[ADV]
 7	.		PUNCT	_	_	_	_	_	AlignBegin=205520|AlignEnd=205900|Gloss=.|nWord=6
@@ -921,10 +921,10 @@
 # text = pa cheke no .
 # text_en = So (they) end up good.
 # text_ortho = pa cheke no .
-1	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=205900|AlignEnd=206132|GE=to|Gloss=to|nWord=1|RX=[ADP]
+1	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=205900|AlignEnd=206132|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
 2	chek	chek	VERB	_	_	3	comp:aux/m	_	AlignBegin=206132|AlignEnd=206248|GE=stay|Gloss=stay|nWord=2|RX=[VI]
-3	-e		AUX	_	_	_	_	_	AlignBegin=206248|AlignEnd=206364|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
-4	no	no	ADJ	_	_	_	_	_	AlignBegin=206364|AlignEnd=206596|GE=good|Gloss=good|nWord=3|RX=[ADJ]
+3	-e		AUX	_	_	1	comp	_	AlignBegin=206248|AlignEnd=206364|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	no	no	ADJ	_	_	2	comp:pred	_	AlignBegin=206364|AlignEnd=206596|GE=good|Gloss=good|nWord=3|RX=[ADJ]
 5	.		PUNCT	_	_	_	_	_	AlignBegin=206596|AlignEnd=206830|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-AN-00003-03_62-62
@@ -937,7 +937,7 @@
 # text_ortho = cheke utre naskoni .
 1	chek	chek	VERB	_	_	2	comp:aux/m	_	AlignBegin=207450|AlignEnd=207735|GE=stay|Gloss=stay|nWord=1|RX=[VI]
 2	-e		AUX	_	_	_	_	_	AlignBegin=207735|AlignEnd=208020|GE=[THM]|Gloss=-THM|nWord=1|RX=[V:ANY]
-3	utre	utre	ADJ	_	_	_	_	_	AlignBegin=208020|AlignEnd=208590|GE=white|Gloss=white|nWord=2|RX=[ADJ]
+3	utre	utre	ADJ	_	_	1	comp:pred	_	AlignBegin=208020|AlignEnd=208590|GE=white|Gloss=white|nWord=2|RX=[ADJ]
 4	naskoni	naskoni	ADV	_	_	_	_	_	AlignBegin=208590|AlignEnd=209160|GE=back|Gloss=back|nWord=3|RX=[ADV]
 5	.		PUNCT	_	_	_	_	_	AlignBegin=209160|AlignEnd=209730|Gloss=.|nWord=4
 
@@ -974,8 +974,8 @@
 # text = pa que gnome cheke trate .
 # text_en = So the clothes end up clean.
 # text_ortho = pa que gnome cheke trate .
-1	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=215660|AlignEnd=215996|GE=to|Gloss=to|nWord=1|RX=[ADP]
-2	que	que	X	_	Foreign=Yes	1	compound	_	AlignBegin=215996|AlignEnd=216332|GE=that|Gloss=that|nWord=2|RX=[PRO]
+1	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=215660|AlignEnd=215996|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
+2	que	que	X	_	Foreign=Yes	1	compound	_	AlignBegin=215996|AlignEnd=216332|GE=that|Gloss=that|Lang=es|nWord=2|RX=[PRO]
 3	gnome	gnome	NOUN	_	_	4	subj	_	AlignBegin=216332|AlignEnd=216668|GE=clothes|Gloss=clothes|nWord=3|RX=[N]
 4	chek	chek	VERB	_	_	5	comp:aux/m	_	AlignBegin=216668|AlignEnd=216836|GE=stay|Gloss=stay|nWord=4|RX=[VI]
 5	-e		AUX	_	_	_	_	_	AlignBegin=216836|AlignEnd=217004|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
@@ -991,7 +991,7 @@
 # text_en = We don't use chlore.
 # text_ortho = che me kle kloro usano .
 1	che	che	PRON	_	_	5	subj	_	AlignBegin=218510|AlignEnd=218862|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
-2	me	me	PART	_	_	0	root	_	AlignBegin=218862|AlignEnd=219214|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	_	0	root	_	AlignBegin=218862|AlignEnd=219214|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	kle	kle	AUX	_	_	2	comp:aux	_	AlignBegin=219214|AlignEnd=219566|GE=be|Gloss=be|nWord=3|RX=[V]
 4	chloro	chloro	NOUN	_	_	5	comp:obj	_	AlignBegin=219566|AlignEnd=219918|GE=chlorine|Gloss=chlorine|nWord=4|RX=[N]
 5	usano	usano	VERB	_	_	3	comp:aux	_	AlignBegin=219918|AlignEnd=220270|GE=use|Gloss=use|nWord=5|RX=[V]
@@ -1006,13 +1006,13 @@
 # text_en = I don't use the pounded thing (the washing powder).
 # text_ortho = cha me kle ete die dakale usale .
 1	cha	cha	PRON	_	_	8	subj	_	AlignBegin=220710|AlignEnd=221371|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	me	me	PART	_	_	0	root	_	AlignBegin=221371|AlignEnd=222032|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	_	0	root	_	AlignBegin=221371|AlignEnd=222032|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	kle	kle	AUX	_	_	2	comp:aux	_	AlignBegin=222032|AlignEnd=222693|GE=be|Gloss=be|nWord=3|RX=[V]
 4	este	este	DET	_	_	5	det	_	AlignBegin=222693|AlignEnd=223354|GE=that|Gloss=that|nWord=4|RX=[DET]
 5	die	die	NOUN	_	_	8	comp:obj	_	AlignBegin=223354|AlignEnd=224015|GE=thing|Gloss=thing|nWord=5|RX=[N]
 6	daka	daka	VERB	_	_	7	comp:aux/m	_	AlignBegin=224015|AlignEnd=224345|GE=pound|Gloss=pound|nWord=6|RX=[V]
 7	-le		AUX	_	_	5	mod	_	AlignBegin=224345|AlignEnd=224676|GE=[ADJZ]|Gloss=-ADJZ|nWord=6|RX=[N>ADJ]
-8	usale	usale	VERB	_	Foreign=Yes	3	comp:aux	_	AlignBegin=224676|AlignEnd=225337|GE=use|Gloss=use|nWord=7|RX=[V]
+8	usale	usale	VERB	_	Foreign=Yes	3	comp:aux	_	AlignBegin=224676|AlignEnd=225337|GE=use|Gloss=use|Lang=es|nWord=7|RX=[V]
 9	.		PUNCT	_	_	2	punct	_	AlignBegin=225337|AlignEnd=226000|Gloss=.|nWord=8
 
 # sent_id = SAB-TXT-AN-00003-03_67-67
@@ -1036,8 +1036,8 @@
 # text = pero ma uswiali cha chebia cha nienua no sabe jabon usale .
 # text_en = But before, my mother and my father didn't know how to use soap.
 # text_ortho = pero ma uswiali cha chebia cha nienua no sabe jabon usale .
-1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=229540|AlignEnd=229971|GE=but|Gloss=but|nWord=1|RX=[COORDCONN]
-2	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=229971|AlignEnd=230402|GE=more|Gloss=more|nWord=2|RX=[ADV]
+1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=229540|AlignEnd=229971|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
+2	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=229971|AlignEnd=230402|GE=more|Gloss=more|Lang=es|nWord=2|RX=[ADV]
 3	uswiali	uswiali	ADV	_	_	_	_	_	AlignBegin=230402|AlignEnd=230833|GE=before|Gloss=before|nWord=3|RX=[ADV]
 4	cha	cha	PRON	_	_	6	udep:poss	_	AlignBegin=230833|AlignEnd=231264|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
 5	chebi	chebi	NOUN	_	_	6	comp:aux/m	_	AlignBegin=231264|AlignEnd=231480|GE=mother|Gloss=mother|nWord=5|RX=[N]
@@ -1045,10 +1045,10 @@
 7	cha	cha	PRON	_	_	9	udep:poss	_	AlignBegin=231695|AlignEnd=232126|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
 8	nienu	nienu	NOUN	_	_	9	comp:aux/m	_	AlignBegin=232126|AlignEnd=232342|GE=father|Gloss=father|nWord=7|RX=[N]
 9	-a		AUX	_	_	_	_	_	AlignBegin=232342|AlignEnd=232557|GE=[POSS]|Gloss=-POSS|nWord=7|RX=[N:ANY]
-10	no	no	PART	_	_	_	_	_	AlignBegin=232557|AlignEnd=232988|GE=[NEG]|Gloss=NEG|nWord=8|RX=[VERBPRT]
+10	no	no	AUX	_	_	_	_	_	AlignBegin=232557|AlignEnd=232988|GE=[NEG]|Gloss=NEG|nWord=8|RX=[VERBPRT]
 11	sabe	sabe	VERB	_	_	10	comp:aux	_	AlignBegin=232988|AlignEnd=233419|GE=know|Gloss=know|nWord=9|RX=[V]
 12	jabon	jabon	NOUN	_	_	13	comp:obj	_	AlignBegin=233419|AlignEnd=233850|GE=soap|Gloss=soap|nWord=10|RX=[N]
-13	usale	usale	VERB	_	Foreign=Yes	_	_	_	AlignBegin=233850|AlignEnd=234281|GE=use|Gloss=use|nWord=11|RX=[V]
+13	usale	usale	VERB	_	Foreign=Yes	_	_	_	AlignBegin=233850|AlignEnd=234281|GE=use|Gloss=use|Lang=es|nWord=11|RX=[V]
 14	.		PUNCT	_	_	_	_	_	AlignBegin=234281|AlignEnd=234708|Gloss=.|nWord=12
 
 # sent_id = SAB-TXT-AN-00003-03_69-69
@@ -1062,7 +1062,7 @@
 1	kwia	kwia	NOUN	_	_	2	subj	_	AlignBegin=235340|AlignEnd=235907|GE=people|Gloss=people|nWord=1|RX=[N]
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=235907|AlignEnd=236191|GE=come|Gloss=come|nWord=2|RX=[VI]
 3	-u		AUX	_	_	0	root	_	AlignBegin=236191|AlignEnd=236474|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-4	escuela	escuela	NOUN	_	Foreign=Yes	5	comp	_	AlignBegin=236474|AlignEnd=237041|GE=school|Gloss=school|nWord=3|RX=[N]
+4	escuela	escuela	NOUN	_	Foreign=Yes	5	comp	_	AlignBegin=236474|AlignEnd=237041|GE=school|Gloss=school|Lang=es|nWord=3|RX=[N]
 5	dike	dike	ADP	_	_	2	comp:obl	_	AlignBegin=237041|AlignEnd=237608|GE=[INST]|Gloss=INST|nWord=4|RX=[ADP]
 6	.		PUNCT	_	_	3	punct	_	AlignBegin=237608|AlignEnd=238176|Gloss=.|nWord=5
 
@@ -1080,7 +1080,7 @@
 4	mil	mil	NUM	_	_	_	_	_	AlignBegin=241537|AlignEnd=242086|GE=thousand|Gloss=thousand|nWord=4|RX=[NUM]
 5	noveciento	noveciento	NUM	_	_	_	_	_	AlignBegin=242086|AlignEnd=242635|GE=nine_hundred|Gloss=nine_hundred|nWord=5|RX=[NUM]
 6	setenta	setenta	NUM	_	_	_	_	_	AlignBegin=242635|AlignEnd=243184|GE=seventy|Gloss=seventy|nWord=6|RX=[NUM]
-7	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=243184|AlignEnd=243733|GE=and|Gloss=and|nWord=7|RX=[COORDCONN]
+7	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=243184|AlignEnd=243733|GE=and|Gloss=and|Lang=es|nWord=7|RX=[COORDCONN]
 8	uno	uno	NUM	_	_	_	_	_	AlignBegin=243733|AlignEnd=244282|GE=one|Gloss=one|nWord=8|RX=[NUM]
 9	kwia	kwia	NOUN	_	_	_	_	_	AlignBegin=244282|AlignEnd=244831|GE=people|Gloss=people|nWord=9|RX=[N]
 10	geru	geru	NOUN	_	_	_	_	_	AlignBegin=244831|AlignEnd=245380|GE=story|Gloss=story|nWord=10|RX=[N]
@@ -1098,10 +1098,10 @@
 # text = pero ma antes ma uswili no .
 # text_en = But before, no.
 # text_ortho = pero ma antes ma uswili no .
-1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=248430|AlignEnd=249010|GE=but|Gloss=but|nWord=1|RX=[COORDCONN]
-2	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=249010|AlignEnd=249590|GE=more|Gloss=more|nWord=2|RX=[ADV]
+1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=248430|AlignEnd=249010|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
+2	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=249010|AlignEnd=249590|GE=more|Gloss=more|Lang=es|nWord=2|RX=[ADV]
 3	antes	antes	ADV	_	_	_	_	_	AlignBegin=249590|AlignEnd=250170|GE=before|Gloss=before|nWord=3|RX=[ADV]
-4	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=250170|AlignEnd=250750|GE=more|Gloss=more|nWord=4|RX=[ADV]
+4	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=250170|AlignEnd=250750|GE=more|Gloss=more|Lang=es|nWord=4|RX=[ADV]
 5	uswili	uswili	ADV	_	_	_	_	_	AlignBegin=250750|AlignEnd=251330|GE=before|Gloss=before|nWord=5|RX=[ADV]
 6	no	no	PART	_	_	_	_	_	AlignBegin=251330|AlignEnd=251910|GE=[NEG]|Gloss=NEG|nWord=6|RX=[VERBPRT]
 7	.		PUNCT	_	_	_	_	_	AlignBegin=251910|AlignEnd=252490|Gloss=.|nWord=7
@@ -1165,9 +1165,9 @@
 # text = todo die miaska chienga hegwale .
 # text_en = All the things that got dirty on the side.
 # text_ortho = todo die miaska chienga hegwale .
-1	todo	todo	DET	_	_	_	_	_	AlignBegin=265360|AlignEnd=265825|GE=all|Gloss=all|nWord=1|RX=[DET]
+1	todo	todo	DET	_	_	2	det	_	AlignBegin=265360|AlignEnd=265825|GE=all|Gloss=all|nWord=1|RX=[DET]
 2	die	die	NOUN	_	_	_	_	_	AlignBegin=265825|AlignEnd=266290|GE=thing|Gloss=thing|nWord=2|RX=[N]
-3	miaska	miaska	ADJ	_	_	_	_	_	AlignBegin=266290|AlignEnd=266755|GE=dirty|Gloss=dirty|nWord=3|RX=[ADJ]
+3	miaska	miaska	ADJ	_	_	2	mod	_	AlignBegin=266290|AlignEnd=266755|GE=dirty|Gloss=dirty|nWord=3|RX=[ADJ]
 4	chi	chi	VERB	_	_	5	comp:aux/m	_	AlignBegin=266755|AlignEnd=266910|GE=come|Gloss=come|nWord=4|RX=[VI]
 5	-e		AUX	_	_	6	comp:aux/m	_	AlignBegin=266910|AlignEnd=267065|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 6	-nga		AUX	_	_	_	_	_	AlignBegin=267065|AlignEnd=267220|GE=[SUB]|Gloss=-SUB|nWord=4|RX=[V:ANY]

@@ -36,7 +36,7 @@
 5	-u		AUX	_	_	_	_	_	AlignBegin=13942|AlignEnd=14067|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
 6	toi	toi	VERB	_	_	_	_	_	AlignBegin=14067|AlignEnd=14316|GE=live|Gloss=live|nWord=4|RX=[VI]
 7	,		PUNCT	_	_	_	_	_	AlignBegin=14316|AlignEnd=14565|nWord=5
-8	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=14565|AlignEnd=14913|GE=so|Gloss=so|nWord=6|RX=[ADV]
+8	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=14565|AlignEnd=14913|GE=so|Gloss=so|Lang=es|nWord=6|RX=[ADV]
 9	hong	hong	NOUN	_	_	10	comp:obj	_	AlignBegin=14913|AlignEnd=15261|GE=path|Gloss=path|nWord=7|RX=[N]
 10	dodad	dodad	VERB	_	_	11	comp:aux/m	_	AlignBegin=15261|AlignEnd=15435|GE=make|Gloss=make|nWord=8|RX=[VT]
 11	-u		AUX	_	_	_	_	_	AlignBegin=15435|AlignEnd=15609|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]
@@ -59,7 +59,7 @@
 7	hong	hong	NOUN	_	_	8	comp:obj	_	AlignBegin=18490|AlignEnd=19555|GE=path|Gloss=path|nWord=7|RX=[N]
 8	dodad	dodad	VERB	_	_	9	comp:aux/m	_	AlignBegin=19555|AlignEnd=20087|GE=make|Gloss=make|nWord=8|RX=[VT]
 9	-u		AUX	_	_	_	_	_	AlignBegin=20087|AlignEnd=20620|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]
-10	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=20620|AlignEnd=21685|GE=more|Gloss=more|nWord=9|RX=[ADV]
+10	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=20620|AlignEnd=21685|GE=more|Gloss=more|Lang=es|nWord=9|RX=[ADV]
 11	bulitra	bulitra	ADJ	_	_	_	_	_	AlignBegin=21685|AlignEnd=22750|GE=close|Gloss=close|nWord=10|RX=[ADJ]
 12	.		PUNCT	_	_	_	_	_	AlignBegin=22750|AlignEnd=23815|Gloss=.|nWord=11
 
@@ -119,7 +119,7 @@
 2	dodad	dodad	VERB	_	_	3	comp:aux/m	_	AlignBegin=33865|AlignEnd=34010|GE=make|Gloss=make|nWord=2|RX=[VT]
 3	-u		AUX	_	_	_	_	_	AlignBegin=34010|AlignEnd=34155|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	ai	ai	ADV	_	_	_	_	_	AlignBegin=34155|AlignEnd=34445|GE=here|Gloss=here|nWord=3|RX=[ADV]
-5	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=34445|AlignEnd=34735|GE=to|Gloss=to|nWord=4|RX=[ADP]
+5	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=34445|AlignEnd=34735|GE=to|Gloss=to|Lang=es|nWord=4|RX=[ADP]
 6	salir	salir	VERB	_	_	_	_	_	AlignBegin=34735|AlignEnd=35025|GE=exit|Gloss=exit|nWord=5|RX=[V]
 7	ble	ble	NOUN	_	_	8	comp	_	AlignBegin=35025|AlignEnd=35315|GE=sea|Gloss=sea|nWord=6|RX=[N]
 8	ke	ke	ADP	_	_	6	comp:obl	_	AlignBegin=35315|AlignEnd=35605|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
@@ -149,8 +149,8 @@
 1	hong	hong	NOUN	_	_	_	_	_	AlignBegin=39585|AlignEnd=39895|GE=path|Gloss=path|nWord=1|RX=[N]
 2	e	e	ADV	_	_	_	_	_	AlignBegin=39895|AlignEnd=40205|GE=now|Gloss=now|nWord=2|RX=[ADV]
 3	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=40205|AlignEnd=40515|GE=go|Gloss=go|nWord=3|RX=[VI]
-4	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=40515|AlignEnd=40825|GE=to|Gloss=to|nWord=4|RX=[ADP]
-5	Rio	Rio	NOUN	_	_	_	_	_	AlignBegin=40825|AlignEnd=41135|GE=[Rio]|Gloss=Rio|nWord=5|RX=[N]
+4	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=40515|AlignEnd=40825|GE=to|Gloss=to|Lang=es|nWord=4|RX=[ADP]
+5	Rio	Rio	NOUN	_	_	4	comp	_	AlignBegin=40825|AlignEnd=41135|GE=[Rio]|Gloss=Rio|nWord=5|RX=[N]
 6	Luis	Luis	PROPN	_	_	_	_	_	AlignBegin=41135|AlignEnd=41445|GE=[Luis]|Gloss=Luis|nWord=6|RX=[NPROP]
 7	.		PUNCT	_	_	_	_	_	AlignBegin=41445|AlignEnd=41755|Gloss=.|nWord=7
 
@@ -162,12 +162,12 @@
 # text = pa hoke Rio Luis , hay tres nga .
 # text_en = To go to Rio Luis, There are three villages.
 # text_ortho = pa hoke Rio Luis , hay tres nga .
-1	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=42110|AlignEnd=42444|GE=to|Gloss=to|nWord=1|RX=[ADP]
+1	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=42110|AlignEnd=42444|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
 2	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=42444|AlignEnd=42778|GE=go|Gloss=go|nWord=2|RX=[VI]
 3	Rio	Rio	NOUN	_	_	_	_	_	AlignBegin=42778|AlignEnd=43112|GE=[Rio]|Gloss=Rio|nWord=3|RX=[N]
 4	Luis	Luis	PROPN	_	_	_	_	_	AlignBegin=43112|AlignEnd=43446|GE=[Luis]|Gloss=Luis|nWord=4|RX=[NPROP]
 5	,		PUNCT	_	_	_	_	_	AlignBegin=43446|AlignEnd=43780|nWord=5
-6	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=44500|AlignEnd=45592|GE=there_is|Gloss=there_is|nWord=6|RX=[V]
+6	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=44500|AlignEnd=45592|GE=there_is|Gloss=there_is|Lang=es|nWord=6|RX=[V]
 7	tres	tres	NUM	_	_	_	_	_	AlignBegin=45592|AlignEnd=46684|GE=three|Gloss=three|nWord=7|RX=[NUM]
 8	nga	nga	NOUN	_	_	_	_	_	AlignBegin=46684|AlignEnd=47776|GE=village|Gloss=village|nWord=8|RX=[N]
 9	.		PUNCT	_	_	_	_	_	AlignBegin=47776|AlignEnd=48870|Gloss=.|nWord=9
@@ -180,12 +180,12 @@
 # text = hay nga Terron Cuay y asi gire chi kle chage .
 # text_en = There are the villages of Terron, Cuay and then comes the river (Rio Luis).
 # text_ortho = hay nga Terron Cuay y asi gire chi kle chage .
-1	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=48870|AlignEnd=49554|GE=there_is|Gloss=there_is|nWord=1|RX=[V]
+1	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=48870|AlignEnd=49554|GE=there_is|Gloss=there_is|Lang=es|nWord=1|RX=[V]
 2	nga	nga	NOUN	_	_	_	_	_	AlignBegin=49554|AlignEnd=50238|GE=village|Gloss=village|nWord=2|RX=[N]
 3	Terron	Terron	PROPN	_	_	_	_	_	AlignBegin=50238|AlignEnd=50922|GE=[Terron]|Gloss=Terron|nWord=3|RX=[NPROP]
 4	Cuay	Cuay	PROPN	_	_	_	_	_	AlignBegin=50922|AlignEnd=51606|GE=[Cuay]|Gloss=Cuay|nWord=4|RX=[NPROP]
-5	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=51606|AlignEnd=52290|GE=and|Gloss=and|nWord=5|RX=[COORDCONN]
-6	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=52290|AlignEnd=52974|GE=like_that|Gloss=like_that|nWord=6|RX=[ADV]
+5	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=51606|AlignEnd=52290|GE=and|Gloss=and|Lang=es|nWord=5|RX=[COORDCONN]
+6	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=52290|AlignEnd=52974|GE=like_that|Gloss=like_that|Lang=es|nWord=6|RX=[ADV]
 7	gire	gire	ADV	_	_	_	_	_	AlignBegin=52974|AlignEnd=53658|GE=then|Gloss=then|nWord=7|RX=[ADV]
 8	chi	chi	NOUN	_	_	10	subj	_	AlignBegin=53658|AlignEnd=54342|GE=water|Gloss=water|nWord=8|RX=[N]
 9	kle	kle	AUX	_	_	_	_	_	AlignBegin=54342|AlignEnd=55026|GE=be|Gloss=be|nWord=9|RX=[V]
@@ -207,13 +207,13 @@
 5	gwa	gwa	NUM	_	_	6	clf	_	AlignBegin=59140|AlignEnd=59410|GE=cl|Gloss=cl|nWord=4|RX=[NUM]
 6	tika	tika	NUM	_	_	2	mod	_	AlignBegin=59410|AlignEnd=59680|GE=five|Gloss=five|nWord=4|RX=[NUM]
 7	kle	kle	AUX	_	_	_	_	_	AlignBegin=59680|AlignEnd=60220|GE=be|Gloss=be|nWord=5|RX=[V]
-8	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=60220|AlignEnd=60760|GE=to|Gloss=to|nWord=6|RX=[ADP]
+8	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=60220|AlignEnd=60760|GE=to|Gloss=to|Lang=es|nWord=6|RX=[ADP]
 9	chk	chk	VERB	_	_	10	comp:aux/m	_	AlignBegin=60760|AlignEnd=61030|GE=arrive|Gloss=arrive|nWord=7|RX=[VI]
-10	-e		AUX	_	_	_	_	_	AlignBegin=61030|AlignEnd=61300|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
+10	-e		AUX	_	_	8	comp	_	AlignBegin=61030|AlignEnd=61300|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
 11	iani	iani	ADV	_	_	_	_	_	AlignBegin=61300|AlignEnd=61840|GE=there|Gloss=there|nWord=8|RX=[ADV]
 12	,		PUNCT	_	_	_	_	_	AlignBegin=61840|AlignEnd=62380|nWord=9
-13	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=62590|AlignEnd=63570|GE=to|Gloss=to|nWord=10|RX=[ADP]
-14	Rio	Rio	NOUN	_	_	_	_	_	AlignBegin=63570|AlignEnd=64550|GE=[Rio]|Gloss=Rio|nWord=11|RX=[N]
+13	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=62590|AlignEnd=63570|GE=to|Gloss=to|Lang=es|nWord=10|RX=[ADP]
+14	Rio	Rio	NOUN	_	_	13	comp	_	AlignBegin=63570|AlignEnd=64550|GE=[Rio]|Gloss=Rio|nWord=11|RX=[N]
 15	Luis	Luis	PROPN	_	_	_	_	_	AlignBegin=64550|AlignEnd=65530|GE=[Luis]|Gloss=Luis|nWord=12|RX=[NPROP]
 16	.		PUNCT	_	_	_	_	_	AlignBegin=65530|AlignEnd=66510|Gloss=.|nWord=13
 

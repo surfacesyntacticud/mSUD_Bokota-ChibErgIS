@@ -58,7 +58,7 @@
 5	tk	tk	VERB	_	_	6	comp:aux/m	_	AlignBegin=27710|AlignEnd=27792|GE=put|Gloss=put|nWord=5|RX=[VT]
 6	-e		AUX	_	_	3	comp:aux	_	AlignBegin=27792|AlignEnd=27874|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	diku	diku	ADV	_	_	8	comp:aux/m	_	AlignBegin=27874|AlignEnd=27956|GE=down|Gloss=down|nWord=5|RX=[ADV]
-8	-da		PART	_	_	_	_	_	AlignBegin=27956|AlignEnd=28040|GE=emph|Gloss=emph|nWord=5|RX=[VERB]
+8	-da		AUX	_	_	_	_	_	AlignBegin=27956|AlignEnd=28040|GE=emph|Gloss=emph|nWord=5|RX=[VERB]
 9	.		PUNCT	_	_	_	_	_	AlignBegin=28040|AlignEnd=28370|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-HO-00000-02_05-05
@@ -74,7 +74,7 @@
 3	tk	tk	VERB	_	_	4	comp:aux/m	_	AlignBegin=29221|AlignEnd=29321|GE=put|Gloss=put|nWord=3|RX=[VT]
 4	-e		AUX	_	_	1	comp:aux	_	AlignBegin=29321|AlignEnd=29421|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	diku	diku	ADV	_	_	6	comp:aux/m	_	AlignBegin=29421|AlignEnd=29521|GE=down|Gloss=down|nWord=3|RX=[ADV]
-6	-da		PART	_	_	_	_	_	AlignBegin=29521|AlignEnd=29619|GE=emph|Gloss=emph|nWord=3|RX=[VERB]
+6	-da		AUX	_	_	_	_	_	AlignBegin=29521|AlignEnd=29619|GE=emph|Gloss=emph|nWord=3|RX=[VERB]
 7	.		PUNCT	_	_	1	punct	_	AlignBegin=29619|AlignEnd=30015|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-HO-00000-02_06-06
@@ -124,8 +124,8 @@
 5	ke	ke	ADP	_	_	_	_	_	AlignBegin=38059|AlignEnd=38345|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
 6	luk	luk	VERB	_	_	7	comp:aux/m	_	AlignBegin=38345|AlignEnd=38488|GE=link|Gloss=link|nWord=6|RX=[VT]
 7	-e		AUX	_	_	_	_	_	AlignBegin=38488|AlignEnd=38631|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
-8	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=38631|AlignEnd=38917|GE=up|Gloss=up|nWord=7|RX=[ADV]
-9	u	u	NOUN	_	_	_	_	_	AlignBegin=38917|AlignEnd=39203|GE=house|Gloss=house|nWord=8|RX=[N]
+8	ngania	ngania	ADV	_	_	6	mod:lmod	_	AlignBegin=38631|AlignEnd=38917|GE=up|Gloss=up|nWord=7|RX=[ADV]
+9	u	u	NOUN	_	_	10	:poss	_	AlignBegin=38917|AlignEnd=39203|GE=house|Gloss=house|nWord=8|RX=[N]
 10	sing	sing	NOUN	_	_	11	comp	_	AlignBegin=39203|AlignEnd=39489|GE=nose|Gloss=nose|nWord=9|RX=[N]
 11	ke	ke	ADP	_	_	6	comp:obl	_	AlignBegin=39489|AlignEnd=39775|GE=[LOC]|Gloss=LOC|nWord=10|RX=[ADP]
 12	.		PUNCT	_	_	_	_	_	AlignBegin=39775|AlignEnd=40065|Gloss=.|nWord=11
@@ -166,7 +166,7 @@
 # text_en = When the sun is on that side, (He) link the ugda at the top.
 # text_ortho = chui ta giti ngongku , kle ugda ngania luke .
 1	chui	chui	NOUN	_	_	_	_	_	AlignBegin=44225|AlignEnd=44875|GE=sun|Gloss=sun|nWord=1|RX=[N]
-2	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=44875|AlignEnd=45525|GE=be|Gloss=be|nWord=2|RX=[V]
+2	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=44875|AlignEnd=45525|GE=be|Gloss=be|Lang=es|nWord=2|RX=[V]
 3	giti	giti	ADP	_	_	_	_	_	AlignBegin=45525|AlignEnd=46175|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
 4	ngongku	ngongku	ADV	_	_	_	_	_	AlignBegin=46175|AlignEnd=46825|GE=other.side|Gloss=other.side|nWord=4|RX=[ADV]
 5	,		PUNCT	_	_	_	_	_	AlignBegin=46825|AlignEnd=47475|nWord=5
@@ -238,8 +238,8 @@
 # text = pa que ugda ngania me chiediku .
 # text_en = So that the ugda on top don't fall.
 # text_ortho = pa que ugda ngania me chiediku .
-1	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=58310|AlignEnd=58669|GE=to|Gloss=to|nWord=1|RX=[ADP]
-2	que	que	X	_	Foreign=Yes	1	compound	_	AlignBegin=58669|AlignEnd=59028|GE=that|Gloss=that|nWord=2|RX=[PRO]
+1	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=58310|AlignEnd=58669|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
+2	que	que	X	_	Foreign=Yes	1	compound	_	AlignBegin=58669|AlignEnd=59028|GE=that|Gloss=that|Lang=es|nWord=2|RX=[PRO]
 3	ugda	ugda	NOUN	_	_	_	_	_	AlignBegin=59028|AlignEnd=59387|GE=tree_type|Gloss=tree_type|nWord=3|RX=[N]
 4	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=59387|AlignEnd=59746|GE=up|Gloss=up|nWord=4|RX=[ADV]
 5	me	me	PART	_	_	_	_	_	AlignBegin=59746|AlignEnd=60105|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
@@ -317,7 +317,7 @@
 # text_ortho = ( kle y ).
 1	(		PUNCT	_	_	_	_	_	AlignBegin=72020|AlignEnd=72330|nWord=1
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=72330|AlignEnd=72640|GE=be|Gloss=be|nWord=2|RX=[V]
-3	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=72640|AlignEnd=72950|GE=and|Gloss=and|nWord=3|RX=[COORDCONN]
+3	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=72640|AlignEnd=72950|GE=and|Gloss=and|Lang=es|nWord=3|RX=[COORDCONN]
 4	).		_	_	_	_	_	_	AlignBegin=72950|AlignEnd=73260|nWord=4
 
 # sent_id = SAB-TXT-HO-00000-02_24-24
@@ -420,7 +420,7 @@
 3	baka	baka	NOUN	_	_	4	comp	_	AlignBegin=89941|AlignEnd=90299|GE=four|Gloss=four|nWord=3|RX=[N]
 4	ke	ke	ADP	_	_	_	_	_	AlignBegin=90299|AlignEnd=90657|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
 5	u	u	NOUN	_	_	_	_	_	AlignBegin=90657|AlignEnd=91015|GE=house|Gloss=house|nWord=5|RX=[N]
-6	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=91015|AlignEnd=91373|GE=be|Gloss=be|nWord=6|RX=[V]
+6	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=91015|AlignEnd=91373|GE=be|Gloss=be|Lang=es|nWord=6|RX=[V]
 7	dike	dike	ADP	_	_	_	_	_	AlignBegin=91373|AlignEnd=91731|GE=[INST]|Gloss=INST|nWord=7|RX=[ADP]
 8	.		PUNCT	_	_	_	_	_	AlignBegin=91731|AlignEnd=92085|Gloss=.|nWord=8
 
@@ -433,7 +433,7 @@
 # text_en = The house is finished with the cacao ends.
 # text_ortho = u ta dike ku batenga .
 1	u	u	NOUN	_	_	_	_	_	AlignBegin=93610|AlignEnd=93968|GE=house|Gloss=house|nWord=1|RX=[N]
-2	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=93968|AlignEnd=94326|GE=be|Gloss=be|nWord=2|RX=[V]
+2	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=93968|AlignEnd=94326|GE=be|Gloss=be|Lang=es|nWord=2|RX=[V]
 3	dike	dike	ADP	_	_	_	_	_	AlignBegin=94326|AlignEnd=94684|GE=[INST]|Gloss=INST|nWord=3|RX=[ADP]
 4	ku	ku	NOUN	_	_	_	_	_	AlignBegin=94684|AlignEnd=95042|GE=cacao|Gloss=cacao|nWord=4|RX=[N]
 5	batenga	batenga	VERB	_	_	_	_	_	AlignBegin=95042|AlignEnd=95400|GE=[end].[NPST]|Gloss=end.NPST|nWord=5|RX=[V]
@@ -447,7 +447,7 @@
 # text = ya che gna toi u ai giti .
 # text_en = Now the village can live in this house.
 # text_ortho = ya che gna toi u ai giti .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=95770|AlignEnd=96048|GE=now|Gloss=now|nWord=1|RX=[ADV]
+1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=95770|AlignEnd=96048|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	che	che	PRON	_	_	4	subj	_	AlignBegin=96048|AlignEnd=96326|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
 3	gna	gna	AUX	_	_	_	_	_	AlignBegin=96326|AlignEnd=96604|GE=can|Gloss=can|nWord=3|RX=[V]
 4	toi	toi	VERB	_	_	3	comp:aux	_	AlignBegin=96604|AlignEnd=96882|GE=live|Gloss=live|nWord=4|RX=[VI]
@@ -464,16 +464,16 @@
 # text = me ku hai u ta y giti , che me gna toi sainkuli .
 # text_en = If (he) doesn't drink the cacao in the house, They can't live in it, (it is) forbiden.
 # text_ortho = me ku hai u ta y giti , che me gna toi sainkuli .
-1	me	me	PART	_	_	_	_	_	AlignBegin=98235|AlignEnd=98513|GE=[NEG]|Gloss=NEG|nWord=1|RX=[VERBPRT]
+1	me	me	AUX	_	_	_	_	_	AlignBegin=98235|AlignEnd=98513|GE=[NEG]|Gloss=NEG|nWord=1|RX=[VERBPRT]
 2	ku	ku	NOUN	_	_	3	comp:obj	_	AlignBegin=98513|AlignEnd=98791|GE=cacao|Gloss=cacao|nWord=2|RX=[N]
 3	hai	hai	VERB	_	_	1	comp:aux	_	AlignBegin=98791|AlignEnd=99069|GE=drink|Gloss=drink|nWord=3|RX=[VT]
 4	u	u	NOUN	_	_	_	_	_	AlignBegin=99069|AlignEnd=99347|GE=house|Gloss=house|nWord=4|RX=[N]
-5	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=99347|AlignEnd=99625|GE=be|Gloss=be|nWord=5|RX=[V]
-6	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=99625|AlignEnd=99903|GE=and|Gloss=and|nWord=6|RX=[COORDCONN]
+5	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=99347|AlignEnd=99625|GE=be|Gloss=be|Lang=es|nWord=5|RX=[V]
+6	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=99625|AlignEnd=99903|GE=and|Gloss=and|Lang=es|nWord=6|RX=[COORDCONN]
 7	giti	giti	ADP	_	_	_	_	_	AlignBegin=99903|AlignEnd=100181|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
 8	,		PUNCT	_	_	_	_	_	AlignBegin=100181|AlignEnd=100455|nWord=8
 9	che	che	PRON	_	_	12	subj	_	AlignBegin=100680|AlignEnd=100980|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=9|RX=[PRO]
-10	me	me	PART	_	_	_	_	_	AlignBegin=100980|AlignEnd=101280|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]
+10	me	me	AUX	_	_	_	_	_	AlignBegin=100980|AlignEnd=101280|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]
 11	gna	gna	AUX	_	_	10	comp:aux	_	AlignBegin=101280|AlignEnd=101580|GE=can|Gloss=can|nWord=11|RX=[V]
 12	toi	toi	VERB	_	_	11	comp:aux	_	AlignBegin=101580|AlignEnd=101880|GE=live|Gloss=live|nWord=12|RX=[VI]
 13	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=101880|AlignEnd=102180|GE=forbidden|Gloss=forbidden|nWord=13|RX=[ADV]
@@ -489,7 +489,7 @@
 # text_ortho = enusuli uswili ya nene .
 1	enusuli	enusuli	NOUN	_	_	4	subj	_	AlignBegin=102625|AlignEnd=103115|GE=grandfather|Gloss=grandfather|nWord=1|RX=[N]
 2	uswili	uswili	ADV	_	_	_	_	_	AlignBegin=103115|AlignEnd=103605|GE=before|Gloss=before|nWord=2|RX=[ADV]
-3	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=103605|AlignEnd=104095|GE=now|Gloss=now|nWord=3|RX=[ADV]
+3	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=103605|AlignEnd=104095|GE=now|Gloss=now|Lang=es|nWord=3|RX=[ADV]
 4	nene	nene	VERB	_	_	0	root	_	AlignBegin=104095|AlignEnd=104585|GE=explain|Gloss=explain|nWord=4|RX=[V]
 5	.		PUNCT	_	_	4	punct	_	AlignBegin=104585|AlignEnd=105075|Gloss=.|nWord=5
 

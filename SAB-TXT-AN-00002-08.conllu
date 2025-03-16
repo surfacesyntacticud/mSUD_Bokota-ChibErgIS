@@ -24,7 +24,7 @@
 # text = entonces cha gale cha gutre , entonces cha tkere honiku .
 # text_en = I was picked up and eaten. So I was put away.
 # text_ortho = entonces cha gale cha gutre , entonces cha tkere honiku .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=19870|AlignEnd=20750|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=19870|AlignEnd=20750|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	_	_	_	AlignBegin=20750|AlignEnd=21630|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	ga	gai	VERB	_	_	4	comp:aux/m	_	AlignBegin=21630|AlignEnd=22070|GE=pick_up|Gloss=pick_up|nWord=3|RX=[VT]
 4	-le		AUX	_	_	_	_	_	AlignBegin=22070|AlignEnd=22510|GE=[ADJZ]|Gloss=-ADJZ|nWord=3|RX=[N>ADJ]
@@ -32,7 +32,7 @@
 6	gut	gut	VERB	_	_	7	comp:aux/m	_	AlignBegin=23390|AlignEnd=23830|GE=eat|Gloss=eat|nWord=5|RX=[VT]
 7	-re		AUX	_	_	_	_	_	AlignBegin=23830|AlignEnd=24270|GE=[ADJZ]|Gloss=-ADJZ|nWord=5|RX=[N>ADJ]
 8	,		PUNCT	_	_	_	_	_	AlignBegin=24270|AlignEnd=25150|nWord=6
-9	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=26700|AlignEnd=27130|GE=so|Gloss=so|nWord=7|RX=[ADV]
+9	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=26700|AlignEnd=27130|GE=so|Gloss=so|Lang=es|nWord=7|RX=[ADV]
 10	cha	cha	PRON	_	_	_	_	_	AlignBegin=27130|AlignEnd=27560|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
 11	tk	tk	VERB	_	_	12	comp:aux/m	_	AlignBegin=27560|AlignEnd=27703|GE=put|Gloss=put|nWord=9|RX=[VT]
 12	-e		AUX	_	_	13	comp:aux/m	_	AlignBegin=27703|AlignEnd=27846|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
@@ -48,7 +48,7 @@
 # text = entonces cha dodu mung giti .
 # text_en = So I fought for myself.
 # text_ortho = entonces cha dodu mung giti .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=28940|AlignEnd=29298|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=28940|AlignEnd=29298|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	3	subj	_	AlignBegin=29298|AlignEnd=29656|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	dod	dod	VERB	_	_	4	comp:aux/m	_	AlignBegin=29656|AlignEnd=29835|GE=fight|Gloss=fight|nWord=3|RX=[VI]
 4	-u		AUX	_	_	0	root	_	AlignBegin=29835|AlignEnd=30014|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
@@ -77,7 +77,7 @@
 11	-u		AUX	_	_	_	_	_	AlignBegin=35059|AlignEnd=35238|GE=[PST]|Gloss=-PST|nWord=9|RX=[V:ANY]
 12	honiku	honiku	ADV	_	_	_	_	_	AlignBegin=35238|AlignEnd=35595|GE=outside|Gloss=outside|nWord=10|RX=[ADV]
 13	ngongku	ngongku	ADV	_	_	14	comp:aux/m	_	AlignBegin=35595|AlignEnd=35773|GE=other.side|Gloss=other.side|nWord=11|RX=[ADV]
-14	-da		PART	_	_	_	_	_	AlignBegin=35773|AlignEnd=35952|GE=emph|Gloss=emph|nWord=11|RX=[VERB]
+14	-da		AUX	_	_	_	_	_	AlignBegin=35773|AlignEnd=35952|GE=emph|Gloss=emph|nWord=11|RX=[VERB]
 15	.		PUNCT	_	_	_	_	_	AlignBegin=35952|AlignEnd=36310|Gloss=.|nWord=12
 
 # sent_id = SAB-TXT-AN-00002-08_07-07
@@ -106,13 +106,13 @@
 # text = entonces cha guerrillano daba salebli ngongkuda .
 # text_en = So I, in turn, fought with the other person.
 # text_ortho = entonces cha guerrillano daba salebli ngongkuda .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=42525|AlignEnd=42891|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=42525|AlignEnd=42891|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	3	subj	_	AlignBegin=42891|AlignEnd=43257|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	guerrillano	guerrillano	VERB	_	_	_	_	_	AlignBegin=43257|AlignEnd=43623|GE=fight|Gloss=fight|nWord=3|RX=[V]
 4	daba	daba	NOUN	_	_	_	_	_	AlignBegin=43623|AlignEnd=43989|GE=brother|Gloss=brother|nWord=4|RX=[N]
 5	salebli	salebli	ADJ	_	_	4	mod	_	AlignBegin=43989|AlignEnd=44355|GE=different|Gloss=different|nWord=5|RX=[ADJ]
 6	ngongku	ngongku	ADV	_	_	7	comp:aux/m	_	AlignBegin=44355|AlignEnd=44538|GE=other.side|Gloss=other.side|nWord=6|RX=[ADV]
-7	-da		PART	_	_	_	_	_	AlignBegin=44538|AlignEnd=44721|GE=emph|Gloss=emph|nWord=6|RX=[VERB]
+7	-da		AUX	_	_	_	_	_	AlignBegin=44538|AlignEnd=44721|GE=emph|Gloss=emph|nWord=6|RX=[VERB]
 8	.		PUNCT	_	_	_	_	_	AlignBegin=44721|AlignEnd=45085|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-AN-00002-08_09-12
@@ -123,7 +123,7 @@
 # text = entonces maungia ho , maungia cha tku honiku , y cha maungia tku honiku , maungia ho chui chie dwa honiku .
 # text_en = So he went... He put me outside. And I put him outside. He went where the sun goes up.
 # text_ortho = entonces maungia ho , maungia cha tku honiku , y cha maungia tku honiku , maungia ho chui chie dwa honiku .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=45550|AlignEnd=45910|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=45550|AlignEnd=45910|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	maungia	maungia	PRON	_	_	3	subj	_	AlignBegin=45910|AlignEnd=46270|GE=[3SG]|Gloss=3SG|nWord=2|RX=[PRO]
 3	ho	hoke	VERB	_	_	_	_	_	AlignBegin=46270|AlignEnd=46630|GE=[go].[PST]|Gloss=go.PST|nWord=3|RX=[VI]
 4	,		PUNCT	_	_	_	_	_	AlignBegin=46630|AlignEnd=46990|nWord=4
@@ -133,7 +133,7 @@
 8	-u		AUX	_	_	_	_	_	AlignBegin=47895|AlignEnd=48021|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]
 9	honiku	honiku	ADV	_	_	7	mod:lmod	_	AlignBegin=48021|AlignEnd=48273|GE=outside|Gloss=outside|nWord=8|RX=[ADV]
 10	,		PUNCT	_	_	_	_	_	AlignBegin=48273|AlignEnd=48525|nWord=9
-11	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=48550|AlignEnd=48778|GE=and|Gloss=and|nWord=10|RX=[COORDCONN]
+11	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=48550|AlignEnd=48778|GE=and|Gloss=and|Lang=es|nWord=10|RX=[COORDCONN]
 12	cha	cha	PRON	_	_	14	subj	_	AlignBegin=48778|AlignEnd=49006|GE=[1SG]|Gloss=1SG|nWord=11|RX=[PRO]
 13	maungia	maungia	PRON	_	_	14	comp:obj	_	AlignBegin=49006|AlignEnd=49234|GE=[3SG]|Gloss=3SG|nWord=12|RX=[PRO]
 14	tk	tk	VERB	_	_	15	comp:aux/m	_	AlignBegin=49234|AlignEnd=49348|GE=put|Gloss=put|nWord=13|RX=[VT]
@@ -157,13 +157,13 @@
 # text = entonces cha chiu daba duia ngania gai nante .
 # text_en = So I went up to steal the other one's land.
 # text_ortho = entonces cha chiu daba duia ngania gai nante .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=52910|AlignEnd=53461|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=52910|AlignEnd=53461|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	3	subj	_	AlignBegin=53461|AlignEnd=54012|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	chi	chi	VERB	_	_	4	comp:aux/m	_	AlignBegin=54012|AlignEnd=54288|GE=come|Gloss=come|nWord=3|RX=[VI]
 4	-u		AUX	_	_	_	_	_	AlignBegin=54288|AlignEnd=54563|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
 5	daba	daba	NOUN	_	_	_	_	_	AlignBegin=54563|AlignEnd=55114|GE=brother|Gloss=brother|nWord=4|RX=[N]
 6	dui	dui	NOUN	_	_	7	comp:aux/m	_	AlignBegin=55114|AlignEnd=55390|GE=dirt|Gloss=dirt|nWord=5|RX=[N]
-7	-a		X	_	_	_	_	_	AlignBegin=55390|AlignEnd=55665|GE=[0]|Gloss=-0|nWord=5|RX=[VERB]
+7	-a		AUX	_	_	_	_	_	AlignBegin=55390|AlignEnd=55665|GE=[0]|Gloss=-0|nWord=5|RX=[VERB]
 8	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=55665|AlignEnd=56216|GE=up|Gloss=up|nWord=6|RX=[ADV]
 9	gai	gai	VERB	_	_	_	_	_	AlignBegin=56216|AlignEnd=56767|GE=pick_up|Gloss=pick_up|nWord=7|RX=[VT]
 10	nante	nante	ADP	_	_	_	_	_	AlignBegin=56767|AlignEnd=57318|GE=directional|Gloss=directional|nWord=8|RX=[ADP]
@@ -221,9 +221,9 @@
 # text = entonces daba ta kle sainkuli cha ai dike .
 # text_en = So the person is being bad to me.
 # text_ortho = entonces daba ta kle sainkuli cha ai dike .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=80120|AlignEnd=80729|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=80120|AlignEnd=80729|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	daba	daba	NOUN	_	_	_	_	_	AlignBegin=80729|AlignEnd=81338|GE=brother|Gloss=brother|nWord=2|RX=[N]
-3	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=81338|AlignEnd=81947|GE=be|Gloss=be|nWord=3|RX=[V]
+3	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=81338|AlignEnd=81947|GE=be|Gloss=be|Lang=es|nWord=3|RX=[V]
 4	kle	kle	AUX	_	_	_	_	_	AlignBegin=81947|AlignEnd=82556|GE=be|Gloss=be|nWord=4|RX=[V]
 5	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=82556|AlignEnd=83165|GE=forbidden|Gloss=forbidden|nWord=5|RX=[ADV]
 6	cha	cha	PRON	_	_	_	_	_	AlignBegin=83165|AlignEnd=83774|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
@@ -239,7 +239,7 @@
 # text = entonces onia be bi , daba be chke dole na gwaite cha ai ole .
 # text_en = So when the soul will return, The other one will come back again to fight with me.
 # text_ortho = entonces onia be bi , daba be chke dole na gwaite cha ai ole .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=86095|AlignEnd=86381|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=86095|AlignEnd=86381|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	onia	onia	NOUN	_	_	_	_	_	AlignBegin=86381|AlignEnd=86667|GE=soul|Gloss=soul|nWord=2|RX=[N]
 3	be	be	AUX	_	_	_	_	_	AlignBegin=86667|AlignEnd=86953|GE=[FUT]|Gloss=FUT|nWord=3|RX=[VERBPRT]
 4	bi	bi	ADV	_	_	_	_	_	AlignBegin=86953|AlignEnd=87239|GE=then|Gloss=then|nWord=4|RX=[ADV]
@@ -265,19 +265,19 @@
 # text = entonces cha kle mung gerea gudiade , que cha gerea cheku ta horile kedaru , cha trobaiale chiu , ata daba duia daba ngania gai nante .
 # text_en = So I am my people's singer. (To tell that) my people came from outise, I went as a bird flock. To the other ones land, to take the land up there.
 # text_ortho = entonces cha kle mung gerea gudiade , que cha gerea cheku ta horile kedaru , cha trobaiale chiu , ata daba duia daba ngania gai nante .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=96030|AlignEnd=96681|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=96030|AlignEnd=96681|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	_	_	_	AlignBegin=96681|AlignEnd=97332|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	kle	kle	AUX	_	_	_	_	_	AlignBegin=97332|AlignEnd=97983|GE=be|Gloss=be|nWord=3|RX=[V]
 4	mung	mung	PART	_	_	_	_	_	AlignBegin=97983|AlignEnd=98634|GE=[REFL]|Gloss=REFL|nWord=4|RX=[VERBPRT]
 5	gerea	gerea	NOUN	_	_	_	_	_	AlignBegin=98634|AlignEnd=99285|GE=people|Gloss=people|nWord=5|RX=[N]
 6	gudiade	gudiade	NOUN	_	_	_	_	_	AlignBegin=99285|AlignEnd=99936|GE=singer|Gloss=singer|nWord=6|RX=[N]
 7	,		PUNCT	_	_	_	_	_	AlignBegin=99936|AlignEnd=100590|nWord=7
-8	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=101405|AlignEnd=101797|GE=that|Gloss=that|nWord=8|RX=[PRO]
+8	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=101405|AlignEnd=101797|GE=that|Gloss=that|Lang=es|nWord=8|RX=[PRO]
 9	cha	cha	PRON	_	_	10	udep:poss	_	AlignBegin=101797|AlignEnd=102189|GE=[1SG]|Gloss=1SG|nWord=9|RX=[PRO]
 10	gerea	gerea	NOUN	_	_	11	subj	_	AlignBegin=102189|AlignEnd=102581|GE=people|Gloss=people|nWord=10|RX=[N]
 11	chek	chek	VERB	_	_	12	comp:aux/m	_	AlignBegin=102581|AlignEnd=102777|GE=stay|Gloss=stay|nWord=11|RX=[VI]
 12	-u		AUX	_	_	_	_	_	AlignBegin=102777|AlignEnd=102973|GE=[PST]|Gloss=-PST|nWord=11|RX=[V:ANY]
-13	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=102973|AlignEnd=103365|GE=be|Gloss=be|nWord=12|RX=[V]
+13	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=102973|AlignEnd=103365|GE=be|Gloss=be|Lang=es|nWord=12|RX=[V]
 14	horile	horile	_	_	_	_	_	_	AlignBegin=103365|AlignEnd=103757|nWord=13
 15	kedaru	kedaru	ADV	_	_	_	_	_	AlignBegin=103757|AlignEnd=104149|GE=outside|Gloss=outside|nWord=14|RX=[ADV]
 16	,		PUNCT	_	_	_	_	_	AlignBegin=104149|AlignEnd=104545|nWord=15
@@ -288,10 +288,10 @@
 21	chi	chi	VERB	_	_	22	comp:aux/m	_	AlignBegin=105550|AlignEnd=105760|GE=come|Gloss=come|nWord=18|RX=[VI]
 22	-u		AUX	_	_	_	_	_	AlignBegin=105760|AlignEnd=105970|GE=[PST]|Gloss=-PST|nWord=18|RX=[V:ANY]
 23	,		PUNCT	_	_	_	_	_	AlignBegin=105970|AlignEnd=106390|nWord=19
-24	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=106605|AlignEnd=106991|GE=to|Gloss=to|nWord=20|RX=[ADP]
+24	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=106605|AlignEnd=106991|GE=to|Gloss=to|Lang=es|nWord=20|RX=[ADP]
 25	daba	daba	NOUN	_	_	_	_	_	AlignBegin=106991|AlignEnd=107377|GE=brother|Gloss=brother|nWord=21|RX=[N]
 26	dui	dui	NOUN	_	_	27	comp:aux/m	_	AlignBegin=107377|AlignEnd=107570|GE=dirt|Gloss=dirt|nWord=22|RX=[N]
-27	-a		X	_	_	_	_	_	AlignBegin=107570|AlignEnd=107763|GE=[0]|Gloss=-0|nWord=22|RX=[VERB]
+27	-a		AUX	_	_	_	_	_	AlignBegin=107570|AlignEnd=107763|GE=[0]|Gloss=-0|nWord=22|RX=[VERB]
 28	daba	daba	NOUN	_	_	_	_	_	AlignBegin=107763|AlignEnd=108149|GE=brother|Gloss=brother|nWord=23|RX=[N]
 29	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=108149|AlignEnd=108535|GE=up|Gloss=up|nWord=24|RX=[ADV]
 30	gai	gai	VERB	_	_	_	_	_	AlignBegin=108535|AlignEnd=108921|GE=pick_up|Gloss=pick_up|nWord=25|RX=[VT]

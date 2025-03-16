@@ -81,13 +81,13 @@
 1	cha	cha	PRON	_	_	_	_	_	AlignBegin=23380|AlignEnd=23601|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	ai	ai	ADV	_	_	1	mod	_	AlignBegin=23601|AlignEnd=23822|GE=here|Gloss=here|nWord=2|RX=[ADV]
 3	me	me	PART	_	_	_	_	_	AlignBegin=23822|AlignEnd=24043|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
-4	ni	ni	CONN	_	_	_	_	_	AlignBegin=24043|AlignEnd=24264|GE=nor|Gloss=nor|nWord=4|RX=[CONN]
+4	ni	ni	CCONJ	_	_	_	_	_	AlignBegin=24043|AlignEnd=24264|GE=nor|Gloss=nor|nWord=4|RX=[CONN]
 5	cha	cha	PRON	_	_	6	udep:poss	_	AlignBegin=24264|AlignEnd=24485|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
 6	nienu	nienu	NOUN	_	_	_	_	_	AlignBegin=24485|AlignEnd=24706|GE=father|Gloss=father|nWord=6|RX=[N]
 7	me	me	PART	_	_	_	_	_	AlignBegin=24706|AlignEnd=24927|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
 8	ru	ru	NOUN	_	_	_	_	_	AlignBegin=24927|AlignEnd=25148|GE=aligator|Gloss=aligator|nWord=8|RX=[N]
 9	ngle	ngle	ADV	_	_	10	comp:aux/m	_	AlignBegin=25148|AlignEnd=25222|GE=more|Gloss=more|nWord=9|RX=[ADV]
-10	-a		X	_	_	11	comp:aux/m	_	AlignBegin=25222|AlignEnd=25296|GE=[0]|Gloss=-0|nWord=9|RX=[NOUN]
+10	-a		AUX	_	_	11	comp:aux/m	_	AlignBegin=25222|AlignEnd=25296|GE=[0]|Gloss=-0|nWord=9|RX=[NOUN]
 11	-re		AUX	_	_	_	_	_	AlignBegin=25296|AlignEnd=25369|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
 12	chi	chi	NOUN	_	_	14	comp	_	AlignBegin=25369|AlignEnd=25590|GE=water|Gloss=water|nWord=10|RX=[N]
 13	ai	ai	ADV	_	_	12	det	_	AlignBegin=25590|AlignEnd=25811|GE=here|Gloss=here|nWord=11|RX=[ADV]
@@ -102,7 +102,7 @@
 # text = entonces chiu chku toi siaku eni .
 # text_en = So (he) came to live close to here.
 # text_ortho = entonces chiu chku toi siaku eni .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=26255|AlignEnd=26614|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=26255|AlignEnd=26614|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=26614|AlignEnd=26794|GE=come|Gloss=come|nWord=2|RX=[VI]
 3	-u		AUX	_	_	_	_	_	AlignBegin=26794|AlignEnd=26973|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	chk	chk	VERB	_	_	5	comp:aux/m	_	AlignBegin=26973|AlignEnd=27153|GE=arrive|Gloss=arrive|nWord=3|RX=[VI]
@@ -162,13 +162,13 @@
 # text = entonces kle chage gwakoningke muireia ole .
 # text_en = So (he) was walking with his wife.
 # text_ortho = entonces kle chage gwakoningke muireia ole .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=36355|AlignEnd=36816|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	2	discourse	_	AlignBegin=36355|AlignEnd=36816|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	kle	kle	AUX	_	_	0	root	_	AlignBegin=36816|AlignEnd=37277|GE=be|Gloss=be|nWord=2|RX=[V]
 3	chage	chage	VERB	_	_	2	comp:aux	_	AlignBegin=37277|AlignEnd=37738|GE=walk|Gloss=walk|nWord=3|RX=[VI]
-4	gwakoningke	gwakoningke	ADV	_	_	_	_	_	AlignBegin=37738|AlignEnd=38199|GE=together|Gloss=together|nWord=4|RX=[ADV]
+4	gwakoningke	gwakoningke	ADV	_	_	3	mod	_	AlignBegin=37738|AlignEnd=38199|GE=together|Gloss=together|nWord=4|RX=[ADV]
 5	muire	muire	ADJ	_	_	6	comp:aux/m	_	AlignBegin=38199|AlignEnd=38429|GE=female|Gloss=female|nWord=5|RX=[ADJ]
-6	-ia		AUX	_	_	_	_	_	AlignBegin=38429|AlignEnd=38660|GE=[POSS]|Gloss=-POSS|nWord=5|RX=[N:ANY]
-7	ole	ole	ADP	_	_	_	_	_	AlignBegin=38660|AlignEnd=39121|GE=[COM]|Gloss=COM|nWord=6|RX=[ADP]
+6	-ia		AUX	_	_	7	comp	_	AlignBegin=38429|AlignEnd=38660|GE=[POSS]|Gloss=-POSS|nWord=5|RX=[N:ANY]
+7	ole	ole	ADP	_	_	3	comp:obl	_	AlignBegin=38660|AlignEnd=39121|GE=[COM]|Gloss=COM|nWord=6|RX=[ADP]
 8	.		PUNCT	_	_	2	punct	_	AlignBegin=39121|AlignEnd=39585|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-OS-00002-01_13-13
@@ -194,13 +194,13 @@
 # text = y maungia kle nipero gai ngaske .
 # text_en = And he picks up nipero from the fields.
 # text_ortho = y maungia kle nipero gai ngaske .
-1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=43675|AlignEnd=43966|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=43675|AlignEnd=43966|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
 2	maungia	maungia	PRON	_	_	5	subj	_	AlignBegin=43966|AlignEnd=44257|GE=[3SG]|Gloss=3SG|nWord=2|RX=[PRO]
 3	kle	kle	AUX	_	_	0	root	_	AlignBegin=44257|AlignEnd=44548|GE=be|Gloss=be|nWord=3|RX=[V]
 4	nipero	nipero	NOUN	_	_	5	comp:obj	_	AlignBegin=44548|AlignEnd=44839|GE=tree_type|Gloss=tree_type|nWord=4|RX=[N]
 5	gai	gai	VERB	_	_	3	comp:aux	_	AlignBegin=44839|AlignEnd=45130|GE=pick_up|Gloss=pick_up|nWord=5|RX=[VT]
-6	nga	nga	NOUN	_	_	5	:obl	_	AlignBegin=45130|AlignEnd=45276|GE=field|Gloss=field|nWord=6|RX=[N]
-7	ske	ske	ADP	_	_	_	_	_	AlignBegin=45276|AlignEnd=45421|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
+6	nga	nga	NOUN	_	_	7	comp	_	AlignBegin=45130|AlignEnd=45276|GE=field|Gloss=field|nWord=6|RX=[N]
+7	ske	ske	ADP	_	_	5	comp:obl	_	AlignBegin=45276|AlignEnd=45421|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
 8	.		PUNCT	_	_	3	punct	_	AlignBegin=45421|AlignEnd=45715|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-OS-00002-01_15-16
@@ -223,8 +223,8 @@
 10	dat	dat	VERB	_	_	11	comp:aux/m	_	AlignBegin=48647|AlignEnd=48820|GE=cut|Gloss=cut|nWord=8|RX=[VT]
 11	-a		AUX	_	_	12	comp:aux/m	_	AlignBegin=48820|AlignEnd=48993|GE=[PASS]|Gloss=-PASS|nWord=8|RX=[V:ANY]
 12	-le		AUX	_	_	_	_	_	AlignBegin=48993|AlignEnd=49166|GE=[ADJZ]|Gloss=-ADJZ|nWord=8|RX=[N>ADJ]
-13	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=49166|AlignEnd=49685|GE=to|Gloss=to|nWord=9|RX=[ADP]
-14	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=49685|AlignEnd=50204|GE=go|Gloss=go|nWord=10|RX=[VI]
+13	hasta	hasta	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=49166|AlignEnd=49685|GE=to|Gloss=to|Lang=es|nWord=9|RX=[ADP]
+14	hoke	hoke	VERB	_	_	13	comp	_	AlignBegin=49685|AlignEnd=50204|GE=go|Gloss=go|nWord=10|RX=[VI]
 15	ngania	ngania	ADV	_	_	14	mod	_	AlignBegin=50204|AlignEnd=50723|GE=up|Gloss=up|nWord=11|RX=[ADV]
 16	.		PUNCT	_	_	_	_	_	AlignBegin=50723|AlignEnd=51240|Gloss=.|nWord=12
 
@@ -236,7 +236,7 @@
 # text = entonces bi die bekale gli hegwale pa gli ese ki .
 # text_en = So then (he) puts a thing on the tree to get the sap.
 # text_ortho = entonces bi die bekale gli hegwale pa gli ese ki .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=51275|AlignEnd=51635|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	6	discourse	_	AlignBegin=51275|AlignEnd=51635|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	bi	bi	ADV	_	_	_	_	_	AlignBegin=51635|AlignEnd=51995|GE=then|Gloss=then|nWord=2|RX=[ADV]
 3	die	die	NOUN	_	_	_	_	_	AlignBegin=51995|AlignEnd=52355|GE=thing|Gloss=thing|nWord=3|RX=[N]
 4	bek	bek	VERB	_	_	5	comp:aux/m	_	AlignBegin=52355|AlignEnd=52475|GE=put|Gloss=put|nWord=4|RX=[V]
@@ -244,7 +244,7 @@
 6	-le		AUX	_	_	_	_	_	AlignBegin=52595|AlignEnd=52715|GE=[ADJZ]|Gloss=-ADJZ|nWord=4|RX=[N>ADJ]
 7	gli	gli	NOUN	_	_	8	comp	_	AlignBegin=52715|AlignEnd=53075|GE=tree|Gloss=tree|nWord=5|RX=[N]
 8	hegwale	hegwale	ADP	_	_	4	comp:obl	_	AlignBegin=53075|AlignEnd=53435|GE=next_to|Gloss=next_to|nWord=6|RX=[ADP]
-9	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=53435|AlignEnd=53795|GE=to|Gloss=to|nWord=7|RX=[ADP]
+9	para	para	ADP	_	Foreign=Yes	4	mod:purpose	_	AlignBegin=53435|AlignEnd=53795|GE=to|Gloss=to|Lang=es|nWord=7|RX=[ADP]
 10	gli	gli	NOUN	_	_	9	comp	_	AlignBegin=53795|AlignEnd=54155|GE=tree|Gloss=tree|nWord=8|RX=[N]
 11	ese	ese	DET	_	_	10	mod	_	AlignBegin=54155|AlignEnd=54515|GE=that|Gloss=that|nWord=9|RX=[DET]
 12	ki	ki	NOUN	_	_	_	_	_	AlignBegin=54515|AlignEnd=54875|GE=sap|Gloss=sap|nWord=10|RX=[N]
@@ -294,7 +294,7 @@
 2	ki	ki	NOUN	_	_	3	comp:obj	_	AlignBegin=60310|AlignEnd=60550|GE=sap|Gloss=sap|nWord=2|RX=[N]
 3	gai	gai	VERB	_	_	0	root	_	AlignBegin=60550|AlignEnd=60790|GE=pick_up|Gloss=pick_up|nWord=3|RX=[VT]
 4	,		PUNCT	_	_	_	_	_	AlignBegin=60790|AlignEnd=61030|nWord=4
-5	para	para	SCONJ	_	Foreign=Yes	3	comp:obl	_	AlignBegin=61040|AlignEnd=61302|GE=to|Gloss=to|nWord=5|RX=[ADP]
+5	para	para	SCONJ	_	Foreign=Yes	3	comp:obl	_	AlignBegin=61040|AlignEnd=61302|GE=to|Gloss=to|Lang=es|nWord=5|RX=[ADP]
 6	gli	gli	NOUN	_	_	7	udep:poss	_	AlignBegin=61302|AlignEnd=61564|GE=tree|Gloss=tree|nWord=6|RX=[N]
 7	ki	ki	NOUN	_	_	10	comp:obj	_	AlignBegin=61564|AlignEnd=61826|GE=sap|Gloss=sap|nWord=7|RX=[N]
 8	ese	ese	DET	_	_	7	det	_	AlignBegin=61826|AlignEnd=62088|GE=that|Gloss=that|nWord=8|RX=[DET]
@@ -311,12 +311,12 @@
 # text_en = (He) sells the sap to big boats that are coming from Colon.
 # text_ortho = gli ki chuade du kweri ke kle chie iani Colon .
 1	gli	gli	NOUN	_	_	2	udep:poss	_	AlignBegin=62730|AlignEnd=63334|GE=tree|Gloss=tree|nWord=1|RX=[N]
-2	ki	ki	NOUN	_	_	4	comp:obj	_	AlignBegin=63334|AlignEnd=63938|GE=sap|Gloss=sap|nWord=2|RX=[N]
+2	ki	ki	NOUN	_	_	3	comp:obj	_	AlignBegin=63334|AlignEnd=63938|GE=sap|Gloss=sap|nWord=2|RX=[N]
 3	chuad	chuad	VERB	_	_	4	comp:aux/m	_	AlignBegin=63938|AlignEnd=64240|GE=sell|Gloss=sell|nWord=3|RX=[VT]
 4	-e		AUX	_	_	0	root	_	AlignBegin=64240|AlignEnd=64542|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
-5	du	du	NOUN	_	_	4	:obl	_	AlignBegin=64542|AlignEnd=65146|GE=boat|Gloss=boat|nWord=4|RX=[N]
+5	du	du	NOUN	_	_	7	comp	_	AlignBegin=64542|AlignEnd=65146|GE=boat|Gloss=boat|nWord=4|RX=[N]
 6	kweri	kweri	ADJ	_	_	5	mod	_	AlignBegin=65146|AlignEnd=65750|GE=big|Gloss=big|nWord=5|RX=[ADJ]
-7	ke	ke	ADP	_	_	_	_	_	AlignBegin=65750|AlignEnd=66354|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
+7	ke	ke	ADP	_	_	3	comp:obl	_	AlignBegin=65750|AlignEnd=66354|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
 8	kle	kle	AUX	_	_	_	_	_	AlignBegin=66354|AlignEnd=66958|GE=be|Gloss=be|nWord=7|RX=[V]
 9	chi	chi	VERB	_	_	10	comp:aux/m	_	AlignBegin=66958|AlignEnd=67260|GE=come|Gloss=come|nWord=8|RX=[VI]
 10	-e		AUX	_	_	8	comp:aux	_	AlignBegin=67260|AlignEnd=67562|GE=[THM]|Gloss=-THM|nWord=8|RX=[V:ANY]
@@ -346,7 +346,7 @@
 # text = entonces gli ese chuade .
 # text_en = So (he) sells the trees.
 # text_ortho = entonces gli ese chuade .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=70760|AlignEnd=71200|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=70760|AlignEnd=71200|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	gli	gli	NOUN	_	_	5	comp:obj	_	AlignBegin=71200|AlignEnd=71640|GE=tree|Gloss=tree|nWord=2|RX=[N]
 3	ese	ese	DET	_	_	2	det	_	AlignBegin=71640|AlignEnd=72080|GE=that|Gloss=that|nWord=3|RX=[DET]
 4	chuad	chuad	VERB	_	_	5	comp:aux/m	_	AlignBegin=72080|AlignEnd=72300|GE=sell|Gloss=sell|nWord=4|RX=[VT]
@@ -385,9 +385,9 @@
 # text = pa ne trabajo die kete .
 # text_en = For what that work gives (him).
 # text_ortho = pa ne trabajo die kete .
-1	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=79875|AlignEnd=80420|GE=to|Gloss=to|nWord=1|RX=[ADP]
+1	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=79875|AlignEnd=80420|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
 2	ne	ne	DET	_	_	_	_	_	AlignBegin=80420|AlignEnd=80965|GE=that|Gloss=that|nWord=2|RX=[DET]
-3	trabajo	trabajo	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=80965|AlignEnd=81510|GE=work|Gloss=work|nWord=3|RX=[N]
+3	trabajo	trabajo	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=80965|AlignEnd=81510|GE=work|Gloss=work|Lang=es|nWord=3|RX=[N]
 4	die	die	NOUN	_	_	5	comp:obj	_	AlignBegin=81510|AlignEnd=82055|GE=thing|Gloss=thing|nWord=4|RX=[N]
 5	ket	ket	VERB	_	_	6	comp:aux/m	_	AlignBegin=82055|AlignEnd=82327|GE=give|Gloss=give|nWord=5|RX=[V]
 6	-e		AUX	_	_	_	_	_	AlignBegin=82327|AlignEnd=82600|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
@@ -403,7 +403,7 @@
 # text_ortho = dodale pa ganando daba salebli aini , ganando iki ke , gwae iki dike .
 1	doda	doda	VERB	_	_	2	comp:aux/m	_	AlignBegin=85350|AlignEnd=85602|GE=make|Gloss=make|nWord=1|RX=[V]
 2	-le		AUX	_	_	_	_	_	AlignBegin=85602|AlignEnd=85853|GE=[ADJZ]|Gloss=-ADJZ|nWord=1|RX=[N>ADJ]
-3	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=85853|AlignEnd=86356|GE=to|Gloss=to|nWord=2|RX=[ADP]
+3	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=85853|AlignEnd=86356|GE=to|Gloss=to|Lang=es|nWord=2|RX=[ADP]
 4	ganando	ganando	VERB	_	_	_	_	_	AlignBegin=86356|AlignEnd=86859|GE=win|Gloss=win|nWord=3|RX=[V]
 5	daba	daba	NOUN	_	_	_	_	_	AlignBegin=86859|AlignEnd=87362|GE=brother|Gloss=brother|nWord=4|RX=[N]
 6	salebli	salebli	ADJ	_	_	5	mod	_	AlignBegin=87362|AlignEnd=87865|GE=different|Gloss=different|nWord=5|RX=[ADJ]
@@ -426,7 +426,7 @@
 # text = entonces enusuli Blacito chiu .
 # text_en = So the grandfather Blacito came.
 # text_ortho = entonces enusuli Blacito chiu .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=91620|AlignEnd=91996|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=91620|AlignEnd=91996|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	enusuli	enusuli	NOUN	_	_	5	subj	_	AlignBegin=91996|AlignEnd=92372|GE=grandfather|Gloss=grandfather|nWord=2|RX=[N]
 3	Blacito	Blacito	PROPN	_	_	2	mod	_	AlignBegin=92372|AlignEnd=92748|GE=[Blacito]|Gloss=Blacito|nWord=3|RX=[NPROP]
 4	chi	chi	VERB	_	_	5	comp:aux/m	_	AlignBegin=92748|AlignEnd=92936|GE=come|Gloss=come|nWord=4|RX=[VI]
@@ -494,14 +494,14 @@
 # text = enusuli gerudu swilitai Flore : che hoke nengke nipero gai .
 # text_en = The grandfather said one mornig to Flore: Today we are going to go collect nipero.
 # text_ortho = enusuli gerudu swilitai Flore : che hoke nengke nipero gai .
-1	enusuli	enusuli	NOUN	_	_	3	subj	_	AlignBegin=102200|AlignEnd=102832|GE=grandfather|Gloss=grandfather|nWord=1|RX=[N]
+1	enusuli	enusuli	NOUN	_	_	2	subj	_	AlignBegin=102200|AlignEnd=102832|GE=grandfather|Gloss=grandfather|nWord=1|RX=[N]
 2	gerud	gerud	VERB	_	_	3	comp:aux/m	_	AlignBegin=102832|AlignEnd=103148|GE=speak|Gloss=speak|nWord=2|RX=[V]
 3	-u		AUX	_	_	0	root	_	AlignBegin=103148|AlignEnd=103464|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	swilitai	swilitai	NOUN	_	_	3	mod	_	AlignBegin=103464|AlignEnd=104096|GE=morning|Gloss=morning|nWord=3|RX=[N]
-5	Flore	Flore	PROPN	_	_	3	:obl	_	AlignBegin=104096|AlignEnd=104728|GE=[Flore]|Gloss=Flore|nWord=4|RX=[NPROP]
-6	:		_	_	_	_	_	_	AlignBegin=104728|AlignEnd=105360|nWord=5
+5	Flore	Flore	PROPN	_	_	2	comp:obl	_	AlignBegin=104096|AlignEnd=104728|GE=[Flore]|Gloss=Flore|nWord=4|RX=[NPROP]
+6	:		PUNCT	_	_	_	_	_	AlignBegin=104728|AlignEnd=105360|nWord=5
 7	che	che	PRON	_	_	8	subj	_	AlignBegin=105370|AlignEnd=105747|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=6|RX=[PRO]
-8	hoke	hoke	VERB	_	_	3	comp	_	AlignBegin=105747|AlignEnd=106124|GE=go|Gloss=go|nWord=7|RX=[VI]
+8	hoke	hoke	AUX	_	_	2	comp	_	AlignBegin=105747|AlignEnd=106124|GE=go|Gloss=go|nWord=7|RX=[VI]
 9	nengke	nengke	ADV	_	_	8	mod	_	AlignBegin=106124|AlignEnd=106501|GE=today|Gloss=today|nWord=8|RX=[ADV]
 10	nipero	nipero	NOUN	_	_	11	comp:obj	_	AlignBegin=106501|AlignEnd=106878|GE=tree_type|Gloss=tree_type|nWord=9|RX=[N]
 11	gai	gai	VERB	_	_	8	comp:aux	_	AlignBegin=106878|AlignEnd=107255|GE=pick_up|Gloss=pick_up|nWord=10|RX=[VT]
@@ -526,7 +526,7 @@
 # text = pero che doia mung chuku maungia tale .
 # text_en = But the enemy was awake in his heart.
 # text_ortho = pero che doia mung chuku maungia tale .
-1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=108765|AlignEnd=109133|GE=but|Gloss=but|nWord=1|RX=[COORDCONN]
+1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=108765|AlignEnd=109133|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
 2	che	che	PRON	_	_	3	det:poss	_	AlignBegin=109133|AlignEnd=109501|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
 3	doia	doia	NOUN	_	_	_	_	_	AlignBegin=109501|AlignEnd=109869|GE=enemy|Gloss=enemy|nWord=3|RX=[N]
 4	mung	mung	PART	_	_	_	_	_	AlignBegin=109869|AlignEnd=110237|GE=[REFL]|Gloss=REFL|nWord=4|RX=[VERBPRT]
@@ -545,13 +545,13 @@
 # text = ya me iba ta no sino ta sainkuli .
 # text_en = (He) was not going with good intentions but with bad intentions.
 # text_ortho = ya me iba ta no sino ta sainkuli .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=111795|AlignEnd=112088|GE=now|Gloss=now|nWord=1|RX=[ADV]
-2	me	me	PART	_	_	_	_	_	AlignBegin=112088|AlignEnd=112381|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
-3	iba	iba	VERB	_	Foreign=Yes	2	comp:aux	_	AlignBegin=112381|AlignEnd=112674|GE=[go].[PST]|Gloss=go.PST|nWord=3|RX=[V]
-4	esta	esta	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=112674|AlignEnd=112967|GE=heart|Gloss=heart|nWord=4|RX=[N]
+1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=111795|AlignEnd=112088|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
+2	me	me	AUX	_	_	_	_	_	AlignBegin=112088|AlignEnd=112381|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+3	iba	iba	VERB	_	Foreign=Yes	2	comp:aux	_	AlignBegin=112381|AlignEnd=112674|GE=[go].[PST]|Gloss=go.PST|Lang=es|nWord=3|RX=[V]
+4	esta	esta	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=112674|AlignEnd=112967|GE=heart|Gloss=heart|Lang=es|nWord=4|RX=[N]
 5	no	no	ADJ	_	_	4	mod	_	AlignBegin=112967|AlignEnd=113260|GE=good|Gloss=good|nWord=5|RX=[ADJ]
 6	sino	sino	X	_	_	_	_	_	AlignBegin=113260|AlignEnd=113553|GE=otherwise|Gloss=otherwise|nWord=6|RX=[CONN]
-7	esta	esta	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=113553|AlignEnd=113846|GE=heart|Gloss=heart|nWord=7|RX=[N]
+7	esta	esta	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=113553|AlignEnd=113846|GE=heart|Gloss=heart|Lang=es|nWord=7|RX=[N]
 8	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=113846|AlignEnd=114139|GE=forbidden|Gloss=forbidden|nWord=8|RX=[ADV]
 9	.		PUNCT	_	_	_	_	_	AlignBegin=114139|AlignEnd=114435|Gloss=.|nWord=9
 
@@ -566,7 +566,7 @@
 1	taianchuk	taianchuk	VERB	_	_	2	comp:aux/m	_	AlignBegin=114485|AlignEnd=114685|GE=think|Gloss=think|nWord=1|RX=[V]
 2	-e		AUX	_	_	_	_	_	AlignBegin=114685|AlignEnd=114885|GE=[THM]|Gloss=-THM|nWord=1|RX=[V:ANY]
 3	,		PUNCT	_	_	_	_	_	AlignBegin=114885|AlignEnd=115285|nWord=2
-4	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=115465|AlignEnd=115768|GE=that|Gloss=that|nWord=3|RX=[PRO]
+4	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=115465|AlignEnd=115768|GE=that|Gloss=that|Lang=es|nWord=3|RX=[PRO]
 5	be	be	AUX	_	_	_	_	_	AlignBegin=115768|AlignEnd=116071|GE=[FUT]|Gloss=FUT|nWord=4|RX=[VERBPRT]
 6	enusuli	enusuli	NOUN	_	_	_	_	_	AlignBegin=116071|AlignEnd=116374|GE=grandfather|Gloss=grandfather|nWord=5|RX=[N]
 7	ese	ese	DET	_	_	6	det	_	AlignBegin=116374|AlignEnd=116677|GE=that|Gloss=that|nWord=6|RX=[DET]
@@ -642,7 +642,7 @@
 # text_ortho = gerudu : ba lata gwagate no dwa .
 1	gerud	gerud	VERB	_	_	2	comp:aux/m	_	AlignBegin=124160|AlignEnd=124251|GE=speak|Gloss=speak|nWord=1|RX=[V]
 2	-u		AUX	_	_	_	_	_	AlignBegin=124251|AlignEnd=124342|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]
-3	:		_	_	_	_	_	_	AlignBegin=124342|AlignEnd=124525|nWord=2
+3	:		PUNCT	_	_	_	_	_	AlignBegin=124342|AlignEnd=124525|nWord=2
 4	ba	ba	PRON	_	_	7	subj	_	AlignBegin=124525|AlignEnd=124852|GE=[2SG]|Gloss=2SG|nWord=3|RX=[PRO]
 5	lata	lata	NOUN	_	_	7	comp:obj	_	AlignBegin=124852|AlignEnd=125179|GE=can|Gloss=can|nWord=4|RX=[N]
 6	gwagat	gwagat	VERB	_	_	7	comp:aux	_	AlignBegin=125179|AlignEnd=125343|GE=prepare|Gloss=prepare|nWord=5|RX=[VT]
@@ -659,11 +659,11 @@
 # text = cuando gerudu tiengda .
 # text_en = When (He) said that (he) saw,
 # text_ortho = cuando gerudu tiengda .
-1	cuando	cuando	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=126795|AlignEnd=128020|GE=when|Gloss=when|nWord=1|RX=[Q]
+1	cuando	cuando	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=126795|AlignEnd=128020|GE=when|Gloss=when|Lang=es|nWord=1|RX=[Q]
 2	gerud	gerud	VERB	_	_	3	comp:aux/m	_	AlignBegin=128020|AlignEnd=128632|GE=speak|Gloss=speak|nWord=2|RX=[V]
 3	-u		AUX	_	_	_	_	_	AlignBegin=128632|AlignEnd=129245|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	tieng	tieng	VERB	_	_	5	comp:aux/m	_	AlignBegin=129245|AlignEnd=129857|GE=[see].[NPST]|Gloss=see.NPST|nWord=3|RX=[V]
-5	-da		PART	_	_	_	_	_	AlignBegin=129857|AlignEnd=130470|GE=emph|Gloss=emph|nWord=3|RX=[VERB]
+5	-da		AUX	_	_	_	_	_	AlignBegin=129857|AlignEnd=130470|GE=emph|Gloss=emph|nWord=3|RX=[VERB]
 6	.		PUNCT	_	_	_	_	_	AlignBegin=130470|AlignEnd=131695|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-OS-00002-01_49-49
@@ -758,7 +758,7 @@
 3	muire	muire	ADJ	_	_	4	comp:aux/m	_	AlignBegin=140805|AlignEnd=141063|GE=female|Gloss=female|nWord=2|RX=[ADJ]
 4	-ia		AUX	_	_	5	comp	_	AlignBegin=141063|AlignEnd=141320|GE=[POSS]|Gloss=-POSS|nWord=2|RX=[N:ANY]
 5	ole	ole	ADP	_	_	1	comp:obl	_	AlignBegin=141320|AlignEnd=141835|GE=[COM]|Gloss=COM|nWord=3|RX=[ADP]
-6	:		_	_	_	_	_	_	AlignBegin=141835|AlignEnd=142350|nWord=4
+6	:		PUNCT	_	_	_	_	_	AlignBegin=141835|AlignEnd=142350|nWord=4
 7	ba	ba	PRON	_	_	9	subj	_	AlignBegin=143000|AlignEnd=143162|GE=[2SG]|Gloss=2SG|nWord=5|RX=[PRO]
 8	be	be	AUX	_	_	_	_	_	AlignBegin=143162|AlignEnd=143324|GE=[FUT]|Gloss=FUT|nWord=6|RX=[VERBPRT]
 9	hoke	hoke	VERB	_	_	8	comp:aux	_	AlignBegin=143324|AlignEnd=143486|GE=go|Gloss=go|nWord=7|RX=[VI]
@@ -767,7 +767,7 @@
 12	,		PUNCT	_	_	_	_	_	AlignBegin=143810|AlignEnd=143970|nWord=10
 13	o	o	X	_	_	_	_	_	AlignBegin=143970|AlignEnd=144123|GE=or|Gloss=or|nWord=11|RX=[COORDCONN]
 14	ba	ba	PRON	_	_	16	subj	_	AlignBegin=144123|AlignEnd=144276|GE=[2SG]|Gloss=2SG|nWord=12|RX=[PRO]
-15	me	me	PART	_	_	_	_	_	AlignBegin=144276|AlignEnd=144429|GE=[NEG]|Gloss=NEG|nWord=13|RX=[VERBPRT]
+15	me	me	AUX	_	_	_	_	_	AlignBegin=144276|AlignEnd=144429|GE=[NEG]|Gloss=NEG|nWord=13|RX=[VERBPRT]
 16	hoke	hoke	VERB	_	_	15	comp:aux	_	AlignBegin=144429|AlignEnd=144582|GE=go|Gloss=go|nWord=14|RX=[VI]
 17	cha	cha	PRON	_	_	18	comp	_	AlignBegin=144582|AlignEnd=144735|GE=[1SG]|Gloss=1SG|nWord=15|RX=[PRO]
 18	ole	ole	ADP	_	_	16	comp:obl	_	AlignBegin=144735|AlignEnd=144888|GE=[COM]|Gloss=COM|nWord=16|RX=[ADP]
@@ -781,7 +781,7 @@
 # text = si ba be hoke cha ole , cha mim be ba gweda .
 # text_en = If you come with me, I will not kill you.
 # text_ortho = si ba be hoke cha ole , cha mim be ba gweda .
-1	si	si	SCONJ	_	Foreign=Yes	12	mod	_	AlignBegin=145515|AlignEnd=145749|GE=if|Gloss=if|nWord=1|RX=[CONN]
+1	si	si	SCONJ	_	Foreign=Yes	12	mod	_	AlignBegin=145515|AlignEnd=145749|GE=if|Gloss=if|Lang=es|nWord=1|RX=[CONN]
 2	ba	ba	PRON	_	_	4	subj	_	AlignBegin=145749|AlignEnd=145983|GE=[2SG]|Gloss=2SG|nWord=2|RX=[PRO]
 3	be	be	AUX	_	_	1	comp	_	AlignBegin=145983|AlignEnd=146217|GE=[FUT]|Gloss=FUT|nWord=3|RX=[VERBPRT]
 4	hoke	hoke	VERB	_	_	3	comp:aux	_	AlignBegin=146217|AlignEnd=146451|GE=go|Gloss=go|nWord=4|RX=[VI]
@@ -789,7 +789,7 @@
 6	ole	ole	ADP	_	_	4	comp:obl	_	AlignBegin=146685|AlignEnd=146919|GE=[COM]|Gloss=COM|nWord=6|RX=[ADP]
 7	,		PUNCT	_	_	_	_	_	AlignBegin=146919|AlignEnd=147155|nWord=7
 8	cha	cha	PRON	_	_	12	subj	_	AlignBegin=147475|AlignEnd=147643|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
-9	mim	mim	PART	_	_	0	root	_	AlignBegin=147643|AlignEnd=147811|GE=[NEG]|Gloss=NEG|nWord=9|RX=[VERBPRT]
+9	mim	mim	AUX	_	_	0	root	_	AlignBegin=147643|AlignEnd=147811|GE=[NEG]|Gloss=NEG|nWord=9|RX=[VERBPRT]
 10	be	be	AUX	_	_	9	comp:aux	_	AlignBegin=147811|AlignEnd=147979|GE=[FUT]|Gloss=FUT|nWord=10|RX=[VERBPRT]
 11	ba	ba	PRON	_	_	12	comp:obj	_	AlignBegin=147979|AlignEnd=148147|GE=[2SG]|Gloss=2SG|nWord=11|RX=[PRO]
 12	gwe	gwe	VERB	_	_	13	comp:aux/m	_	AlignBegin=148147|AlignEnd=148203|GE=kill|Gloss=sleep|nWord=12|RX=[V]
@@ -804,10 +804,10 @@
 # text = pero si ba mim hoke cha ole , cha be ba gweda nengke .
 # text_en = But if you don't go with me, I will kill you today.
 # text_ortho = pero si ba mim hoke cha ole , cha be ba gweda nengke .
-1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=148520|AlignEnd=148689|GE=but|Gloss=but|nWord=1|RX=[COORDCONN]
-2	si	si	SCONJ	_	Foreign=Yes	12	mod	_	AlignBegin=148689|AlignEnd=148858|GE=if|Gloss=if|nWord=2|RX=[CONN]
+1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=148520|AlignEnd=148689|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
+2	si	si	SCONJ	_	Foreign=Yes	12	mod	_	AlignBegin=148689|AlignEnd=148858|GE=if|Gloss=if|Lang=es|nWord=2|RX=[CONN]
 3	ba	ba	PRON	_	_	5	subj	_	AlignBegin=148858|AlignEnd=149027|GE=[2SG]|Gloss=2SG|nWord=3|RX=[PRO]
-4	mim	mim	PART	_	_	2	comp	_	AlignBegin=149027|AlignEnd=149196|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
+4	mim	mim	AUX	_	_	2	comp	_	AlignBegin=149027|AlignEnd=149196|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
 5	hoke	hoke	VERB	_	_	4	comp:aux	_	AlignBegin=149196|AlignEnd=149365|GE=go|Gloss=go|nWord=5|RX=[VI]
 6	cha	cha	PRON	_	_	7	comp	_	AlignBegin=149365|AlignEnd=149534|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
 7	ole	ole	ADP	_	_	5	comp:obl	_	AlignBegin=149534|AlignEnd=149703|GE=[COM]|Gloss=COM|nWord=7|RX=[ADP]
@@ -832,13 +832,13 @@
 2	gwa	gwa	ADV	_	_	1	mod	_	AlignBegin=151735|AlignEnd=152200|GE=inside|Gloss=inside|nWord=2|RX=[ADV]
 3	gerud	gerud	VERB	_	_	4	comp:aux/m	_	AlignBegin=152200|AlignEnd=152432|GE=speak|Gloss=speak|nWord=3|RX=[V]
 4	-u		AUX	_	_	0	root	_	AlignBegin=152432|AlignEnd=152665|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
-5	:		_	_	_	_	_	_	AlignBegin=152665|AlignEnd=153130|nWord=4
-6	si	si	SCONJ	_	Foreign=Yes	15	mod	_	AlignBegin=153180|AlignEnd=153608|GE=if|Gloss=if|nWord=5|RX=[CONN]
+5	:		PUNCT	_	_	_	_	_	AlignBegin=152665|AlignEnd=153130|nWord=4
+6	si	si	SCONJ	_	Foreign=Yes	15	mod	_	AlignBegin=153180|AlignEnd=153608|GE=if|Gloss=if|Lang=es|nWord=5|RX=[CONN]
 7	ba	ba	PRON	_	_	10	subj	_	AlignBegin=153608|AlignEnd=154036|GE=[2SG]|Gloss=2SG|nWord=6|RX=[PRO]
 8	cha	cha	PRON	_	_	9	det:poss	_	AlignBegin=154036|AlignEnd=154464|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
 9	nienulenga	nienulenga	NOUN	_	_	10	comp:obj	_	AlignBegin=154464|AlignEnd=154892|GE=husband|Gloss=husband|nWord=8|RX=[N]
 10	gud	gud	VERB	_	_	11	comp:aux	_	AlignBegin=154892|AlignEnd=155106|GE=kill|Gloss=kill|nWord=9|RX=[V]
-11	-a		X	_	_	6	comp	_	AlignBegin=155106|AlignEnd=155320|GE=[0]|Gloss=-0|nWord=9|RX=[VERB]
+11	-a		AUX	_	_	6	comp	_	AlignBegin=155106|AlignEnd=155320|GE=[0]|Gloss=-0|nWord=9|RX=[VERB]
 12	,		PUNCT	_	_	_	_	_	AlignBegin=155320|AlignEnd=155750|nWord=10
 13	ba	ba	PRON	_	_	15	subj	_	AlignBegin=156065|AlignEnd=156273|GE=[2SG]|Gloss=2SG|nWord=11|RX=[PRO]
 14	cha	cha	PRON	_	_	15	comp:obj	_	AlignBegin=156273|AlignEnd=156481|GE=[1SG]|Gloss=1SG|nWord=12|RX=[PRO]
@@ -869,11 +869,11 @@
 # text_en = You can't do that because it is forbidden.
 # text_ortho = ba me gna ake ene porque sainkuli .
 1	ba	ba	PRON	_	_	4	subj	_	AlignBegin=158445|AlignEnd=158743|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
-2	me	me	PART	_	_	_	_	_	AlignBegin=158743|AlignEnd=159041|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	_	_	_	_	AlignBegin=158743|AlignEnd=159041|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	gna	gna	AUX	_	_	2	comp:aux	_	AlignBegin=159041|AlignEnd=159339|GE=can|Gloss=can|nWord=3|RX=[V]
 4	ake	ake	VERB	_	_	3	comp:aux	_	AlignBegin=159339|AlignEnd=159637|GE=do|Gloss=do|nWord=4|RX=[V]
 5	ene	ene	ADV	_	_	4	mod	_	AlignBegin=159637|AlignEnd=159935|GE=so|Gloss=so|nWord=5|RX=[ADV]
-6	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=159935|AlignEnd=160233|GE=because|Gloss=because|nWord=6|RX=[CONN]
+6	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=159935|AlignEnd=160233|GE=because|Gloss=because|Lang=es|nWord=6|RX=[CONN]
 7	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=160233|AlignEnd=160531|GE=forbidden|Gloss=forbidden|nWord=7|RX=[ADV]
 8	.		PUNCT	_	_	_	_	_	AlignBegin=160531|AlignEnd=160825|Gloss=.|nWord=8
 
@@ -929,7 +929,7 @@
 # text = y muinga tku chi ske .
 # text_en = And (he) put the woman in the water.
 # text_ortho = y muinga tku chi ske .
-1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=168360|AlignEnd=168677|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=168360|AlignEnd=168677|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
 2	muinga	muinga	NOUN	_	_	3	comp:obj	_	AlignBegin=168677|AlignEnd=168994|GE=woman|Gloss=woman|nWord=2|RX=[N]
 3	tk	tk	VERB	_	_	4	comp:aux/m	_	AlignBegin=168994|AlignEnd=169152|GE=put|Gloss=put|nWord=3|RX=[VT]
 4	-u		AUX	_	_	0	root	_	AlignBegin=169152|AlignEnd=169311|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
@@ -1005,8 +1005,8 @@
 3	-u		AUX	_	_	_	_	_	AlignBegin=183381|AlignEnd=183483|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]
 4	nahere	nahere	NOUN	_	_	5	comp	_	AlignBegin=183483|AlignEnd=183791|GE=night|Gloss=night|nWord=2|RX=[N]
 5	ke	ke	ADP	_	_	1	comp:obl	_	AlignBegin=183791|AlignEnd=184099|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
-6	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=184099|AlignEnd=184407|GE=to|Gloss=to|nWord=4|RX=[ADP]
-7	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=184407|AlignEnd=184715|GE=that|Gloss=that|nWord=5|RX=[PRO]
+6	hasta	hasta	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=184099|AlignEnd=184407|GE=to|Gloss=to|Lang=es|nWord=4|RX=[ADP]
+7	que	que	X	_	Foreign=Yes	6	compound	_	AlignBegin=184407|AlignEnd=184715|GE=that|Gloss=that|Lang=es|nWord=5|RX=[PRO]
 8	ho	hoke	VERB	_	_	_	_	_	AlignBegin=184715|AlignEnd=185023|GE=[go].[PST]|Gloss=go.PST|nWord=6|RX=[VI]
 9	gwe	gwe	VERB	_	_	8	mod:purpose	_	AlignBegin=185023|AlignEnd=185331|GE=sleep|Gloss=sleep|nWord=7|RX=[VI]
 10	gli	gli	NOUN	_	_	11	comp	_	AlignBegin=185331|AlignEnd=185639|GE=tree|Gloss=tree|nWord=8|RX=[N]
@@ -1070,7 +1070,7 @@
 # text = pero no e chi nangka kada ene .
 # text_en = But it is not the name of the first river.
 # text_ortho = pero no e chi nangka kada ene .
-1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=197135|AlignEnd=197383|GE=but|Gloss=but|nWord=1|RX=[COORDCONN]
+1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=197135|AlignEnd=197383|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
 2	no	no	PART	_	_	_	_	_	AlignBegin=197383|AlignEnd=197631|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	e	e	ADV	_	_	_	_	_	AlignBegin=197631|AlignEnd=197879|GE=now|Gloss=now|nWord=3|RX=[ADV]
 4	chi	chi	NOUN	_	_	_	_	_	AlignBegin=197879|AlignEnd=198127|GE=water|Gloss=water|nWord=4|RX=[N]
@@ -1092,7 +1092,7 @@
 3	kada	kada	NOUN	_	_	_	_	_	AlignBegin=199670|AlignEnd=199945|GE=name|Gloss=name|nWord=3|RX=[N]
 4	ene	ene	ADV	_	_	_	_	_	AlignBegin=199945|AlignEnd=200220|GE=so|Gloss=so|nWord=4|RX=[ADV]
 5	chk	chk	VERB	_	_	6	comp:aux/m	_	AlignBegin=200220|AlignEnd=200358|GE=arrive|Gloss=arrive|nWord=5|RX=[VI]
-6	-edo		PART	_	_	_	_	_	AlignBegin=200358|AlignEnd=200495|GE=[PART]|Gloss=-PART|nWord=5|RX=[VERBAL_PARTICLE]
+6	-edo		AUX	_	_	_	_	_	AlignBegin=200358|AlignEnd=200495|GE=[PART]|Gloss=-PART|nWord=5|RX=[VERBAL_PARTICLE]
 7	toi	toi	VERB	_	_	_	_	_	AlignBegin=200495|AlignEnd=200770|GE=live|Gloss=live|nWord=6|RX=[VI]
 8	chi	chi	NOUN	_	_	_	_	_	AlignBegin=200770|AlignEnd=201045|GE=water|Gloss=water|nWord=7|RX=[N]
 9	nangka	nangka	ADJ	_	_	8	mod	_	AlignBegin=201045|AlignEnd=201320|GE=next|Gloss=next|nWord=8|RX=[ADJ]
@@ -1113,7 +1113,7 @@
 3	Blacito	Blacito	PROPN	_	_	2	flat	_	AlignBegin=203290|AlignEnd=203765|GE=[Blacito]|Gloss=Blacito|nWord=3|RX=[NPROP]
 4	ho	hoke	AUX	_	_	0	root	_	AlignBegin=203765|AlignEnd=204240|GE=[go].[PST]|Gloss=go.PST|nWord=4|RX=[VI]
 5	bek	bek	VERB	_	_	6	comp:aux/m	_	AlignBegin=204240|AlignEnd=204398|GE=put|Gloss=put|nWord=5|RX=[V]
-6	-a		X	_	_	7	comp:aux/m	_	AlignBegin=204398|AlignEnd=204556|GE=[0]|Gloss=-0|nWord=5|RX=[VERB]
+6	-a		AUX	_	_	7	comp:aux/m	_	AlignBegin=204398|AlignEnd=204556|GE=[0]|Gloss=-0|nWord=5|RX=[VERB]
 7	-bale		AUX	_	_	4	comp:aux	_	AlignBegin=204556|AlignEnd=204715|GE=[PART]|Gloss=-PART|nWord=5|RX=[V:ANY]
 8	ska	ska	NOUN	_	_	9	comp	_	AlignBegin=204715|AlignEnd=205190|GE=jail|Gloss=jail|nWord=6|RX=[N]
 9	ke	ke	ADP	_	_	5	comp:obl	_	AlignBegin=205190|AlignEnd=205665|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
@@ -1138,7 +1138,7 @@
 9	me	me	PART	_	_	_	_	_	AlignBegin=209650|AlignEnd=210100|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
 10	chi	chi	VERB	_	_	11	comp:aux/m	_	AlignBegin=210100|AlignEnd=210325|GE=come|Gloss=come|nWord=8|RX=[VI]
 11	-u		AUX	_	_	_	_	_	AlignBegin=210325|AlignEnd=210550|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]
-12	ho	hoke	VERB	_	_	10	mod:tmod	_	AlignBegin=210550|AlignEnd=211000|GE=[go].[PST]|Gloss=go.PST|nWord=9|RX=[VI]
+12	ho	hoke	AUX	_	_	10	mod:tmod	_	AlignBegin=210550|AlignEnd=211000|GE=[go].[PST]|Gloss=go.PST|nWord=9|RX=[VI]
 13	hong	hong	NOUN	_	_	_	_	_	AlignBegin=211000|AlignEnd=211450|GE=path|Gloss=path|nWord=10|RX=[N]
 14	ga	gai	VERB	_	_	15	comp:aux/m	_	AlignBegin=211450|AlignEnd=211675|GE=pick_up|Gloss=pick_up|nWord=11|RX=[VT]
 15	-le		AUX	_	_	12	comp:aux	_	AlignBegin=211675|AlignEnd=211900|GE=[ADJZ]|Gloss=-ADJZ|nWord=11|RX=[N>ADJ]

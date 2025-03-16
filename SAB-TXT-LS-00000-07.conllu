@@ -61,7 +61,7 @@
 9	mil	mil	NUM	_	_	_	_	_	AlignBegin=18705|AlignEnd=19015|GE=thousand|Gloss=thousand|nWord=7|RX=[NUM]
 10	noveciento	noveciento	NUM	_	_	_	_	_	AlignBegin=19015|AlignEnd=19325|GE=nine_hundred|Gloss=nine_hundred|nWord=8|RX=[NUM]
 11	noventa	noventa	NUM	_	_	_	_	_	AlignBegin=19325|AlignEnd=19635|GE=ninety|Gloss=ninety|nWord=9|RX=[NUM]
-12	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=19635|AlignEnd=19945|GE=and|Gloss=and|nWord=10|RX=[COORDCONN]
+12	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=19635|AlignEnd=19945|GE=and|Gloss=and|Lang=es|nWord=10|RX=[COORDCONN]
 13	tres	tres	NUM	_	_	_	_	_	AlignBegin=19945|AlignEnd=20255|GE=three|Gloss=three|nWord=11|RX=[NUM]
 14	.		PUNCT	_	_	4	punct	_	AlignBegin=20255|AlignEnd=20565|Gloss=.|nWord=12
 
@@ -73,7 +73,7 @@
 # text = ya cha ruia cha chebia kle toi aini .
 # text_en = My uncle and my mother were already living here.
 # text_ortho = ya cha ruia cha chebia kle toi aini .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=20810|AlignEnd=21077|GE=now|Gloss=now|nWord=1|RX=[ADV]
+1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=20810|AlignEnd=21077|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	4	udep:poss	_	AlignBegin=21077|AlignEnd=21344|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	ru	ru	NOUN	_	_	4	comp:aux/m	_	AlignBegin=21344|AlignEnd=21478|GE=uncle|Gloss=uncle|nWord=3|RX=[N]
 4	-ia		AUX	_	_	_	_	_	AlignBegin=21478|AlignEnd=21611|GE=[POSS]|Gloss=-POSS|nWord=3|RX=[N:ANY]
@@ -112,7 +112,7 @@
 # text_en = I don`t know my father.
 # text_ortho = cha me cha nienua unie .
 1	cha	cha	PRON	_	_	6	subj	_	AlignBegin=27630|AlignEnd=27932|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	me	me	PART	_	_	0	root	_	AlignBegin=27932|AlignEnd=28234|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	_	0	root	_	AlignBegin=27932|AlignEnd=28234|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	cha	cha	PRON	_	_	5	udep:poss	_	AlignBegin=28234|AlignEnd=28536|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
 4	nienu	nienu	NOUN	_	_	5	comp:aux/m	_	AlignBegin=28536|AlignEnd=28687|GE=father|Gloss=father|nWord=4|RX=[N]
 5	-a		AUX	_	_	6	comp:obj	_	AlignBegin=28687|AlignEnd=28838|GE=[POSS]|Gloss=-POSS|nWord=4|RX=[N:ANY]
@@ -135,7 +135,7 @@
 5	chebi	chebi	NOUN	_	_	6	comp:aux/m	_	AlignBegin=30804|AlignEnd=31030|GE=mother|Gloss=mother|nWord=4|RX=[N]
 6	-a		AUX	_	_	7	comp	_	AlignBegin=31030|AlignEnd=31257|GE=[POSS]|Gloss=-POSS|nWord=4|RX=[N:ANY]
 7	ole	ole	ADP	_	_	2	comp:obl	_	AlignBegin=31257|AlignEnd=31710|GE=[COM]|Gloss=COM|nWord=5|RX=[ADP]
-8	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=31710|AlignEnd=32163|GE=and|Gloss=and|nWord=6|RX=[COORDCONN]
+8	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=31710|AlignEnd=32163|GE=and|Gloss=and|Lang=es|nWord=6|RX=[COORDCONN]
 9	ibote	ibote	NOUN	_	_	_	_	_	AlignBegin=32163|AlignEnd=32616|GE=sister|Gloss=sister|nWord=7|RX=[N]
 10	gda	gda	NUM	_	_	11	clf	_	AlignBegin=32616|AlignEnd=32842|GE=cl|Gloss=cl|nWord=8|RX=[NUM]
 11	oke	oke	NUM	_	_	9	mod	_	AlignBegin=32842|AlignEnd=33069|GE=two|Gloss=two|nWord=8|RX=[NUM]
@@ -153,7 +153,7 @@
 2	ho	hoke	AUX	_	_	0	root	_	AlignBegin=34468|AlignEnd=34796|GE=[go].[PST]|Gloss=go.PST|nWord=2|RX=[VI]
 3	bek	bek	VERB	_	_	4	comp:aux/m	_	AlignBegin=34796|AlignEnd=34960|GE=put|Gloss=put|nWord=3|RX=[V]
 4	-ado		AUX	_	_	2	comp:aux	_	AlignBegin=34960|AlignEnd=35124|GE=[PART]|Gloss=-PART|nWord=3|RX=[VERB]
-5	escuela	escuela	NOUN	_	Foreign=Yes	6	comp	_	AlignBegin=35124|AlignEnd=35452|GE=school|Gloss=school|nWord=4|RX=[N]
+5	escuela	escuela	NOUN	_	Foreign=Yes	6	comp	_	AlignBegin=35124|AlignEnd=35452|GE=school|Gloss=school|Lang=es|nWord=4|RX=[N]
 6	dike	dike	ADP	_	_	3	comp:obl	_	AlignBegin=35452|AlignEnd=35780|GE=[INST]|Gloss=INST|nWord=5|RX=[ADP]
 7	aini	aini	ADV	_	_	3	mod:lmod	_	AlignBegin=35780|AlignEnd=36108|GE=here|Gloss=here|nWord=6|RX=[ADV]
 8	cahuita	cahuita	PROPN	_	_	_	_	_	AlignBegin=36108|AlignEnd=36436|GE=[Kawita]|Gloss=Kawita|nWord=7|RX=[NPROP]
@@ -186,7 +186,7 @@
 # text_ortho = gliga hue ma nerku rio luis .
 1	gliga	gliga	NOUN	_	_	2	comp:obj	_	AlignBegin=39130|AlignEnd=39573|GE=letter|Gloss=letter|nWord=1|RX=[N]
 2	hue	hue	VERB	_	_	_	_	_	AlignBegin=39573|AlignEnd=40016|GE=[learn].[NPST]|Gloss=learn.NPST|nWord=2|RX=[VT]
-3	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=40016|AlignEnd=40459|GE=more|Gloss=more|nWord=3|RX=[ADV]
+3	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=40016|AlignEnd=40459|GE=more|Gloss=more|Lang=es|nWord=3|RX=[ADV]
 4	nerku	nerku	ADV	_	_	_	_	_	AlignBegin=40459|AlignEnd=40902|GE=ahead|Gloss=ahead|nWord=4|RX=[ADV]
 5	rio	rio	NOUN	_	_	_	_	_	AlignBegin=40902|AlignEnd=41345|GE=[Rio]|Gloss=Rio|nWord=5|RX=[N]
 6	Luis	Luis	PROPN	_	_	_	_	_	AlignBegin=41345|AlignEnd=41788|GE=[Luis]|Gloss=Luis|nWord=6|RX=[NPROP]
@@ -204,7 +204,7 @@
 2	gliga	gliga	NOUN	_	_	3	comp:obj	_	AlignBegin=43031|AlignEnd=43337|GE=letter|Gloss=letter|nWord=2|RX=[N]
 3	bek	bek	VERB	_	_	4	comp:aux/m	_	AlignBegin=43337|AlignEnd=43490|GE=put|Gloss=put|nWord=3|RX=[V]
 4	-u		AUX	_	_	0	root	_	AlignBegin=43490|AlignEnd=43643|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
-5	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=43643|AlignEnd=43949|GE=now|Gloss=now|nWord=4|RX=[ADV]
+5	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=43643|AlignEnd=43949|GE=now|Gloss=now|Lang=es|nWord=4|RX=[ADV]
 6	.		PUNCT	_	_	4	punct	_	AlignBegin=43949|AlignEnd=44255|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-LS-00000-07_14-15
@@ -216,19 +216,19 @@
 # text_en = I was not able to learn more at the university. Because There is no money here with us.
 # text_ortho = cha me gna ( kotado ) kotoidu universidad gliga ma ngle ke , porque iki me aini che ske .
 1	cha	cha	PRON	_	_	7	subj	_	AlignBegin=47270|AlignEnd=47582|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	me	me	PART	_	_	_	_	_	AlignBegin=47582|AlignEnd=47894|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	_	_	_	_	AlignBegin=47582|AlignEnd=47894|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	gna	gna	AUX	_	_	2	comp:aux	_	AlignBegin=47894|AlignEnd=48206|GE=can|Gloss=can|nWord=3|RX=[V]
 4	(		PUNCT	_	_	_	_	_	AlignBegin=48206|AlignEnd=48518|nWord=4
 5	kotado	kotado	_	_	_	_	_	_	AlignBegin=48518|AlignEnd=48830|nWord=5
 6	)		PUNCT	_	_	_	_	_	AlignBegin=48830|AlignEnd=49142|nWord=6
 7	kotoidu	kotoidu	VERB	_	_	3	comp:aux	_	AlignBegin=49142|AlignEnd=49454|GE=get|Gloss=get|nWord=7|RX=[V]
-8	universidad	universidad	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=49454|AlignEnd=49766|GE=university|Gloss=university|nWord=8|RX=[N]
+8	universidad	universidad	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=49454|AlignEnd=49766|GE=university|Gloss=university|Lang=es|nWord=8|RX=[N]
 9	gliga	gliga	NOUN	_	_	_	_	_	AlignBegin=49766|AlignEnd=50078|GE=letter|Gloss=letter|nWord=9|RX=[N]
-10	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=50078|AlignEnd=50390|GE=more|Gloss=more|nWord=10|RX=[ADV]
+10	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=50078|AlignEnd=50390|GE=more|Gloss=more|Lang=es|nWord=10|RX=[ADV]
 11	ngle	ngle	ADV	_	_	_	_	_	AlignBegin=50390|AlignEnd=50702|GE=more|Gloss=more|nWord=11|RX=[ADV]
 12	ke	ke	ADP	_	_	_	_	_	AlignBegin=50702|AlignEnd=51014|GE=[LOC]|Gloss=LOC|nWord=12|RX=[ADP]
 13	,		PUNCT	_	_	_	_	_	AlignBegin=51014|AlignEnd=51330|nWord=13
-14	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=51355|AlignEnd=51959|GE=because|Gloss=because|nWord=14|RX=[CONN]
+14	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=51355|AlignEnd=51959|GE=because|Gloss=because|Lang=es|nWord=14|RX=[CONN]
 15	iki	iki	NOUN	_	_	_	_	_	AlignBegin=51959|AlignEnd=52563|GE=money|Gloss=money|nWord=15|RX=[N]
 16	me	me	PART	_	_	_	_	_	AlignBegin=52563|AlignEnd=53167|GE=[NEG]|Gloss=NEG|nWord=16|RX=[VERBPRT]
 17	aini	aini	ADV	_	_	_	_	_	AlignBegin=53167|AlignEnd=53771|GE=here|Gloss=here|nWord=17|RX=[ADV]
@@ -245,7 +245,7 @@
 # text_en = And there is no university.
 # text_ortho = tambien escuela kweri me che ske .
 1	tambien	tambien	ADV	_	_	_	_	_	AlignBegin=56445|AlignEnd=56874|GE=also|Gloss=also|nWord=1|RX=[ADV]
-2	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=56874|AlignEnd=57303|GE=school|Gloss=school|nWord=2|RX=[N]
+2	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=56874|AlignEnd=57303|GE=school|Gloss=school|Lang=es|nWord=2|RX=[N]
 3	kweri	kweri	ADJ	_	_	2	mod	_	AlignBegin=57303|AlignEnd=57732|GE=big|Gloss=big|nWord=3|RX=[ADJ]
 4	me	me	PART	_	_	_	_	_	AlignBegin=57732|AlignEnd=58161|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
 5	che	che	PRON	_	_	6	comp	_	AlignBegin=58161|AlignEnd=58590|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=5|RX=[PRO]
@@ -297,22 +297,22 @@
 12	cha	cha	PRON	_	_	13	comp	_	AlignBegin=74589|AlignEnd=75070|GE=[1SG]|Gloss=1SG|nWord=10|RX=[PRO]
 13	ke	ke	ADP	_	_	10	comp:obl	_	AlignBegin=75070|AlignEnd=75551|GE=[DAT]|Gloss=DAT|nWord=11|RX=[ADP]
 14	,		PUNCT	_	_	_	_	_	AlignBegin=75551|AlignEnd=76030|nWord=12
-15	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=76060|AlignEnd=76485|GE=for|Gloss=for|nWord=13|RX=[ADP]
+15	para	para	SCONJ	_	Foreign=Yes	10	mod:purpose	_	AlignBegin=76060|AlignEnd=76485|GE=for|Gloss=for|Lang=es|nWord=13|RX=[ADP]
 16	geru	geru	NOUN	_	_	17	comp:obj	_	AlignBegin=76485|AlignEnd=76910|GE=story|Gloss=story|nWord=14|RX=[N]
 17	dodad	dodad	VERB	_	_	18	comp:aux/m	_	AlignBegin=76910|AlignEnd=77122|GE=make|Gloss=make|nWord=15|RX=[VT]
-18	-e		AUX	_	_	_	_	_	AlignBegin=77122|AlignEnd=77335|GE=[THM]|Gloss=-THM|nWord=15|RX=[V:ANY]
+18	-e		AUX	_	_	15	comp	_	AlignBegin=77122|AlignEnd=77335|GE=[THM]|Gloss=-THM|nWord=15|RX=[V:ANY]
 19	kiro	kiro	NOUN	_	_	20	comp	_	AlignBegin=77335|AlignEnd=77760|GE=child|Gloss=child|nWord=16|RX=[N]
 20	aling	aling	ADP	_	_	17	comp:obl	_	AlignBegin=77760|AlignEnd=78185|GE=for|Gloss=for|nWord=17|RX=[ADP]
 21	,		PUNCT	_	_	_	_	_	AlignBegin=78185|AlignEnd=78610|nWord=18
 22	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=78630|AlignEnd=79023|GE=child|Gloss=child|nWord=19|RX=[N]
 23	teng	teng	VERB	_	_	_	_	_	AlignBegin=79023|AlignEnd=79416|GE=teach|Gloss=teach|nWord=20|RX=[V]
 24	tambien	tambien	ADV	_	_	_	_	_	AlignBegin=79416|AlignEnd=79809|GE=also|Gloss=also|nWord=21|RX=[ADV]
-25	como	como	ADP	_	Foreign=Yes	_	_	_	AlignBegin=79809|AlignEnd=80202|GE=like|Gloss=like|nWord=22|RX=[ADP]
+25	como	como	ADP	_	Foreign=Yes	_	_	_	AlignBegin=79809|AlignEnd=80202|GE=like|Gloss=like|Lang=es|nWord=22|RX=[ADP]
 26	ba	ba	PRON	_	_	28	subj	_	AlignBegin=80202|AlignEnd=80595|GE=[2SG]|Gloss=2SG|nWord=23|RX=[PRO]
 27	kle	kle	AUX	_	_	_	_	_	AlignBegin=80595|AlignEnd=80988|GE=be|Gloss=be|nWord=24|RX=[V]
 28	teng	teng	VERB	_	_	27	comp:aux	_	AlignBegin=80988|AlignEnd=81381|GE=teach|Gloss=teach|nWord=25|RX=[V]
 29	die	die	NOUN	_	_	_	_	_	AlignBegin=81381|AlignEnd=81774|GE=thing|Gloss=thing|nWord=26|RX=[N]
-30	usale	usale	VERB	_	Foreign=Yes	_	_	_	AlignBegin=81774|AlignEnd=82167|GE=use|Gloss=use|nWord=27|RX=[V]
+30	usale	usale	VERB	_	Foreign=Yes	_	_	_	AlignBegin=81774|AlignEnd=82167|GE=use|Gloss=use|Lang=es|nWord=27|RX=[V]
 31	kle	kle	AUX	_	_	_	_	_	AlignBegin=82167|AlignEnd=82560|GE=be|Gloss=be|nWord=28|RX=[V]
 32	ba	ba	PRON	_	_	_	_	_	AlignBegin=82560|AlignEnd=82953|GE=[2SG]|Gloss=2SG|nWord=29|RX=[PRO]
 33	kote	kote	ADV	_	_	_	_	_	AlignBegin=82953|AlignEnd=83346|GE=in_hand|Gloss=in_hand|nWord=30|RX=[ADV]

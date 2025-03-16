@@ -26,7 +26,7 @@
 3	kle	kle	AUX	_	_	_	_	_	AlignBegin=32490|AlignEnd=32930|GE=be|Gloss=be|nWord=3|RX=[V]
 4	hoke	hoke	VERB	_	_	3	comp:aux	_	AlignBegin=32930|AlignEnd=33370|GE=go|Gloss=go|nWord=4|RX=[VI]
 5	goka	goka	ADJ	_	_	6	comp:aux/m	_	AlignBegin=33370|AlignEnd=33590|GE=pregnant|Gloss=pregnant|nWord=5|RX=[ADJ]
-6	-ia		NOUN	_	_	_	_	_	AlignBegin=33590|AlignEnd=33810|GE=[0]|Gloss=-0|nWord=5|RX=[NOUN]
+6	-ia		AUX	_	_	_	_	_	AlignBegin=33590|AlignEnd=33810|GE=[0]|Gloss=-0|nWord=5|RX=[NOUN]
 7	goka	goka	ADJ	_	_	6	mod	_	AlignBegin=33810|AlignEnd=34250|GE=pregnant|Gloss=pregnant|nWord=6|RX=[ADJ]
 8	)		PUNCT	_	_	_	_	_	AlignBegin=34250|AlignEnd=34690|nWord=7
 9	kle	kle	AUX	_	_	0	root	_	AlignBegin=34690|AlignEnd=35130|GE=be|Gloss=be|nWord=8|RX=[V]
@@ -46,14 +46,14 @@
 2	kiro	kiro	NOUN	_	_	3	comp:obj	_	AlignBegin=37545|AlignEnd=38100|GE=child|Gloss=child|nWord=2|RX=[N]
 3	manan	manan	VERB	_	_	4	comp:aux/m	_	AlignBegin=38100|AlignEnd=38378|GE=take_care|Gloss=take_care|nWord=3|RX=[V]
 4	-e		AUX	_	_	1	comp:aux	_	AlignBegin=38378|AlignEnd=38655|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
-5	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=38655|AlignEnd=39210|GE=to|Gloss=to|nWord=4|RX=[ADP]
-6	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=39210|AlignEnd=39765|GE=that|Gloss=that|nWord=5|RX=[PRO]
+5	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=38655|AlignEnd=39210|GE=to|Gloss=to|Lang=es|nWord=4|RX=[ADP]
+6	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=39210|AlignEnd=39765|GE=that|Gloss=that|Lang=es|nWord=5|RX=[PRO]
 7	ocho	ocho	NUM	_	_	_	_	_	AlignBegin=39765|AlignEnd=40320|GE=eight|Gloss=eight|nWord=6|RX=[NUM]
 8	dia	dia	NOUN	_	_	_	_	_	AlignBegin=40320|AlignEnd=40875|GE=day|Gloss=day|nWord=7|RX=[N]
 9	,		PUNCT	_	_	_	_	_	AlignBegin=40875|AlignEnd=41430|nWord=8
 10	apa	apa	NUM	_	_	_	_	_	AlignBegin=51780|AlignEnd=52180|GE=eight|Gloss=eight|nWord=9|RX=[NUM]
 11	,		PUNCT	_	_	_	_	_	AlignBegin=52180|AlignEnd=52580|nWord=10
-12	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=53540|AlignEnd=54090|GE=so|Gloss=so|nWord=11|RX=[ADV]
+12	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=53540|AlignEnd=54090|GE=so|Gloss=so|Lang=es|nWord=11|RX=[ADV]
 13	kle	kle	AUX	_	_	14	comp:aux/m	_	AlignBegin=54090|AlignEnd=54365|GE=be|Gloss=be|nWord=12|RX=[V]
 14	-ni		AUX	_	_	_	_	_	AlignBegin=54365|AlignEnd=54640|GE=[IT]|Gloss=-IT|nWord=12|RX=[V:ANY]
 15	chi	chi	VERB	_	_	16	comp:aux/m	_	AlignBegin=54640|AlignEnd=54823|GE=come|Gloss=come|nWord=13|RX=[VI]
@@ -87,28 +87,28 @@
 2	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=57912|AlignEnd=58214|GE=child|Gloss=child|nWord=2|RX=[N]
 3	)		PUNCT	_	_	_	_	_	AlignBegin=58214|AlignEnd=58516|nWord=3
 4	muinga	muinga	NOUN	_	_	_	_	_	AlignBegin=58516|AlignEnd=58818|GE=woman|Gloss=woman|nWord=4|RX=[N]
-5	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=58818|AlignEnd=59120|GE=be|Gloss=be|nWord=5|RX=[V]
+5	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=58818|AlignEnd=59120|GE=be|Gloss=be|Lang=es|nWord=5|RX=[V]
 6	goka	goka	ADJ	_	_	5	comp:pred	_	AlignBegin=59120|AlignEnd=59422|GE=pregnant|Gloss=pregnant|nWord=6|RX=[ADJ]
 7	muinga	muinga	NOUN	_	_	11	subj	_	AlignBegin=59422|AlignEnd=59724|GE=woman|Gloss=woman|nWord=7|RX=[N]
-8	me	me	PART	_	_	_	_	_	AlignBegin=59724|AlignEnd=60026|GE=[NEG]|Gloss=NEG|nWord=8|RX=[VERBPRT]
+8	me	me	AUX	_	_	_	_	_	AlignBegin=59724|AlignEnd=60026|GE=[NEG]|Gloss=NEG|nWord=8|RX=[VERBPRT]
 9	gna	gna	AUX	_	_	8	comp:aux	_	AlignBegin=60026|AlignEnd=60328|GE=can|Gloss=can|nWord=9|RX=[V]
 10	cho	cho	NOUN	_	_	11	comp:obj	_	AlignBegin=60328|AlignEnd=60630|GE=salt|Gloss=salt|nWord=10|RX=[N]
 11	gut	gut	VERB	_	_	12	comp:aux/m	_	AlignBegin=60630|AlignEnd=60781|GE=eat|Gloss=eat|nWord=11|RX=[VT]
 12	-e		AUX	_	_	9	comp:aux	_	AlignBegin=60781|AlignEnd=60932|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
 13	,		PUNCT	_	_	_	_	_	AlignBegin=60932|AlignEnd=61240|nWord=12
-14	me	me	PART	_	_	_	_	_	AlignBegin=61530|AlignEnd=61950|GE=[NEG]|Gloss=NEG|nWord=13|RX=[VERBPRT]
+14	me	me	AUX	_	_	_	_	_	AlignBegin=61530|AlignEnd=61950|GE=[NEG]|Gloss=NEG|nWord=13|RX=[VERBPRT]
 15	gna	gna	AUX	_	_	14	comp:aux	_	AlignBegin=61950|AlignEnd=62370|GE=can|Gloss=can|nWord=14|RX=[V]
 16	samla	samla	NOUN	_	_	17	comp:obj	_	AlignBegin=62370|AlignEnd=62790|GE=meat|Gloss=meat|nWord=15|RX=[N]
 17	gut	gut	VERB	_	_	18	comp:aux/m	_	AlignBegin=62790|AlignEnd=63000|GE=eat|Gloss=eat|nWord=16|RX=[VT]
 18	-e		AUX	_	_	15	comp:aux	_	AlignBegin=63000|AlignEnd=63210|GE=[THM]|Gloss=-THM|nWord=16|RX=[V:ANY]
 19	,		PUNCT	_	_	_	_	_	AlignBegin=63210|AlignEnd=63630|nWord=17
-20	me	me	PART	_	_	_	_	_	AlignBegin=63950|AlignEnd=64208|GE=[NEG]|Gloss=NEG|nWord=18|RX=[VERBPRT]
+20	me	me	AUX	_	_	_	_	_	AlignBegin=63950|AlignEnd=64208|GE=[NEG]|Gloss=NEG|nWord=18|RX=[VERBPRT]
 21	gna	gna	AUX	_	_	20	comp:aux	_	AlignBegin=64208|AlignEnd=64466|GE=can|Gloss=can|nWord=19|RX=[V]
 22	die	die	NOUN	_	_	23	comp:obj	_	AlignBegin=64466|AlignEnd=64724|GE=thing|Gloss=thing|nWord=20|RX=[N]
 23	gut	gut	VERB	_	_	24	comp:aux/m	_	AlignBegin=64724|AlignEnd=64853|GE=eat|Gloss=eat|nWord=21|RX=[VT]
 24	-e		AUX	_	_	21	comp:aux	_	AlignBegin=64853|AlignEnd=64982|GE=[THM]|Gloss=-THM|nWord=21|RX=[V:ANY]
 25	,		PUNCT	_	_	_	_	_	AlignBegin=64982|AlignEnd=65240|nWord=22
-26	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=65260|AlignEnd=65545|GE=because|Gloss=because|nWord=23|RX=[CONN]
+26	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=65260|AlignEnd=65545|GE=because|Gloss=because|Lang=es|nWord=23|RX=[CONN]
 27	kle	kle	AUX	_	_	_	_	_	AlignBegin=65545|AlignEnd=65830|GE=be|Gloss=be|nWord=24|RX=[V]
 28	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=65830|AlignEnd=66115|GE=child|Gloss=child|nWord=25|RX=[N]
 29	trenkwali	trenkwali	NOUN	_	_	30	comp	_	AlignBegin=66115|AlignEnd=66400|GE=foetus|Gloss=foetus|nWord=26|RX=[N]
@@ -145,7 +145,7 @@
 20	-e		AUX	_	_	18	comp:aux	_	AlignBegin=72142|AlignEnd=72336|GE=[THM]|Gloss=-THM|nWord=14|RX=[V:ANY]
 21	gude	gude	ADV	_	_	_	_	_	AlignBegin=72336|AlignEnd=72724|GE=inside_the_house|Gloss=inside_the_house|nWord=15|RX=[ADV]
 22	,		PUNCT	_	_	_	_	_	AlignBegin=72724|AlignEnd=73110|nWord=16
-23	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=73440|AlignEnd=73824|GE=so|Gloss=so|nWord=17|RX=[ADV]
+23	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=73440|AlignEnd=73824|GE=so|Gloss=so|Lang=es|nWord=17|RX=[ADV]
 24	kle	kle	AUX	_	_	_	_	_	AlignBegin=73824|AlignEnd=74208|GE=be|Gloss=be|nWord=18|RX=[V]
 25	bag	bag	VERB	_	_	26	comp:aux	_	AlignBegin=74208|AlignEnd=74400|GE=ceremoniate|Gloss=ceremoniate|nWord=19|RX=[VI]
 26	-e		AUX	_	_	24	comp:aux	_	AlignBegin=74400|AlignEnd=74592|GE=[THM]|Gloss=-THM|nWord=19|RX=[V:ANY]
@@ -173,14 +173,14 @@
 # text = me kle cho gutedale ata que un mes , chui gdaite , chui gdaite .
 # text_en = (She) can't eat salt for one month. One month. One month.
 # text_ortho = me kle cho gutedale ata que un mes , chui gdaite , chui gdaite .
-1	me	me	PART	_	_	_	_	_	AlignBegin=82310|AlignEnd=82719|GE=[NEG]|Gloss=NEG|nWord=1|RX=[VERBPRT]
+1	me	me	AUX	_	_	_	_	_	AlignBegin=82310|AlignEnd=82719|GE=[NEG]|Gloss=NEG|nWord=1|RX=[VERBPRT]
 2	kle	kle	AUX	_	_	1	comp:aux	_	AlignBegin=82719|AlignEnd=83128|GE=be|Gloss=be|nWord=2|RX=[V]
 3	cho	cho	NOUN	_	_	4	comp:obj	_	AlignBegin=83128|AlignEnd=83537|GE=salt|Gloss=salt|nWord=3|RX=[N]
 4	gut	gut	VERB	_	_	5	comp:aux/m	_	AlignBegin=83537|AlignEnd=83673|GE=eat|Gloss=eat|nWord=4|RX=[VT]
 5	-e		AUX	_	_	6	comp:aux	_	AlignBegin=83673|AlignEnd=83809|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 6	-dale		AUX	_	_	2	comp:aux	_	AlignBegin=83809|AlignEnd=83946|GE=[IRR]|Gloss=-IRR|nWord=4|RX=[V:ANY]
-7	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=83946|AlignEnd=84355|GE=to|Gloss=to|nWord=5|RX=[ADP]
-8	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=84355|AlignEnd=84764|GE=that|Gloss=that|nWord=6|RX=[PRO]
+7	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=83946|AlignEnd=84355|GE=to|Gloss=to|Lang=es|nWord=5|RX=[ADP]
+8	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=84355|AlignEnd=84764|GE=that|Gloss=that|Lang=es|nWord=6|RX=[PRO]
 9	un	un	DET	_	_	_	_	_	AlignBegin=84764|AlignEnd=85173|GE=[INDEF].[M]|Gloss=INDEF.M|nWord=7|RX=[DET]
 10	mes	mes	NOUN	_	_	_	_	_	AlignBegin=85173|AlignEnd=85582|GE=month|Gloss=month|nWord=8|RX=[N]
 11	,		PUNCT	_	_	_	_	_	AlignBegin=85582|AlignEnd=85990|nWord=9

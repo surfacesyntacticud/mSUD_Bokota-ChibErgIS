@@ -48,7 +48,7 @@
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=32451|AlignEnd=32729|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
 4	mn	mn	VERB	_	_	5	comp:aux/m	_	AlignBegin=32729|AlignEnd=32868|GE=cut|Gloss=cut|nWord=4|RX=[VT]
 5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=32868|AlignEnd=33007|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=33007|AlignEnd=33285|GE=up|Gloss=up|nWord=5|RX=[ADV]
+6	ngania	ngania	ADV	_	_	4	mod:lmod	_	AlignBegin=33007|AlignEnd=33285|GE=up|Gloss=up|nWord=5|RX=[ADV]
 7	.		PUNCT	_	_	2	punct	_	AlignBegin=33285|AlignEnd=33565|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-CO-00000-06_5-5

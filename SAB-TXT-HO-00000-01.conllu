@@ -13,7 +13,7 @@
 5	dodad	dodad	VERB	_	_	6	comp:aux/m	_	AlignBegin=15846|AlignEnd=16186|GE=make|Gloss=make|nWord=5|RX=[VT]
 6	-e		AUX	_	_	3	comp:aux	_	AlignBegin=16186|AlignEnd=16525|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	ene	ene	ADV	_	_	_	_	_	AlignBegin=16525|AlignEnd=17204|GE=so|Gloss=so|nWord=6|RX=[ADV]
-8	:		_	_	_	_	_	_	AlignBegin=17204|AlignEnd=17880|nWord=7
+8	:		PUNCT	_	_	_	_	_	AlignBegin=17204|AlignEnd=17880|nWord=7
 9	cha	cha	PRON	_	_	12	subj	_	AlignBegin=19200|AlignEnd=20085|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
 10	kle	kle	AUX	_	_	_	_	_	AlignBegin=20085|AlignEnd=20970|GE=be|Gloss=be|nWord=9|RX=[V]
 11	skira	skira	NOUN	_	_	12	comp:obj	_	AlignBegin=20970|AlignEnd=21855|GE=tree_type|Gloss=tree_type|nWord=10|RX=[N]
@@ -233,7 +233,7 @@
 1	gda	gda	NUM	_	_	2	clf	_	AlignBegin=119870|AlignEnd=120044|GE=cl|Gloss=cl|nWord=1|RX=[NUM]
 2	ite	ite	NUM	_	_	_	_	_	AlignBegin=120044|AlignEnd=120218|GE=one|Gloss=one|nWord=1|RX=[NUM]
 3	chui	chui	NOUN	_	_	_	_	_	AlignBegin=120218|AlignEnd=120566|GE=sun|Gloss=sun|nWord=2|RX=[N]
-4	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=120566|AlignEnd=120914|GE=be|Gloss=be|nWord=3|RX=[V]
+4	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=120566|AlignEnd=120914|GE=be|Gloss=be|Lang=es|nWord=3|RX=[V]
 5	giti	giti	ADP	_	_	_	_	_	AlignBegin=120914|AlignEnd=121262|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
 6	ngongku	ngongku	ADV	_	_	_	_	_	AlignBegin=121262|AlignEnd=121610|GE=other.side|Gloss=other.side|nWord=5|RX=[ADV]
 7	.		PUNCT	_	_	_	_	_	AlignBegin=121610|AlignEnd=121960|Gloss=.|nWord=6
@@ -249,7 +249,7 @@
 1	gda	gda	NUM	_	_	2	clf	_	AlignBegin=121980|AlignEnd=122125|GE=cl|Gloss=cl|nWord=1|RX=[NUM]
 2	ite	ite	NUM	_	_	_	_	_	AlignBegin=122125|AlignEnd=122270|GE=one|Gloss=one|nWord=1|RX=[NUM]
 3	chui	chui	NOUN	_	_	_	_	_	AlignBegin=122270|AlignEnd=122560|GE=sun|Gloss=sun|nWord=2|RX=[N]
-4	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=122560|AlignEnd=122850|GE=be|Gloss=be|nWord=3|RX=[V]
+4	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=122560|AlignEnd=122850|GE=be|Gloss=be|Lang=es|nWord=3|RX=[V]
 5	giti	giti	ADP	_	_	_	_	_	AlignBegin=122850|AlignEnd=123140|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
 6	ngongku	ngongku	ADV	_	_	_	_	_	AlignBegin=123140|AlignEnd=123430|GE=other.side|Gloss=other.side|nWord=5|RX=[ADV]
 7	.		PUNCT	_	_	_	_	_	AlignBegin=123430|AlignEnd=123720|Gloss=.|nWord=6
@@ -276,7 +276,7 @@
 1	ama	ama	ADV	_	_	_	_	_	AlignBegin=126630|AlignEnd=127104|GE=so|Gloss=so|nWord=1|RX=[ADV]
 2	gli	gli	NOUN	_	_	3	comp:obj	_	AlignBegin=127104|AlignEnd=127578|GE=tree|Gloss=tree|nWord=2|RX=[N]
 3	kak	kak	VERB	_	_	4	comp:aux/m	_	AlignBegin=127578|AlignEnd=127736|GE=send|Gloss=send|nWord=3|RX=[V]
-4	-a		X	_	_	5	comp:aux/m	_	AlignBegin=127736|AlignEnd=127894|GE=[0]|Gloss=-0|nWord=3|RX=[VERB]
+4	-a		AUX	_	_	5	comp:aux/m	_	AlignBegin=127736|AlignEnd=127894|GE=[0]|Gloss=-0|nWord=3|RX=[VERB]
 5	-dale		AUX	_	_	_	_	_	AlignBegin=127894|AlignEnd=128052|GE=[IRR]|Gloss=-IRR|nWord=3|RX=[V:ANY]
 6	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=128052|AlignEnd=128526|GE=up|Gloss=up|nWord=4|RX=[ADV]
 7	.		PUNCT	_	_	_	_	_	AlignBegin=128526|AlignEnd=129000|Gloss=.|nWord=5
@@ -322,7 +322,7 @@
 # text_ortho = gli lukadale giska dike gwabaka .
 1	gli	gli	NOUN	_	_	2	comp:obj	_	AlignBegin=136800|AlignEnd=137395|GE=tree|Gloss=tree|nWord=1|RX=[N]
 2	luk	luk	VERB	_	_	3	comp:aux/m	_	AlignBegin=137395|AlignEnd=137593|GE=link|Gloss=link|nWord=2|RX=[VT]
-3	-a		X	_	_	4	comp:aux/m	_	AlignBegin=137593|AlignEnd=137791|GE=[0]|Gloss=-0|nWord=2|RX=[VERB]
+3	-a		AUX	_	_	4	comp:aux/m	_	AlignBegin=137593|AlignEnd=137791|GE=[0]|Gloss=-0|nWord=2|RX=[VERB]
 4	-dale		AUX	_	_	_	_	_	AlignBegin=137791|AlignEnd=137990|GE=[IRR]|Gloss=-IRR|nWord=2|RX=[V:ANY]
 5	giska	giska	NOUN	_	_	6	comp	_	AlignBegin=137990|AlignEnd=138585|GE=rope|Gloss=rope|nWord=3|RX=[N]
 6	dike	dike	ADP	_	_	2	comp:obl	_	AlignBegin=138585|AlignEnd=139180|GE=[INST]|Gloss=INST|nWord=4|RX=[ADP]
@@ -360,7 +360,7 @@
 1	gli	gli	NOUN	_	_	3	subj	_	AlignBegin=149320|AlignEnd=149930|GE=tree|Gloss=tree|nWord=1|RX=[N]
 2	be	be	AUX	_	_	0	root	_	AlignBegin=149930|AlignEnd=150540|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
 3	luk	luk	VERB	_	_	4	comp:aux/m	_	AlignBegin=150540|AlignEnd=150743|GE=link|Gloss=link|nWord=3|RX=[VT]
-4	-a		X	_	_	5	comp:aux/m	_	AlignBegin=150743|AlignEnd=150946|GE=[0]|Gloss=-0|nWord=3|RX=[VERB]
+4	-a		AUX	_	_	5	comp:aux/m	_	AlignBegin=150743|AlignEnd=150946|GE=[0]|Gloss=-0|nWord=3|RX=[VERB]
 5	-dale		AUX	_	_	2	comp:aux	_	AlignBegin=150946|AlignEnd=151150|GE=[IRR]|Gloss=-IRR|nWord=3|RX=[V:ANY]
 6	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=151150|AlignEnd=151760|GE=all|Gloss=all|nWord=4|RX=[ADV]
 7	.		PUNCT	_	_	2	punct	_	AlignBegin=151760|AlignEnd=152370|Gloss=.|nWord=5
@@ -419,7 +419,7 @@
 # text_ortho = ikigda lukadale ulita .
 1	ikigda	ikigda	NOUN	_	_	2	comp:obj	_	AlignBegin=165000|AlignEnd=165588|GE=plant_type|Gloss=plant_type|nWord=1|RX=[N]
 2	luk	luk	VERB	_	_	3	comp:aux/m	_	AlignBegin=165588|AlignEnd=165784|GE=link|Gloss=link|nWord=2|RX=[VT]
-3	-a		X	_	_	4	comp:aux/m	_	AlignBegin=165784|AlignEnd=165980|GE=[0]|Gloss=-0|nWord=2|RX=[VERB]
+3	-a		AUX	_	_	4	comp:aux/m	_	AlignBegin=165784|AlignEnd=165980|GE=[0]|Gloss=-0|nWord=2|RX=[VERB]
 4	-dale		AUX	_	_	_	_	_	AlignBegin=165980|AlignEnd=166176|GE=[IRR]|Gloss=-IRR|nWord=2|RX=[V:ANY]
 5	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=166176|AlignEnd=166764|GE=all|Gloss=all|nWord=3|RX=[ADV]
 6	.		PUNCT	_	_	_	_	_	AlignBegin=166764|AlignEnd=167350|Gloss=.|nWord=4
@@ -490,13 +490,13 @@
 # text = ata u be kachie ngania .
 # text_en = Until the house ends at the top.
 # text_ortho = ata u be kachie ngania .
-1	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=200265|AlignEnd=200698|GE=to|Gloss=to|nWord=1|RX=[ADP]
+1	hasta	hasta	SCONJ	_	Foreign=Yes	0	root	_	AlignBegin=200265|AlignEnd=200698|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
 2	u	u	NOUN	_	_	4	subj	_	AlignBegin=200698|AlignEnd=201131|GE=house|Gloss=house|nWord=2|RX=[N]
-3	be	be	AUX	_	_	_	_	_	AlignBegin=201131|AlignEnd=201564|GE=[FUT]|Gloss=FUT|nWord=3|RX=[VERBPRT]
+3	be	be	AUX	_	_	1	comp	_	AlignBegin=201131|AlignEnd=201564|GE=[FUT]|Gloss=FUT|nWord=3|RX=[VERBPRT]
 4	kachi	kachi	VERB	_	_	5	comp:aux	_	AlignBegin=201564|AlignEnd=201780|GE=end|Gloss=end|nWord=4|RX=[V]
 5	-e		AUX	_	_	3	comp:aux	_	AlignBegin=201780|AlignEnd=201997|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=201997|AlignEnd=202430|GE=up|Gloss=up|nWord=5|RX=[ADV]
-7	.		PUNCT	_	_	_	_	_	AlignBegin=202430|AlignEnd=202865|Gloss=.|nWord=6
+6	ngania	ngania	ADV	_	_	4	mod:lmod	_	AlignBegin=201997|AlignEnd=202430|GE=up|Gloss=up|nWord=5|RX=[ADV]
+7	.		PUNCT	_	_	1	punct	_	AlignBegin=202430|AlignEnd=202865|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-HO-00000-01_39-39
 # speaker_id = @01
@@ -522,7 +522,7 @@
 3	luk	luk	VERB	_	_	4	comp:aux/m	_	AlignBegin=207792|AlignEnd=208004|GE=link|Gloss=link|nWord=3|RX=[VT]
 4	-a		AUX	_	_	5	comp:aux/m	_	AlignBegin=208004|AlignEnd=208216|GE=[PASS]|Gloss=-PASS|nWord=3|RX=[V:ANY]
 5	-le		AUX	_	_	_	_	_	AlignBegin=208216|AlignEnd=208428|GE=[ADJZ]|Gloss=-ADJZ|nWord=3|RX=[N>ADJ]
-6	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=208428|AlignEnd=209064|GE=up|Gloss=up|nWord=4|RX=[ADV]
+6	ngania	ngania	ADV	_	_	3	mod:lmod	_	AlignBegin=208428|AlignEnd=209064|GE=up|Gloss=up|nWord=4|RX=[ADV]
 7	u	u	NOUN	_	_	8	udep:poss	_	AlignBegin=209064|AlignEnd=209700|GE=house|Gloss=house|nWord=5|RX=[N]
 8	sing	sing	NOUN	_	_	9	comp	_	AlignBegin=209700|AlignEnd=210336|GE=nose|Gloss=nose|nWord=6|RX=[N]
 9	giti	giti	ADP	_	_	3	comp:obl	_	AlignBegin=210336|AlignEnd=210972|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
@@ -568,7 +568,7 @@
 3	be	be	AUX	_	_	_	_	_	AlignBegin=216930|AlignEnd=217130|GE=[FUT]|Gloss=FUT|nWord=3|RX=[VERBPRT]
 4	kachi	kachi	VERB	_	_	3	comp:aux	_	AlignBegin=217130|AlignEnd=217330|GE=end|Gloss=end|nWord=4|RX=[V]
 5	)		PUNCT	_	_	_	_	_	AlignBegin=217330|AlignEnd=217530|nWord=5
-6	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=217530|AlignEnd=217730|GE=now|Gloss=now|nWord=6|RX=[ADV]
+6	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=217530|AlignEnd=217730|GE=now|Gloss=now|Lang=es|nWord=6|RX=[ADV]
 7	u	u	NOUN	_	_	8	subj	_	AlignBegin=217730|AlignEnd=217930|GE=house|Gloss=house|nWord=7|RX=[N]
 8	kachi	kachi	VERB	_	_	9	comp:aux/m	_	AlignBegin=217930|AlignEnd=218030|GE=end|Gloss=end|nWord=8|RX=[V]
 9	-u		AUX	_	_	0	root	_	AlignBegin=218030|AlignEnd=218130|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]
@@ -582,7 +582,7 @@
 # text = ya u kachiu ulita , sainkuli chke gwe gwa .
 # text_en = Now the house is all done. It is forbidden to go sleep inside.
 # text_ortho = ya u kachiu ulita , sainkuli chke gwe gwa .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=218640|AlignEnd=219108|GE=now|Gloss=now|nWord=1|RX=[ADV]
+1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=218640|AlignEnd=219108|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	u	u	NOUN	_	_	3	subj	_	AlignBegin=219108|AlignEnd=219576|GE=house|Gloss=house|nWord=2|RX=[N]
 3	kachi	kachi	VERB	_	_	4	comp:aux/m	_	AlignBegin=219576|AlignEnd=219810|GE=end|Gloss=end|nWord=3|RX=[V]
 4	-u		AUX	_	_	_	_	_	AlignBegin=219810|AlignEnd=220044|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]

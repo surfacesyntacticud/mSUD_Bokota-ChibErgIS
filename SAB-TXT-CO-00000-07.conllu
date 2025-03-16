@@ -9,7 +9,7 @@
 1	cha	cha	PRON	_	_	2	udep:poss	_	AlignBegin=8790|AlignEnd=9358|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	enusuli	enusuli	NOUN	_	_	3	comp:aux/m	_	AlignBegin=9358|AlignEnd=9642|GE=grandfather|Gloss=grandfather|nWord=2|RX=[N]
 3	-a		AUX	_	_	_	_	_	AlignBegin=9642|AlignEnd=9926|GE=[POSS]|Gloss=-POSS|nWord=2|RX=[N:ANY]
-4	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=9926|AlignEnd=10494|GE=and|Gloss=and|nWord=3|RX=[COORDCONN]
+4	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=9926|AlignEnd=10494|GE=and|Gloss=and|Lang=es|nWord=3|RX=[COORDCONN]
 5	cha	cha	PRON	_	_	6	udep:poss	_	AlignBegin=10494|AlignEnd=11062|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
 6	chebi	chebi	NOUN	_	_	7	comp:aux/m	_	AlignBegin=11062|AlignEnd=11346|GE=mother|Gloss=mother|nWord=5|RX=[N]
 7	-a		AUX	_	_	10	subj	_	AlignBegin=11346|AlignEnd=11630|GE=[POSS]|Gloss=-POSS|nWord=5|RX=[N:ANY]
@@ -70,25 +70,25 @@
 3	haling	haling	ADJ	_	_	2	mod	_	AlignBegin=23472|AlignEnd=23813|GE=small|Gloss=small|nWord=3|RX=[ADJ]
 4	so	so	NOUN	_	_	5	comp:obj	_	AlignBegin=23813|AlignEnd=24154|GE=signal|Gloss=signal|nWord=4|RX=[N]
 5	inte	inte	_	_	_	_	_	_	AlignBegin=24154|AlignEnd=24495|nWord=5
-6	cuando	cuando	SCONJ	_	Foreign=Yes	5	mod	_	AlignBegin=24495|AlignEnd=24836|GE=when|Gloss=when|nWord=6|RX=[Q]
+6	cuando	cuando	SCONJ	_	Foreign=Yes	5	mod	_	AlignBegin=24495|AlignEnd=24836|GE=when|Gloss=when|Lang=es|nWord=6|RX=[Q]
 7	che	che	PRON	_	_	10	subj	_	AlignBegin=24836|AlignEnd=25177|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=7|RX=[PRO]
-8	esta	esta	AUX	_	Foreign=Yes	6	comp	_	AlignBegin=25177|AlignEnd=25518|GE=be|Gloss=be|nWord=8|RX=[V]
+8	esta	esta	AUX	_	Foreign=Yes	6	comp	_	AlignBegin=25177|AlignEnd=25518|GE=be|Gloss=be|Lang=es|nWord=8|RX=[V]
 9	koi	koi	NOUN	_	_	10	comp:obj	_	AlignBegin=25518|AlignEnd=25859|GE=chicken|Gloss=chicken|nWord=9|RX=[N]
 10	gwe	gwe	VERB	_	_	11	comp:aux/m	_	AlignBegin=25859|AlignEnd=25973|GE=kill|Gloss=sleep|nWord=10|RX=[V]
 11	-da		AUX	_	_	_	_	_	AlignBegin=25973|AlignEnd=26200|GE=[0]|Gloss=-ASP|nWord=10|RX=[VERB]
-12	cuando	cuando	SCONJ	_	Foreign=Yes	5	mod	_	AlignBegin=26200|AlignEnd=26541|GE=when|Gloss=when|nWord=11|RX=[Q]
+12	cuando	cuando	SCONJ	_	Foreign=Yes	5	mod	_	AlignBegin=26200|AlignEnd=26541|GE=when|Gloss=when|Lang=es|nWord=11|RX=[Q]
 13	che	che	PRON	_	_	14	udep:poss	_	AlignBegin=26541|AlignEnd=26882|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=12|RX=[PRO]
 14	chebi	chebi	NOUN	_	_	17	subj	_	AlignBegin=26882|AlignEnd=27223|GE=mother|Gloss=mother|nWord=13|RX=[N]
-15	esta	esta	AUX	_	Foreign=Yes	12	comp	_	AlignBegin=27223|AlignEnd=27564|GE=be|Gloss=be|nWord=14|RX=[V]
+15	esta	esta	AUX	_	Foreign=Yes	12	comp	_	AlignBegin=27223|AlignEnd=27564|GE=be|Gloss=be|Lang=es|nWord=14|RX=[V]
 16	koi	koi	NOUN	_	_	17	comp:obj	_	AlignBegin=27564|AlignEnd=27905|GE=chicken|Gloss=chicken|nWord=15|RX=[N]
 17	gwe	gwe	VERB	_	_	18	comp:aux/m	_	AlignBegin=27905|AlignEnd=28019|GE=kill|Gloss=sleep|nWord=16|RX=[V]
 18	-da		AUX	_	_	_	_	_	AlignBegin=28019|AlignEnd=28246|GE=[0]|Gloss=-ASP|nWord=16|RX=[VERB]
 19	,		PUNCT	_	_	_	_	_	AlignBegin=28246|AlignEnd=28580|nWord=17
-20	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=28740|AlignEnd=29236|GE=because|Gloss=because|nWord=18|RX=[CONN]
-21	kiro	kiro	NOUN	_	_	22	comp:obj	_	AlignBegin=29236|AlignEnd=29732|GE=child|Gloss=child|nWord=19|RX=[N]
+20	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=28740|AlignEnd=29236|GE=because|Gloss=because|Lang=es|nWord=18|RX=[CONN]
+21	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=29236|AlignEnd=29732|GE=child|Gloss=child|nWord=19|RX=[N]
 22	pone	pone	VERB	_	_	_	_	_	AlignBegin=29732|AlignEnd=30228|GE=put|Gloss=put|nWord=20|RX=[V]
-23	die	die	NOUN	_	_	_	_	_	AlignBegin=30228|AlignEnd=30724|GE=thing|Gloss=thing|nWord=21|RX=[N]
-24	amania	amania	ADJ	_	_	_	_	_	AlignBegin=30724|AlignEnd=31220|GE=same|Gloss=same|nWord=22|RX=[ADJ]
+23	die	die	NOUN	_	_	25	comp:obj	_	AlignBegin=30228|AlignEnd=30724|GE=thing|Gloss=thing|nWord=21|RX=[N]
+24	amania	amania	ADJ	_	_	23	mod	_	AlignBegin=30724|AlignEnd=31220|GE=same|Gloss=same|nWord=22|RX=[ADJ]
 25	dodad	dodad	VERB	_	_	26	comp:aux/m	_	AlignBegin=31220|AlignEnd=31468|GE=make|Gloss=make|nWord=23|RX=[VT]
 26	-e		AUX	_	_	_	_	_	AlignBegin=31468|AlignEnd=31716|GE=[THM]|Gloss=-THM|nWord=23|RX=[V:ANY]
 27	daba	daba	NOUN	_	_	29	comp	_	AlignBegin=31716|AlignEnd=32212|GE=brother|Gloss=brother|nWord=24|RX=[N]
@@ -112,10 +112,10 @@
 4	mlie	mli	VERB	_	_	2	comp:aux	_	AlignBegin=37876|AlignEnd=38308|GE=throw|Gloss=throw|nWord=4|RX=[VT]
 5	ung	ung	NOUN	_	_	6	comp	_	AlignBegin=38308|AlignEnd=38740|GE=pan|Gloss=pan|nWord=5|RX=[N]
 6	ke	ke	ADP	_	_	4	comp:obl	_	AlignBegin=38740|AlignEnd=39172|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
-7	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=39172|AlignEnd=39604|GE=for|Gloss=for|nWord=7|RX=[ADP]
+7	para	para	SCONJ	_	Foreign=Yes	4	mod:purpose	_	AlignBegin=39172|AlignEnd=39604|GE=for|Gloss=for|Lang=es|nWord=7|RX=[ADP]
 8	koi	koi	NOUN	_	_	9	comp:obj	_	AlignBegin=39604|AlignEnd=40036|GE=chicken|Gloss=chicken|nWord=8|RX=[N]
 9	huk	huk	VERB	_	_	10	comp:aux/m	_	AlignBegin=40036|AlignEnd=40252|GE=pluck|Gloss=pluck|nWord=9|RX=[V]
-10	-e		AUX	_	_	_	_	_	AlignBegin=40252|AlignEnd=40468|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
+10	-e		AUX	_	_	7	comp	_	AlignBegin=40252|AlignEnd=40468|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
 11	.		PUNCT	_	_	2	punct	_	AlignBegin=40468|AlignEnd=40900|Gloss=.|nWord=10
 
 # sent_id = SAB-TXT-CO-00000-07_09-09
@@ -200,7 +200,7 @@
 14	cho	cho	NOUN	_	_	15	comp:obj	_	AlignBegin=61939|AlignEnd=62342|GE=salt|Gloss=salt|nWord=12|RX=[N]
 15	bek	bek	VERB	_	_	16	comp:aux/m	_	AlignBegin=62342|AlignEnd=62544|GE=put|Gloss=put|nWord=13|RX=[V]
 16	-u		AUX	_	_	_	_	_	AlignBegin=62544|AlignEnd=62745|GE=[PST]|Gloss=-PST|nWord=13|RX=[V:ANY]
-17	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=62745|AlignEnd=63148|GE=because|Gloss=because|nWord=14|RX=[CONN]
+17	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=62745|AlignEnd=63148|GE=because|Gloss=because|Lang=es|nWord=14|RX=[CONN]
 18	cho	cho	NOUN	_	_	20	subj	_	AlignBegin=63148|AlignEnd=63551|GE=salt|Gloss=salt|nWord=15|RX=[N]
 19	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=63551|AlignEnd=63954|GE=today|Gloss=today|nWord=16|RX=[ADV]
 20	chi	chi	VERB	_	_	21	comp:aux/m	_	AlignBegin=63954|AlignEnd=64156|GE=come|Gloss=come|nWord=17|RX=[VI]
@@ -212,7 +212,7 @@
 26	,		PUNCT	_	_	_	_	_	AlignBegin=65566|AlignEnd=65970|nWord=21
 27	cho	cho	NOUN	_	_	31	subj	_	AlignBegin=66180|AlignEnd=66713|GE=salt|Gloss=salt|nWord=22|RX=[N]
 28	antes	antes	ADV	_	_	_	_	_	AlignBegin=66713|AlignEnd=67246|GE=before|Gloss=before|nWord=23|RX=[ADV]
-29	me	me	PART	_	_	_	_	_	AlignBegin=67246|AlignEnd=67779|GE=[NEG]|Gloss=NEG|nWord=24|RX=[VERBPRT]
+29	me	me	AUX	_	_	_	_	_	AlignBegin=67246|AlignEnd=67779|GE=[NEG]|Gloss=NEG|nWord=24|RX=[VERBPRT]
 30	che	che	PRON	_	_	31	comp:obj	_	AlignBegin=67779|AlignEnd=68312|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=25|RX=[PRO]
 31	chk	chk	VERB	_	_	32	comp:aux/m	_	AlignBegin=68312|AlignEnd=68578|GE=arrive|Gloss=arrive|nWord=26|RX=[VI]
 32	-e		AUX	_	_	29	comp:aux	_	AlignBegin=68578|AlignEnd=68845|GE=[THM]|Gloss=-THM|nWord=26|RX=[V:ANY]
@@ -241,7 +241,7 @@
 # text = y koi ai agere me koi uswili che enusulia giti , koi uswili koi kada chuku , koi kada bulu , y koi kada nanu , asi koi kada .
 # text_en = And the chicken here are new, they are not the chicken from before, from my grandfather time. The chicken before were named Chuku, chicken named Bulu, and chicken called Nanu. These are the chicken´s names.
 # text_ortho = y koi ai agere me koi uswili che enusulia giti , koi uswili koi kada chuku , koi kada bulu , y koi kada nanu , asi koi kada .
-1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=72430|AlignEnd=72785|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=72430|AlignEnd=72785|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
 2	koi	koi	NOUN	_	_	_	_	_	AlignBegin=72785|AlignEnd=73140|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
 3	ai	ai	PART	_	_	2	mod	_	AlignBegin=73140|AlignEnd=73495|GE=local|Gloss=local|nWord=3|RX=[PRO]
 4	agere	agere	ADJ	_	_	_	_	_	AlignBegin=73495|AlignEnd=73850|GE=new|Gloss=new|nWord=4|RX=[ADJ]
@@ -263,12 +263,12 @@
 20	kada	kada	NOUN	_	_	_	_	_	AlignBegin=79435|AlignEnd=79945|GE=name|Gloss=name|nWord=19|RX=[N]
 21	bulu	bulu	NOUN	_	_	_	_	_	AlignBegin=79945|AlignEnd=80455|GE=chicken_type|Gloss=chicken_type|nWord=20|RX=[N]
 22	,		PUNCT	_	_	_	_	_	AlignBegin=80455|AlignEnd=80965|nWord=21
-23	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=81070|AlignEnd=81414|GE=and|Gloss=and|nWord=22|RX=[COORDCONN]
+23	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=81070|AlignEnd=81414|GE=and|Gloss=and|Lang=es|nWord=22|RX=[COORDCONN]
 24	koi	koi	NOUN	_	_	_	_	_	AlignBegin=81414|AlignEnd=81758|GE=chicken|Gloss=chicken|nWord=23|RX=[N]
 25	kada	kada	NOUN	_	_	_	_	_	AlignBegin=81758|AlignEnd=82102|GE=name|Gloss=name|nWord=24|RX=[N]
 26	nanu	nanu	NOUN	_	_	_	_	_	AlignBegin=82102|AlignEnd=82446|GE=chicken_type|Gloss=chicken_type|nWord=25|RX=[N]
 27	,		PUNCT	_	_	_	_	_	AlignBegin=82446|AlignEnd=82790|nWord=26
-28	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=83925|AlignEnd=84163|GE=like_that|Gloss=like_that|nWord=27|RX=[ADV]
+28	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=83925|AlignEnd=84163|GE=like_that|Gloss=like_that|Lang=es|nWord=27|RX=[ADV]
 29	koi	koi	NOUN	_	_	_	_	_	AlignBegin=84163|AlignEnd=84401|GE=chicken|Gloss=chicken|nWord=28|RX=[N]
 30	kada	kada	NOUN	_	_	_	_	_	AlignBegin=84401|AlignEnd=84639|GE=name|Gloss=name|nWord=29|RX=[N]
 31	.		PUNCT	_	_	_	_	_	AlignBegin=84639|AlignEnd=84875|Gloss=.|nWord=30

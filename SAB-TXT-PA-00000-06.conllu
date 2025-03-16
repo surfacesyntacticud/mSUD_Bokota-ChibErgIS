@@ -31,7 +31,7 @@
 1	de	de	ADP	_	_	_	_	_	AlignBegin=22115|AlignEnd=22392|GE=from|Gloss=from|nWord=1|RX=[ADP]
 2	eni	eni	ADV	_	_	_	_	_	AlignBegin=22392|AlignEnd=22669|GE=there|Gloss=there|nWord=2|RX=[ADV]
 3	Limon	Limon	PROPN	_	_	_	_	_	AlignBegin=22669|AlignEnd=22946|GE=[Limon]|Gloss=Limon|nWord=3|RX=[NPROP]
-4	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=22946|AlignEnd=23223|GE=and|Gloss=and|nWord=4|RX=[COORDCONN]
+4	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=22946|AlignEnd=23223|GE=and|Gloss=and|Lang=es|nWord=4|RX=[COORDCONN]
 5	eni	eni	ADV	_	_	_	_	_	AlignBegin=23223|AlignEnd=23500|GE=there|Gloss=there|nWord=5|RX=[ADV]
 6	chi	chi	NOUN	_	_	_	_	_	AlignBegin=23500|AlignEnd=23777|GE=water|Gloss=water|nWord=6|RX=[N]
 7	nga	nga	NOUN	_	_	_	_	_	AlignBegin=23777|AlignEnd=24054|GE=village|Gloss=village|nWord=7|RX=[N]
@@ -349,7 +349,7 @@
 # text = ata hoke chke himong Olechia ke .
 # text_en = Until you go to Oletchia.
 # text_ortho = ata hoke chke himong Olechia ke .
-1	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=67230|AlignEnd=67590|GE=to|Gloss=to|nWord=1|RX=[ADP]
+1	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=67230|AlignEnd=67590|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
 2	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=67590|AlignEnd=67950|GE=go|Gloss=go|nWord=2|RX=[VI]
 3	chk	chk	VERB	_	_	4	comp:aux/m	_	AlignBegin=67950|AlignEnd=68130|GE=arrive|Gloss=arrive|nWord=3|RX=[VI]
 4	-e		AUX	_	_	2	compound:svc	_	AlignBegin=68130|AlignEnd=68310|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
@@ -366,7 +366,7 @@
 # text = ya Olechia ke ba be hoke gnanku ba be hoke chke a la ekuela guacamaya .
 # text_en = When (you) arrive in Oletchia you will go to the school of Guacamaya.
 # text_ortho = ya Olechia ke ba be hoke gnanku ba be hoke chke a la ekuela guacamaya .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=70040|AlignEnd=70241|GE=now|Gloss=now|nWord=1|RX=[ADV]
+1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=70040|AlignEnd=70241|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	Olechia	Olechia	PROPN	_	_	3	comp	_	AlignBegin=70241|AlignEnd=70442|GE=[Olechia]|Gloss=Olechia|nWord=2|RX=[NPROP]
 3	ke	ke	ADP	_	_	_	_	_	AlignBegin=70442|AlignEnd=70643|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
 4	ba	ba	PRON	_	_	6	subj	_	AlignBegin=70643|AlignEnd=70844|GE=[2SG]|Gloss=2SG|nWord=4|RX=[PRO]
@@ -380,7 +380,7 @@
 12	-e		AUX	_	_	10	compound:svc	_	AlignBegin=72150|AlignEnd=72251|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
 13	a	a	ADP	_	_	_	_	_	AlignBegin=72251|AlignEnd=72452|GE=to|Gloss=to|nWord=12|RX=[ADP]
 14	la	la	X	_	_	_	_	_	AlignBegin=72452|AlignEnd=72653|GE=the|Gloss=the|nWord=13|RX=[ART]
-15	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=72653|AlignEnd=72854|GE=school|Gloss=school|nWord=14|RX=[N]
+15	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=72653|AlignEnd=72854|GE=school|Gloss=school|Lang=es|nWord=14|RX=[N]
 16	Guacamaya	Guacamaya	PROPN	_	_	_	_	_	AlignBegin=72854|AlignEnd=73055|GE=[Guacamaya]|Gloss=Guacamaya|nWord=15|RX=[NPROP]
 17	.		PUNCT	_	_	_	_	_	AlignBegin=73055|AlignEnd=73250|Gloss=.|nWord=16
 
@@ -392,12 +392,12 @@
 # text = pero un año honingke la ekuela me .
 # text_en = But one year ago there were no school.
 # text_ortho = pero un año honingke la ekuela me .
-1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=73560|AlignEnd=73879|GE=but|Gloss=but|nWord=1|RX=[COORDCONN]
+1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=73560|AlignEnd=73879|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
 2	un	un	DET	_	_	_	_	_	AlignBegin=73879|AlignEnd=74198|GE=[INDEF].[M]|Gloss=INDEF.M|nWord=2|RX=[DET]
 3	año	año	NOUN	_	_	_	_	_	AlignBegin=74198|AlignEnd=74517|GE=year|Gloss=year|nWord=3|RX=[N]
 4	honingke	honingke	ADV	_	_	_	_	_	AlignBegin=74517|AlignEnd=74836|GE=first|Gloss=first|nWord=4|RX=[ADV]
 5	la	la	X	_	_	_	_	_	AlignBegin=74836|AlignEnd=75155|GE=the|Gloss=the|nWord=5|RX=[ART]
-6	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=75155|AlignEnd=75474|GE=school|Gloss=school|nWord=6|RX=[N]
+6	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=75155|AlignEnd=75474|GE=school|Gloss=school|Lang=es|nWord=6|RX=[N]
 7	me	me	PART	_	_	_	_	_	AlignBegin=75474|AlignEnd=75793|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
 8	.		PUNCT	_	_	_	_	_	AlignBegin=75793|AlignEnd=76110|Gloss=.|nWord=8
 
@@ -411,8 +411,8 @@
 # text_ortho = no la ekuela e chkebale nengke .
 1	no	no	PART	_	_	_	_	_	AlignBegin=76270|AlignEnd=76571|GE=[NEG]|Gloss=NEG|nWord=1|RX=[VERBPRT]
 2	la	la	X	_	_	_	_	_	AlignBegin=76571|AlignEnd=76872|GE=the|Gloss=the|nWord=2|RX=[ART]
-3	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=76872|AlignEnd=77173|GE=school|Gloss=school|nWord=3|RX=[N]
-4	es	es	VERB	_	Foreign=Yes	_	_	_	AlignBegin=77173|AlignEnd=77474|GE=be|Gloss=be|nWord=4|RX=[V]
+3	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=76872|AlignEnd=77173|GE=school|Gloss=school|Lang=es|nWord=3|RX=[N]
+4	es	es	VERB	_	Foreign=Yes	_	_	_	AlignBegin=77173|AlignEnd=77474|GE=be|Gloss=be|Lang=es|nWord=4|RX=[V]
 5	chk	chk	VERB	_	_	6	comp:aux/m	_	AlignBegin=77474|AlignEnd=77574|GE=arrive|Gloss=arrive|nWord=5|RX=[VI]
 6	-e		AUX	_	_	7	comp:aux/m	_	AlignBegin=77574|AlignEnd=77674|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	-bale		AUX	_	_	_	_	_	AlignBegin=77674|AlignEnd=77775|GE=[PART]|Gloss=-PART|nWord=5|RX=[V:ANY]
@@ -427,10 +427,10 @@
 # text = pero honingke la ekuela me .
 # text_en = But at first there were no school.
 # text_ortho = pero honingke la ekuela me .
-1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=82680|AlignEnd=82968|GE=but|Gloss=but|nWord=1|RX=[COORDCONN]
+1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=82680|AlignEnd=82968|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
 2	honingke	honingke	ADV	_	_	_	_	_	AlignBegin=82968|AlignEnd=83256|GE=first|Gloss=first|nWord=2|RX=[ADV]
 3	la	la	X	_	_	_	_	_	AlignBegin=83256|AlignEnd=83544|GE=the|Gloss=the|nWord=3|RX=[ART]
-4	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=83544|AlignEnd=83832|GE=school|Gloss=school|nWord=4|RX=[N]
+4	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=83544|AlignEnd=83832|GE=school|Gloss=school|Lang=es|nWord=4|RX=[N]
 5	me	me	PART	_	_	_	_	_	AlignBegin=83832|AlignEnd=84120|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
 6	.		PUNCT	_	_	_	_	_	AlignBegin=84120|AlignEnd=84410|Gloss=.|nWord=6
 

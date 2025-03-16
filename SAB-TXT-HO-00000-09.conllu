@@ -26,10 +26,10 @@
 18	-a		AUX	_	_	19	comp:aux@pass	_	AlignBegin=12352|AlignEnd=12476|GE=[PASS]|Gloss=-PASS|nWord=12|RX=[V:ANY]
 19	kle	kle	AUX	_	_	_	_	_	AlignBegin=12476|AlignEnd=12724|GE=be|Gloss=be|nWord=13|RX=[V]
 20	,		PUNCT	_	_	_	_	_	AlignBegin=12724|AlignEnd=12970|nWord=14
-21	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=13010|AlignEnd=13375|GE=so|Gloss=so|nWord=15|RX=[ADV]
+21	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=13010|AlignEnd=13375|GE=so|Gloss=so|Lang=es|nWord=15|RX=[ADV]
 22	gli	gli	NOUN	_	_	_	_	_	AlignBegin=13375|AlignEnd=13740|GE=tree|Gloss=tree|nWord=16|RX=[N]
 23	tk	tk	VERB	_	_	24	comp:aux/m	_	AlignBegin=13740|AlignEnd=13831|GE=put|Gloss=put|nWord=17|RX=[VT]
-24	-a		X	_	_	_	_	_	AlignBegin=13831|AlignEnd=13922|GE=[0]|Gloss=-0|nWord=17|RX=[VERB]
+24	-a		AUX	_	_	_	_	_	AlignBegin=13831|AlignEnd=13922|GE=[0]|Gloss=-0|nWord=17|RX=[VERB]
 25	kle	kle	AUX	_	_	26	comp:aux/m	_	AlignBegin=13922|AlignEnd=14013|GE=be|Gloss=be|nWord=17|RX=[V]
 26	-nga		AUX	_	_	_	_	_	AlignBegin=14013|AlignEnd=14105|GE=[SUB]|Gloss=-SUB|nWord=17|RX=[V:ANY]
 27	.		PUNCT	_	_	_	_	_	AlignBegin=14105|AlignEnd=14470|Gloss=.|nWord=18
@@ -70,16 +70,16 @@
 # text = y bu bita bita mai ama tkakleda dui ke .
 # text_en = And the posts are put in the ground one by one.
 # text_ortho = y bu bita bita mai ama tkakleda dui ke .
-1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=19540|AlignEnd=19984|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=19540|AlignEnd=19984|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
 2	bu	bu	NOUN	_	_	_	_	_	AlignBegin=19984|AlignEnd=20428|GE=post|Gloss=post|nWord=2|RX=[N]
 3	bita	bita	NOUN	_	_	_	_	_	AlignBegin=20428|AlignEnd=20872|GE=piece|Gloss=piece|nWord=3|RX=[N]
 4	bita	bita	NOUN	_	_	_	_	_	AlignBegin=20872|AlignEnd=21316|GE=piece|Gloss=piece|nWord=4|RX=[N]
 5	mai	mai	NUM	_	_	_	_	_	AlignBegin=21316|AlignEnd=21760|GE=three|Gloss=three|nWord=5|RX=[NUM]
 6	ama	ama	ADV	_	_	_	_	_	AlignBegin=21760|AlignEnd=22204|GE=so|Gloss=so|nWord=6|RX=[ADV]
 7	tk	tk	VERB	_	_	8	comp:aux/m	_	AlignBegin=22204|AlignEnd=22315|GE=put|Gloss=put|nWord=7|RX=[VT]
-8	-a		X	_	_	_	_	_	AlignBegin=22315|AlignEnd=22426|GE=[0]|Gloss=-0|nWord=7|RX=[VERB]
+8	-a		AUX	_	_	_	_	_	AlignBegin=22315|AlignEnd=22426|GE=[0]|Gloss=-0|nWord=7|RX=[VERB]
 9	kle	kle	AUX	_	_	10	comp:aux/m	_	AlignBegin=22426|AlignEnd=22537|GE=be|Gloss=be|nWord=7|RX=[V]
-10	-da		PART	_	_	_	_	_	AlignBegin=22537|AlignEnd=22648|GE=emph|Gloss=emph|nWord=7|RX=[VERB]
+10	-da		AUX	_	_	_	_	_	AlignBegin=22537|AlignEnd=22648|GE=emph|Gloss=emph|nWord=7|RX=[VERB]
 11	dui	dui	NOUN	_	_	12	comp	_	AlignBegin=22648|AlignEnd=23092|GE=dirt|Gloss=dirt|nWord=8|RX=[N]
 12	ke	ke	ADP	_	_	7	comp:obl	_	AlignBegin=23092|AlignEnd=23536|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
 13	.		PUNCT	_	_	_	_	_	AlignBegin=23536|AlignEnd=23980|Gloss=.|nWord=10
@@ -119,7 +119,7 @@
 8	here	here	ADJ	_	_	7	mod	_	AlignBegin=27100|AlignEnd=27390|GE=black|Gloss=black|nWord=5|RX=[ADJ]
 9	dike	dike	ADP	_	_	_	_	_	AlignBegin=27390|AlignEnd=27680|GE=[INST]|Gloss=INST|nWord=6|RX=[ADP]
 10	,		PUNCT	_	_	_	_	_	AlignBegin=27680|AlignEnd=27970|nWord=7
-11	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=28100|AlignEnd=28393|GE=to|Gloss=to|nWord=8|RX=[ADP]
+11	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=28100|AlignEnd=28393|GE=to|Gloss=to|Lang=es|nWord=8|RX=[ADP]
 12	me	me	PART	_	_	_	_	_	AlignBegin=28393|AlignEnd=28686|GE=[NEG]|Gloss=NEG|nWord=9|RX=[VERBPRT]
 13	hubdu	hubdu	NOUN	_	_	_	_	_	AlignBegin=28686|AlignEnd=28979|GE=insect.type|Gloss=insect.type|nWord=10|RX=[N]
 14	gli	gli	NOUN	_	_	_	_	_	AlignBegin=28979|AlignEnd=29272|GE=tree|Gloss=tree|nWord=11|RX=[N]
@@ -162,7 +162,7 @@
 2	tk	tk	VERB	_	_	3	comp:aux/m	_	AlignBegin=31230|AlignEnd=31328|GE=put|Gloss=put|nWord=2|RX=[VT]
 3	-e		AUX	_	_	_	_	_	AlignBegin=31328|AlignEnd=31426|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
 4	diku	diku	ADV	_	_	5	comp:aux/m	_	AlignBegin=31426|AlignEnd=31524|GE=down|Gloss=down|nWord=2|RX=[ADV]
-5	-da		PART	_	_	_	_	_	AlignBegin=31524|AlignEnd=31620|GE=emph|Gloss=emph|nWord=2|RX=[VERB]
+5	-da		AUX	_	_	_	_	_	AlignBegin=31524|AlignEnd=31620|GE=emph|Gloss=emph|nWord=2|RX=[VERB]
 6	blikaia	blikaia	ADV	_	_	_	_	_	AlignBegin=31620|AlignEnd=32010|GE=quickly|Gloss=quickly|nWord=3|RX=[ADV]
 7	.		PUNCT	_	_	_	_	_	AlignBegin=32010|AlignEnd=32400|Gloss=.|nWord=4
 
@@ -179,14 +179,14 @@
 3	tk	tk	VERB	_	_	4	comp:aux/m	_	AlignBegin=33540|AlignEnd=33622|GE=put|Gloss=put|nWord=3|RX=[VT]
 4	-e		AUX	_	_	_	_	_	AlignBegin=33622|AlignEnd=33704|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	diku	diku	ADV	_	_	6	comp:aux/m	_	AlignBegin=33704|AlignEnd=33786|GE=down|Gloss=down|nWord=3|RX=[ADV]
-6	-da		PART	_	_	_	_	_	AlignBegin=33786|AlignEnd=33870|GE=emph|Gloss=emph|nWord=3|RX=[VERB]
+6	-da		AUX	_	_	_	_	_	AlignBegin=33786|AlignEnd=33870|GE=emph|Gloss=emph|nWord=3|RX=[VERB]
 7	,		PUNCT	_	_	_	_	_	AlignBegin=33870|AlignEnd=34200|nWord=4
-8	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=34230|AlignEnd=34770|GE=so|Gloss=so|nWord=5|RX=[ADV]
+8	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=34230|AlignEnd=34770|GE=so|Gloss=so|Lang=es|nWord=5|RX=[ADV]
 9	ho	hoke	VERB	_	_	_	_	_	AlignBegin=34770|AlignEnd=35310|GE=[go].[PST]|Gloss=go.PST|nWord=6|RX=[VI]
 10	(_)		_	_	_	_	_	_	AlignBegin=35310|AlignEnd=35850|nWord=7
 11	glita	glita	NOUN	_	_	_	_	_	AlignBegin=35850|AlignEnd=36390|GE=branch|Gloss=branch|nWord=8|RX=[N]
 12	(_),		_	_	_	_	_	_	AlignBegin=36390|AlignEnd=36930|nWord=9
-13	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=37035|AlignEnd=37416|GE=to|Gloss=to|nWord=10|RX=[ADP]
+13	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=37035|AlignEnd=37416|GE=to|Gloss=to|Lang=es|nWord=10|RX=[ADP]
 14	no	no	PART	_	_	_	_	_	AlignBegin=37416|AlignEnd=37797|GE=[NEG]|Gloss=NEG|nWord=11|RX=[VERBPRT]
 15	hubdu	hubdu	NOUN	_	_	_	_	_	AlignBegin=37797|AlignEnd=38178|GE=insect.type|Gloss=insect.type|nWord=12|RX=[N]
 16	gli	gli	NOUN	_	_	_	_	_	AlignBegin=38178|AlignEnd=38559|GE=tree|Gloss=tree|nWord=13|RX=[N]
@@ -277,14 +277,14 @@
 2	u	u	NOUN	_	_	_	_	_	AlignBegin=48038|AlignEnd=48296|GE=house|Gloss=house|nWord=2|RX=[N]
 3	girire	girire	ADJ	_	_	2	mod	_	AlignBegin=48296|AlignEnd=48554|GE=round|Gloss=round|nWord=3|RX=[ADJ]
 4	ama	ama	ADV	_	_	_	_	_	AlignBegin=48554|AlignEnd=48812|GE=so|Gloss=so|nWord=4|RX=[ADV]
-5	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=48812|AlignEnd=49070|GE=more|Gloss=more|nWord=5|RX=[ADV]
+5	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=48812|AlignEnd=49070|GE=more|Gloss=more|Lang=es|nWord=5|RX=[ADV]
 6	no	no	ADJ	_	_	_	_	_	AlignBegin=49070|AlignEnd=49328|GE=good|Gloss=good|nWord=6|RX=[ADJ]
-7	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=49328|AlignEnd=49586|GE=to|Gloss=to|nWord=7|RX=[ADP]
+7	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=49328|AlignEnd=49586|GE=to|Gloss=to|Lang=es|nWord=7|RX=[ADP]
 8	toi	toi	VERB	_	_	_	_	_	AlignBegin=49586|AlignEnd=49844|GE=live|Gloss=live|nWord=8|RX=[VI]
 9	giti	giti	ADP	_	_	_	_	_	AlignBegin=49844|AlignEnd=50102|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
 10	,		PUNCT	_	_	_	_	_	AlignBegin=50102|AlignEnd=50360|nWord=10
-11	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=50380|AlignEnd=50715|GE=because|Gloss=because|nWord=11|RX=[CONN]
-12	es	es	VERB	_	Foreign=Yes	_	_	_	AlignBegin=50715|AlignEnd=51050|GE=be|Gloss=be|nWord=12|RX=[V]
+11	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=50380|AlignEnd=50715|GE=because|Gloss=because|Lang=es|nWord=11|RX=[CONN]
+12	es	es	VERB	_	Foreign=Yes	_	_	_	AlignBegin=50715|AlignEnd=51050|GE=be|Gloss=be|Lang=es|nWord=12|RX=[V]
 13	ski	ski	VERB	_	_	14	comp:aux/m	_	AlignBegin=51050|AlignEnd=51218|GE=cover|Gloss=cover|nWord=13|RX=[VT]
 14	-e		AUX	_	_	_	_	_	AlignBegin=51218|AlignEnd=51385|GE=[THM]|Gloss=-THM|nWord=13|RX=[V:ANY]
 15	.		PUNCT	_	_	_	_	_	AlignBegin=51385|AlignEnd=51720|Gloss=.|nWord=14
@@ -309,13 +309,13 @@
 10	kwa	kwa	_	_	_	_	_	_	AlignBegin=54582|AlignEnd=54868|nWord=9
 11	kweri	kweri	ADJ	_	_	_	_	_	AlignBegin=54868|AlignEnd=55154|GE=big|Gloss=big|nWord=10|RX=[ADJ]
 12	dwa	dwa	ADV	_	_	_	_	_	AlignBegin=55154|AlignEnd=55440|GE=down|Gloss=down|nWord=11|RX=[ADV]
-13	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=55440|AlignEnd=55726|GE=and|Gloss=and|nWord=12|RX=[COORDCONN]
+13	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=55440|AlignEnd=55726|GE=and|Gloss=and|Lang=es|nWord=12|RX=[COORDCONN]
 14	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=55726|AlignEnd=56012|GE=up|Gloss=up|nWord=13|RX=[ADV]
 15	kwa	kwa	_	_	_	_	_	_	AlignBegin=56012|AlignEnd=56298|nWord=14
-16	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=56298|AlignEnd=56584|GE=like_that|Gloss=like_that|nWord=15|RX=[ADV]
+16	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=56298|AlignEnd=56584|GE=like_that|Gloss=like_that|Lang=es|nWord=15|RX=[ADV]
 17	,		PUNCT	_	_	_	_	_	AlignBegin=56584|AlignEnd=56870|nWord=16
-18	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=56880|AlignEnd=57196|GE=and|Gloss=and|nWord=17|RX=[COORDCONN]
-19	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=57196|AlignEnd=57512|GE=so|Gloss=so|nWord=18|RX=[ADV]
+18	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=56880|AlignEnd=57196|GE=and|Gloss=and|Lang=es|nWord=17|RX=[COORDCONN]
+19	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=57196|AlignEnd=57512|GE=so|Gloss=so|Lang=es|nWord=18|RX=[ADV]
 20	ama	ama	ADV	_	_	_	_	_	AlignBegin=57512|AlignEnd=57828|GE=so|Gloss=so|nWord=19|RX=[ADV]
 21	kle	kle	AUX	_	_	_	_	_	AlignBegin=57828|AlignEnd=58144|GE=be|Gloss=be|nWord=20|RX=[V]
 22	kachi	kachi	VERB	_	_	23	comp:aux	_	AlignBegin=58144|AlignEnd=58302|GE=end|Gloss=end|nWord=21|RX=[V]
@@ -331,7 +331,7 @@
 # text = asi cha kle u gwagatenga aini .
 # text_en = That is how the house is made here.
 # text_ortho = asi cha kle u gwagatenga aini .
-1	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=59435|AlignEnd=59698|GE=like_that|Gloss=like_that|nWord=1|RX=[ADV]
+1	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=59435|AlignEnd=59698|GE=like_that|Gloss=like_that|Lang=es|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	5	subj	_	AlignBegin=59698|AlignEnd=59961|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	kle	kle	AUX	_	_	0	root	_	AlignBegin=59961|AlignEnd=60224|GE=be|Gloss=be|nWord=3|RX=[V]
 4	u	u	NOUN	_	_	5	comp:obj	_	AlignBegin=60224|AlignEnd=60487|GE=house|Gloss=house|nWord=4|RX=[N]
@@ -357,11 +357,11 @@
 6	kle	kle	AUX	_	_	_	_	_	AlignBegin=63570|AlignEnd=64020|GE=be|Gloss=be|nWord=6|RX=[V]
 7	u	u	NOUN	_	_	_	_	_	AlignBegin=64020|AlignEnd=64470|GE=house|Gloss=house|nWord=7|RX=[N]
 8	toi	toi	VERB	_	_	6	comp:aux	_	AlignBegin=64470|AlignEnd=64920|GE=live|Gloss=live|nWord=8|RX=[VI]
-9	mas	mas	ADV	_	Foreign=Yes	10	mod	_	AlignBegin=64920|AlignEnd=65370|GE=more|Gloss=more|nWord=9|RX=[ADV]
+9	mas	mas	ADV	_	Foreign=Yes	10	mod	_	AlignBegin=64920|AlignEnd=65370|GE=more|Gloss=more|Lang=es|nWord=9|RX=[ADV]
 10	u	u	NOUN	_	_	12	comp	_	AlignBegin=65370|AlignEnd=65820|GE=house|Gloss=house|nWord=10|RX=[N]
 11	girire	girire	ADJ	_	_	10	mod	_	AlignBegin=65820|AlignEnd=66270|GE=round|Gloss=round|nWord=11|RX=[ADJ]
 12	ke	ke	ADP	_	_	8	comp:obl	_	AlignBegin=66270|AlignEnd=66720|GE=[LOC]|Gloss=LOC|nWord=12|RX=[ADP]
-13	que	que	PRON	_	Foreign=Yes	9	comp:obj	_	AlignBegin=66720|AlignEnd=67170|GE=that|Gloss=that|nWord=13|RX=[PRO]
+13	que	que	PRON	_	Foreign=Yes	9	comp:obj	_	AlignBegin=66720|AlignEnd=67170|GE=that|Gloss=that|Lang=es|nWord=13|RX=[PRO]
 14	u	u	NOUN	_	_	13	comp:obj	_	AlignBegin=67170|AlignEnd=67620|GE=house|Gloss=house|nWord=14|RX=[N]
 15	kwabakale	kwabakale	ADJ	_	_	14	mod	_	AlignBegin=67620|AlignEnd=68070|GE=square|Gloss=square|nWord=15|RX=[ADJ]
 16	.		PUNCT	_	_	_	_	_	AlignBegin=68070|AlignEnd=68520|Gloss=.|nWord=16

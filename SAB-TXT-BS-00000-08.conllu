@@ -10,7 +10,7 @@
 2	cha	cha	PRON	_	_	_	_	_	AlignBegin=6832|AlignEnd=7254|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	kle	kle	AUX	_	_	_	_	_	AlignBegin=7254|AlignEnd=7676|GE=be|Gloss=be|nWord=3|RX=[V]
 4	)		PUNCT	_	_	_	_	_	AlignBegin=7676|AlignEnd=8098|nWord=4
-5	cuando	cuando	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=8098|AlignEnd=8520|GE=when|Gloss=when|nWord=5|RX=[Q]
+5	cuando	cuando	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=8098|AlignEnd=8520|GE=when|Gloss=when|Lang=es|nWord=5|RX=[Q]
 6	muinga	muinga	NOUN	_	_	7	subj	_	AlignBegin=8520|AlignEnd=8942|GE=woman|Gloss=woman|nWord=6|RX=[N]
 7	kle	kle	AUX	_	_	5	comp	_	AlignBegin=8942|AlignEnd=9364|GE=be|Gloss=be|nWord=7|RX=[V]
 8	oka	oka	ADJ	_	_	7	comp:pred	_	AlignBegin=9364|AlignEnd=9786|GE=pregnant|Gloss=pregnant|nWord=8|RX=[ADJ]
@@ -49,21 +49,21 @@
 # text = entonces soli huma kle muinga ne manade ngasuku , ata kiro ne kle gwame .
 # text_en = So the youngs and olds take care of the woman out in the mountain. Until the baby is born.
 # text_ortho = entonces soli huma kle muinga ne manade ngasuku , ata kiro ne kle gwame .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=18220|AlignEnd=18712|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=18220|AlignEnd=18712|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	soli	soli	ADJ	_	_	_	_	_	AlignBegin=18712|AlignEnd=19204|GE=little|Gloss=little|nWord=2|RX=[N]
 3	huma	huma	ADJ	_	_	_	_	_	AlignBegin=19204|AlignEnd=19696|GE=old|Gloss=old|nWord=3|RX=[ADJ]
-4	kle	kle	AUX	_	_	_	_	_	AlignBegin=19696|AlignEnd=20188|GE=be|Gloss=be|nWord=4|RX=[V]
-5	muinga	muinga	NOUN	_	_	_	_	_	AlignBegin=20188|AlignEnd=20680|GE=woman|Gloss=woman|nWord=5|RX=[N]
+4	kle	kle	AUX	_	_	0	root	_	AlignBegin=19696|AlignEnd=20188|GE=be|Gloss=be|nWord=4|RX=[V]
+5	muinga	muinga	NOUN	_	_	7	comp:obj	_	AlignBegin=20188|AlignEnd=20680|GE=woman|Gloss=woman|nWord=5|RX=[N]
 6	ne	ne	DET	_	_	5	mod	_	AlignBegin=20680|AlignEnd=21172|GE=that|Gloss=that|nWord=6|RX=[DET]
 7	mana	mana	VERB	_	_	8	comp:aux/m	_	AlignBegin=21172|AlignEnd=21336|GE=take_care|Gloss=take_care|nWord=7|RX=[V]
 8	-d-		AUX	_	_	9	comp:aux/m	_	AlignBegin=21336|AlignEnd=21500|GE=[0]|Gloss=-0-|nWord=7|RX=[VERB]
 9	-e		AUX	_	_	4	comp:aux	_	AlignBegin=21500|AlignEnd=21664|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
 10	ngasuku	ngasuku	ADV	_	_	_	_	_	AlignBegin=21664|AlignEnd=22156|GE=outside|Gloss=outside|nWord=8|RX=[ADV]
 11	,		PUNCT	_	_	_	_	_	AlignBegin=22156|AlignEnd=22650|nWord=9
-12	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=22820|AlignEnd=23225|GE=to|Gloss=to|nWord=10|RX=[ADP]
+12	hasta	hasta	SCONJ	_	Foreign=Yes	7	mod:tmod	_	AlignBegin=22820|AlignEnd=23225|GE=to|Gloss=to|Lang=es|nWord=10|RX=[ADP]
 13	kiro	kiro	NOUN	_	_	16	subj	_	AlignBegin=23225|AlignEnd=23630|GE=child|Gloss=child|nWord=11|RX=[N]
 14	ne	ne	DET	_	_	13	mod	_	AlignBegin=23630|AlignEnd=24035|GE=that|Gloss=that|nWord=12|RX=[DET]
-15	kle	kle	AUX	_	_	_	_	_	AlignBegin=24035|AlignEnd=24440|GE=be|Gloss=be|nWord=13|RX=[V]
+15	kle	kle	AUX	_	_	12	comp	_	AlignBegin=24035|AlignEnd=24440|GE=be|Gloss=be|nWord=13|RX=[V]
 16	gwame	gwame	VERB	_	_	15	comp:aux	_	AlignBegin=24440|AlignEnd=24845|GE=be.born|Gloss=be.born|nWord=14|RX=[V]
 17	.		PUNCT	_	_	_	_	_	AlignBegin=24845|AlignEnd=25250|Gloss=.|nWord=15
 
@@ -75,7 +75,7 @@
 # text = cuando kiro ne kle gwame , muinga kle gdege hai ulita , entonces muinga kle kiro ne dwe kote .
 # text_en = When the baby is born, The woman drink all the gdege. So the woman can take this child in the arms.
 # text_ortho = cuando kiro ne kle gwame , muinga kle gdege hai ulita , entonces muinga kle kiro ne dwe kote .
-1	cuando	cuando	SCONJ	_	Foreign=Yes	10	mod	_	AlignBegin=25690|AlignEnd=26052|GE=when|Gloss=when|nWord=1|RX=[Q]
+1	cuando	cuando	SCONJ	_	Foreign=Yes	10	mod	_	AlignBegin=25690|AlignEnd=26052|GE=when|Gloss=when|Lang=es|nWord=1|RX=[Q]
 2	kiro	kiro	NOUN	_	_	5	subj	_	AlignBegin=26052|AlignEnd=26414|GE=child|Gloss=child|nWord=2|RX=[N]
 3	ne	ne	DET	_	_	2	mod	_	AlignBegin=26414|AlignEnd=26776|GE=that|Gloss=that|nWord=3|RX=[DET]
 4	kle	kle	AUX	_	_	1	comp	_	AlignBegin=26776|AlignEnd=27138|GE=be|Gloss=be|nWord=4|RX=[V]
@@ -87,7 +87,7 @@
 10	hai	hai	VERB	_	_	8	comp:aux	_	AlignBegin=29186|AlignEnd=29618|GE=drink|Gloss=drink|nWord=10|RX=[VT]
 11	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=29618|AlignEnd=30050|GE=all|Gloss=all|nWord=11|RX=[ADV]
 12	,		PUNCT	_	_	_	_	_	AlignBegin=30050|AlignEnd=30480|nWord=12
-13	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=30540|AlignEnd=30782|GE=so|Gloss=so|nWord=13|RX=[ADV]
+13	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=30540|AlignEnd=30782|GE=so|Gloss=so|Lang=es|nWord=13|RX=[ADV]
 14	muinga	muinga	NOUN	_	_	18	subj	_	AlignBegin=30782|AlignEnd=31024|GE=woman|Gloss=woman|nWord=14|RX=[N]
 15	kle	kle	AUX	_	_	_	_	_	AlignBegin=31024|AlignEnd=31266|GE=be|Gloss=be|nWord=15|RX=[V]
 16	kiro	kiro	NOUN	_	_	18	comp:obj	_	AlignBegin=31266|AlignEnd=31508|GE=child|Gloss=child|nWord=16|RX=[N]
@@ -104,7 +104,7 @@
 # text = entonces cha hombre kle sukekre ngasuku , sainkuli .
 # text_en = So I, the man, go somewhere else outside. It is forbidden.
 # text_ortho = entonces cha hombre kle sukekre ngasuku , sainkuli .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=33105|AlignEnd=33641|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=33105|AlignEnd=33641|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	_	_	_	AlignBegin=33641|AlignEnd=34177|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	hombre	hombre	ADJ	_	_	2	mod	_	AlignBegin=34177|AlignEnd=34713|GE=male|Gloss=male|nWord=3|RX=[ADJ]
 4	kle	kle	AUX	_	_	0	root	_	AlignBegin=34713|AlignEnd=35249|GE=be|Gloss=be|nWord=4|RX=[V]

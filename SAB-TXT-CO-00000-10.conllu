@@ -26,7 +26,7 @@
 # text = y cha kle koi lie chi dike .
 # text_en = And I cook the chicken in water.
 # text_ortho = y cha kle koi lie chi dike .
-1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=12580|AlignEnd=12889|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=12580|AlignEnd=12889|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
 2	cha	cha	PRON	_	_	5	subj	_	AlignBegin=12889|AlignEnd=13198|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	kle	kle	AUX	_	_	0	root	_	AlignBegin=13198|AlignEnd=13507|GE=be|Gloss=be|nWord=3|RX=[V]
 4	koi	koi	NOUN	_	_	5	comp:obj	_	AlignBegin=13507|AlignEnd=13816|GE=chicken|Gloss=chicken|nWord=4|RX=[N]
@@ -53,7 +53,7 @@
 7	bla	bla	NOUN	_	_	8	comp	_	AlignBegin=17390|AlignEnd=17684|GE=banana|Gloss=banana|nWord=6|RX=[N]
 8	ske	ske	ADP	_	_	4	comp:obl	_	AlignBegin=17684|AlignEnd=17978|GE=with|Gloss=with|nWord=7|RX=[ADP]
 9	,		PUNCT	_	_	_	_	_	AlignBegin=17978|AlignEnd=18270|nWord=8
-10	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=18630|AlignEnd=19008|GE=and|Gloss=and|nWord=9|RX=[COORDCONN]
+10	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=18630|AlignEnd=19008|GE=and|Gloss=and|Lang=es|nWord=9|RX=[COORDCONN]
 11	a	a	ADP	_	_	_	_	_	AlignBegin=19008|AlignEnd=19386|GE=to|Gloss=to|nWord=10|RX=[ADP]
 12	veces	veces	NOUN	_	_	_	_	_	AlignBegin=19386|AlignEnd=19764|GE=[time].[PL]|Gloss=time.PL|nWord=11|RX=[N]
 13	koi	koi	NOUN	_	_	_	_	_	AlignBegin=19764|AlignEnd=20142|GE=chicken|Gloss=chicken|nWord=12|RX=[N]
@@ -78,7 +78,7 @@
 3	chebi	chebi	NOUN	_	_	4	comp:aux/m	_	AlignBegin=24884|AlignEnd=25190|GE=mother|Gloss=mother|nWord=3|RX=[N]
 4	-a		AUX	_	_	_	_	_	AlignBegin=25190|AlignEnd=25496|GE=[POSS]|Gloss=-POSS|nWord=3|RX=[N:ANY]
 5	onia	onia	NOUN	_	_	_	_	_	AlignBegin=25496|AlignEnd=26108|GE=soul|Gloss=soul|nWord=4|RX=[N]
-6	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=26108|AlignEnd=26720|GE=and|Gloss=and|nWord=5|RX=[COORDCONN]
+6	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=26108|AlignEnd=26720|GE=and|Gloss=and|Lang=es|nWord=5|RX=[COORDCONN]
 7	cha	cha	PRON	_	_	8	udep:poss	_	AlignBegin=26720|AlignEnd=27332|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
 8	nienu	nienu	NOUN	_	_	9	comp:aux/m	_	AlignBegin=27332|AlignEnd=27638|GE=father|Gloss=father|nWord=7|RX=[N]
 9	-a		AUX	_	_	_	_	_	AlignBegin=27638|AlignEnd=27944|GE=[POSS]|Gloss=-POSS|nWord=7|RX=[N:ANY]
@@ -87,10 +87,10 @@
 12	koi	koi	NOUN	_	_	13	comp:obj	_	AlignBegin=29168|AlignEnd=29780|GE=chicken|Gloss=chicken|nWord=10|RX=[N]
 13	gwe	gwe	VERB	_	_	11	comp:aux	_	AlignBegin=29780|AlignEnd=30392|GE=kill|Gloss=kill|nWord=11|RX=[V]
 14	,		PUNCT	_	_	_	_	_	AlignBegin=30392|AlignEnd=31010|nWord=12
-15	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=32690|AlignEnd=32980|GE=and|Gloss=and|nWord=13|RX=[COORDCONN]
+15	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=32690|AlignEnd=32980|GE=and|Gloss=and|Lang=es|nWord=13|RX=[COORDCONN]
 16	li	li	VERB	_	_	17	comp:aux/m	_	AlignBegin=32980|AlignEnd=33125|GE=cook|Gloss=cook|nWord=14|RX=[VT]
 17	-e		AUX	_	_	_	_	_	AlignBegin=33125|AlignEnd=33270|GE=[THM]|Gloss=-THM|nWord=14|RX=[V:ANY]
-18	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=33270|AlignEnd=33560|GE=like_that|Gloss=like_that|nWord=15|RX=[ADV]
+18	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=33270|AlignEnd=33560|GE=like_that|Gloss=like_that|Lang=es|nWord=15|RX=[ADV]
 19	chi	chi	NOUN	_	_	20	comp	_	AlignBegin=33560|AlignEnd=33850|GE=water|Gloss=water|nWord=16|RX=[N]
 20	dike	dike	ADP	_	_	16	comp:obl	_	AlignBegin=33850|AlignEnd=34140|GE=[INST]|Gloss=INST|nWord=17|RX=[ADP]
 21	.		PUNCT	_	_	_	_	_	AlignBegin=34140|AlignEnd=34430|Gloss=.|nWord=18
@@ -126,7 +126,7 @@
 # text = y kle koi dodade ulita .
 # text_en = And (they) all do the chicken.
 # text_ortho = y kle koi dodade ulita .
-1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=46570|AlignEnd=47040|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=46570|AlignEnd=47040|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
 2	kle	kle	AUX	_	_	0	root	_	AlignBegin=47040|AlignEnd=47510|GE=be|Gloss=be|nWord=2|RX=[V]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=47510|AlignEnd=47980|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
 4	dodad	dodad	VERB	_	_	5	comp:aux/m	_	AlignBegin=47980|AlignEnd=48215|GE=make|Gloss=make|nWord=4|RX=[VT]

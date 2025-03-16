@@ -67,7 +67,7 @@
 # text = porque ble ka che kle hoke hong tieng ble ke ble kada limon punta limon .
 # text_en = Because we go to the mouth of the sea, we go through the path that goes to the sea called Limon, the point Limon.
 # text_ortho = porque ble ka che kle hoke hong tieng ble ke ble kada limon punta limon .
-1	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=30790|AlignEnd=31212|GE=because|Gloss=because|nWord=1|RX=[CONN]
+1	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=30790|AlignEnd=31212|GE=because|Gloss=because|Lang=es|nWord=1|RX=[CONN]
 2	ble	ble	NOUN	_	_	_	_	_	AlignBegin=31212|AlignEnd=31634|GE=sea|Gloss=sea|nWord=2|RX=[N]
 3	ka	ka	NOUN	_	_	_	_	_	AlignBegin=31634|AlignEnd=32056|GE=mouth|Gloss=mouth|nWord=3|RX=[N]
 4	che	che	PRON	_	_	6	subj	_	AlignBegin=32056|AlignEnd=32478|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=4|RX=[PRO]
@@ -94,7 +94,7 @@
 # text_ortho = dwa gnankuda .
 1	dwa	dwa	ADV	_	_	_	_	_	AlignBegin=37890|AlignEnd=38483|GE=down|Gloss=down|nWord=1|RX=[ADV]
 2	gnanku	gnanku	ADV	_	_	3	comp:aux/m	_	AlignBegin=38483|AlignEnd=38779|GE=far.med|Gloss=far.med|nWord=2|RX=[ADV]
-3	-da		PART	_	_	_	_	_	AlignBegin=38779|AlignEnd=39076|GE=emph|Gloss=emph|nWord=2|RX=[VERB]
+3	-da		AUX	_	_	_	_	_	AlignBegin=38779|AlignEnd=39076|GE=emph|Gloss=emph|nWord=2|RX=[VERB]
 4	.		PUNCT	_	_	_	_	_	AlignBegin=39076|AlignEnd=39670|Gloss=.|nWord=3
 
 # sent_id = SAB-TXT-PA-00000-04_06-07
@@ -110,7 +110,7 @@
 3	hoke	hoke	VERB	_	_	2	comp:aux	_	AlignBegin=40338|AlignEnd=40627|GE=go|Gloss=go|nWord=3|RX=[VI]
 4	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=40627|AlignEnd=40916|GE=go|Gloss=go|nWord=4|RX=[VI]
 5	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=40916|AlignEnd=41205|GE=go|Gloss=go|nWord=5|RX=[VI]
-6	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=41205|AlignEnd=41494|GE=to|Gloss=to|nWord=6|RX=[ADP]
+6	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=41205|AlignEnd=41494|GE=to|Gloss=to|Lang=es|nWord=6|RX=[ADP]
 7	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=41494|AlignEnd=41783|GE=go|Gloss=go|nWord=7|RX=[VI]
 8	iani	iani	ADV	_	_	7	mod:lmod	_	AlignBegin=41783|AlignEnd=42072|GE=there|Gloss=there|nWord=8|RX=[ADV]
 9	,		PUNCT	_	_	_	_	_	AlignBegin=42072|AlignEnd=42360|nWord=9
@@ -136,11 +136,11 @@
 4	kle	kle	AUX	_	_	_	_	_	AlignBegin=49769|AlignEnd=50142|GE=be|Gloss=be|nWord=4|RX=[V]
 5	chage	chage	VERB	_	_	4	comp:aux	_	AlignBegin=50142|AlignEnd=50515|GE=walk|Gloss=walk|nWord=5|RX=[VI]
 6	nerku	nerku	ADV	_	_	_	_	_	AlignBegin=50515|AlignEnd=50888|GE=ahead|Gloss=ahead|nWord=6|RX=[ADV]
-7	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=50888|AlignEnd=51261|GE=more|Gloss=more|nWord=7|RX=[ADV]
+7	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=50888|AlignEnd=51261|GE=more|Gloss=more|Lang=es|nWord=7|RX=[ADV]
 8	gnanku	gnanku	ADV	_	_	_	_	_	AlignBegin=51261|AlignEnd=51634|GE=far.med|Gloss=far.med|nWord=8|RX=[ADV]
-9	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=51634|AlignEnd=52007|GE=there_is|Gloss=there_is|nWord=9|RX=[V]
+9	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=51634|AlignEnd=52007|GE=there_is|Gloss=there_is|Lang=es|nWord=9|RX=[V]
 10	un	un	DET	_	_	_	_	_	AlignBegin=52007|AlignEnd=52380|GE=[INDEF].[M]|Gloss=INDEF.M|nWord=10|RX=[DET]
-11	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=52380|AlignEnd=52753|GE=school|Gloss=school|nWord=11|RX=[N]
+11	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=52380|AlignEnd=52753|GE=school|Gloss=school|Lang=es|nWord=11|RX=[N]
 12	.		PUNCT	_	_	_	_	_	AlignBegin=52753|AlignEnd=53130|Gloss=.|nWord=12
 
 # sent_id = SAB-TXT-PA-00000-04_09-12
@@ -158,7 +158,7 @@
 5	hoke	hoke	VERB	_	_	4	comp:aux	_	AlignBegin=59086|AlignEnd=59395|GE=go|Gloss=go|nWord=5|RX=[VI]
 6	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=59395|AlignEnd=59704|GE=go|Gloss=go|nWord=6|RX=[VI]
 7	,		PUNCT	_	_	_	_	_	AlignBegin=59704|AlignEnd=60010|nWord=7
-8	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=60010|AlignEnd=60362|GE=now|Gloss=now|nWord=8|RX=[ADV]
+8	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=60010|AlignEnd=60362|GE=now|Gloss=now|Lang=es|nWord=8|RX=[ADV]
 9	gnanku	gnanku	ADV	_	_	_	_	_	AlignBegin=60362|AlignEnd=60714|GE=far.med|Gloss=far.med|nWord=9|RX=[ADV]
 10	chi	chi	NOUN	_	_	_	_	_	AlignBegin=60714|AlignEnd=61066|GE=water|Gloss=water|nWord=10|RX=[N]
 11	ka	ka	NOUN	_	_	12	comp	_	AlignBegin=61066|AlignEnd=61418|GE=mouth|Gloss=mouth|nWord=11|RX=[N]
@@ -211,7 +211,7 @@
 7	-e		AUX	_	_	_	_	_	AlignBegin=74485|AlignEnd=74740|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 8	tragdate	tragdate	ADJ	_	_	_	_	_	AlignBegin=74740|AlignEnd=75250|GE=straight|Gloss=straight|nWord=7|RX=[ADJ]
 9	ali	ali	ADP	_	_	_	_	_	AlignBegin=75250|AlignEnd=75760|GE=with|Gloss=with|nWord=8|RX=[ADP]
-10	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=75760|AlignEnd=76270|GE=that|Gloss=that|nWord=9|RX=[PRO]
+10	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=75760|AlignEnd=76270|GE=that|Gloss=that|Lang=es|nWord=9|RX=[PRO]
 11	kada	kada	NOUN	_	_	_	_	_	AlignBegin=76270|AlignEnd=76780|GE=name|Gloss=name|nWord=10|RX=[N]
 12	Moron	Moron	PROPN	_	_	_	_	_	AlignBegin=76780|AlignEnd=77290|GE=[Moron]|Gloss=Moron|nWord=11|RX=[NPROP]
 13	.		PUNCT	_	_	_	_	_	AlignBegin=77290|AlignEnd=77800|Gloss=.|nWord=12
@@ -290,15 +290,15 @@
 # text = ya eni che kle hoke pa una ta ya deku .
 # text_en = From there we go trough a X.
 # text_ortho = ya eni che kle hoke pa una ta ya deku .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=92920|AlignEnd=93297|GE=now|Gloss=now|nWord=1|RX=[ADV]
+1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=92920|AlignEnd=93297|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	eni	eni	ADV	_	_	_	_	_	AlignBegin=93297|AlignEnd=93674|GE=there|Gloss=there|nWord=2|RX=[ADV]
 3	che	che	PRON	_	_	5	subj	_	AlignBegin=93674|AlignEnd=94051|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
 4	kle	kle	AUX	_	_	_	_	_	AlignBegin=94051|AlignEnd=94428|GE=be|Gloss=be|nWord=4|RX=[V]
 5	hoke	hoke	VERB	_	_	4	comp:aux	_	AlignBegin=94428|AlignEnd=94805|GE=go|Gloss=go|nWord=5|RX=[VI]
-6	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=94805|AlignEnd=95182|GE=to|Gloss=to|nWord=6|RX=[ADP]
+6	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=94805|AlignEnd=95182|GE=to|Gloss=to|Lang=es|nWord=6|RX=[ADP]
 7	una	una	NOUN	_	_	6	comp	_	AlignBegin=95182|AlignEnd=95559|GE=city|Gloss=city|nWord=7|RX=[N]
-8	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=95559|AlignEnd=95936|GE=be|Gloss=be|nWord=8|RX=[V]
-9	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=95936|AlignEnd=96313|GE=now|Gloss=now|nWord=9|RX=[ADV]
+8	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=95559|AlignEnd=95936|GE=be|Gloss=be|Lang=es|nWord=8|RX=[V]
+9	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=95936|AlignEnd=96313|GE=now|Gloss=now|Lang=es|nWord=9|RX=[ADV]
 10	dek	dek	VERB	_	_	11	comp:aux/m	_	AlignBegin=96313|AlignEnd=96501|GE=peel|Gloss=peel|nWord=10|RX=[V]
 11	-u		AUX	_	_	_	_	_	AlignBegin=96501|AlignEnd=96690|GE=[PST]|Gloss=-PST|nWord=10|RX=[V:ANY]
 12	.		PUNCT	_	_	_	_	_	AlignBegin=96690|AlignEnd=97070|Gloss=.|nWord=11
@@ -328,7 +328,7 @@
 # text = ya ai ba kle chke eni , ba kle obe ai , pa hokedale nerku , ba kle obe .
 # text_en = From there you arrive here. You (usually) go swim there, In order to be able to go further, You (usually) swim.
 # text_ortho = ya ai ba kle chke eni , ba kle obe ai , pa hokedale nerku , ba kle obe .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=103280|AlignEnd=103464|GE=now|Gloss=now|nWord=1|RX=[ADV]
+1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=103280|AlignEnd=103464|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	ai	ai	ADV	_	_	_	_	_	AlignBegin=103464|AlignEnd=103648|GE=here|Gloss=here|nWord=2|RX=[ADV]
 3	ba	ba	PRON	_	_	5	subj	_	AlignBegin=103648|AlignEnd=103832|GE=[2SG]|Gloss=2SG|nWord=3|RX=[PRO]
 4	kle	kle	AUX	_	_	_	_	_	AlignBegin=103832|AlignEnd=104016|GE=be|Gloss=be|nWord=4|RX=[V]
@@ -341,9 +341,9 @@
 11	obe	obe	VERB	_	_	10	comp:aux	_	AlignBegin=105050|AlignEnd=105280|GE=bath|Gloss=bath|nWord=10|RX=[VI]
 12	ai	ai	ADV	_	_	_	_	_	AlignBegin=105280|AlignEnd=105510|GE=here|Gloss=here|nWord=11|RX=[ADV]
 13	,		PUNCT	_	_	_	_	_	AlignBegin=105510|AlignEnd=105740|nWord=12
-14	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=105800|AlignEnd=106210|GE=to|Gloss=to|nWord=13|RX=[ADP]
+14	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=105800|AlignEnd=106210|GE=to|Gloss=to|Lang=es|nWord=13|RX=[ADP]
 15	hoke	hoke	VERB	_	_	16	comp:aux/m	_	AlignBegin=106210|AlignEnd=106415|GE=go|Gloss=go|nWord=14|RX=[VI]
-16	-dale		AUX	_	_	_	_	_	AlignBegin=106415|AlignEnd=106620|GE=[IRR]|Gloss=-IRR|nWord=14|RX=[V:ANY]
+16	-dale		AUX	_	_	14	comp	_	AlignBegin=106415|AlignEnd=106620|GE=[IRR]|Gloss=-IRR|nWord=14|RX=[V:ANY]
 17	nerku	nerku	ADV	_	_	_	_	_	AlignBegin=106620|AlignEnd=107030|GE=ahead|Gloss=ahead|nWord=15|RX=[ADV]
 18	,		PUNCT	_	_	_	_	_	AlignBegin=107030|AlignEnd=107440|nWord=16
 19	ba	ba	PRON	_	_	21	subj	_	AlignBegin=107485|AlignEnd=107763|GE=[2SG]|Gloss=2SG|nWord=17|RX=[PRO]
@@ -418,7 +418,7 @@
 # text_en = You go up the ladder.
 # text_ortho = usted sube kalera .
 1	usted	usted	PRON	_	_	2	subj	_	AlignBegin=114335|AlignEnd=114757|GE=[2SG].[form]|Gloss=2SG.form|nWord=1|RX=[PRO]
-2	sube	sube	VERB	_	Foreign=Yes	_	_	_	AlignBegin=114757|AlignEnd=115179|GE=go_up|Gloss=go_up|nWord=2|RX=[V]
+2	sube	sube	VERB	_	Foreign=Yes	_	_	_	AlignBegin=114757|AlignEnd=115179|GE=go_up|Gloss=go_up|Lang=es|nWord=2|RX=[V]
 3	kalera	kalera	NOUN	_	_	_	_	_	AlignBegin=115179|AlignEnd=115601|GE=ladder|Gloss=ladder|nWord=3|RX=[N]
 4	.		PUNCT	_	_	_	_	_	AlignBegin=115601|AlignEnd=116025|Gloss=.|nWord=4
 
@@ -472,7 +472,7 @@
 # text = cuando ba kle chi kweri ese cruza , ba kle chke chi kweri calovebora ka ke .
 # text_en = When you cross that big river, You arrive to the mouth of the big river Calovebora.
 # text_ortho = cuando ba kle chi kweri ese cruza , ba kle chke chi kweri calovebora ka ke .
-1	cuando	cuando	SCONJ	_	Foreign=Yes	11	mod	_	AlignBegin=127070|AlignEnd=127466|GE=when|Gloss=when|nWord=1|RX=[Q]
+1	cuando	cuando	SCONJ	_	Foreign=Yes	11	mod	_	AlignBegin=127070|AlignEnd=127466|GE=when|Gloss=when|Lang=es|nWord=1|RX=[Q]
 2	ba	ba	PRON	_	_	7	subj	_	AlignBegin=127466|AlignEnd=127862|GE=[2SG]|Gloss=2SG|nWord=2|RX=[PRO]
 3	kle	kle	AUX	_	_	1	comp	_	AlignBegin=127862|AlignEnd=128258|GE=be|Gloss=be|nWord=3|RX=[V]
 4	chi	chi	NOUN	_	_	7	comp:obj	_	AlignBegin=128258|AlignEnd=128654|GE=water|Gloss=water|nWord=4|RX=[N]

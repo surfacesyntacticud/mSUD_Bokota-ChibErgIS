@@ -57,7 +57,7 @@
 # text = pero ama kle koi dwe bate iani , kle koi luke gli ke , pa que koi lukeda sukekre .
 # text_en = But they have to take the chicken far away, (They) attach the chicken to a tree, So the chicken is attached in another place.
 # text_ortho = pero ama kle koi dwe bate iani , kle koi luke gli ke , pa que koi lukeda sukekre .
-1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=33270|AlignEnd=33574|GE=but|Gloss=but|nWord=1|RX=[COORDCONN]
+1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=33270|AlignEnd=33574|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
 2	ama	ama	ADV	_	_	_	_	_	AlignBegin=33574|AlignEnd=33878|GE=so|Gloss=so|nWord=2|RX=[ADV]
 3	kle	kle	AUX	_	_	_	_	_	AlignBegin=33878|AlignEnd=34182|GE=be|Gloss=be|nWord=3|RX=[V]
 4	koi	koi	NOUN	_	_	5	comp:obj	_	AlignBegin=34182|AlignEnd=34486|GE=chicken|Gloss=chicken|nWord=4|RX=[N]
@@ -72,8 +72,8 @@
 13	gli	gli	NOUN	_	_	14	comp	_	AlignBegin=36351|AlignEnd=36558|GE=tree|Gloss=tree|nWord=12|RX=[N]
 14	ke	ke	ADP	_	_	11	comp:obl	_	AlignBegin=36558|AlignEnd=36765|GE=[LOC]|Gloss=LOC|nWord=13|RX=[ADP]
 15	,		PUNCT	_	_	_	_	_	AlignBegin=36765|AlignEnd=36970|nWord=14
-16	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=36995|AlignEnd=37292|GE=to|Gloss=to|nWord=15|RX=[ADP]
-17	que	que	X	_	Foreign=Yes	16	compound	_	AlignBegin=37292|AlignEnd=37589|GE=that|Gloss=that|nWord=16|RX=[PRO]
+16	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=36995|AlignEnd=37292|GE=to|Gloss=to|Lang=es|nWord=15|RX=[ADP]
+17	que	que	X	_	Foreign=Yes	16	compound	_	AlignBegin=37292|AlignEnd=37589|GE=that|Gloss=that|Lang=es|nWord=16|RX=[PRO]
 18	koi	koi	NOUN	_	_	19	comp:obj	_	AlignBegin=37589|AlignEnd=37886|GE=chicken|Gloss=chicken|nWord=17|RX=[N]
 19	luk	luk	VERB	_	_	20	comp:aux/m	_	AlignBegin=37886|AlignEnd=37960|GE=link|Gloss=link|nWord=18|RX=[VT]
 20	-e		AUX	_	_	21	comp:aux/m	_	AlignBegin=37960|AlignEnd=38034|GE=[THM]|Gloss=-THM|nWord=18|RX=[V:ANY]
@@ -95,7 +95,7 @@
 3	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=40504|AlignEnd=40758|GE=child|Gloss=child|nWord=3|RX=[N]
 4	gwa	gwa	_	_	_	_	_	_	AlignBegin=40758|AlignEnd=41011|nWord=3
 5	soli	soli	NOUN	_	_	3	mod	_	AlignBegin=41011|AlignEnd=41518|GE=little|Gloss=little|nWord=4|RX=[N]
-6	me	me	PART	_	_	0	root	_	AlignBegin=41518|AlignEnd=42025|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
+6	me	me	AUX	_	_	0	root	_	AlignBegin=41518|AlignEnd=42025|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
 7	gna	gna	AUX	_	_	6	comp:aux	_	AlignBegin=42025|AlignEnd=42532|GE=can|Gloss=can|nWord=6|RX=[V]
 8	hoke	hoke	VERB	_	_	7	comp:aux	_	AlignBegin=42532|AlignEnd=43039|GE=go|Gloss=go|nWord=7|RX=[VI]
 9	swente	swente	VERB	_	_	_	_	_	AlignBegin=43039|AlignEnd=43546|GE=see|Gloss=see|nWord=8|RX=[V]
@@ -111,9 +111,9 @@
 # text = porque sainkuli porque sino kiro be daba gweda giska ke .
 # text_en = Because it is forbidden because otherwise the kid will kill his brother with a rope.
 # text_ortho = porque sainkuli porque sino kiro be daba gweda giska ke .
-1	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=45110|AlignEnd=45497|GE=because|Gloss=because|nWord=1|RX=[CONN]
+1	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=45110|AlignEnd=45497|GE=because|Gloss=because|Lang=es|nWord=1|RX=[CONN]
 2	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=45497|AlignEnd=45884|GE=forbidden|Gloss=forbidden|nWord=2|RX=[ADV]
-3	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=45884|AlignEnd=46271|GE=because|Gloss=because|nWord=3|RX=[CONN]
+3	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=45884|AlignEnd=46271|GE=because|Gloss=because|Lang=es|nWord=3|RX=[CONN]
 4	sino	sino	X	_	_	_	_	_	AlignBegin=46271|AlignEnd=46658|GE=otherwise|Gloss=otherwise|nWord=4|RX=[CONN]
 5	kiro	kiro	NOUN	_	_	8	subj	_	AlignBegin=46658|AlignEnd=47045|GE=child|Gloss=child|nWord=5|RX=[N]
 6	be	be	AUX	_	_	_	_	_	AlignBegin=47045|AlignEnd=47432|GE=[FUT]|Gloss=FUT|nWord=6|RX=[VERBPRT]
@@ -132,8 +132,8 @@
 # text = por eso koi gweda sukekre .
 # text_en = For that reason the chicken is killed in a different place.
 # text_ortho = por eso koi gweda sukekre .
-1	por	por	X	_	Foreign=Yes	_	_	_	AlignBegin=50110|AlignEnd=50383|GE=through|Gloss=through|nWord=1|RX=[ADP]
-2	eso	eso	X	_	Foreign=Yes	1	fixed	_	AlignBegin=50383|AlignEnd=50656|GE=this|Gloss=this|nWord=2|RX=[PRO]
+1	por	por	X	_	Foreign=Yes	_	_	_	AlignBegin=50110|AlignEnd=50383|GE=through|Gloss=through|Lang=es|nWord=1|RX=[ADP]
+2	eso	eso	X	_	Foreign=Yes	1	fixed	_	AlignBegin=50383|AlignEnd=50656|GE=this|Gloss=this|Lang=es|nWord=2|RX=[PRO]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=50656|AlignEnd=50929|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
 4	gwe	gwe	VERB	_	_	5	comp:aux/m	_	AlignBegin=50929|AlignEnd=51020|GE=kill|Gloss=sleep|nWord=4|RX=[V]
 5	-da		AUX	_	_	_	_	_	AlignBegin=51020|AlignEnd=51202|GE=[0]|Gloss=-ASP|nWord=4|RX=[VERB]
@@ -164,9 +164,9 @@
 # text_en = The water is on the fire.
 # text_ortho = chi ta hia ke .
 1	chi	chi	NOUN	_	_	_	_	_	AlignBegin=54145|AlignEnd=54459|GE=water|Gloss=water|nWord=1|RX=[N]
-2	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=54459|AlignEnd=54773|GE=be|Gloss=be|nWord=2|RX=[V]
+2	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=54459|AlignEnd=54773|GE=be|Gloss=be|Lang=es|nWord=2|RX=[V]
 3	hi	hi	NOUN	_	_	4	comp:aux/m	_	AlignBegin=54773|AlignEnd=54930|GE=fire|Gloss=fire|nWord=3|RX=[N]
-4	-a		X	_	_	5	comp	_	AlignBegin=54930|AlignEnd=55087|GE=[0]|Gloss=-0|nWord=3|RX=[NOUN]
+4	-a		AUX	_	_	5	comp	_	AlignBegin=54930|AlignEnd=55087|GE=[0]|Gloss=-0|nWord=3|RX=[NOUN]
 5	ke	ke	ADP	_	_	_	_	_	AlignBegin=55087|AlignEnd=55401|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
 6	.		PUNCT	_	_	_	_	_	AlignBegin=55401|AlignEnd=55715|Gloss=.|nWord=5
 
@@ -179,11 +179,11 @@
 # text_en = The water is boiling in the fire.
 # text_ortho = chi ta lie hia ke .
 1	chi	chi	NOUN	_	_	_	_	_	AlignBegin=56505|AlignEnd=56757|GE=water|Gloss=water|nWord=1|RX=[N]
-2	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=56757|AlignEnd=57009|GE=be|Gloss=be|nWord=2|RX=[V]
+2	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=56757|AlignEnd=57009|GE=be|Gloss=be|Lang=es|nWord=2|RX=[V]
 3	li	li	VERB	_	_	4	comp:aux/m	_	AlignBegin=57009|AlignEnd=57135|GE=cook|Gloss=cook|nWord=3|RX=[VT]
 4	-e		AUX	_	_	_	_	_	AlignBegin=57135|AlignEnd=57261|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	hi	hi	NOUN	_	_	6	comp:aux/m	_	AlignBegin=57261|AlignEnd=57387|GE=fire|Gloss=fire|nWord=4|RX=[N]
-6	-a		X	_	_	7	comp	_	AlignBegin=57387|AlignEnd=57513|GE=[0]|Gloss=-0|nWord=4|RX=[NOUN]
+6	-a		AUX	_	_	7	comp	_	AlignBegin=57387|AlignEnd=57513|GE=[0]|Gloss=-0|nWord=4|RX=[NOUN]
 7	ke	ke	ADP	_	_	_	_	_	AlignBegin=57513|AlignEnd=57765|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
 8	.		PUNCT	_	_	_	_	_	AlignBegin=57765|AlignEnd=58015|Gloss=.|nWord=6
 
@@ -195,7 +195,7 @@
 # text = y koi tke chi ute ske .
 # text_en = And (I) put the chicken in the boiling water.
 # text_ortho = y koi tke chi ute ske .
-1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=58195|AlignEnd=58492|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=58195|AlignEnd=58492|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
 2	koi	koi	NOUN	_	_	3	comp:obj	_	AlignBegin=58492|AlignEnd=58789|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
 3	tk	tk	VERB	_	_	4	comp:aux/m	_	AlignBegin=58789|AlignEnd=58937|GE=put|Gloss=put|nWord=3|RX=[VT]
 4	-e		AUX	_	_	_	_	_	AlignBegin=58937|AlignEnd=59086|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
@@ -212,12 +212,12 @@
 # text = y koi huke trate hegwale .
 # text_en = And (I) pluck the chicken completely on one side.
 # text_ortho = y koi huke trate hegwale .
-1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=60570|AlignEnd=60800|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=60570|AlignEnd=60800|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
 2	koi	koi	NOUN	_	_	3	comp:obj	_	AlignBegin=60800|AlignEnd=61030|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
 3	huk	huk	VERB	_	_	4	comp:aux/m	_	AlignBegin=61030|AlignEnd=61145|GE=pluck|Gloss=pluck|nWord=3|RX=[V]
 4	-e		AUX	_	_	_	_	_	AlignBegin=61145|AlignEnd=61260|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
-5	trate	trate	ADJ	_	_	_	_	_	AlignBegin=61260|AlignEnd=61490|GE=clean|Gloss=clean|nWord=4|RX=[ADJ]
-6	hegwale	hegwale	ADP	_	_	_	_	_	AlignBegin=61490|AlignEnd=61720|GE=next_to|Gloss=next_to|nWord=5|RX=[ADP]
+5	trate	trate	ADJ	_	_	3	comp:pred	_	AlignBegin=61260|AlignEnd=61490|GE=clean|Gloss=clean|nWord=4|RX=[ADJ]
+6	hegwale	hegwale	ADV	_	_	3	mod	_	AlignBegin=61490|AlignEnd=61720|GE=next_to|Gloss=next_to|nWord=5|RX=[ADP]
 7	.		PUNCT	_	_	_	_	_	AlignBegin=61720|AlignEnd=61950|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-CO-00000-03_15-15
@@ -233,14 +233,14 @@
 3	chi	chi	VERB	_	_	4	comp:aux/m	_	AlignBegin=64972|AlignEnd=65154|GE=come|Gloss=come|nWord=3|RX=[VI]
 4	-e		AUX	_	_	_	_	_	AlignBegin=65154|AlignEnd=65337|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	do	do	NOUN	_	_	6	comp:aux/m	_	AlignBegin=65337|AlignEnd=65519|GE=coco|Gloss=coco|nWord=4|RX=[N]
-6	-ia		NOUN	_	_	_	_	_	AlignBegin=65519|AlignEnd=65702|GE=[0]|Gloss=-0|nWord=4|RX=[NOUN]
-7	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=65702|AlignEnd=66067|GE=so|Gloss=so|nWord=5|RX=[ADV]
+6	-ia		AUX	_	_	_	_	_	AlignBegin=65519|AlignEnd=65702|GE=[0]|Gloss=-0|nWord=4|RX=[NOUN]
+7	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=65702|AlignEnd=66067|GE=so|Gloss=so|Lang=es|nWord=5|RX=[ADV]
 8	koi	koi	NOUN	_	_	9	comp:obj	_	AlignBegin=66067|AlignEnd=66432|GE=chicken|Gloss=chicken|nWord=6|RX=[N]
 9	bek	bek	VERB	_	_	10	comp:aux/m	_	AlignBegin=66432|AlignEnd=66614|GE=put|Gloss=put|nWord=7|RX=[V]
 10	-e		AUX	_	_	_	_	_	AlignBegin=66614|AlignEnd=66797|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
 11	hita	hita	NOUN	_	_	12	comp	_	AlignBegin=66797|AlignEnd=67162|GE=fire|Gloss=fire|nWord=8|RX=[N]
 12	giti	giti	ADP	_	_	9	comp:obl	_	AlignBegin=67162|AlignEnd=67527|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
-13	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=67527|AlignEnd=67892|GE=like_that|Gloss=like_that|nWord=10|RX=[ADV]
+13	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=67527|AlignEnd=67892|GE=like_that|Gloss=like_that|Lang=es|nWord=10|RX=[ADV]
 14	.		PUNCT	_	_	_	_	_	AlignBegin=67892|AlignEnd=68252|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-CO-00000-03_16-16

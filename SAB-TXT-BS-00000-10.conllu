@@ -8,7 +8,7 @@
 # text_ortho = cha honingke no sabe cha kle mung gai cocinera ole , y cocinera kle gai , cocinera kle chage kirogwa ole .
 1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=6035|AlignEnd=6479|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	honingke	honingke	ADV	_	_	_	_	_	AlignBegin=6479|AlignEnd=6923|GE=first|Gloss=first|nWord=2|RX=[ADV]
-3	no	no	PART	_	_	_	_	_	AlignBegin=6923|AlignEnd=7367|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	no	no	AUX	_	_	_	_	_	AlignBegin=6923|AlignEnd=7367|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	sabe	sabe	VERB	_	_	3	comp:aux	_	AlignBegin=7367|AlignEnd=7811|GE=know|Gloss=know|nWord=4|RX=[V]
 5	cha	cha	PRON	_	_	8	subj	_	AlignBegin=7811|AlignEnd=8255|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
 6	kle	kle	AUX	_	_	_	_	_	AlignBegin=8255|AlignEnd=8699|GE=be|Gloss=be|nWord=6|RX=[V]
@@ -17,7 +17,7 @@
 9	cocinera	cocinera	NOUN	_	_	10	comp	_	AlignBegin=9587|AlignEnd=10031|GE=wife|Gloss=wife|nWord=9|RX=[N]
 10	ole	ole	ADP	_	_	8	comp:obl	_	AlignBegin=10031|AlignEnd=10475|GE=[COM]|Gloss=COM|nWord=10|RX=[ADP]
 11	,		PUNCT	_	_	_	_	_	AlignBegin=10475|AlignEnd=10915|nWord=11
-12	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=11035|AlignEnd=11317|GE=and|Gloss=and|nWord=12|RX=[COORDCONN]
+12	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=11035|AlignEnd=11317|GE=and|Gloss=and|Lang=es|nWord=12|RX=[COORDCONN]
 13	cocinera	cocinera	NOUN	_	_	15	subj	_	AlignBegin=11317|AlignEnd=11599|GE=wife|Gloss=wife|nWord=13|RX=[N]
 14	kle	kle	AUX	_	_	_	_	_	AlignBegin=11599|AlignEnd=11881|GE=be|Gloss=be|nWord=14|RX=[V]
 15	gai	gai	VERB	_	_	14	comp:aux	_	AlignBegin=11881|AlignEnd=12163|GE=pick_up|Gloss=pick_up|nWord=15|RX=[VT]
@@ -38,9 +38,9 @@
 # text = ya de que kirogwa kle chie , skie ko dike o gire necesita cheisuli , necesita enusuli o cheigdaia o cheisulia , kle manade dike .
 # text_en = The day the kid is coming, When she is about to reproduce (give birth) (she) needs the grandmother, (She) needs the grandfather or the ant or the grandmother, To take care of her.
 # text_ortho = ya de que kirogwa kle chie , skie ko dike o gire necesita cheisuli , necesita enusuli o cheigdaia o cheisulia , kle manade dike .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=19160|AlignEnd=19523|GE=now|Gloss=now|nWord=1|RX=[ADV]
+1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=19160|AlignEnd=19523|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	de	de	ADP	_	_	_	_	_	AlignBegin=19523|AlignEnd=19886|GE=from|Gloss=from|nWord=2|RX=[ADP]
-3	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=19886|AlignEnd=20249|GE=that|Gloss=that|nWord=3|RX=[PRO]
+3	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=19886|AlignEnd=20249|GE=that|Gloss=that|Lang=es|nWord=3|RX=[PRO]
 4	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=20249|AlignEnd=20431|GE=child|Gloss=child|nWord=4|RX=[N]
 5	gwa	gwa	_	_	_	_	_	_	AlignBegin=20431|AlignEnd=20612|nWord=4
 6	kle	kle	AUX	_	_	_	_	_	AlignBegin=20612|AlignEnd=20975|GE=be|Gloss=be|nWord=5|RX=[V]
@@ -123,8 +123,8 @@
 4	-d-		AUX	_	_	5	comp:aux/m	_	AlignBegin=50442|AlignEnd=50697|GE=[0]|Gloss=-0-|nWord=3|RX=[VERB]
 5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=50697|AlignEnd=50953|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 6	,		PUNCT	_	_	_	_	_	AlignBegin=50953|AlignEnd=51720|nWord=4
-7	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=51720|AlignEnd=52038|GE=to|Gloss=to|nWord=5|RX=[ADP]
-8	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=52038|AlignEnd=52356|GE=that|Gloss=that|nWord=6|RX=[PRO]
+7	hasta	hasta	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=51720|AlignEnd=52038|GE=to|Gloss=to|Lang=es|nWord=5|RX=[ADP]
+8	que	que	X	_	Foreign=Yes	7	compound	_	AlignBegin=52038|AlignEnd=52356|GE=that|Gloss=that|Lang=es|nWord=6|RX=[PRO]
 9	tremali	tremali	NOUN	_	_	_	_	_	AlignBegin=52356|AlignEnd=52674|GE=foetus|Gloss=foetus|nWord=7|RX=[N]
 10	kle	kle	AUX	_	_	_	_	_	AlignBegin=52674|AlignEnd=52992|GE=be|Gloss=be|nWord=8|RX=[V]
 11	(		PUNCT	_	_	_	_	_	AlignBegin=52992|AlignEnd=53310|nWord=9
@@ -167,8 +167,8 @@
 3	kle	kle	AUX	_	_	_	_	_	AlignBegin=61343|AlignEnd=61857|GE=be|Gloss=be|nWord=3|RX=[V]
 4	dike	dike	ADP	_	_	_	_	_	AlignBegin=61857|AlignEnd=62371|GE=[INST]|Gloss=INST|nWord=4|RX=[ADP]
 5	,		PUNCT	_	_	_	_	_	AlignBegin=62371|AlignEnd=62885|nWord=5
-6	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=63660|AlignEnd=64035|GE=to|Gloss=to|nWord=6|RX=[ADP]
-7	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=64035|AlignEnd=64410|GE=that|Gloss=that|nWord=7|RX=[PRO]
+6	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=63660|AlignEnd=64035|GE=to|Gloss=to|Lang=es|nWord=6|RX=[ADP]
+7	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=64035|AlignEnd=64410|GE=that|Gloss=that|Lang=es|nWord=7|RX=[PRO]
 8	cuatro	cuatro	NUM	_	_	_	_	_	AlignBegin=64410|AlignEnd=64785|GE=four|Gloss=four|nWord=8|RX=[NUM]
 9	dia	dia	NOUN	_	_	_	_	_	AlignBegin=64785|AlignEnd=65160|GE=day|Gloss=day|nWord=9|RX=[N]
 10	gire	gire	ADV	_	_	_	_	_	AlignBegin=65160|AlignEnd=65535|GE=then|Gloss=then|nWord=10|RX=[ADV]
