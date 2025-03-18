@@ -133,7 +133,7 @@
 8	ugaga	ugaga	NOUN	_	_	10	subj	_	AlignBegin=31119|AlignEnd=31413|GE=plant_type|Gloss=plant_type|nWord=8|RX=[N]
 9	be	be	AUX	_	_	7	comp	_	AlignBegin=31413|AlignEnd=31707|GE=[FUT]|Gloss=FUT|nWord=9|RX=[VERBPRT]
 10	hoke	hoke	VERB	_	_	9	comp:aux	_	AlignBegin=31707|AlignEnd=32001|GE=go|Gloss=go|nWord=10|RX=[VI]
-11	hebatre	hebatre	<NOT_SURE>	_	_	_	_	_	AlignBegin=32001|AlignEnd=32295|GE=height|Gloss=height|nWord=11|RX=[<NOT_SURE>]
+11	hebatre	hebatre	ADV	_	_	_	_	_	AlignBegin=32001|AlignEnd=32295|GE=height|Gloss=height|nWord=11|RX=[<NOT_SURE>]
 12	bduk	bduk	VERB	_	_	_	_	_	AlignBegin=32295|AlignEnd=32589|GE=go_up|Gloss=go_up|nWord=12|RX=[V]
 13	.		PUNCT	_	_	_	_	_	AlignBegin=32589|AlignEnd=32885|Gloss=.|nWord=13
 

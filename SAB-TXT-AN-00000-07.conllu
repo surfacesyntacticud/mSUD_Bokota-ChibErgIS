@@ -288,7 +288,7 @@
 2	de	de	ADP	_	_	_	_	_	AlignBegin=78323|AlignEnd=78946|GE=from|Gloss=from|nWord=2|RX=[ADP]
 3	la	la	X	_	_	_	_	_	AlignBegin=78946|AlignEnd=79569|GE=the|Gloss=the|nWord=3|RX=[ART]
 4	guerra	guerra	NOUN	_	_	_	_	_	AlignBegin=79569|AlignEnd=80192|GE=war|Gloss=war|nWord=4|RX=[N]
-5	con	con	CONN	_	_	_	_	_	AlignBegin=80192|AlignEnd=80815|GE=with|Gloss=with|nWord=5|RX=[CONN]
+5	con	con	ADP	_	_	_	_	_	AlignBegin=80192|AlignEnd=80815|GE=with|Gloss=with|nWord=5|RX=[CONN]
 6	hula	hula	NOUN	_	_	_	_	_	AlignBegin=80815|AlignEnd=81438|GE=white_man|Gloss=white_man|nWord=6|RX=[N]
 7	che	che	PRON	_	_	8	subj	_	AlignBegin=81438|AlignEnd=82061|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=7|RX=[PRO]
 8	chi	chi	VERB	_	_	9	comp:aux/m	_	AlignBegin=82061|AlignEnd=82373|GE=come|Gloss=come|nWord=8|RX=[VI]

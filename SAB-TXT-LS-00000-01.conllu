@@ -849,7 +849,7 @@
 17	ke	ke	ADP	_	_	9	comp:obl	_	AlignBegin=189280|AlignEnd=189554|GE=[LOC]|Gloss=LOC|nWord=15|RX=[ADP]
 18	,		PUNCT	_	_	_	_	_	AlignBegin=189554|AlignEnd=189830|nWord=16
 19	cha	cha	PRON	_	_	21	subj	_	AlignBegin=190040|AlignEnd=190310|GE=[1SG]|Gloss=1SG|nWord=17|RX=[PRO]
-20	koi	koi	NOUN	_	_	21	subj	_	AlignBegin=190310|AlignEnd=190580|GE=chicken|Gloss=chicken|nWord=18|RX=[N]
+20	koi	koi	NOUN	_	_	21	comp:obj	_	AlignBegin=190310|AlignEnd=190580|GE=chicken|Gloss=chicken|nWord=18|RX=[N]
 21	chuad	chuad	VERB	_	_	22	comp:aux/m	_	AlignBegin=190580|AlignEnd=190715|GE=sell|Gloss=sell|nWord=19|RX=[VT]
 22	-u		AUX	_	_	_	_	_	AlignBegin=190715|AlignEnd=190850|GE=[PST]|Gloss=-PST|nWord=19|RX=[V:ANY]
 23	iani	iani	ADV	_	_	_	_	_	AlignBegin=190850|AlignEnd=191120|GE=there|Gloss=there|nWord=20|RX=[ADV]
