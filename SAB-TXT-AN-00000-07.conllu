@@ -82,7 +82,7 @@
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=32439|AlignEnd=32551|GE=come|Gloss=come|nWord=2|RX=[VI]
 3	-u		AUX	_	_	0	root	_	AlignBegin=32551|AlignEnd=32663|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	aini	aini	ADV	_	_	2	mod:lmod	_	AlignBegin=32663|AlignEnd=32887|GE=here|Gloss=here|nWord=3|RX=[ADV]
-5	gnanku	gnanku	ADV	_	_	_	_	_	AlignBegin=32887|AlignEnd=33111|GE=far.med|Gloss=far.med|nWord=4|RX=[ADV]
+5	gnanku	gnanku	ADV	_	_	2	mod:lmod	_	AlignBegin=32887|AlignEnd=33111|GE=far.med|Gloss=far.med|nWord=4|RX=[ADV]
 6	.		PUNCT	_	_	3	punct	_	AlignBegin=33111|AlignEnd=33335|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-AN-00000-07_08-08
@@ -93,7 +93,7 @@
 # text = ama che cheku aini .
 # text_en = So they stayed here.
 # text_ortho = ama che cheku aini .
-1	ama	ama	ADV	_	_	_	_	_	AlignBegin=33365|AlignEnd=33605|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	ama	ama	ADV	_	_	3	discourse	_	AlignBegin=33365|AlignEnd=33605|GE=so|Gloss=so|nWord=1|RX=[ADV]
 2	che	che	PRON	_	_	3	subj	_	AlignBegin=33605|AlignEnd=33845|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
 3	chek	chek	VERB	_	_	4	comp:aux/m	_	AlignBegin=33845|AlignEnd=33965|GE=stay|Gloss=stay|nWord=3|RX=[VI]
 4	-u		AUX	_	_	0	root	_	AlignBegin=33965|AlignEnd=34085|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
@@ -192,7 +192,7 @@
 # text = ama che cheku aini .
 # text_en = So they stayed here.
 # text_ortho = ama che cheku aini .
-1	ama	ama	ADV	_	_	_	_	_	AlignBegin=57930|AlignEnd=58262|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	ama	ama	ADV	_	_	3	discourse	_	AlignBegin=57930|AlignEnd=58262|GE=so|Gloss=so|nWord=1|RX=[ADV]
 2	che	che	PRON	_	_	3	subj	_	AlignBegin=58262|AlignEnd=58594|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
 3	chek	chek	VERB	_	_	4	comp:aux/m	_	AlignBegin=58594|AlignEnd=58760|GE=stay|Gloss=stay|nWord=3|RX=[VI]
 4	-u		AUX	_	_	0	root	_	AlignBegin=58760|AlignEnd=58926|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
@@ -343,10 +343,10 @@
 5	-u		AUX	_	_	_	_	_	AlignBegin=95412|AlignEnd=95599|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
 6	aini	aini	ADV	_	_	4	mod:lmod	_	AlignBegin=95599|AlignEnd=95973|GE=here|Gloss=here|nWord=4|RX=[ADV]
 7	,		PUNCT	_	_	_	_	_	AlignBegin=95973|AlignEnd=96347|nWord=5
-8	ama	ama	ADV	_	_	_	_	_	AlignBegin=96382|AlignEnd=96712|GE=so|Gloss=so|nWord=6|RX=[ADV]
+8	ama	ama	ADV	_	_	11	comp	_	AlignBegin=96382|AlignEnd=96712|GE=so|Gloss=so|nWord=6|RX=[ADV]
 9	cha	cha	PRON	_	_	10	subj	_	AlignBegin=96712|AlignEnd=97042|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
 10	chek	chek	VERB	_	_	11	comp:aux/m	_	AlignBegin=97042|AlignEnd=97207|GE=stay|Gloss=stay|nWord=8|RX=[VI]
-11	-u		AUX	_	_	_	_	_	AlignBegin=97207|AlignEnd=97372|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]
+11	-u		AUX	_	_	4	mod	_	AlignBegin=97207|AlignEnd=97372|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]
 12	aini	aini	ADV	_	_	10	mod:lmod	_	AlignBegin=97372|AlignEnd=97702|GE=here|Gloss=here|nWord=9|RX=[ADV]
 13	.		PUNCT	_	_	_	_	_	AlignBegin=97702|AlignEnd=98032|Gloss=.|nWord=10
 
@@ -443,12 +443,12 @@
 # text = ya che me gna hoke mas .
 # text_en = I can not go again.
 # text_ortho = ya che me gna hoke mas .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=124560|AlignEnd=124946|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
+1	ya	ya	ADV	_	Foreign=Yes	5	mod:tmod	_	AlignBegin=124560|AlignEnd=124946|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	che	che	PRON	_	_	5	subj	_	AlignBegin=124946|AlignEnd=125332|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
 3	me	me	AUX	_	_	0	root	_	AlignBegin=125332|AlignEnd=125718|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	gna	gna	AUX	_	_	3	comp:aux	_	AlignBegin=125718|AlignEnd=126104|GE=can|Gloss=can|nWord=4|RX=[V]
 5	hoke	hoke	VERB	_	_	4	comp:aux	_	AlignBegin=126104|AlignEnd=126490|GE=go|Gloss=go|nWord=5|RX=[VI]
-6	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=126490|AlignEnd=126876|GE=more|Gloss=more|Lang=es|nWord=6|RX=[ADV]
+6	mas	mas	ADV	_	Foreign=Yes	5	mod	_	AlignBegin=126490|AlignEnd=126876|GE=more|Gloss=more|Lang=es|nWord=6|RX=[ADV]
 7	.		PUNCT	_	_	3	punct	_	AlignBegin=126876|AlignEnd=127260|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-AN-00000-07_40-40
@@ -459,14 +459,14 @@
 # text = ya na me cheku che ali .
 # text_en = Now the others did not stay with me.
 # text_ortho = ya na me cheku che ali .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=128020|AlignEnd=128200|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
-2	na	na	ADJ	_	_	_	_	_	AlignBegin=128200|AlignEnd=128380|GE=other|Gloss=other|nWord=2|RX=[DET]
-3	me	me	PART	_	_	_	_	_	AlignBegin=128380|AlignEnd=128560|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+1	ya	ya	ADV	_	Foreign=Yes	4	mod:tmod	_	AlignBegin=128020|AlignEnd=128200|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
+2	na	na	ADJ	_	_	4	comp:obj	_	AlignBegin=128200|AlignEnd=128380|GE=other|Gloss=other|nWord=2|RX=[DET]
+3	me	me	AUX	_	_	0	root	_	AlignBegin=128380|AlignEnd=128560|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	chek	chek	VERB	_	_	5	comp:aux/m	_	AlignBegin=128560|AlignEnd=128650|GE=stay|Gloss=stay|nWord=4|RX=[VI]
-5	-u		AUX	_	_	0	root	_	AlignBegin=128650|AlignEnd=128740|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
+5	-u		AUX	_	_	3	comp:aux	_	AlignBegin=128650|AlignEnd=128740|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
 6	che	che	PRON	_	_	7	comp	_	AlignBegin=128740|AlignEnd=128920|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=5|RX=[PRO]
-7	ali	ali	ADP	_	_	_	_	_	AlignBegin=128920|AlignEnd=129100|GE=with|Gloss=with|nWord=6|RX=[ADP]
-8	.		PUNCT	_	_	5	punct	_	AlignBegin=129100|AlignEnd=129280|Gloss=.|nWord=7
+7	ali	ali	ADP	_	_	4	comp:obl	_	AlignBegin=128920|AlignEnd=129100|GE=with|Gloss=with|nWord=6|RX=[ADP]
+8	.		PUNCT	_	_	3	punct	_	AlignBegin=129100|AlignEnd=129280|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-AN-00000-07_41-41
 # speaker_id = @07
@@ -476,9 +476,9 @@
 # text = ya che toi aini .
 # text_en = Now I live here.
 # text_ortho = ya che toi aini .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=129480|AlignEnd=129710|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
+1	ya	ya	ADV	_	Foreign=Yes	3	mod:tmod	_	AlignBegin=129480|AlignEnd=129710|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	che	che	PRON	_	_	3	subj	_	AlignBegin=129710|AlignEnd=129940|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
-3	toi	toi	VERB	_	_	_	_	_	AlignBegin=129940|AlignEnd=130170|GE=live|Gloss=live|nWord=3|RX=[VI]
+3	toi	toi	VERB	_	_	0	root	_	AlignBegin=129940|AlignEnd=130170|GE=live|Gloss=live|nWord=3|RX=[VI]
 4	aini	aini	ADV	_	_	3	mod:lmod	_	AlignBegin=130170|AlignEnd=130400|GE=here|Gloss=here|nWord=4|RX=[ADV]
-5	.		PUNCT	_	_	_	_	_	AlignBegin=130400|AlignEnd=130630|Gloss=.|nWord=5
+5	.		PUNCT	_	_	3	punct	_	AlignBegin=130400|AlignEnd=130630|Gloss=.|nWord=5
 

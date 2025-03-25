@@ -139,16 +139,16 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-03.WAV/WAV/SAB-TXT-PA-00000-03.WAV
 # sent_timecode = 36480, 39380
 # morphemic_text = pero si ese me hong hong tkenga , hong mendale .
-# text = pero si ese me hong hong tkenga , hong mendale .
+# text = pero si ese me ho hong tkenga , hong mendale .
 # text_en = But if he didn't make the path, There would be no path.
 # text_ortho = pero si ese me hong hong tkenga , hong mendale .
 1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=36480|AlignEnd=36696|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
 2	si	si	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=36696|AlignEnd=36912|GE=if|Gloss=if|Lang=es|nWord=2|RX=[CONN]
-3	ese	ese	DET	_	_	_	_	_	AlignBegin=36912|AlignEnd=37128|GE=that|Gloss=that|nWord=3|RX=[DET]
-4	me	me	PART	_	_	_	_	_	AlignBegin=37128|AlignEnd=37344|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
-5	hong	hong	NOUN	_	_	_	_	_	AlignBegin=37344|AlignEnd=37560|GE=path|Gloss=path|nWord=5|RX=[N]
-6	hong	hong	NOUN	_	_	_	_	_	AlignBegin=37560|AlignEnd=37776|GE=path|Gloss=path|nWord=6|RX=[N]
-7	tkenga	tkenga	VERB	_	_	_	_	_	AlignBegin=37776|AlignEnd=37992|GE=[cut].[NPST]|Gloss=cut.NPST|nWord=7|RX=[VT]
+3	ese	ese	DET	_	_	5	subj	_	AlignBegin=36912|AlignEnd=37128|GE=that|Gloss=that|nWord=3|RX=[DET]
+4	me	me	PART	_	_	2	comp	_	AlignBegin=37128|AlignEnd=37344|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
+5	ho	hoke	VERB	_	_	4	comp:aux	_	AlignBegin=37344|AlignEnd=37560|GE=go.PST|Gloss=go.PST|nWord=5|RX=[V]
+6	hong	hong	NOUN	_	_	7	comp:obj	_	AlignBegin=37560|AlignEnd=37776|GE=path|Gloss=path|nWord=6|RX=[N]
+7	tkenga	tkenga	VERB	_	_	5	mod:purpose	_	AlignBegin=37776|AlignEnd=37992|GE=[cut].[NPST]|Gloss=cut.NPST|nWord=7|RX=[VT]
 8	,		PUNCT	_	_	_	_	_	AlignBegin=37992|AlignEnd=38210|nWord=8
 9	hong	hong	NOUN	_	_	_	_	_	AlignBegin=38570|AlignEnd=38840|GE=path|Gloss=path|nWord=9|RX=[N]
 10	mendale	mendale	PART	_	_	_	_	_	AlignBegin=38840|AlignEnd=39110|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]

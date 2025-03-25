@@ -244,7 +244,7 @@
 1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=83485|AlignEnd=84023|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
 2	me	me	PART	_	_	_	_	_	AlignBegin=84023|AlignEnd=84561|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	bale	bale	ADJ	_	_	2	comp:pred	_	AlignBegin=84561|AlignEnd=85099|GE=sweet|Gloss=sweet|nWord=3|RX=[ADJ]
-4	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=85099|AlignEnd=85637|GE=today|Gloss=today|nWord=4|RX=[ADV]
+4	nengke	nengke	ADV	_	_	3	mod	_	AlignBegin=85099|AlignEnd=85637|GE=today|Gloss=today|nWord=4|RX=[ADV]
 5	kle	kle	AUX	_	_	_	_	_	AlignBegin=85637|AlignEnd=86175|GE=be|Gloss=be|nWord=5|RX=[V]
 6	chi	chi	VERB	_	_	7	comp:aux	_	AlignBegin=86175|AlignEnd=86444|GE=come|Gloss=come|nWord=6|RX=[VI]
 7	-e		AUX	_	_	5	comp:aux	_	AlignBegin=86444|AlignEnd=86713|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]

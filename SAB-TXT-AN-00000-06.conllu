@@ -61,7 +61,7 @@
 # text_ortho = che doia Skwanangka no ( cha batanga ) che cha enusuli batanga nante .
 1	che	che	PRON	_	_	2	udep:poss	_	AlignBegin=25715|AlignEnd=25887|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	doia	doia	NOUN	_	_	_	_	_	AlignBegin=25887|AlignEnd=26059|GE=enemy|Gloss=enemy|nWord=2|RX=[N]
-3	Skwanangka	Skwanangka	PROPN	_	_	_	_	_	AlignBegin=26059|AlignEnd=26231|GE=[Skwanangka]|Gloss=Skwanangka|nWord=3|RX=[NPROP]
+3	Skwanangka	Skwanangka	PROPN	_	_	2	mod	_	AlignBegin=26059|AlignEnd=26231|GE=[Skwanangka]|Gloss=Skwanangka|nWord=3|RX=[NPROP]
 4	no	no	PART	_	_	_	_	_	AlignBegin=26231|AlignEnd=26403|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
 5	(		PUNCT	_	_	_	_	_	AlignBegin=26403|AlignEnd=26575|nWord=5
 6	cha	cha	PRON	_	_	_	_	_	AlignBegin=26575|AlignEnd=26747|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
@@ -188,7 +188,7 @@
 1	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=48660|AlignEnd=48877|GE=like_that|Gloss=like_that|Lang=es|nWord=1|RX=[ADV]
 2	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=48877|AlignEnd=49094|GE=that|Gloss=that|Lang=es|nWord=2|RX=[PRO]
 3	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=49094|AlignEnd=49311|GE=now|Gloss=now|Lang=es|nWord=3|RX=[ADV]
-4	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=49311|AlignEnd=49528|GE=today|Gloss=today|nWord=4|RX=[ADV]
+4	nengke	nengke	ADV	_	_	8	mod:tmod	_	AlignBegin=49311|AlignEnd=49528|GE=today|Gloss=today|nWord=4|RX=[ADV]
 5	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=49528|AlignEnd=49745|GE=now|Gloss=now|Lang=es|nWord=5|RX=[ADV]
 6	cha	cha	PRON	_	_	8	subj	_	AlignBegin=49745|AlignEnd=49962|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
 7	kle	kle	AUX	_	_	_	_	_	AlignBegin=49962|AlignEnd=50179|GE=be|Gloss=be|nWord=7|RX=[V]
@@ -343,10 +343,10 @@
 # text = dodesi suglu siri .
 # text_en = (I eat) dodesi, suglu, siri.
 # text_ortho = dodesi suglu siri .
-1	dodesi	dodesi	NOUN	_	_	_	_	_	AlignBegin=76385|AlignEnd=77337|GE=plant_type|Gloss=plant_type|nWord=1|RX=[N]
-2	suglu	suglu	NOUN	_	_	_	_	_	AlignBegin=77337|AlignEnd=78289|GE=animal.type|Gloss=animal.type|nWord=2|RX=[N]
-3	siri	siri	NOUN	_	_	_	_	_	AlignBegin=78289|AlignEnd=79241|GE=animal.type2|Gloss=animal.type2|nWord=3|RX=[N]
-4	.		PUNCT	_	_	_	_	_	AlignBegin=79241|AlignEnd=80195|Gloss=.|nWord=4
+1	dodesi	dodesi	NOUN	_	_	0	root	_	AlignBegin=76385|AlignEnd=77337|GE=plant_type|Gloss=plant_type|nWord=1|RX=[N]
+2	suglu	suglu	NOUN	_	_	1	conj:coord	_	AlignBegin=77337|AlignEnd=78289|GE=animal.type|Gloss=animal.type|nWord=2|RX=[N]
+3	siri	siri	NOUN	_	_	2	conj:coord	_	AlignBegin=78289|AlignEnd=79241|GE=animal.type2|Gloss=animal.type2|nWord=3|RX=[N]
+4	.		PUNCT	_	_	1	punct	_	AlignBegin=79241|AlignEnd=80195|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-AN-00000-06_19-19
 # speaker_id = @06

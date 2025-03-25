@@ -22,7 +22,7 @@
 # text = ama hula chiu .
 # text_en = Then the white men came.
 # text_ortho = ama hula chiu .
-1	ama	ama	ADV	_	_	_	_	_	AlignBegin=27470|AlignEnd=28382|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	ama	ama	ADV	_	_	3	discourse	_	AlignBegin=27470|AlignEnd=28382|GE=so|Gloss=so|nWord=1|RX=[ADV]
 2	hula	hula	NOUN	_	_	3	subj	_	AlignBegin=28382|AlignEnd=29294|GE=white_man|Gloss=white_man|nWord=2|RX=[N]
 3	chi	chi	VERB	_	_	4	comp:aux/m	_	AlignBegin=29294|AlignEnd=29750|GE=come|Gloss=come|nWord=3|RX=[VI]
 4	-u		AUX	_	_	0	root	_	AlignBegin=29750|AlignEnd=30206|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
@@ -39,8 +39,8 @@
 1	hula	hula	NOUN	_	_	2	subj	_	AlignBegin=32430|AlignEnd=33980|GE=white_man|Gloss=white_man|nWord=1|RX=[N]
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=33980|AlignEnd=34497|GE=come|Gloss=come|nWord=2|RX=[VI]
 3	-u		AUX	_	_	4	comp:aux/m	_	AlignBegin=34497|AlignEnd=35014|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-4	-nga		AUX	_	_	_	_	_	AlignBegin=35014|AlignEnd=35530|GE=[SUB]|Gloss=-SUB|nWord=2|RX=[V:ANY]
-5	.		PUNCT	_	_	_	_	_	AlignBegin=35530|AlignEnd=37080|Gloss=.|nWord=3
+4	-nga		AUX	_	_	0	root	_	AlignBegin=35014|AlignEnd=35530|GE=[SUB]|Gloss=-SUB|nWord=2|RX=[V:ANY]
+5	.		PUNCT	_	_	4	punct	_	AlignBegin=35530|AlignEnd=37080|Gloss=.|nWord=3
 
 # sent_id = SAB-TXT-AN-00000-01_04-04
 # speaker_id = @01
@@ -53,7 +53,7 @@
 1	oli	oli	NOUN	_	_	2	subj	_	AlignBegin=40400|AlignEnd=41678|GE=orphan|Gloss=orphan|nWord=1|RX=[N]
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=41678|AlignEnd=42317|GE=come|Gloss=come|nWord=2|RX=[VI]
 3	-u		AUX	_	_	0	root	_	AlignBegin=42317|AlignEnd=42956|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-4	Veragua	Veragua	PROPN	_	_	_	_	_	AlignBegin=42956|AlignEnd=44234|GE=[Veraguas]|Gloss=Veraguas|nWord=3|RX=[N]
+4	Veragua	Veragua	PROPN	_	_	2	mod:lmod	_	AlignBegin=42956|AlignEnd=44234|GE=[Veraguas]|Gloss=Veraguas|nWord=3|RX=[N]
 5	.		PUNCT	_	_	3	punct	_	AlignBegin=44234|AlignEnd=45510|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-AN-00000-01_05-05
@@ -64,8 +64,8 @@
 # text = kike .
 # text_en = (To) escape.
 # text_ortho = kike .
-1	kike	kike	VERB	_	_	_	_	_	AlignBegin=45730|AlignEnd=46125|GE=escape|Gloss=escape|nWord=1|RX=[VI]
-2	.		PUNCT	_	_	_	_	_	AlignBegin=46125|AlignEnd=46520|Gloss=.|nWord=2
+1	kike	kike	VERB	_	_	0	root	_	AlignBegin=45730|AlignEnd=46125|GE=escape|Gloss=escape|nWord=1|RX=[VI]
+2	.		PUNCT	_	_	1	punct	_	AlignBegin=46125|AlignEnd=46520|Gloss=.|nWord=2
 
 # sent_id = SAB-TXT-AN-00000-01_06-06
 # speaker_id = @01
@@ -75,9 +75,9 @@
 # text = toi Veragua .
 # text_en = (To) live in Veraguas.
 # text_ortho = toi Veragua .
-1	toi	toi	VERB	_	_	_	_	_	AlignBegin=48230|AlignEnd=48967|GE=live|Gloss=live|nWord=1|RX=[VI]
-2	Veragua	Veragua	PROPN	_	_	_	_	_	AlignBegin=48967|AlignEnd=49704|GE=[Veraguas]|Gloss=Veraguas|nWord=2|RX=[N]
-3	.		PUNCT	_	_	_	_	_	AlignBegin=49704|AlignEnd=50440|Gloss=.|nWord=3
+1	toi	toi	VERB	_	_	0	root	_	AlignBegin=48230|AlignEnd=48967|GE=live|Gloss=live|nWord=1|RX=[VI]
+2	Veragua	Veragua	PROPN	_	_	1	mod:lmod	_	AlignBegin=48967|AlignEnd=49704|GE=[Veraguas]|Gloss=Veraguas|nWord=2|RX=[N]
+3	.		PUNCT	_	_	1	punct	_	AlignBegin=49704|AlignEnd=50440|Gloss=.|nWord=3
 
 # sent_id = SAB-TXT-AN-00000-01_07-07
 # speaker_id = @01
@@ -87,8 +87,8 @@
 # text = Veragua Skwanangka dodu .
 # text_en = The Skwanangka from Veraguas fought (the Bokota).
 # text_ortho = Veragua Skwanangka dodu .
-1	Veragua	Veragua	PROPN	_	_	_	_	_	AlignBegin=51170|AlignEnd=52445|GE=[Veraguas]|Gloss=Veraguas|nWord=1|RX=[N]
-2	Skwanangka	Skwanangka	PROPN	_	_	_	_	_	AlignBegin=52445|AlignEnd=53720|GE=[Skwanangka]|Gloss=Skwanangka|nWord=2|RX=[NPROP]
+1	Veragua	Veragua	PROPN	_	_	2	udep:poss	_	AlignBegin=51170|AlignEnd=52445|GE=[Veraguas]|Gloss=Veraguas|nWord=1|RX=[N]
+2	Skwanangka	Skwanangka	PROPN	_	_	3	subj	_	AlignBegin=52445|AlignEnd=53720|GE=[Skwanangka]|Gloss=Skwanangka|nWord=2|RX=[NPROP]
 3	dod	dod	VERB	_	_	4	comp:aux/m	_	AlignBegin=53720|AlignEnd=54358|GE=fight|Gloss=fight|nWord=3|RX=[VI]
 4	-u		AUX	_	_	0	root	_	AlignBegin=54358|AlignEnd=54995|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
 5	.		PUNCT	_	_	4	punct	_	AlignBegin=54995|AlignEnd=56270|Gloss=.|nWord=4
@@ -103,9 +103,9 @@
 # text_ortho = che ai Skwanangka batunga .
 1	che	che	PRON	_	_	4	subj	_	AlignBegin=59340|AlignEnd=59782|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	ai	ai	PART	_	_	1	mod	_	AlignBegin=59782|AlignEnd=60224|GE=local|Gloss=local|nWord=2|RX=[PRO]
-3	Skwanangka	Skwanangka	PROPN	_	_	_	_	_	AlignBegin=60224|AlignEnd=60666|GE=[Skwanangka]|Gloss=Skwanangka|nWord=3|RX=[NPROP]
-4	batunga	batenga	VERB	_	_	_	_	_	AlignBegin=60666|AlignEnd=61108|GE=[end].[PST]|Gloss=end.PST|nWord=4|RX=[V]
-5	.		PUNCT	_	_	_	_	_	AlignBegin=61108|AlignEnd=61550|Gloss=.|nWord=5
+3	Skwanangka	Skwanangka	PROPN	_	_	4	comp:obj	_	AlignBegin=60224|AlignEnd=60666|GE=[Skwanangka]|Gloss=Skwanangka|nWord=3|RX=[NPROP]
+4	batunga	batenga	VERB	_	_	0	root	_	AlignBegin=60666|AlignEnd=61108|GE=[end].[PST]|Gloss=end.PST|nWord=4|RX=[V]
+5	.		PUNCT	_	_	4	punct	_	AlignBegin=61108|AlignEnd=61550|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-AN-00000-01_09-09
 # speaker_id = @01
@@ -131,7 +131,7 @@
 1	che	che	PRON	_	_	2	subj	_	AlignBegin=68820|AlignEnd=69625|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	chk	chk	VERB	_	_	3	comp:aux/m	_	AlignBegin=69625|AlignEnd=70027|GE=arrive|Gloss=arrive|nWord=2|RX=[VI]
 3	-u		AUX	_	_	0	root	_	AlignBegin=70027|AlignEnd=70430|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-4	Kobre	Kobre	PROPN	_	_	_	_	_	AlignBegin=70430|AlignEnd=71235|GE=[Kobre]|Gloss=Kobre|nWord=3|RX=[NPROP]
+4	Kobre	Kobre	PROPN	_	_	2	mod:lmod	_	AlignBegin=70430|AlignEnd=71235|GE=[Kobre]|Gloss=Kobre|nWord=3|RX=[NPROP]
 5	.		PUNCT	_	_	3	punct	_	AlignBegin=71235|AlignEnd=72040|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-AN-00000-01_11-11
@@ -205,7 +205,7 @@
 1	che	che	PRON	_	_	2	subj	_	AlignBegin=90320|AlignEnd=91628|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	chk	chk	VERB	_	_	3	comp:aux/m	_	AlignBegin=91628|AlignEnd=92282|GE=arrive|Gloss=arrive|nWord=2|RX=[VI]
 3	-u		AUX	_	_	0	root	_	AlignBegin=92282|AlignEnd=92936|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-4	Blagdagwada	Blagdagwada	NOUN	_	_	_	_	_	AlignBegin=92936|AlignEnd=94244|GE=[Blagdagwada]|Gloss=Blagdagwada|nWord=3|RX=[N]
+4	Blagdagwada	Blagdagwada	NOUN	_	_	2	mod:lmod	_	AlignBegin=92936|AlignEnd=94244|GE=[Blagdagwada]|Gloss=Blagdagwada|nWord=3|RX=[N]
 5	kweri	kweri	ADJ	_	_	6	comp:aux/m	_	AlignBegin=94244|AlignEnd=94898|GE=big|Gloss=big|nWord=4|RX=[ADJ]
 6	-a		AUX	_	_	4	mod	_	AlignBegin=94898|AlignEnd=95552|GE=[0]|Gloss=-0|nWord=4|RX=[NOUN]
 7	.		PUNCT	_	_	3	punct	_	AlignBegin=95552|AlignEnd=96860|Gloss=.|nWord=5
@@ -250,9 +250,9 @@
 # text_ortho = cha enusuli toi Ugachia .
 1	cha	cha	PRON	_	_	2	udep:poss	_	AlignBegin=108610|AlignEnd=109318|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	enusuli	enusuli	NOUN	_	_	3	subj	_	AlignBegin=109318|AlignEnd=110026|GE=grandfather|Gloss=grandfather|nWord=2|RX=[N]
-3	toi	toi	VERB	_	_	_	_	_	AlignBegin=110026|AlignEnd=110734|GE=live|Gloss=live|nWord=3|RX=[VI]
-4	Ugachia	Ugachia	NOUN	_	_	_	_	_	AlignBegin=110734|AlignEnd=111442|GE=[Ugachia]|Gloss=Ugachia|nWord=4|RX=[N]
-5	.		PUNCT	_	_	_	_	_	AlignBegin=111442|AlignEnd=112150|Gloss=.|nWord=5
+3	toi	toi	VERB	_	_	0	root	_	AlignBegin=110026|AlignEnd=110734|GE=live|Gloss=live|nWord=3|RX=[VI]
+4	Ugachia	Ugachia	NOUN	_	_	3	mod:lmod	_	AlignBegin=110734|AlignEnd=111442|GE=[Ugachia]|Gloss=Ugachia|nWord=4|RX=[N]
+5	.		PUNCT	_	_	3	punct	_	AlignBegin=111442|AlignEnd=112150|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-AN-00000-01_20-25
 # speaker_id = @01
@@ -304,12 +304,12 @@
 # text = ama cha chekebale .
 # text_en = That is how I stayed here.
 # text_ortho = ama cha chekebale .
-1	ama	ama	ADV	_	_	_	_	_	AlignBegin=151440|AlignEnd=152178|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	ama	ama	ADV	_	_	3	discourse	_	AlignBegin=151440|AlignEnd=152178|GE=so|Gloss=so|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	3	subj	_	AlignBegin=152178|AlignEnd=152916|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	chek	chek	VERB	_	_	4	comp:aux/m	_	AlignBegin=152916|AlignEnd=153162|GE=stay|Gloss=stay|nWord=3|RX=[VI]
 4	-e		AUX	_	_	5	comp:aux/m	_	AlignBegin=153162|AlignEnd=153408|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
-5	-bale		AUX	_	_	_	_	_	AlignBegin=153408|AlignEnd=153654|GE=[PART]|Gloss=-PART|nWord=3|RX=[V:ANY]
-6	.		PUNCT	_	_	_	_	_	AlignBegin=153654|AlignEnd=154390|Gloss=.|nWord=4
+5	-bale		AUX	_	_	0	root	_	AlignBegin=153408|AlignEnd=153654|GE=[PART]|Gloss=-PART|nWord=3|RX=[V:ANY]
+6	.		PUNCT	_	_	5	punct	_	AlignBegin=153654|AlignEnd=154390|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-AN-00000-01_27-27
 # speaker_id = @01
@@ -319,10 +319,10 @@
 # text = nengke toi aini .
 # text_en = Today (I) live here.
 # text_ortho = nengke toi aini .
-1	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=154830|AlignEnd=155230|GE=today|Gloss=today|nWord=1|RX=[ADV]
-2	toi	toi	VERB	_	_	_	_	_	AlignBegin=155230|AlignEnd=155630|GE=live|Gloss=live|nWord=2|RX=[VI]
+1	nengke	nengke	ADV	_	_	2	mod:tmod	_	AlignBegin=154830|AlignEnd=155230|GE=today|Gloss=today|nWord=1|RX=[ADV]
+2	toi	toi	VERB	_	_	0	root	_	AlignBegin=155230|AlignEnd=155630|GE=live|Gloss=live|nWord=2|RX=[VI]
 3	aini	aini	ADV	_	_	2	mod:lmod	_	AlignBegin=155630|AlignEnd=156030|GE=here|Gloss=here|nWord=3|RX=[ADV]
-4	.		PUNCT	_	_	_	_	_	AlignBegin=156030|AlignEnd=156430|Gloss=.|nWord=4
+4	.		PUNCT	_	_	2	punct	_	AlignBegin=156030|AlignEnd=156430|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-AN-00000-01_28-28
 # speaker_id = @01
@@ -332,7 +332,7 @@
 # text = nengke che kle geru ai batenga .
 # text_en = Today we can tell the story of the Bokota people.
 # text_ortho = nengke che kle geru ai batenga .
-1	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=156840|AlignEnd=157681|GE=today|Gloss=today|nWord=1|RX=[ADV]
+1	nengke	nengke	ADV	_	_	6	mod:tmod	_	AlignBegin=156840|AlignEnd=157681|GE=today|Gloss=today|nWord=1|RX=[ADV]
 2	che	che	PRON	_	_	6	subj	_	AlignBegin=157681|AlignEnd=158522|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
 3	kle	kle	AUX	_	_	0	root	_	AlignBegin=158522|AlignEnd=159363|GE=be|Gloss=be|nWord=3|RX=[V]
 4	geru	geru	NOUN	_	_	6	comp:obj	_	AlignBegin=159363|AlignEnd=160204|GE=story|Gloss=story|nWord=4|RX=[N]

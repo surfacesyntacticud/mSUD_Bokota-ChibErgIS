@@ -21,15 +21,15 @@
 # text = cha kle giska tke koi siro ke .
 # text_en = I put a rope to the chicken´s neck.
 # text_ortho = cha kle giska tke koi siro ke .
-1	cha	cha	PRON	_	_	5	subj	_	AlignBegin=19605|AlignEnd=19827|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	kle	kle	AUX	_	_	5	comp:aux/m	_	AlignBegin=19827|AlignEnd=20049|GE=be|Gloss=be|nWord=2|RX=[V]
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=19605|AlignEnd=19827|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=19827|AlignEnd=20049|GE=be|Gloss=be|nWord=2|RX=[V]
 3	giska	giska	NOUN	_	_	4	comp:obj	_	AlignBegin=20049|AlignEnd=20271|GE=rope|Gloss=rope|nWord=3|RX=[N]
 4	tk	tk	VERB	_	_	5	comp:aux/m	_	AlignBegin=20271|AlignEnd=20382|GE=put|Gloss=put|nWord=4|RX=[VT]
-5	-e		AUX	_	_	0	root	_	AlignBegin=20382|AlignEnd=20493|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=20382|AlignEnd=20493|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 6	koi	koi	NOUN	_	_	7	udep:poss	_	AlignBegin=20493|AlignEnd=20715|GE=chicken|Gloss=chicken|nWord=5|RX=[N]
 7	siro	siro	NOUN	_	_	8	comp	_	AlignBegin=20715|AlignEnd=20937|GE=neck|Gloss=neck|nWord=6|RX=[N]
 8	ke	ke	ADP	_	_	4	comp:obl	_	AlignBegin=20937|AlignEnd=21159|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
-9	.		PUNCT	_	_	5	punct	_	AlignBegin=21159|AlignEnd=21385|Gloss=.|nWord=8
+9	.		PUNCT	_	_	2	punct	_	AlignBegin=21159|AlignEnd=21385|Gloss=.|nWord=8
 
 # sent_id = SAB-TXT-CO-00000-08_03-03
 # speaker_id = @08
@@ -101,20 +101,20 @@
 # text = cuando koi kle hoke eru , cha kle bla tke koi ske .
 # text_en = When the chicken is ready, I put bananas with the chicken.
 # text_ortho = cuando koi kle hoke eru , cha kle bla tke koi ske .
-1	cuando	cuando	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=31835|AlignEnd=32078|GE=when|Gloss=when|Lang=es|nWord=1|RX=[Q]
+1	cuando	cuando	SCONJ	_	Foreign=Yes	10	mod	_	AlignBegin=31835|AlignEnd=32078|GE=when|Gloss=when|Lang=es|nWord=1|RX=[Q]
 2	koi	koi	NOUN	_	_	4	subj	_	AlignBegin=32078|AlignEnd=32321|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
-3	kle	kle	AUX	_	_	_	_	_	AlignBegin=32321|AlignEnd=32564|GE=be|Gloss=be|nWord=3|RX=[V]
+3	kle	kle	AUX	_	_	1	comp	_	AlignBegin=32321|AlignEnd=32564|GE=be|Gloss=be|nWord=3|RX=[V]
 4	hoke	hoke	VERB	_	_	3	comp:aux	_	AlignBegin=32564|AlignEnd=32807|GE=go|Gloss=go|nWord=4|RX=[VI]
 5	eru	eru	ADJ	_	_	4	comp:pred	_	AlignBegin=32807|AlignEnd=33050|GE=ready|Gloss=ready|nWord=5|RX=[ADJ]
-6	,		PUNCT	_	_	_	_	_	AlignBegin=33050|AlignEnd=33295|nWord=6
+6	,		PUNCT	_	_	8	punct	_	AlignBegin=33050|AlignEnd=33295|nWord=6
 7	cha	cha	PRON	_	_	10	subj	_	AlignBegin=33310|AlignEnd=33504|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
-8	kle	kle	AUX	_	_	_	_	_	AlignBegin=33504|AlignEnd=33698|GE=be|Gloss=be|nWord=8|RX=[V]
+8	kle	kle	AUX	_	_	0	root	_	AlignBegin=33504|AlignEnd=33698|GE=be|Gloss=be|nWord=8|RX=[V]
 9	bla	bla	NOUN	_	_	10	comp:obj	_	AlignBegin=33698|AlignEnd=33892|GE=banana|Gloss=banana|nWord=9|RX=[N]
 10	tk	tk	VERB	_	_	11	comp:aux/m	_	AlignBegin=33892|AlignEnd=33989|GE=put|Gloss=put|nWord=10|RX=[VT]
 11	-e		AUX	_	_	8	comp:aux	_	AlignBegin=33989|AlignEnd=34086|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
 12	koi	koi	NOUN	_	_	13	comp	_	AlignBegin=34086|AlignEnd=34280|GE=chicken|Gloss=chicken|nWord=11|RX=[N]
 13	ske	ske	ADP	_	_	10	comp:obl	_	AlignBegin=34280|AlignEnd=34474|GE=with|Gloss=with|nWord=12|RX=[ADP]
-14	.		PUNCT	_	_	_	_	_	AlignBegin=34474|AlignEnd=34670|Gloss=.|nWord=13
+14	.		PUNCT	_	_	8	punct	_	AlignBegin=34474|AlignEnd=34670|Gloss=.|nWord=13
 
 # sent_id = SAB-TXT-CO-00000-08_10-12
 # speaker_id = @08

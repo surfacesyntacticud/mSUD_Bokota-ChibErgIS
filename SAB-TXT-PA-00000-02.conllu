@@ -304,7 +304,7 @@
 11	-a		AUX	_	_	12	comp:aux/m	_	AlignBegin=87112|AlignEnd=87226|GE=[0]|Gloss=-0|nWord=9|RX=[VERB]
 12	-bale		AUX	_	_	_	_	_	AlignBegin=87226|AlignEnd=87339|GE=[PART]|Gloss=-PART|nWord=9|RX=[V:ANY]
 13	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=87339|AlignEnd=87680|GE=now|Gloss=now|Lang=es|nWord=10|RX=[ADV]
-14	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=87680|AlignEnd=88021|GE=today|Gloss=today|nWord=11|RX=[ADV]
+14	nengke	nengke	ADV	_	_	10	mod:tmod	_	AlignBegin=87680|AlignEnd=88021|GE=today|Gloss=today|nWord=11|RX=[ADV]
 15	.		PUNCT	_	_	_	_	_	AlignBegin=88021|AlignEnd=88360|Gloss=.|nWord=12
 
 # sent_id = SAB-TXT-PA-00000-02_22-23

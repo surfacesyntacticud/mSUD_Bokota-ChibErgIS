@@ -318,11 +318,11 @@
 8	)		PUNCT	_	_	_	_	_	AlignBegin=83970|AlignEnd=84155|nWord=8
 9	bla	bla	NOUN	_	_	10	comp:obj	_	AlignBegin=84155|AlignEnd=84340|GE=banana|Gloss=banana|nWord=9|RX=[N]
 10	dek	dek	VERB	_	_	11	comp:aux/m	_	AlignBegin=84340|AlignEnd=84432|GE=peel|Gloss=peel|nWord=10|RX=[V]
-11	-e		AUX	_	_	_	_	_	AlignBegin=84432|AlignEnd=84525|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
+11	-e		AUX	_	_	0	root	_	AlignBegin=84432|AlignEnd=84525|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
 12	,		PUNCT	_	_	_	_	_	AlignBegin=84525|AlignEnd=84710|nWord=11
-13	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=84740|AlignEnd=84975|GE=and|Gloss=and|Lang=es|nWord=12|RX=[COORDCONN]
+13	y	y	X	_	Foreign=Yes	15	cc	_	AlignBegin=84740|AlignEnd=84975|GE=and|Gloss=and|Lang=es|nWord=12|RX=[COORDCONN]
 14	bla	bla	NOUN	_	_	15	comp:obj	_	AlignBegin=84975|AlignEnd=85210|GE=banana|Gloss=banana|nWord=13|RX=[N]
-15	mlie	mli	VERB	_	_	_	_	_	AlignBegin=85210|AlignEnd=85445|GE=throw|Gloss=throw|nWord=14|RX=[VT]
+15	mlie	mli	VERB	_	_	11	conj:coord	_	AlignBegin=85210|AlignEnd=85445|GE=throw|Gloss=throw|nWord=14|RX=[VT]
 16	koi	koi	NOUN	_	_	17	comp	_	AlignBegin=85445|AlignEnd=85680|GE=chicken|Gloss=chicken|nWord=15|RX=[N]
 17	ske	ske	ADP	_	_	15	comp:obl	_	AlignBegin=85680|AlignEnd=85915|GE=with|Gloss=with|nWord=16|RX=[ADP]
 18	.		PUNCT	_	_	_	_	_	AlignBegin=85915|AlignEnd=86150|Gloss=.|nWord=17

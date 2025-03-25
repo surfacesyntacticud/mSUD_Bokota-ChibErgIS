@@ -499,13 +499,13 @@
 3	-u		AUX	_	_	0	root	_	AlignBegin=103148|AlignEnd=103464|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	swilitai	swilitai	NOUN	_	_	3	mod	_	AlignBegin=103464|AlignEnd=104096|GE=morning|Gloss=morning|nWord=3|RX=[N]
 5	Flore	Flore	PROPN	_	_	2	comp:obl	_	AlignBegin=104096|AlignEnd=104728|GE=[Flore]|Gloss=Flore|nWord=4|RX=[NPROP]
-6	:		PUNCT	_	_	_	_	_	AlignBegin=104728|AlignEnd=105360|nWord=5
+6	:		PUNCT	_	_	3	punct	_	AlignBegin=104728|AlignEnd=105360|nWord=5
 7	che	che	PRON	_	_	8	subj	_	AlignBegin=105370|AlignEnd=105747|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=6|RX=[PRO]
 8	hoke	hoke	AUX	_	_	2	comp	_	AlignBegin=105747|AlignEnd=106124|GE=go|Gloss=go|nWord=7|RX=[VI]
 9	nengke	nengke	ADV	_	_	8	mod	_	AlignBegin=106124|AlignEnd=106501|GE=today|Gloss=today|nWord=8|RX=[ADV]
 10	nipero	nipero	NOUN	_	_	11	comp:obj	_	AlignBegin=106501|AlignEnd=106878|GE=tree_type|Gloss=tree_type|nWord=9|RX=[N]
 11	gai	gai	VERB	_	_	8	comp:aux	_	AlignBegin=106878|AlignEnd=107255|GE=pick_up|Gloss=pick_up|nWord=10|RX=[VT]
-12	.		PUNCT	_	_	_	_	_	AlignBegin=107255|AlignEnd=107630|Gloss=.|nWord=11
+12	.		PUNCT	_	_	3	punct	_	AlignBegin=107255|AlignEnd=107630|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-OS-00002-01_37-37
 # speaker_id = @01
@@ -787,14 +787,14 @@
 4	hoke	hoke	VERB	_	_	3	comp:aux	_	AlignBegin=146217|AlignEnd=146451|GE=go|Gloss=go|nWord=4|RX=[VI]
 5	cha	cha	PRON	_	_	6	comp	_	AlignBegin=146451|AlignEnd=146685|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
 6	ole	ole	ADP	_	_	4	comp:obl	_	AlignBegin=146685|AlignEnd=146919|GE=[COM]|Gloss=COM|nWord=6|RX=[ADP]
-7	,		PUNCT	_	_	_	_	_	AlignBegin=146919|AlignEnd=147155|nWord=7
+7	,		PUNCT	_	_	9	punct	_	AlignBegin=146919|AlignEnd=147155|nWord=7
 8	cha	cha	PRON	_	_	12	subj	_	AlignBegin=147475|AlignEnd=147643|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
 9	mim	mim	AUX	_	_	0	root	_	AlignBegin=147643|AlignEnd=147811|GE=[NEG]|Gloss=NEG|nWord=9|RX=[VERBPRT]
 10	be	be	AUX	_	_	9	comp:aux	_	AlignBegin=147811|AlignEnd=147979|GE=[FUT]|Gloss=FUT|nWord=10|RX=[VERBPRT]
 11	ba	ba	PRON	_	_	12	comp:obj	_	AlignBegin=147979|AlignEnd=148147|GE=[2SG]|Gloss=2SG|nWord=11|RX=[PRO]
 12	gwe	gwe	VERB	_	_	13	comp:aux/m	_	AlignBegin=148147|AlignEnd=148203|GE=kill|Gloss=sleep|nWord=12|RX=[V]
 13	-da		AUX	_	_	10	comp:aux	_	AlignBegin=148203|AlignEnd=148315|GE=[0]|Gloss=-ASP|nWord=12|RX=[VERB]
-14	.		PUNCT	_	_	_	_	_	AlignBegin=148315|AlignEnd=148485|Gloss=.|nWord=13
+14	.		PUNCT	_	_	9	punct	_	AlignBegin=148315|AlignEnd=148485|Gloss=.|nWord=13
 
 # sent_id = SAB-TXT-OS-00002-01_60-61
 # speaker_id = @01
@@ -804,21 +804,21 @@
 # text = pero si ba mim hoke cha ole , cha be ba gweda nengke .
 # text_en = But if you don't go with me, I will kill you today.
 # text_ortho = pero si ba mim hoke cha ole , cha be ba gweda nengke .
-1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=148520|AlignEnd=148689|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
+1	pero	pero	X	_	Foreign=Yes	10	cc	_	AlignBegin=148520|AlignEnd=148689|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
 2	si	si	SCONJ	_	Foreign=Yes	12	mod	_	AlignBegin=148689|AlignEnd=148858|GE=if|Gloss=if|Lang=es|nWord=2|RX=[CONN]
 3	ba	ba	PRON	_	_	5	subj	_	AlignBegin=148858|AlignEnd=149027|GE=[2SG]|Gloss=2SG|nWord=3|RX=[PRO]
 4	mim	mim	AUX	_	_	2	comp	_	AlignBegin=149027|AlignEnd=149196|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
 5	hoke	hoke	VERB	_	_	4	comp:aux	_	AlignBegin=149196|AlignEnd=149365|GE=go|Gloss=go|nWord=5|RX=[VI]
 6	cha	cha	PRON	_	_	7	comp	_	AlignBegin=149365|AlignEnd=149534|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
 7	ole	ole	ADP	_	_	5	comp:obl	_	AlignBegin=149534|AlignEnd=149703|GE=[COM]|Gloss=COM|nWord=7|RX=[ADP]
-8	,		PUNCT	_	_	_	_	_	AlignBegin=149703|AlignEnd=149875|nWord=8
+8	,		PUNCT	_	_	10	punct	_	AlignBegin=149703|AlignEnd=149875|nWord=8
 9	cha	cha	PRON	_	_	12	subj	_	AlignBegin=149875|AlignEnd=150063|GE=[1SG]|Gloss=1SG|nWord=9|RX=[PRO]
 10	be	be	AUX	_	_	0	root	_	AlignBegin=150063|AlignEnd=150251|GE=[FUT]|Gloss=FUT|nWord=10|RX=[VERBPRT]
 11	ba	ba	PRON	_	_	12	comp:obj	_	AlignBegin=150251|AlignEnd=150439|GE=[2SG]|Gloss=2SG|nWord=11|RX=[PRO]
 12	gwe	gwe	VERB	_	_	13	comp:aux/m	_	AlignBegin=150439|AlignEnd=150502|GE=kill|Gloss=sleep|nWord=12|RX=[V]
 13	-da		AUX	_	_	10	comp:aux	_	AlignBegin=150502|AlignEnd=150627|GE=[0]|Gloss=-ASP|nWord=12|RX=[VERB]
 14	nengke	nengke	ADV	_	_	12	mod	_	AlignBegin=150627|AlignEnd=150815|GE=today|Gloss=today|nWord=13|RX=[ADV]
-15	.		PUNCT	_	_	_	_	_	AlignBegin=150815|AlignEnd=151005|Gloss=.|nWord=14
+15	.		PUNCT	_	_	10	punct	_	AlignBegin=150815|AlignEnd=151005|Gloss=.|nWord=14
 
 # sent_id = SAB-TXT-OS-00002-01_62-64
 # speaker_id = @01
@@ -832,19 +832,19 @@
 2	gwa	gwa	ADV	_	_	1	mod	_	AlignBegin=151735|AlignEnd=152200|GE=inside|Gloss=inside|nWord=2|RX=[ADV]
 3	gerud	gerud	VERB	_	_	4	comp:aux/m	_	AlignBegin=152200|AlignEnd=152432|GE=speak|Gloss=speak|nWord=3|RX=[V]
 4	-u		AUX	_	_	0	root	_	AlignBegin=152432|AlignEnd=152665|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
-5	:		PUNCT	_	_	_	_	_	AlignBegin=152665|AlignEnd=153130|nWord=4
+5	:		PUNCT	_	_	4	punct	_	AlignBegin=152665|AlignEnd=153130|nWord=4
 6	si	si	SCONJ	_	Foreign=Yes	15	mod	_	AlignBegin=153180|AlignEnd=153608|GE=if|Gloss=if|Lang=es|nWord=5|RX=[CONN]
 7	ba	ba	PRON	_	_	10	subj	_	AlignBegin=153608|AlignEnd=154036|GE=[2SG]|Gloss=2SG|nWord=6|RX=[PRO]
 8	cha	cha	PRON	_	_	9	det:poss	_	AlignBegin=154036|AlignEnd=154464|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
 9	nienulenga	nienulenga	NOUN	_	_	10	comp:obj	_	AlignBegin=154464|AlignEnd=154892|GE=husband|Gloss=husband|nWord=8|RX=[N]
 10	gud	gud	VERB	_	_	11	comp:aux	_	AlignBegin=154892|AlignEnd=155106|GE=kill|Gloss=kill|nWord=9|RX=[V]
 11	-a		AUX	_	_	6	comp	_	AlignBegin=155106|AlignEnd=155320|GE=[0]|Gloss=-0|nWord=9|RX=[VERB]
-12	,		PUNCT	_	_	_	_	_	AlignBegin=155320|AlignEnd=155750|nWord=10
+12	,		PUNCT	_	_	4	punct	_	AlignBegin=155320|AlignEnd=155750|nWord=10
 13	ba	ba	PRON	_	_	15	subj	_	AlignBegin=156065|AlignEnd=156273|GE=[2SG]|Gloss=2SG|nWord=11|RX=[PRO]
 14	cha	cha	PRON	_	_	15	comp:obj	_	AlignBegin=156273|AlignEnd=156481|GE=[1SG]|Gloss=1SG|nWord=12|RX=[PRO]
 15	gwe	gwe	VERB	_	_	16	comp:aux/m	_	AlignBegin=156481|AlignEnd=156550|GE=kill|Gloss=sleep|nWord=13|RX=[V]
 16	-da		AUX	_	_	_	_	_	AlignBegin=156550|AlignEnd=156689|GE=[0]|Gloss=-ASP|nWord=13|RX=[VERB]
-17	.		PUNCT	_	_	_	_	_	AlignBegin=156689|AlignEnd=156895|Gloss=.|nWord=14
+17	.		PUNCT	_	_	4	punct	_	AlignBegin=156689|AlignEnd=156895|Gloss=.|nWord=14
 
 # sent_id = SAB-TXT-OS-00002-01_65-65
 # speaker_id = @01
@@ -1038,7 +1038,7 @@
 # text = nengke kiro kle kade Flore quebrada Flore .
 # text_en = Now the kids call it Flore, river Flore.
 # text_ortho = nengke kiro kle kade Flore quebrada Flore .
-1	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=192905|AlignEnd=193241|GE=today|Gloss=today|nWord=1|RX=[ADV]
+1	nengke	nengke	ADV	_	_	4	mod:tmod	_	AlignBegin=192905|AlignEnd=193241|GE=today|Gloss=today|nWord=1|RX=[ADV]
 2	kiro	kiro	NOUN	_	_	4	subj	_	AlignBegin=193241|AlignEnd=193577|GE=child|Gloss=child|nWord=2|RX=[N]
 3	kle	kle	AUX	_	_	0	root	_	AlignBegin=193577|AlignEnd=193913|GE=be|Gloss=be|nWord=3|RX=[V]
 4	kad	kad	VERB	_	_	5	comp:aux/m	_	AlignBegin=193913|AlignEnd=194081|GE=call|Gloss=call|nWord=4|RX=[V]

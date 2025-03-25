@@ -700,9 +700,9 @@
 # text = si hay aro cha aro lie .
 # text_en = If there is rice, I cook the rice.
 # text_ortho = si hay aro cha aro lie .
-1	si	si	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=112090|AlignEnd=112503|GE=if|Gloss=if|Lang=es|nWord=1|RX=[CONN]
-2	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=112503|AlignEnd=112916|GE=there_is|Gloss=there_is|Lang=es|nWord=2|RX=[V]
-3	arroz	arroz	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=112916|AlignEnd=113329|GE=rice|Gloss=rice|Lang=es|nWord=3|RX=[N]
+1	si	si	SCONJ	_	Foreign=Yes	6	mod	_	AlignBegin=112090|AlignEnd=112503|GE=if|Gloss=if|Lang=es|nWord=1|RX=[CONN]
+2	hay	hay	VERB	_	Foreign=Yes	1	comp	_	AlignBegin=112503|AlignEnd=112916|GE=there_is|Gloss=there_is|Lang=es|nWord=2|RX=[V]
+3	arroz	arroz	NOUN	_	Foreign=Yes	2	subj	_	AlignBegin=112916|AlignEnd=113329|GE=rice|Gloss=rice|Lang=es|nWord=3|RX=[N]
 4	cha	cha	PRON	_	_	6	subj	_	AlignBegin=113329|AlignEnd=113742|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
 5	arroz	arroz	NOUN	_	Foreign=Yes	6	comp:obj	_	AlignBegin=113742|AlignEnd=114155|GE=rice|Gloss=rice|Lang=es|nWord=5|RX=[N]
 6	li	li	VERB	_	_	7	comp:aux/m	_	AlignBegin=114155|AlignEnd=114361|GE=cook|Gloss=cook|nWord=6|RX=[VT]
@@ -720,16 +720,16 @@
 1	si	si	SCONJ	_	Foreign=Yes	11	mod	_	AlignBegin=115130|AlignEnd=115383|GE=if|Gloss=if|Lang=es|nWord=1|RX=[CONN]
 2	hay	hay	VERB	_	Foreign=Yes	1	comp	_	AlignBegin=115383|AlignEnd=115636|GE=there_is|Gloss=there_is|Lang=es|nWord=2|RX=[V]
 3	arroz	arroz	NOUN	_	Foreign=Yes	2	subj	_	AlignBegin=115636|AlignEnd=115889|GE=rice|Gloss=rice|Lang=es|nWord=3|RX=[N]
-4	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=115889|AlignEnd=116142|GE=to|Gloss=to|Lang=es|nWord=4|RX=[ADP]
+4	para	para	SCONJ	_	Foreign=Yes	2	mod	_	AlignBegin=115889|AlignEnd=116142|GE=to|Gloss=to|Lang=es|nWord=4|RX=[ADP]
 5	gut	gut	VERB	_	_	6	comp:aux/m	_	AlignBegin=116142|AlignEnd=116226|GE=eat|Gloss=eat|nWord=5|RX=[VT]
 6	-a		AUX	_	_	7	comp:aux/m	_	AlignBegin=116226|AlignEnd=116310|GE=[0]|Gloss=-0|nWord=5|RX=[VERB]
 7	-dale		AUX	_	_	4	comp	_	AlignBegin=116310|AlignEnd=116395|GE=[IRR]|Gloss=-IRR|nWord=5|RX=[V:ANY]
-8	,		PUNCT	_	_	_	_	_	AlignBegin=116395|AlignEnd=116650|nWord=6
+8	,		PUNCT	_	_	12	punct	_	AlignBegin=116395|AlignEnd=116650|nWord=6
 9	cha	cha	PRON	_	_	11	subj	_	AlignBegin=116985|AlignEnd=117265|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
 10	arroz	arroz	NOUN	_	Foreign=Yes	11	comp:obj	_	AlignBegin=117265|AlignEnd=117545|GE=rice|Gloss=rice|Lang=es|nWord=8|RX=[N]
 11	li	li	VERB	_	_	12	comp:aux/m	_	AlignBegin=117545|AlignEnd=117685|GE=cook|Gloss=cook|nWord=9|RX=[VT]
 12	-e		AUX	_	_	0	root	_	AlignBegin=117685|AlignEnd=117825|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
-13	.		PUNCT	_	_	_	_	_	AlignBegin=117825|AlignEnd=118105|Gloss=.|nWord=10
+13	.		PUNCT	_	_	12	punct	_	AlignBegin=117825|AlignEnd=118105|Gloss=.|nWord=10
 
 # sent_id = SAB-TXT-AN-00002-03_52-52
 # speaker_id = @03
@@ -835,7 +835,7 @@
 # text = y si hay samla samla lie .
 # text_en = And if there is meat, (we) cook the meat.
 # text_ortho = y si hay samla samla lie .
-1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=135735|AlignEnd=136306|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
+1	y	y	X	_	Foreign=Yes	7	cc	_	AlignBegin=135735|AlignEnd=136306|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
 2	si	si	SCONJ	_	Foreign=Yes	6	mod	_	AlignBegin=136306|AlignEnd=136877|GE=if|Gloss=if|Lang=es|nWord=2|RX=[CONN]
 3	hay	hay	VERB	_	Foreign=Yes	2	comp	_	AlignBegin=136877|AlignEnd=137448|GE=there_is|Gloss=there_is|Lang=es|nWord=3|RX=[V]
 4	samla	samla	NOUN	_	_	3	subj	_	AlignBegin=137448|AlignEnd=138019|GE=meat|Gloss=meat|nWord=4|RX=[N]
@@ -881,14 +881,14 @@
 # text = si hay mue che mue gute bla nwale .
 # text_en = If there is fish, we eat fish with good bananas.
 # text_ortho = si hay mue che mue gute bla nwale .
-1	si	si	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=143635|AlignEnd=143927|GE=if|Gloss=if|Lang=es|nWord=1|RX=[CONN]
-2	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=143927|AlignEnd=144219|GE=there_is|Gloss=there_is|Lang=es|nWord=2|RX=[V]
-3	mue	mue	NOUN	_	_	_	_	_	AlignBegin=144219|AlignEnd=144511|GE=fish|Gloss=fish|nWord=3|RX=[N]
+1	si	si	SCONJ	_	Foreign=Yes	6	mod	_	AlignBegin=143635|AlignEnd=143927|GE=if|Gloss=if|Lang=es|nWord=1|RX=[CONN]
+2	hay	hay	VERB	_	Foreign=Yes	1	comp	_	AlignBegin=143927|AlignEnd=144219|GE=there_is|Gloss=there_is|Lang=es|nWord=2|RX=[V]
+3	mue	mue	NOUN	_	_	2	subj	_	AlignBegin=144219|AlignEnd=144511|GE=fish|Gloss=fish|nWord=3|RX=[N]
 4	che	che	PRON	_	_	6	subj	_	AlignBegin=144511|AlignEnd=144803|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=4|RX=[PRO]
 5	mue	mue	NOUN	_	_	6	comp:obj	_	AlignBegin=144803|AlignEnd=145095|GE=fish|Gloss=fish|nWord=5|RX=[N]
 6	gut	gut	VERB	_	_	7	comp:aux/m	_	AlignBegin=145095|AlignEnd=145241|GE=eat|Gloss=eat|nWord=6|RX=[VT]
 7	-e		AUX	_	_	0	root	_	AlignBegin=145241|AlignEnd=145387|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
-8	bla	bla	NOUN	_	_	_	_	_	AlignBegin=145387|AlignEnd=145679|GE=banana|Gloss=banana|nWord=7|RX=[N]
+8	bla	bla	NOUN	_	_	6	comp:obl	_	AlignBegin=145387|AlignEnd=145679|GE=banana|Gloss=banana|nWord=7|RX=[N]
 9	nwale	nwale	ADJ	_	_	8	mod	_	AlignBegin=145679|AlignEnd=145971|GE=beautiful|Gloss=beautiful|nWord=8|RX=[ADJ]
 10	.		PUNCT	_	_	7	punct	_	AlignBegin=145971|AlignEnd=146265|Gloss=.|nWord=9
 
@@ -1008,9 +1008,9 @@
 # text = si cha ta no , cha be hoke ngaske ule .
 # text_en = If I feel good, I will go to the fields with (everbody).
 # text_ortho = si cha ta no , cha be hoke ngaske ule .
-1	si	si	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=163925|AlignEnd=164274|GE=if|Gloss=if|Lang=es|nWord=1|RX=[CONN]
+1	si	si	SCONJ	_	Foreign=Yes	8	mod	_	AlignBegin=163925|AlignEnd=164274|GE=if|Gloss=if|Lang=es|nWord=1|RX=[CONN]
 2	cha	cha	PRON	_	_	3	subj	_	AlignBegin=164274|AlignEnd=164623|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
-3	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=164623|AlignEnd=164972|GE=be|Gloss=be|Lang=es|nWord=3|RX=[V]
+3	esta	esta	VERB	_	Foreign=Yes	1	comp	_	AlignBegin=164623|AlignEnd=164972|GE=be|Gloss=be|Lang=es|nWord=3|RX=[V]
 4	no	no	ADJ	_	_	3	comp:pred	_	AlignBegin=164972|AlignEnd=165321|GE=good|Gloss=good|nWord=4|RX=[ADJ]
 5	,		PUNCT	_	_	_	_	_	AlignBegin=165321|AlignEnd=165670|nWord=5
 6	cha	cha	PRON	_	_	8	subj	_	AlignBegin=165670|AlignEnd=166089|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]

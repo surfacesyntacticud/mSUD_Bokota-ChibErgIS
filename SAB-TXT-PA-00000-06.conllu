@@ -416,7 +416,7 @@
 5	chk	chk	VERB	_	_	6	comp:aux/m	_	AlignBegin=77474|AlignEnd=77574|GE=arrive|Gloss=arrive|nWord=5|RX=[VI]
 6	-e		AUX	_	_	7	comp:aux/m	_	AlignBegin=77574|AlignEnd=77674|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	-bale		AUX	_	_	_	_	_	AlignBegin=77674|AlignEnd=77775|GE=[PART]|Gloss=-PART|nWord=5|RX=[V:ANY]
-8	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=77775|AlignEnd=78076|GE=today|Gloss=today|nWord=6|RX=[ADV]
+8	nengke	nengke	ADV	_	_	5	mod:tmod	_	AlignBegin=77775|AlignEnd=78076|GE=today|Gloss=today|nWord=6|RX=[ADV]
 9	.		PUNCT	_	_	_	_	_	AlignBegin=78076|AlignEnd=78380|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-PA-00000-06_26-26

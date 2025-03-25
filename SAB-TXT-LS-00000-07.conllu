@@ -19,28 +19,28 @@
 # text = nengke cha be cha geruia trake , cha toidu mine aini , cha chiu mine aini .
 # text_en = Today I will tell my story, of how I lived here, how I came here.
 # text_ortho = nengke cha be cha geruia trake , cha toidu mine aini , cha chiu mine aini .
-1	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=10470|AlignEnd=10736|GE=today|Gloss=today|nWord=1|RX=[ADV]
+1	nengke	nengke	ADV	_	_	7	mod:tmod	_	AlignBegin=10470|AlignEnd=10736|GE=today|Gloss=today|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	7	subj	_	AlignBegin=10736|AlignEnd=11002|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
-3	be	be	AUX	_	_	_	_	_	AlignBegin=11002|AlignEnd=11268|GE=[FUT]|Gloss=FUT|nWord=3|RX=[VERBPRT]
+3	be	be	AUX	_	_	0	root	_	AlignBegin=11002|AlignEnd=11268|GE=[FUT]|Gloss=FUT|nWord=3|RX=[VERBPRT]
 4	cha	cha	PRON	_	_	6	udep:poss	_	AlignBegin=11268|AlignEnd=11534|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
 5	geru	geru	NOUN	_	_	6	comp:aux/m	_	AlignBegin=11534|AlignEnd=11667|GE=story|Gloss=story|nWord=5|RX=[N]
 6	-ia		AUX	_	_	7	comp:obj	_	AlignBegin=11667|AlignEnd=11800|GE=[POSS]|Gloss=-POSS|nWord=5|RX=[N:ANY]
 7	trak	trak	VERB	_	_	8	comp:aux/m	_	AlignBegin=11800|AlignEnd=11933|GE=tell|Gloss=tell|nWord=6|RX=[V]
 8	-e		AUX	_	_	3	comp:aux	_	AlignBegin=11933|AlignEnd=12066|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
-9	,		PUNCT	_	_	_	_	_	AlignBegin=12066|AlignEnd=12330|nWord=7
+9	,		PUNCT	_	_	3	punct	_	AlignBegin=12066|AlignEnd=12330|nWord=7
 10	cha	cha	PRON	_	_	11	subj	_	AlignBegin=12385|AlignEnd=12629|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
 11	toi	toi	VERB	_	_	12	comp:aux/m	_	AlignBegin=12629|AlignEnd=12710|GE=live|Gloss=live|nWord=9|RX=[VI]
 12	-d-		AUX	_	_	13	comp:aux/m	_	AlignBegin=12710|AlignEnd=12791|GE=[0]|Gloss=-0-|nWord=9|RX=[VERB]
-13	-u		AUX	_	_	_	_	_	AlignBegin=12791|AlignEnd=12873|GE=[PST]|Gloss=-PST|nWord=9|RX=[V:ANY]
-14	mine	mine	PART	_	_	_	_	_	AlignBegin=12873|AlignEnd=13117|GE=[Q]|Gloss=Q|nWord=10|RX=[Q]
-15	aini	aini	ADV	_	_	_	_	_	AlignBegin=13117|AlignEnd=13361|GE=here|Gloss=here|nWord=11|RX=[ADV]
-16	,		PUNCT	_	_	_	_	_	AlignBegin=13361|AlignEnd=13605|nWord=12
+13	-u		AUX	_	_	7	mod	_	AlignBegin=12791|AlignEnd=12873|GE=[PST]|Gloss=-PST|nWord=9|RX=[V:ANY]
+14	mine	mine	PART	_	_	11	mod	_	AlignBegin=12873|AlignEnd=13117|GE=[Q]|Gloss=Q|nWord=10|RX=[Q]
+15	aini	aini	ADV	_	_	11	mod:lmod	_	AlignBegin=13117|AlignEnd=13361|GE=here|Gloss=here|nWord=11|RX=[ADV]
+16	,		PUNCT	_	_	3	punct	_	AlignBegin=13361|AlignEnd=13605|nWord=12
 17	cha	cha	PRON	_	_	18	subj	_	AlignBegin=13610|AlignEnd=13810|GE=[1SG]|Gloss=1SG|nWord=13|RX=[PRO]
 18	chi	chi	VERB	_	_	19	comp:aux/m	_	AlignBegin=13810|AlignEnd=13910|GE=come|Gloss=come|nWord=14|RX=[VI]
-19	-u		AUX	_	_	_	_	_	AlignBegin=13910|AlignEnd=14010|GE=[PST]|Gloss=-PST|nWord=14|RX=[V:ANY]
-20	mine	mine	PART	_	_	_	_	_	AlignBegin=14010|AlignEnd=14210|GE=[Q]|Gloss=Q|nWord=15|RX=[Q]
-21	aini	aini	ADV	_	_	_	_	_	AlignBegin=14210|AlignEnd=14410|GE=here|Gloss=here|nWord=16|RX=[ADV]
-22	.		PUNCT	_	_	_	_	_	AlignBegin=14410|AlignEnd=14610|Gloss=.|nWord=17
+19	-u		AUX	_	_	7	mod	_	AlignBegin=13910|AlignEnd=14010|GE=[PST]|Gloss=-PST|nWord=14|RX=[V:ANY]
+20	mine	mine	PART	_	_	18	mod	_	AlignBegin=14010|AlignEnd=14210|GE=[Q]|Gloss=Q|nWord=15|RX=[Q]
+21	aini	aini	ADV	_	_	18	mod:lmod	_	AlignBegin=14210|AlignEnd=14410|GE=here|Gloss=here|nWord=16|RX=[ADV]
+22	.		PUNCT	_	_	3	punct	_	AlignBegin=14410|AlignEnd=14610|Gloss=.|nWord=17
 
 # sent_id = SAB-TXT-LS-00000-07_05-05
 # speaker_id = @07

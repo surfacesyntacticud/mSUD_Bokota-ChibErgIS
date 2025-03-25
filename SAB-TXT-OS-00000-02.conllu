@@ -658,14 +658,14 @@
 11	gda	gda	NOUN	_	_	2	conj:coord	_	AlignBegin=155340|AlignEnd=155740|GE=spine|Gloss=spine|nWord=9|RX=[N]
 12	y	y	X	_	Foreign=Yes	13	cc	_	AlignBegin=155740|AlignEnd=156140|GE=and|Gloss=and|Lang=es|nWord=10|RX=[COORDCONN]
 13	samla	samla	NOUN	_	_	11	conj:coord	_	AlignBegin=156140|AlignEnd=156540|GE=meat|Gloss=meat|nWord=11|RX=[N]
-14	mli	mli	VERB	_	_	15	comp:aux@m	_	AlignBegin=156540|AlignEnd=156640|GE=throw|Gloss=throw|nWord=12|RX=[VT]
+14	mli	mli	VERB	_	_	15	comp:aux/m	_	AlignBegin=156540|AlignEnd=156640|GE=throw|Gloss=throw|nWord=12|RX=[VT]
 15	-a		AUX	_	_	16	comp:aux@pass	_	AlignBegin=156640|AlignEnd=156740|GE=[PASS]|Gloss=-PASS|nWord=12|RX=[V:ANY]
 16	kle	kle	AUX	_	_	17	comp:aux/m	_	AlignBegin=156740|AlignEnd=156840|GE=be|Gloss=be|nWord=12|RX=[V]
 17	-nga		AUX	_	_	13	mod@relcl	_	AlignBegin=156840|AlignEnd=156940|GE=[SUB]|Gloss=-SUB|nWord=12|RX=[V:ANY]
 18	,		PUNCT	_	_	_	_	_	AlignBegin=156940|AlignEnd=157340|nWord=13
 19	cha	cha	PRON	_	_	22	subj	_	AlignBegin=157360|AlignEnd=157573|GE=[1SG]|Gloss=1SG|nWord=14|RX=[PRO]
 20	kle	kle	AUX	_	_	_	_	_	AlignBegin=157573|AlignEnd=157786|GE=be|Gloss=be|nWord=15|RX=[V]
-21	mung	mung	PART	_	_	22	comp:obj	_	AlignBegin=157786|AlignEnd=157999|GE=[REFL]|Gloss=REFL|nWord=16|RX=[VERBPRT]
+21	mung	mung	PART	_	_	22	compound	_	AlignBegin=157786|AlignEnd=157999|GE=[REFL]|Gloss=REFL|nWord=16|RX=[VERBPRT]
 22	gai	gai	VERB	_	_	20	comp:aux	_	AlignBegin=157999|AlignEnd=158212|GE=pick_up|Gloss=pick_up|nWord=17|RX=[VT]
 23	ole	ole	ADP	_	_	22	compound@part	_	AlignBegin=158212|AlignEnd=158425|GE=[COM]|Gloss=COM|nWord=18|RX=[ADP]
 24	.		PUNCT	_	_	_	_	_	AlignBegin=158425|AlignEnd=158640|Gloss=.|nWord=19

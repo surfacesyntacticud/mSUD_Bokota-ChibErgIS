@@ -7,12 +7,12 @@
 # text_en = Today you arrived to stsay here in my house.
 # text_ortho = ba nengke se chkedo cha ske cha aini .
 1	ba	ba	PRON	_	_	4	subj	_	AlignBegin=4330|AlignEnd=4969|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
-2	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=4969|AlignEnd=5608|GE=today|Gloss=today|nWord=2|RX=[ADV]
+2	nengke	nengke	ADV	_	_	4	mod:tmod	_	AlignBegin=4969|AlignEnd=5608|GE=today|Gloss=today|nWord=2|RX=[ADV]
 3	se	se	PART	_	_	_	_	_	AlignBegin=5608|AlignEnd=6247|GE=[REFL]|Gloss=REFL|nWord=3|RX=[VERBPRT]
 4	chk	chk	VERB	_	_	5	comp:aux/m	_	AlignBegin=6247|AlignEnd=6567|GE=arrive|Gloss=arrive|nWord=4|RX=[VI]
 5	-edo		AUX	_	_	_	_	_	AlignBegin=6567|AlignEnd=6886|GE=[PART]|Gloss=-PART|nWord=4|RX=[VERBAL_PARTICLE]
 6	cha	cha	PRON	_	_	7	comp	_	AlignBegin=6886|AlignEnd=7525|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
-7	ske	ske	ADP	_	_	_	_	_	AlignBegin=7525|AlignEnd=8164|GE=with|Gloss=with|nWord=6|RX=[ADP]
+7	ske	ske	ADP	_	_	4	comp:obl	_	AlignBegin=7525|AlignEnd=8164|GE=with|Gloss=with|nWord=6|RX=[ADP]
 8	cha	cha	PRON	_	_	_	_	_	AlignBegin=8164|AlignEnd=8803|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
 9	aini	aini	ADV	_	_	_	_	_	AlignBegin=8803|AlignEnd=9442|GE=here|Gloss=here|nWord=8|RX=[ADV]
 10	.		PUNCT	_	_	_	_	_	AlignBegin=9442|AlignEnd=10080|Gloss=.|nWord=9
@@ -1716,7 +1716,7 @@
 4	ba	ba	PRON	_	_	_	_	_	AlignBegin=388231|AlignEnd=388593|GE=[2SG]|Gloss=2SG|nWord=4|RX=[PRO]
 5	)		PUNCT	_	_	_	_	_	AlignBegin=388593|AlignEnd=388955|nWord=5
 6	cha	cha	PRON	_	_	9	subj	_	AlignBegin=388955|AlignEnd=389317|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
-7	swilitai	swilitai	NOUN	_	_	_	_	_	AlignBegin=389317|AlignEnd=389679|GE=morning|Gloss=morning|nWord=7|RX=[N]
+7	swilitai	swilitai	NOUN	_	_	9	mod:tmod	_	AlignBegin=389317|AlignEnd=389679|GE=morning|Gloss=morning|nWord=7|RX=[N]
 8	geru	geru	NOUN	_	_	9	comp:obj	_	AlignBegin=389679|AlignEnd=390041|GE=story|Gloss=story|nWord=8|RX=[N]
 9	trak	trak	VERB	_	_	10	comp:aux/m	_	AlignBegin=390041|AlignEnd=390222|GE=tell|Gloss=tell|nWord=9|RX=[V]
 10	-e		AUX	_	_	_	_	_	AlignBegin=390222|AlignEnd=390403|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
@@ -2105,12 +2105,12 @@
 # text = nengke cha kle toi eni .
 # text_en = Today I am here.
 # text_ortho = nengke cha kle toi eni .
-1	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=466265|AlignEnd=466898|GE=today|Gloss=today|nWord=1|RX=[ADV]
+1	nengke	nengke	ADV	_	_	4	mod:tmod	_	AlignBegin=466265|AlignEnd=466898|GE=today|Gloss=today|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	4	subj	_	AlignBegin=466898|AlignEnd=467531|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
-3	kle	kle	AUX	_	_	_	_	_	AlignBegin=467531|AlignEnd=468164|GE=be|Gloss=be|nWord=3|RX=[V]
+3	kle	kle	AUX	_	_	0	root	_	AlignBegin=467531|AlignEnd=468164|GE=be|Gloss=be|nWord=3|RX=[V]
 4	toi	toi	VERB	_	_	3	comp:aux	_	AlignBegin=468164|AlignEnd=468797|GE=live|Gloss=live|nWord=4|RX=[VI]
 5	eni	eni	ADV	_	_	4	mod:lmod	_	AlignBegin=468797|AlignEnd=469430|GE=there|Gloss=there|nWord=5|RX=[ADV]
-6	.		PUNCT	_	_	_	_	_	AlignBegin=469430|AlignEnd=470065|Gloss=.|nWord=6
+6	.		PUNCT	_	_	3	punct	_	AlignBegin=469430|AlignEnd=470065|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-LS-00000-01_159-159
 # speaker_id = @01

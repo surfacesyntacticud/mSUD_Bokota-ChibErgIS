@@ -104,26 +104,26 @@
 # text_en = When the day will come, that my mother will give birth, (She) escape. She goes in the mountain in a different place.
 # text_ortho = chui be chkenga cha chebi be kiro manane nengke , ama kike , hoke ngaske sukekre .
 1	chui	chui	NOUN	_	_	3	subj	_	AlignBegin=38100|AlignEnd=38795|GE=sun|Gloss=sun|nWord=1|RX=[N]
-2	be	be	AUX	_	_	_	_	_	AlignBegin=38795|AlignEnd=39490|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
+2	be	be	AUX	_	_	10	mod:tmod	_	AlignBegin=38795|AlignEnd=39490|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
 3	chk	chk	VERB	_	_	4	comp:aux	_	AlignBegin=39490|AlignEnd=39722|GE=arrive|Gloss=arrive|nWord=3|RX=[VI]
 4	-e		AUX	_	_	5	comp:aux	_	AlignBegin=39722|AlignEnd=39954|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	-nga		AUX	_	_	2	comp:aux	_	AlignBegin=39954|AlignEnd=40185|GE=[SUB]|Gloss=-SUB|nWord=3|RX=[V:ANY]
 6	cha	cha	PRON	_	_	7	udep:poss	_	AlignBegin=40185|AlignEnd=40880|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
 7	chebi	chebi	NOUN	_	_	10	subj	_	AlignBegin=40880|AlignEnd=41575|GE=mother|Gloss=mother|nWord=5|RX=[N]
-8	be	be	AUX	_	_	_	_	_	AlignBegin=41575|AlignEnd=42270|GE=[FUT]|Gloss=FUT|nWord=6|RX=[VERBPRT]
+8	be	be	AUX	_	_	0	root	_	AlignBegin=41575|AlignEnd=42270|GE=[FUT]|Gloss=FUT|nWord=6|RX=[VERBPRT]
 9	kiro	kiro	NOUN	_	_	10	comp:obj	_	AlignBegin=42270|AlignEnd=42965|GE=child|Gloss=child|nWord=7|RX=[N]
 10	manan	manan	VERB	_	_	11	comp:aux/m	_	AlignBegin=42965|AlignEnd=43313|GE=give_birth|Gloss=give_birth|nWord=8|RX=[V]
 11	-e		AUX	_	_	8	comp:aux	_	AlignBegin=43313|AlignEnd=43660|GE=[THM]|Gloss=-THM|nWord=8|RX=[V:ANY]
-12	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=43660|AlignEnd=44355|GE=today|Gloss=today|nWord=9|RX=[ADV]
-13	,		PUNCT	_	_	_	_	_	AlignBegin=44355|AlignEnd=45050|nWord=10
-14	ama	ama	ADV	_	_	_	_	_	AlignBegin=45670|AlignEnd=46327|GE=so|Gloss=so|nWord=11|RX=[ADV]
-15	kike	kike	VERB	_	_	_	_	_	AlignBegin=46327|AlignEnd=46984|GE=escape|Gloss=escape|nWord=12|RX=[VI]
-16	,		PUNCT	_	_	_	_	_	AlignBegin=46984|AlignEnd=47640|nWord=13
-17	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=47820|AlignEnd=48392|GE=go|Gloss=go|nWord=14|RX=[VI]
+12	nengke	nengke	ADV	_	_	10	mod:tmod	_	AlignBegin=43660|AlignEnd=44355|GE=today|Gloss=today|nWord=9|RX=[ADV]
+13	,		PUNCT	_	_	8	punct	_	AlignBegin=44355|AlignEnd=45050|nWord=10
+14	ama	ama	ADV	_	_	15	cc	_	AlignBegin=45670|AlignEnd=46327|GE=so|Gloss=so|nWord=11|RX=[ADV]
+15	kike	kike	VERB	_	_	10	mod	_	AlignBegin=46327|AlignEnd=46984|GE=escape|Gloss=escape|nWord=12|RX=[VI]
+16	,		PUNCT	_	_	8	punct	_	AlignBegin=46984|AlignEnd=47640|nWord=13
+17	hoke	hoke	VERB	_	_	15	conj:coord	_	AlignBegin=47820|AlignEnd=48392|GE=go|Gloss=go|nWord=14|RX=[VI]
 18	nga	nga	NOUN	_	_	19	comp	_	AlignBegin=48392|AlignEnd=48678|GE=field|Gloss=field|nWord=15|RX=[N]
 19	ske	ske	ADP	_	_	17	comp:obl	_	AlignBegin=48678|AlignEnd=48964|GE=[LOC]|Gloss=LOC|nWord=15|RX=[ADP]
-20	sukekre	sukekre	ADV	_	_	_	_	_	AlignBegin=48964|AlignEnd=49536|GE=elsewere|Gloss=elsewere|nWord=16|RX=[ADV]
-21	.		PUNCT	_	_	_	_	_	AlignBegin=49536|AlignEnd=50110|Gloss=.|nWord=17
+20	sukekre	sukekre	ADV	_	_	17	mod:lmod	_	AlignBegin=48964|AlignEnd=49536|GE=elsewere|Gloss=elsewere|nWord=16|RX=[ADV]
+21	.		PUNCT	_	_	8	punct	_	AlignBegin=49536|AlignEnd=50110|Gloss=.|nWord=17
 
 # sent_id = SAB-TXT-BS-00000-01_10-16
 # speaker_id = @01
