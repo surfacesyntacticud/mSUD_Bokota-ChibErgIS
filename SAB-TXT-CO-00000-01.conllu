@@ -22,14 +22,14 @@
 # text = giska tkale koi siro ke .
 # text_en = A rope is tied up to the chicken's neck.
 # text_ortho = giska tkale koi siro ke .
-1	giska	giska	NOUN	_	_	_	_	_	AlignBegin=15980|AlignEnd=16807|GE=rope|Gloss=rope|nWord=1|RX=[N]
+1	giska	giska	NOUN	_	_	2	subj@pass	_	AlignBegin=15980|AlignEnd=16807|GE=rope|Gloss=rope|nWord=1|RX=[N]
 2	tk	tk	VERB	_	_	3	comp:aux/m	_	AlignBegin=16807|AlignEnd=17083|GE=put|Gloss=put|nWord=2|RX=[VT]
 3	-a		AUX	_	_	4	comp:aux/m	_	AlignBegin=17083|AlignEnd=17359|GE=[PASS]|Gloss=-PASS|nWord=2|RX=[V:ANY]
-4	-le		AUX	_	_	_	_	_	AlignBegin=17359|AlignEnd=17634|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
+4	-le		AUX	_	_	0	root	_	AlignBegin=17359|AlignEnd=17634|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
 5	koi	koi	NOUN	_	_	6	udep:poss	_	AlignBegin=17634|AlignEnd=18461|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
 6	siro	siro	NOUN	_	_	7	comp	_	AlignBegin=18461|AlignEnd=19288|GE=neck|Gloss=neck|nWord=4|RX=[N]
 7	ke	ke	ADP	_	_	2	comp:obl	_	AlignBegin=19288|AlignEnd=20115|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
-8	.		PUNCT	_	_	_	_	_	AlignBegin=20115|AlignEnd=20940|Gloss=.|nWord=6
+8	.		PUNCT	_	_	4	punct	_	AlignBegin=20115|AlignEnd=20940|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-CO-00000-01_03-03
 # speaker_id = @01
@@ -54,16 +54,16 @@
 # text = koi hokeda , koi wendike , koi huke .
 # text_en = When the chicken dies. When the chicken stops moving, (I) pluck the chicken.
 # text_ortho = koi hokeda , koi wendike , koi huke .
-1	koi	koi	NOUN	_	_	_	_	_	AlignBegin=28845|AlignEnd=29235|GE=chicken|Gloss=chicken|nWord=1|RX=[N]
-2	hokeda	hokeda	VERB	_	_	_	_	_	AlignBegin=29235|AlignEnd=29625|GE=die|Gloss=die|nWord=2|RX=[V]
-3	,		PUNCT	_	_	_	_	_	AlignBegin=29625|AlignEnd=30015|nWord=3
-4	koi	koi	NOUN	_	_	_	_	_	AlignBegin=30780|AlignEnd=31430|GE=chicken|Gloss=chicken|nWord=4|RX=[N]
-5	wendike	wendike	ADJ	_	_	_	_	_	AlignBegin=31430|AlignEnd=32080|GE=calm|Gloss=calm|nWord=5|RX=[ADJ]
-6	,		PUNCT	_	_	_	_	_	AlignBegin=32080|AlignEnd=32730|nWord=6
+1	koi	koi	NOUN	_	_	2	subj	_	AlignBegin=28845|AlignEnd=29235|GE=chicken|Gloss=chicken|nWord=1|RX=[N]
+2	hokeda	hokeda	VERB	_	_	0	root	_	AlignBegin=29235|AlignEnd=29625|GE=die|Gloss=die|nWord=2|RX=[V]
+3	,		PUNCT	_	_	2	punct	_	AlignBegin=29625|AlignEnd=30015|nWord=3
+4	koi	koi	NOUN	_	_	2	conj:coord	_	AlignBegin=30780|AlignEnd=31430|GE=chicken|Gloss=chicken|nWord=4|RX=[N]
+5	wendike	wendike	ADJ	_	_	4	mod	_	AlignBegin=31430|AlignEnd=32080|GE=calm|Gloss=calm|nWord=5|RX=[ADJ]
+6	,		PUNCT	_	_	2	punct	_	AlignBegin=32080|AlignEnd=32730|nWord=6
 7	koi	koi	NOUN	_	_	8	comp:obj	_	AlignBegin=32755|AlignEnd=33058|GE=chicken|Gloss=chicken|nWord=7|RX=[N]
 8	huk	huk	VERB	_	_	9	comp:aux/m	_	AlignBegin=33058|AlignEnd=33210|GE=pluck|Gloss=pluck|nWord=8|RX=[V]
-9	-e		AUX	_	_	_	_	_	AlignBegin=33210|AlignEnd=33361|GE=[THM]|Gloss=-THM|nWord=8|RX=[V:ANY]
-10	.		PUNCT	_	_	_	_	_	AlignBegin=33361|AlignEnd=33665|Gloss=.|nWord=9
+9	-e		AUX	_	_	4	conj:coord	_	AlignBegin=33210|AlignEnd=33361|GE=[THM]|Gloss=-THM|nWord=8|RX=[V:ANY]
+10	.		PUNCT	_	_	2	punct	_	AlignBegin=33361|AlignEnd=33665|Gloss=.|nWord=9
 
 # sent_id = SAB-TXT-CO-00000-01_07-07
 # speaker_id = @01
@@ -101,14 +101,14 @@
 # text_ortho = koi lie , koi hoke eru , koi gute .
 1	koi	koi	NOUN	_	_	2	comp:obj	_	AlignBegin=42910|AlignEnd=43460|GE=chicken|Gloss=chicken|nWord=1|RX=[N]
 2	li	li	VERB	_	_	3	comp:aux/m	_	AlignBegin=43460|AlignEnd=43735|GE=cook|Gloss=cook|nWord=2|RX=[VT]
-3	-e		AUX	_	_	_	_	_	AlignBegin=43735|AlignEnd=44010|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
-4	,		PUNCT	_	_	_	_	_	AlignBegin=44010|AlignEnd=44560|nWord=3
+3	-e		AUX	_	_	0	root	_	AlignBegin=43735|AlignEnd=44010|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	,		PUNCT	_	_	3	punct	_	AlignBegin=44010|AlignEnd=44560|nWord=3
 5	koi	koi	NOUN	_	_	6	subj	_	AlignBegin=44580|AlignEnd=44732|GE=chicken|Gloss=chicken|nWord=4|RX=[N]
-6	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=44732|AlignEnd=44884|GE=go|Gloss=go|nWord=5|RX=[VI]
+6	hoke	hoke	VERB	_	_	3	conj:coord	_	AlignBegin=44732|AlignEnd=44884|GE=go|Gloss=go|nWord=5|RX=[VI]
 7	eru	eru	ADJ	_	_	6	comp:pred	_	AlignBegin=44884|AlignEnd=45036|GE=ready|Gloss=ready|nWord=6|RX=[ADJ]
-8	,		PUNCT	_	_	_	_	_	AlignBegin=45036|AlignEnd=45190|nWord=7
+8	,		PUNCT	_	_	3	punct	_	AlignBegin=45036|AlignEnd=45190|nWord=7
 9	koi	koi	NOUN	_	_	10	comp:obj	_	AlignBegin=45210|AlignEnd=45530|GE=chicken|Gloss=chicken|nWord=8|RX=[N]
 10	gut	gut	VERB	_	_	11	comp:aux/m	_	AlignBegin=45530|AlignEnd=45690|GE=eat|Gloss=eat|nWord=9|RX=[VT]
-11	-e		AUX	_	_	_	_	_	AlignBegin=45690|AlignEnd=45850|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
-12	.		PUNCT	_	_	_	_	_	AlignBegin=45850|AlignEnd=46170|Gloss=.|nWord=10
+11	-e		AUX	_	_	6	conj:coord	_	AlignBegin=45690|AlignEnd=45850|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
+12	.		PUNCT	_	_	3	punct	_	AlignBegin=45850|AlignEnd=46170|Gloss=.|nWord=10
 

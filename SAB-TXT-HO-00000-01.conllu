@@ -341,13 +341,13 @@
 1	gli	gli	NOUN	_	_	4	subj	_	AlignBegin=144210|AlignEnd=144394|GE=tree|Gloss=tree|nWord=1|RX=[N]
 2	na	na	ADJ	_	_	1	mod	_	AlignBegin=144394|AlignEnd=144578|GE=other|Gloss=other|nWord=2|RX=[DET]
 3	be	be	AUX	_	_	0	root	_	AlignBegin=144578|AlignEnd=144762|GE=[FUT]|Gloss=FUT|nWord=3|RX=[VERBPRT]
-4	chi	chi	VERB	_	_	5	comp:aux	_	AlignBegin=144762|AlignEnd=144854|GE=come|Gloss=come|nWord=4|RX=[VI]
+4	chi	chi	VERB	_	_	5	comp:aux/m	_	AlignBegin=144762|AlignEnd=144854|GE=come|Gloss=come|nWord=4|RX=[VI]
 5	-e		AUX	_	_	3	comp:aux	_	AlignBegin=144854|AlignEnd=144946|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	,		PUNCT	_	_	_	_	_	AlignBegin=144946|AlignEnd=145130|nWord=5
+6	,		PUNCT	_	_	3	punct	_	AlignBegin=144946|AlignEnd=145130|nWord=5
 7	daba	daba	NOUN	_	_	8	comp	_	AlignBegin=145155|AlignEnd=145428|GE=brother|Gloss=brother|nWord=6|RX=[N]
 8	ske	ske	ADP	_	_	4	comp:obl	_	AlignBegin=145428|AlignEnd=145564|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
 9	tengkle	tengkle	ADV	_	_	_	_	_	AlignBegin=145564|AlignEnd=145701|GE=through|Gloss=through|nWord=7|RX=[ADV]
-10	.		PUNCT	_	_	_	_	_	AlignBegin=145701|AlignEnd=145975|Gloss=.|nWord=8
+10	.		PUNCT	_	_	3	punct	_	AlignBegin=145701|AlignEnd=145975|Gloss=.|nWord=8
 
 # sent_id = SAB-TXT-HO-00000-01_29-29
 # speaker_id = @01
@@ -493,7 +493,7 @@
 1	hasta	hasta	SCONJ	_	Foreign=Yes	0	root	_	AlignBegin=200265|AlignEnd=200698|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
 2	u	u	NOUN	_	_	4	subj	_	AlignBegin=200698|AlignEnd=201131|GE=house|Gloss=house|nWord=2|RX=[N]
 3	be	be	AUX	_	_	1	comp	_	AlignBegin=201131|AlignEnd=201564|GE=[FUT]|Gloss=FUT|nWord=3|RX=[VERBPRT]
-4	kachi	kachi	VERB	_	_	5	comp:aux	_	AlignBegin=201564|AlignEnd=201780|GE=end|Gloss=end|nWord=4|RX=[V]
+4	kachi	kachi	VERB	_	_	5	comp:aux/m	_	AlignBegin=201564|AlignEnd=201780|GE=end|Gloss=end|nWord=4|RX=[V]
 5	-e		AUX	_	_	3	comp:aux	_	AlignBegin=201780|AlignEnd=201997|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 6	ngania	ngania	ADV	_	_	4	mod:lmod	_	AlignBegin=201997|AlignEnd=202430|GE=up|Gloss=up|nWord=5|RX=[ADV]
 7	.		PUNCT	_	_	1	punct	_	AlignBegin=202430|AlignEnd=202865|Gloss=.|nWord=6
@@ -605,7 +605,7 @@
 # text_ortho = honinke be kachie , honinke ku hadale .
 1	honinke	honinke	ADV	_	_	_	_	_	AlignBegin=230910|AlignEnd=231518|GE=first|Gloss=first|nWord=1|RX=[ADV]
 2	be	be	AUX	_	_	_	_	_	AlignBegin=231518|AlignEnd=232126|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
-3	kachi	kachi	VERB	_	_	4	comp:aux	_	AlignBegin=232126|AlignEnd=232430|GE=end|Gloss=end|nWord=3|RX=[V]
+3	kachi	kachi	VERB	_	_	4	comp:aux/m	_	AlignBegin=232126|AlignEnd=232430|GE=end|Gloss=end|nWord=3|RX=[V]
 4	-e		AUX	_	_	2	comp:aux	_	AlignBegin=232430|AlignEnd=232734|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	,		PUNCT	_	_	_	_	_	AlignBegin=232734|AlignEnd=233340|nWord=4
 6	honinke	honinke	ADV	_	_	_	_	_	AlignBegin=233480|AlignEnd=234160|GE=first|Gloss=first|nWord=5|RX=[ADV]
@@ -640,12 +640,12 @@
 1	ku	ku	NOUN	_	_	3	subj	_	AlignBegin=246100|AlignEnd=246472|GE=cacao|Gloss=cacao|nWord=1|RX=[N]
 2	be	be	AUX	_	_	9	mod:tmod	_	AlignBegin=246472|AlignEnd=246844|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
 3	skienda	skienda	VERB	_	_	2	comp:aux	_	AlignBegin=246844|AlignEnd=247216|GE=destroy|Gloss=destroy|nWord=3|RX=[V]
-4	gwa	gwa	NUM	_	_	_	_	_	AlignBegin=247216|AlignEnd=247402|GE=cl|Gloss=cl|nWord=4|RX=[NUM]
-5	baka	baka	NOUN	_	_	_	_	_	AlignBegin=247402|AlignEnd=247588|GE=four|Gloss=four|nWord=4|RX=[N]
-6	,		PUNCT	_	_	_	_	_	AlignBegin=247588|AlignEnd=247960|nWord=5
+4	gwa	gwa	NUM	_	_	3	mod	_	AlignBegin=247216|AlignEnd=247402|GE=cl|Gloss=cl|nWord=4|RX=[NUM]
+5	baka	baka	NOUN	_	_	4	comp	_	AlignBegin=247402|AlignEnd=247588|GE=four|Gloss=four|nWord=4|RX=[N]
+6	,		PUNCT	_	_	8	punct	_	AlignBegin=247588|AlignEnd=247960|nWord=5
 7	che	che	PRON	_	_	9	subj	_	AlignBegin=249175|AlignEnd=249339|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=6|RX=[PRO]
 8	gna	gna	AUX	_	_	0	root	_	AlignBegin=249339|AlignEnd=249503|GE=can|Gloss=can|nWord=7|RX=[V]
 9	toi	toi	VERB	_	_	8	comp:aux	_	AlignBegin=249503|AlignEnd=249667|GE=live|Gloss=live|nWord=8|RX=[VI]
 10	dwa	dwa	ADV	_	_	9	mod:lmod	_	AlignBegin=249667|AlignEnd=249831|GE=down|Gloss=down|nWord=9|RX=[ADV]
-11	.		PUNCT	_	_	_	_	_	AlignBegin=249831|AlignEnd=249995|Gloss=.|nWord=10
+11	.		PUNCT	_	_	8	punct	_	AlignBegin=249831|AlignEnd=249995|Gloss=.|nWord=10
 

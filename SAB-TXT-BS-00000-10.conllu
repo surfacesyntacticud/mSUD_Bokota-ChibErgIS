@@ -44,7 +44,7 @@
 4	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=20249|AlignEnd=20431|GE=child|Gloss=child|nWord=4|RX=[N]
 5	gwa	gwa	_	_	_	_	_	_	AlignBegin=20431|AlignEnd=20612|nWord=4
 6	kle	kle	AUX	_	_	_	_	_	AlignBegin=20612|AlignEnd=20975|GE=be|Gloss=be|nWord=5|RX=[V]
-7	chi	chi	VERB	_	_	8	comp:aux	_	AlignBegin=20975|AlignEnd=21157|GE=come|Gloss=come|nWord=6|RX=[VI]
+7	chi	chi	VERB	_	_	8	comp:aux/m	_	AlignBegin=20975|AlignEnd=21157|GE=come|Gloss=come|nWord=6|RX=[VI]
 8	-e		AUX	_	_	6	comp:aux	_	AlignBegin=21157|AlignEnd=21338|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 9	,		PUNCT	_	_	_	_	_	AlignBegin=21338|AlignEnd=21700|nWord=7
 10	ski	ski	VERB	_	_	11	comp:aux/m	_	AlignBegin=23500|AlignEnd=23777|GE=plant|Gloss=plant|nWord=8|RX=[VT]

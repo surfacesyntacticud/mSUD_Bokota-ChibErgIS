@@ -31,7 +31,7 @@
 4	-e		AUX	_	_	5	comp:aux/m	_	AlignBegin=12880|AlignEnd=13164|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	-bale		AUX	_	_	_	_	_	AlignBegin=13164|AlignEnd=13449|GE=[PART]|Gloss=-PART|nWord=3|RX=[V:ANY]
 6	Olechia	Olechia	PROPN	_	_	7	comp	_	AlignBegin=13449|AlignEnd=14302|GE=[Olechia]|Gloss=Olechia|nWord=4|RX=[NPROP]
-7	giti	giti	ADP	_	_	3	comp:obl	_	AlignBegin=14302|AlignEnd=15155|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
+7	giti	giti	ADP	_	_	3	mod:lmod	_	AlignBegin=14302|AlignEnd=15155|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
 8	,		PUNCT	_	_	_	_	_	AlignBegin=15155|AlignEnd=16010|nWord=6
 9	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=16015|AlignEnd=16296|GE=and|Gloss=and|Lang=es|nWord=7|RX=[COORDCONN]
 10	cha	cha	PRON	_	_	11	udep:poss	_	AlignBegin=16296|AlignEnd=16577|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
@@ -40,7 +40,7 @@
 13	-e		AUX	_	_	14	comp:aux/m	_	AlignBegin=16952|AlignEnd=17046|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
 14	-bale		AUX	_	_	_	_	_	AlignBegin=17046|AlignEnd=17139|GE=[PART]|Gloss=-PART|nWord=10|RX=[V:ANY]
 15	Olechia	Olechia	PROPN	_	_	16	comp	_	AlignBegin=17139|AlignEnd=17420|GE=[Olechia]|Gloss=Olechia|nWord=11|RX=[NPROP]
-16	giti	giti	ADP	_	_	12	comp:obl	_	AlignBegin=17420|AlignEnd=17701|GE=[LOC]|Gloss=LOC|nWord=12|RX=[ADP]
+16	giti	giti	ADP	_	_	12	mod:lmod	_	AlignBegin=17420|AlignEnd=17701|GE=[LOC]|Gloss=LOC|nWord=12|RX=[ADP]
 17	.		PUNCT	_	_	_	_	_	AlignBegin=17701|AlignEnd=17985|Gloss=.|nWord=13
 
 # sent_id = SAB-TXT-LS-00000-01_004-004
@@ -57,7 +57,7 @@
 4	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=19870|AlignEnd=20735|GE=now|Gloss=now|Lang=es|nWord=3|RX=[ADV]
 5	huma	huma	ADJ	_	_	2	mod	_	AlignBegin=20735|AlignEnd=21600|GE=old|Gloss=old|nWord=4|RX=[ADJ]
 6	kle	kle	AUX	_	_	0	root	_	AlignBegin=21600|AlignEnd=22465|GE=be|Gloss=be|nWord=5|RX=[V]
-7	chi	chi	VERB	_	_	8	comp:aux	_	AlignBegin=22465|AlignEnd=22897|GE=come|Gloss=come|nWord=6|RX=[VI]
+7	chi	chi	VERB	_	_	8	comp:aux/m	_	AlignBegin=22465|AlignEnd=22897|GE=come|Gloss=come|nWord=6|RX=[VI]
 8	-e		AUX	_	_	6	comp:aux	_	AlignBegin=22897|AlignEnd=23330|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 9	cha	cha	PRON	_	_	12	comp:obj	_	AlignBegin=23330|AlignEnd=24195|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
 10	ai	ai	ADV	_	_	9	mod	_	AlignBegin=24195|AlignEnd=25060|GE=here|Gloss=here|nWord=8|RX=[ADV]
@@ -285,7 +285,7 @@
 10	kle	kle	AUX	_	_	_	_	_	AlignBegin=71209|AlignEnd=71516|GE=be|Gloss=be|nWord=10|RX=[V]
 11	toi	toi	VERB	_	_	10	comp:aux	_	AlignBegin=71516|AlignEnd=71823|GE=live|Gloss=live|nWord=11|RX=[VI]
 12	iki	iki	NOUN	_	_	_	_	_	AlignBegin=71823|AlignEnd=72130|GE=money|Gloss=money|nWord=12|RX=[N]
-13	me	me	PART	_	_	_	_	_	AlignBegin=72130|AlignEnd=72437|GE=[NEG]|Gloss=NEG|nWord=13|RX=[VERBPRT]
+13	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=72130|AlignEnd=72437|GE=[NEG]|Gloss=NEG|nWord=13|RX=[VERBPRT]
 14	.		PUNCT	_	_	_	_	_	AlignBegin=72437|AlignEnd=72745|Gloss=.|nWord=14
 
 # sent_id = SAB-TXT-LS-00000-01_019-019
@@ -327,7 +327,7 @@
 # text_en = The money did not come.
 # text_ortho = iki me skwendu .
 1	iki	iki	NOUN	_	_	_	_	_	AlignBegin=78275|AlignEnd=78539|GE=money|Gloss=money|nWord=1|RX=[N]
-2	me	me	AUX	_	_	0	root	_	AlignBegin=78539|AlignEnd=78803|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=78539|AlignEnd=78803|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	skwendu	skwendu	VERB	_	_	2	comp:aux	_	AlignBegin=78803|AlignEnd=79067|GE=appear.pst|Gloss=appear.pst|nWord=3|RX=[V]
 4	.		PUNCT	_	_	2	punct	_	AlignBegin=79067|AlignEnd=79330|Gloss=.|nWord=4
 
@@ -548,7 +548,7 @@
 # text_en = But I was not able. Because I was too young. I did not understand good. So (they) gave the comarca to the Guaymi.
 # text_ortho = cha me gnadu , porque cha taba soli agere , geru me suke no cha chugao ke , ama ho gligachada kweri ketabale wami ke .
 1	cha	cha	PRON	_	_	_	_	_	AlignBegin=127450|AlignEnd=127682|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	me	me	PART	_	_	_	_	_	AlignBegin=127682|AlignEnd=127914|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=127682|AlignEnd=127914|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	gna	gna	AUX	_	_	4	comp:aux/m	_	AlignBegin=127914|AlignEnd=127991|GE=can|Gloss=can|nWord=3|RX=[V]
 4	-d-		AUX	_	_	5	comp:aux/m	_	AlignBegin=127991|AlignEnd=128068|GE=[0]|Gloss=-0-|nWord=3|RX=[VERB]
 5	-u		AUX	_	_	_	_	_	AlignBegin=128068|AlignEnd=128146|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
@@ -560,7 +560,7 @@
 11	agere	agere	ADJ	_	_	_	_	_	AlignBegin=130810|AlignEnd=131390|GE=new|Gloss=new|nWord=9|RX=[ADJ]
 12	,		PUNCT	_	_	_	_	_	AlignBegin=131390|AlignEnd=131970|nWord=10
 13	geru	geru	NOUN	_	_	_	_	_	AlignBegin=132035|AlignEnd=132251|GE=story|Gloss=story|nWord=11|RX=[N]
-14	me	me	PART	_	_	_	_	_	AlignBegin=132251|AlignEnd=132467|GE=[NEG]|Gloss=NEG|nWord=12|RX=[VERBPRT]
+14	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=132251|AlignEnd=132467|GE=[NEG]|Gloss=NEG|nWord=12|RX=[VERBPRT]
 15	suk	suk	VERB	_	_	16	comp:aux/m	_	AlignBegin=132467|AlignEnd=132575|GE=understand|Gloss=understand|nWord=13|RX=[V]
 16	-e		AUX	_	_	_	_	_	AlignBegin=132575|AlignEnd=132683|GE=[THM]|Gloss=-THM|nWord=13|RX=[V:ANY]
 17	no	no	ADV	_	_	_	_	_	AlignBegin=132683|AlignEnd=132899|GE=well|Gloss=well|nWord=14|RX=[ADV]
@@ -838,7 +838,7 @@
 6	siaku	siaku	ADV	_	_	_	_	_	AlignBegin=186540|AlignEnd=186814|GE=far.dist.up|Gloss=far.dist.up|nWord=5|RX=[ADV]
 7	ba	ba	PRON	_	_	9	subj	_	AlignBegin=186814|AlignEnd=187088|GE=[2SG]|Gloss=2SG|nWord=6|RX=[PRO]
 8	kle	kle	AUX	_	_	_	_	_	AlignBegin=187088|AlignEnd=187362|GE=be|Gloss=be|nWord=7|RX=[V]
-9	chi	chi	VERB	_	_	10	comp:aux	_	AlignBegin=187362|AlignEnd=187499|GE=come|Gloss=come|nWord=8|RX=[VI]
+9	chi	chi	VERB	_	_	10	comp:aux/m	_	AlignBegin=187362|AlignEnd=187499|GE=come|Gloss=come|nWord=8|RX=[VI]
 10	-e		AUX	_	_	8	comp:aux	_	AlignBegin=187499|AlignEnd=187636|GE=[THM]|Gloss=-THM|nWord=8|RX=[V:ANY]
 11	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=187636|AlignEnd=187910|GE=today|Gloss=today|nWord=9|RX=[ADV]
 12	waninke	waninke	ADV	_	_	_	_	_	AlignBegin=187910|AlignEnd=188184|GE=place_of|Gloss=place_of|nWord=10|RX=[ADV]
@@ -923,7 +923,7 @@
 # text = me ene , geru blitunga .
 # text_en = It was not like that, (they) changed the story.
 # text_ortho = me ene , geru blitunga .
-1	me	me	PART	_	_	_	_	_	AlignBegin=218510|AlignEnd=218863|GE=[NEG]|Gloss=NEG|nWord=1|RX=[VERBPRT]
+1	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=218510|AlignEnd=218863|GE=[NEG]|Gloss=NEG|nWord=1|RX=[VERBPRT]
 2	ene	ene	ADV	_	_	_	_	_	AlignBegin=218863|AlignEnd=219216|GE=so|Gloss=so|nWord=2|RX=[ADV]
 3	,		PUNCT	_	_	_	_	_	AlignBegin=219216|AlignEnd=219569|nWord=3
 4	geru	geru	NOUN	_	_	5	subj	_	AlignBegin=219569|AlignEnd=219922|GE=story|Gloss=story|nWord=4|RX=[N]
@@ -1056,7 +1056,7 @@
 # text_en = One can't sell the hagna here.
 # text_ortho = che me gna hagna chuade aini .
 1	che	che	PRON	_	_	5	subj	_	AlignBegin=249520|AlignEnd=249767|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
-2	me	me	AUX	_	_	0	root	_	AlignBegin=249767|AlignEnd=250014|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=249767|AlignEnd=250014|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	gna	gna	AUX	_	_	2	comp:aux	_	AlignBegin=250014|AlignEnd=250261|GE=can|Gloss=can|nWord=3|RX=[V]
 4	hagna	hagna	NOUN	_	_	5	comp:obj	_	AlignBegin=250261|AlignEnd=250508|GE=plant_type|Gloss=plant_type|nWord=4|RX=[N]
 5	chuad	chuad	VERB	_	_	6	comp:aux/m	_	AlignBegin=250508|AlignEnd=250632|GE=sell|Gloss=sell|nWord=5|RX=[VT]
@@ -1077,14 +1077,14 @@
 3	-u		AUX	_	_	11	mod	_	AlignBegin=252250|AlignEnd=252460|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	tik	tik	VERB	_	_	5	comp:aux/m	_	AlignBegin=252460|AlignEnd=252670|GE=grow|Gloss=grow|nWord=3|RX=[V]
 5	-e		AUX	_	_	_	_	_	AlignBegin=252670|AlignEnd=252880|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
-6	,		PUNCT	_	_	_	_	_	AlignBegin=252880|AlignEnd=253300|nWord=4
+6	,		PUNCT	_	_	8	punct	_	AlignBegin=252880|AlignEnd=253300|nWord=4
 7	che	che	PRON	_	_	11	subj	_	AlignBegin=253375|AlignEnd=253638|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=5|RX=[PRO]
-8	me	me	AUX	_	_	0	root	_	AlignBegin=253638|AlignEnd=253901|GE=[NEG]|Gloss=NEG|nWord=6|RX=[VERBPRT]
+8	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=253638|AlignEnd=253901|GE=[NEG]|Gloss=NEG|nWord=6|RX=[VERBPRT]
 9	gna	gna	AUX	_	_	8	comp:aux	_	AlignBegin=253901|AlignEnd=254164|GE=can|Gloss=can|nWord=7|RX=[V]
 10	hagna	hagna	NOUN	_	_	11	comp:obj	_	AlignBegin=254164|AlignEnd=254427|GE=plant_type|Gloss=plant_type|nWord=8|RX=[N]
 11	chuad	chuad	VERB	_	_	12	comp:aux/m	_	AlignBegin=254427|AlignEnd=254559|GE=sell|Gloss=sell|nWord=9|RX=[VT]
 12	-e		AUX	_	_	9	comp:aux	_	AlignBegin=254559|AlignEnd=254690|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
-13	.		PUNCT	_	_	_	_	_	AlignBegin=254690|AlignEnd=254955|Gloss=.|nWord=10
+13	.		PUNCT	_	_	8	punct	_	AlignBegin=254690|AlignEnd=254955|Gloss=.|nWord=10
 
 # sent_id = SAB-TXT-LS-00000-01_081-081
 # speaker_id = @01
@@ -1095,7 +1095,7 @@
 # text_en = The hagna is not bought.
 # text_ortho = hagna me gikabale .
 1	hagna	hagna	NOUN	_	_	_	_	_	AlignBegin=255740|AlignEnd=256270|GE=plant_type|Gloss=plant_type|nWord=1|RX=[N]
-2	me	me	PART	_	_	_	_	_	AlignBegin=256270|AlignEnd=256800|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=256270|AlignEnd=256800|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	gik	gik	VERB	_	_	4	comp:aux/m	_	AlignBegin=256800|AlignEnd=256977|GE=buy|Gloss=buy|nWord=3|RX=[VT]
 4	-a		AUX	_	_	5	comp:aux/m	_	AlignBegin=256977|AlignEnd=257154|GE=[0]|Gloss=-0|nWord=3|RX=[VERB]
 5	-bale		AUX	_	_	_	_	_	AlignBegin=257154|AlignEnd=257330|GE=[PART]|Gloss=-PART|nWord=3|RX=[V:ANY]
@@ -1163,7 +1163,7 @@
 # text_en = (But) I do not plant hagna like before.
 # text_ortho = cha me kle hagna skie como uswiali .
 1	cha	cha	PRON	_	_	5	subj	_	AlignBegin=277950|AlignEnd=278266|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	me	me	AUX	_	_	0	root	_	AlignBegin=278266|AlignEnd=278582|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=278266|AlignEnd=278582|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	kle	kle	AUX	_	_	2	comp:aux	_	AlignBegin=278582|AlignEnd=278898|GE=be|Gloss=be|nWord=3|RX=[V]
 4	hagna	hagna	NOUN	_	_	5	comp:obj	_	AlignBegin=278898|AlignEnd=279214|GE=plant_type|Gloss=plant_type|nWord=4|RX=[N]
 5	ski	ski	VERB	_	_	6	comp:aux/m	_	AlignBegin=279214|AlignEnd=279372|GE=plant|Gloss=plant|nWord=5|RX=[VT]
@@ -1356,7 +1356,7 @@
 # text_en = The village was not as you see it today.
 # text_ortho = nga me ene como ba gwae dike ahora .
 1	nga	nga	NOUN	_	_	_	_	_	AlignBegin=312880|AlignEnd=313116|GE=village|Gloss=village|nWord=1|RX=[N]
-2	me	me	PART	_	_	_	_	_	AlignBegin=313116|AlignEnd=313352|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=313116|AlignEnd=313352|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	ene	ene	ADV	_	_	_	_	_	AlignBegin=313352|AlignEnd=313588|GE=so|Gloss=so|nWord=3|RX=[ADV]
 4	como	como	ADP	_	Foreign=Yes	_	_	_	AlignBegin=313588|AlignEnd=313824|GE=like|Gloss=like|Lang=es|nWord=4|RX=[ADP]
 5	ba	ba	PRON	_	_	6	subj	_	AlignBegin=313824|AlignEnd=314060|GE=[2SG]|Gloss=2SG|nWord=5|RX=[PRO]
@@ -1426,7 +1426,7 @@
 23	doia	doia	NOUN	_	_	_	_	_	AlignBegin=325952|AlignEnd=326288|GE=enemy|Gloss=enemy|nWord=20|RX=[N]
 24	cha	cha	PRON	_	_	26	subj	_	AlignBegin=326288|AlignEnd=326624|GE=[1SG]|Gloss=1SG|nWord=21|RX=[PRO]
 25	kle	kle	AUX	_	_	_	_	_	AlignBegin=326624|AlignEnd=326960|GE=be|Gloss=be|nWord=22|RX=[V]
-26	kad	kad	VERB	_	_	27	comp:aux	_	AlignBegin=326960|AlignEnd=327128|GE=call|Gloss=call|nWord=23|RX=[V]
+26	kad	kad	VERB	_	_	27	comp:aux/m	_	AlignBegin=326960|AlignEnd=327128|GE=call|Gloss=call|nWord=23|RX=[V]
 27	-u		AUX	_	_	25	comp:aux	_	AlignBegin=327128|AlignEnd=327296|GE=[PST]|Gloss=-PST|nWord=23|RX=[V:ANY]
 28	ba	ba	PRON	_	_	29	comp	_	AlignBegin=327296|AlignEnd=327632|GE=[2SG]|Gloss=2SG|nWord=24|RX=[PRO]
 29	ke	ke	ADP	_	_	26	comp:obl	_	AlignBegin=327632|AlignEnd=327968|GE=[LOC]|Gloss=LOC|nWord=25|RX=[ADP]
@@ -1463,11 +1463,11 @@
 # text_en = Here, it is not invented stories, It is true stories.
 # text_ortho = ene me kle geru blitenga , sino geru uliai ene .
 1	ene	ene	ADV	_	_	_	_	_	AlignBegin=331260|AlignEnd=331742|GE=so|Gloss=so|nWord=1|RX=[ADV]
-2	me	me	AUX	_	_	_	_	_	AlignBegin=331742|AlignEnd=332224|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=331742|AlignEnd=332224|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	kle	kle	AUX	_	_	2	comp:aux	_	AlignBegin=332224|AlignEnd=332706|GE=be|Gloss=be|nWord=3|RX=[V]
 4	geru	geru	NOUN	_	_	5	comp:obj	_	AlignBegin=332706|AlignEnd=333188|GE=story|Gloss=story|nWord=4|RX=[N]
 5	blit	blit	VERB	_	_	6	comp:aux/m	_	AlignBegin=333188|AlignEnd=333349|GE=change|Gloss=change|nWord=5|RX=[V]
-6	-e		AUX	_	_	7	comp:aux	_	AlignBegin=333349|AlignEnd=333510|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+6	-e		AUX	_	_	7	comp:aux/m	_	AlignBegin=333349|AlignEnd=333510|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	-nga		AUX	_	_	3	comp:aux	_	AlignBegin=333510|AlignEnd=333670|GE=[SUB]|Gloss=-SUB|nWord=5|RX=[V:ANY]
 8	,		PUNCT	_	_	_	_	_	AlignBegin=333670|AlignEnd=334150|nWord=6
 9	sino	sino	X	_	_	_	_	_	AlignBegin=334160|AlignEnd=334398|GE=otherwise|Gloss=otherwise|nWord=7|RX=[CONN]
@@ -1500,13 +1500,13 @@
 # text_en = If we don't annoy it, He will not kill us. But if we go there to see it, He comes to kill (us all).
 # text_ortho = che me hoke gdachuke , maungia iani me kle che batenga , pero si che hoke iani tiengda dike , maungia chie batenga nante .
 1	che	che	PRON	_	_	4	subj	_	AlignBegin=339240|AlignEnd=339686|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
-2	me	me	AUX	_	_	_	_	_	AlignBegin=339686|AlignEnd=340132|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=339686|AlignEnd=340132|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	hoke	hoke	VERB	_	_	2	comp:aux	_	AlignBegin=340132|AlignEnd=340578|GE=go|Gloss=go|nWord=3|RX=[VI]
 4	gdachuke	gdachuke	VERB	_	_	_	_	_	AlignBegin=340578|AlignEnd=341024|GE=annoy|Gloss=annoy|nWord=4|RX=[V]
 5	,		PUNCT	_	_	_	_	_	AlignBegin=341024|AlignEnd=341470|nWord=5
 6	maungia	maungia	PRON	_	_	11	subj	_	AlignBegin=341640|AlignEnd=342081|GE=[3SG]|Gloss=3SG|nWord=6|RX=[PRO]
 7	iani	iani	ADV	_	_	_	_	_	AlignBegin=342081|AlignEnd=342522|GE=there|Gloss=there|nWord=7|RX=[ADV]
-8	me	me	AUX	_	_	_	_	_	AlignBegin=342522|AlignEnd=342963|GE=[NEG]|Gloss=NEG|nWord=8|RX=[VERBPRT]
+8	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=342522|AlignEnd=342963|GE=[NEG]|Gloss=NEG|nWord=8|RX=[VERBPRT]
 9	kle	kle	AUX	_	_	8	comp:aux	_	AlignBegin=342963|AlignEnd=343404|GE=be|Gloss=be|nWord=9|RX=[V]
 10	che	che	PRON	_	_	11	comp:obj	_	AlignBegin=343404|AlignEnd=343845|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=10|RX=[PRO]
 11	batenga	batenga	VERB	_	_	9	comp:aux	_	AlignBegin=343845|AlignEnd=344286|GE=[end].[NPST]|Gloss=end.NPST|nWord=11|RX=[V]
@@ -1554,7 +1554,7 @@
 # text = kiro ulita ho gerude que nga ene uswiali nga me ene .
 # text_en = The kids say that the village is like that but before the village was not like that.
 # text_ortho = kiro ulita ho gerude que nga ene uswiali nga me ene .
-1	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=355050|AlignEnd=355392|GE=child|Gloss=child|nWord=1|RX=[N]
+1	kiro	kiro	NOUN	_	_	3	subj	_	AlignBegin=355050|AlignEnd=355392|GE=child|Gloss=child|nWord=1|RX=[N]
 2	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=355392|AlignEnd=355734|GE=all|Gloss=all|nWord=2|RX=[ADV]
 3	ho	hoke	AUX	_	_	0	root	_	AlignBegin=355734|AlignEnd=356076|GE=[go].[PST]|Gloss=go.PST|nWord=3|RX=[VI]
 4	gerud	gerud	VERB	_	_	5	comp:aux/m	_	AlignBegin=356076|AlignEnd=356247|GE=speak|Gloss=speak|nWord=4|RX=[V]
@@ -1564,9 +1564,9 @@
 8	ene	ene	ADV	_	_	_	_	_	AlignBegin=357102|AlignEnd=357444|GE=so|Gloss=so|nWord=7|RX=[ADV]
 9	uswiali	uswiali	ADV	_	_	_	_	_	AlignBegin=357444|AlignEnd=357786|GE=before|Gloss=before|nWord=8|RX=[ADV]
 10	nga	nga	NOUN	_	_	_	_	_	AlignBegin=357786|AlignEnd=358128|GE=village|Gloss=village|nWord=9|RX=[N]
-11	me	me	PART	_	_	_	_	_	AlignBegin=358128|AlignEnd=358470|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]
+11	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=358128|AlignEnd=358470|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]
 12	ene	ene	ADV	_	_	_	_	_	AlignBegin=358470|AlignEnd=358812|GE=so|Gloss=so|nWord=11|RX=[ADV]
-13	.		PUNCT	_	_	_	_	_	AlignBegin=358812|AlignEnd=359160|Gloss=.|nWord=12
+13	.		PUNCT	_	_	3	punct	_	AlignBegin=358812|AlignEnd=359160|Gloss=.|nWord=12
 
 # sent_id = SAB-TXT-LS-00000-01_120-121
 # speaker_id = @01
@@ -1800,7 +1800,7 @@
 9	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=405970|AlignEnd=406184|GE=because|Gloss=because|Lang=es|nWord=7|RX=[CONN]
 10	ai	ai	ADV	_	_	_	_	_	AlignBegin=406184|AlignEnd=406398|GE=here|Gloss=here|nWord=8|RX=[ADV]
 11	cha	cha	PRON	_	_	_	_	_	AlignBegin=406398|AlignEnd=406612|GE=[1SG]|Gloss=1SG|nWord=9|RX=[PRO]
-12	me	me	PART	_	_	_	_	_	AlignBegin=406612|AlignEnd=406826|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]
+12	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=406612|AlignEnd=406826|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]
 13	.		PUNCT	_	_	_	_	_	AlignBegin=406826|AlignEnd=407040|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-LS-00000-01_137-138
@@ -1819,7 +1819,7 @@
 6	,		PUNCT	_	_	_	_	_	AlignBegin=408844|AlignEnd=409280|nWord=5
 7	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=409805|AlignEnd=410017|GE=that|Gloss=that|Lang=es|nWord=6|RX=[PRO]
 8	die	die	NOUN	_	_	_	_	_	AlignBegin=410017|AlignEnd=410229|GE=thing|Gloss=thing|nWord=7|RX=[N]
-9	me	me	PART	_	_	_	_	_	AlignBegin=410229|AlignEnd=410441|GE=[NEG]|Gloss=NEG|nWord=8|RX=[VERBPRT]
+9	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=410229|AlignEnd=410441|GE=[NEG]|Gloss=NEG|nWord=8|RX=[VERBPRT]
 10	aini	aini	ADV	_	_	_	_	_	AlignBegin=410441|AlignEnd=410653|GE=here|Gloss=here|nWord=9|RX=[ADV]
 11	.		PUNCT	_	_	_	_	_	AlignBegin=410653|AlignEnd=410865|Gloss=.|nWord=10
 
@@ -2146,7 +2146,7 @@
 5	giti	giti	ADP	_	_	_	_	_	AlignBegin=478400|AlignEnd=479050|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
 6	cha	cha	PRON	_	_	8	subj	_	AlignBegin=479050|AlignEnd=479700|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
 7	kle	kle	AUX	_	_	_	_	_	AlignBegin=479700|AlignEnd=480350|GE=be|Gloss=be|nWord=6|RX=[V]
-8	kirabat	kirabat	VERB	_	_	9	comp:aux	_	AlignBegin=480350|AlignEnd=480675|GE=fight|Gloss=fight|nWord=7|RX=[V]
+8	kirabat	kirabat	VERB	_	_	9	comp:aux/m	_	AlignBegin=480350|AlignEnd=480675|GE=fight|Gloss=fight|nWord=7|RX=[V]
 9	-e		AUX	_	_	7	comp:aux	_	AlignBegin=480675|AlignEnd=481000|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
 10	Chere	Chere	PROPN	_	_	_	_	_	AlignBegin=481000|AlignEnd=481650|GE=[Chere]|Gloss=Chere|nWord=8|RX=[NPROP]
 11	che	che	PRON	_	_	12	udep:poss	_	AlignBegin=481650|AlignEnd=482300|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=9|RX=[PRO]

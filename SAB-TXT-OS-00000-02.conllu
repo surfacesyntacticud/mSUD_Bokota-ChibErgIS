@@ -16,7 +16,7 @@
 8	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=15236|AlignEnd=15842|GE=now|Gloss=now|Lang=es|nWord=7|RX=[ADV]
 9	kle	kle	AUX	_	_	_	_	_	AlignBegin=15842|AlignEnd=16448|GE=be|Gloss=be|nWord=8|RX=[V]
 10	kwia	kwia	NOUN	_	_	13	subj	_	AlignBegin=16448|AlignEnd=17054|GE=people|Gloss=people|nWord=9|RX=[N]
-11	me	me	AUX	_	_	0	root	_	AlignBegin=17054|AlignEnd=17660|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]
+11	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=17054|AlignEnd=17660|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]
 12	kle	kle	AUX	_	_	11	comp:aux	_	AlignBegin=17660|AlignEnd=18266|GE=be|Gloss=be|nWord=11|RX=[V]
 13	toi	toi	VERB	_	_	12	comp:aux	_	AlignBegin=18266|AlignEnd=18872|GE=live|Gloss=live|nWord=12|RX=[VI]
 14	.		PUNCT	_	_	11	punct	_	AlignBegin=18872|AlignEnd=19480|Gloss=.|nWord=13
@@ -31,11 +31,11 @@
 # text_ortho = ai die kada kle misi die kada kle chunchi blegda die ese tengre nga ai ke .
 1	ai	ai	ADV	_	_	_	_	_	AlignBegin=20080|AlignEnd=20419|GE=here|Gloss=here|nWord=1|RX=[ADV]
 2	die	die	NOUN	_	_	_	_	_	AlignBegin=20419|AlignEnd=20758|GE=thing|Gloss=thing|nWord=2|RX=[N]
-3	kada	kada	NOUN	_	_	_	_	_	AlignBegin=20758|AlignEnd=21097|GE=name|Gloss=name|nWord=3|RX=[N]
+3	kada	kada	NOUN	_	_	4	comp:aux/m	_	AlignBegin=20758|AlignEnd=21097|GE=name|Gloss=name|nWord=3|RX=[N]
 4	kle	kle	AUX	_	_	_	_	_	AlignBegin=21097|AlignEnd=21436|GE=be|Gloss=be|nWord=4|RX=[V]
 5	misi	misi	NOUN	_	_	_	_	_	AlignBegin=21436|AlignEnd=21775|GE=jaguar|Gloss=jaguar|nWord=5|RX=[N]
 6	die	die	NOUN	_	_	_	_	_	AlignBegin=21775|AlignEnd=22114|GE=thing|Gloss=thing|nWord=6|RX=[N]
-7	kada	kada	NOUN	_	_	_	_	_	AlignBegin=22114|AlignEnd=22453|GE=name|Gloss=name|nWord=7|RX=[N]
+7	kada	kada	NOUN	_	_	8	comp:aux/m	_	AlignBegin=22114|AlignEnd=22453|GE=name|Gloss=name|nWord=7|RX=[N]
 8	kle	kle	AUX	_	_	_	_	_	AlignBegin=22453|AlignEnd=22792|GE=be|Gloss=be|nWord=8|RX=[V]
 9	chunchi	chunchi	NOUN	_	_	_	_	_	AlignBegin=22792|AlignEnd=23131|GE=porc|Gloss=porc|nWord=9|RX=[N]
 10	blegda	blegda	NOUN	_	_	_	_	_	AlignBegin=23131|AlignEnd=23470|GE=porc|Gloss=porc|nWord=10|RX=[N]
@@ -262,7 +262,7 @@
 7	-u		AUX	_	_	_	_	_	AlignBegin=68682|AlignEnd=68905|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]
 8	,		PUNCT	_	_	_	_	_	AlignBegin=68905|AlignEnd=69350|nWord=6
 9	bla	bla	NOUN	_	_	_	_	_	AlignBegin=70905|AlignEnd=71171|GE=banana|Gloss=banana|nWord=7|RX=[N]
-10	me	me	PART	_	_	_	_	_	AlignBegin=71171|AlignEnd=71437|GE=[NEG]|Gloss=NEG|nWord=8|RX=[VERBPRT]
+10	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=71171|AlignEnd=71437|GE=[NEG]|Gloss=NEG|nWord=8|RX=[VERBPRT]
 11	chi	chi	VERB	_	_	12	comp:aux/m	_	AlignBegin=71437|AlignEnd=71570|GE=come|Gloss=come|nWord=9|RX=[VI]
 12	-u		AUX	_	_	_	_	_	AlignBegin=71570|AlignEnd=71703|GE=[PST]|Gloss=-PST|nWord=9|RX=[V:ANY]
 13	gda	gda	NUM	_	_	_	_	_	AlignBegin=71703|AlignEnd=71969|GE=cl|Gloss=cl|nWord=10|RX=[NUM]
@@ -299,7 +299,7 @@
 # text_ortho = die na me chku gda uniale bligda chku enusuli kote .
 1	die	die	NOUN	_	_	_	_	_	AlignBegin=76005|AlignEnd=76319|GE=thing|Gloss=thing|nWord=1|RX=[N]
 2	na	na	ADJ	_	_	1	mod	_	AlignBegin=76319|AlignEnd=76633|GE=other|Gloss=other|nWord=2|RX=[DET]
-3	me	me	PART	_	_	_	_	_	AlignBegin=76633|AlignEnd=76947|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=76633|AlignEnd=76947|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	chk	chk	VERB	_	_	5	comp:aux/m	_	AlignBegin=76947|AlignEnd=77104|GE=arrive|Gloss=arrive|nWord=4|RX=[VI]
 5	-u		AUX	_	_	_	_	_	AlignBegin=77104|AlignEnd=77261|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
 6	gda	gda	NUM	_	_	_	_	_	AlignBegin=77261|AlignEnd=77575|GE=cl|Gloss=cl|nWord=5|RX=[NUM]
@@ -521,12 +521,12 @@
 18	cha	cha	PRON	_	_	21	subj	_	AlignBegin=128695|AlignEnd=128967|GE=[1SG]|Gloss=1SG|nWord=15|RX=[PRO]
 19	dwa	dwa	ADV	_	_	_	_	_	AlignBegin=128967|AlignEnd=129239|GE=down|Gloss=down|nWord=16|RX=[ADV]
 20	kle	kle	AUX	_	_	_	_	_	AlignBegin=129239|AlignEnd=129511|GE=be|Gloss=be|nWord=17|RX=[V]
-21	chk	chk	VERB	_	_	22	comp:aux	_	AlignBegin=129511|AlignEnd=129647|GE=arrive|Gloss=arrive|nWord=18|RX=[VI]
+21	chk	chk	VERB	_	_	22	comp:aux/m	_	AlignBegin=129511|AlignEnd=129647|GE=arrive|Gloss=arrive|nWord=18|RX=[VI]
 22	-e		AUX	_	_	20	comp:aux	_	AlignBegin=129647|AlignEnd=129783|GE=[THM]|Gloss=-THM|nWord=18|RX=[V:ANY]
 23	,		PUNCT	_	_	_	_	_	AlignBegin=129783|AlignEnd=130055|nWord=19
 24	cha	cha	PRON	_	_	26	subj	_	AlignBegin=130145|AlignEnd=130443|GE=[1SG]|Gloss=1SG|nWord=20|RX=[PRO]
 25	kle	kle	AUX	_	_	_	_	_	AlignBegin=130443|AlignEnd=130741|GE=be|Gloss=be|nWord=21|RX=[V]
-26	chk	chk	VERB	_	_	27	comp:aux	_	AlignBegin=130741|AlignEnd=130890|GE=arrive|Gloss=arrive|nWord=22|RX=[VI]
+26	chk	chk	VERB	_	_	27	comp:aux/m	_	AlignBegin=130741|AlignEnd=130890|GE=arrive|Gloss=arrive|nWord=22|RX=[VI]
 27	-e		AUX	_	_	25	comp:aux	_	AlignBegin=130890|AlignEnd=131039|GE=[THM]|Gloss=-THM|nWord=22|RX=[V:ANY]
 28	aini	aini	ADV	_	_	26	mod:lmod	_	AlignBegin=131039|AlignEnd=131337|GE=here|Gloss=here|nWord=23|RX=[ADV]
 29	,		PUNCT	_	_	_	_	_	AlignBegin=131337|AlignEnd=131635|nWord=24
@@ -589,7 +589,7 @@
 # text_en = I am not stupid like Boisiri. So we eat the good parts of the meat. We eat the good flesh of the meat. I do not do like Boisiri, the thing that are not good, I don't eat.
 # text_ortho = cha me Boisiri kwi here , agwa che kle samla no gute , che kle die uda no gute , agwa che me Boisiri die , die me no no gute .
 1	cha	cha	PRON	_	_	_	_	_	AlignBegin=141295|AlignEnd=141589|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	me	me	PART	_	_	_	_	_	AlignBegin=141589|AlignEnd=141883|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=141589|AlignEnd=141883|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	Boisiri	Boisiri	PROPN	_	_	_	_	_	AlignBegin=141883|AlignEnd=142177|GE=[Boisiri]|Gloss=Boisiri|nWord=3|RX=[NPROP]
 4	kwi	kwi	ADJ	_	_	_	_	_	AlignBegin=142177|AlignEnd=142471|GE=idiot|Gloss=idiot|nWord=4|RX=[ADJ]
 5	here	here	ADJ	_	_	_	_	_	AlignBegin=142471|AlignEnd=142765|GE=black|Gloss=black|nWord=5|RX=[ADJ]
@@ -612,12 +612,12 @@
 22	,		PUNCT	_	_	_	_	_	AlignBegin=146351|AlignEnd=146585|nWord=20
 23	agwa	agwa	ADV	_	_	_	_	_	AlignBegin=146680|AlignEnd=146985|GE=[DISC]|Gloss=DISC|nWord=21|RX=[ADV]
 24	che	che	PRON	_	_	_	_	_	AlignBegin=146985|AlignEnd=147290|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=22|RX=[PRO]
-25	me	me	PART	_	_	_	_	_	AlignBegin=147290|AlignEnd=147595|GE=[NEG]|Gloss=NEG|nWord=23|RX=[VERBPRT]
+25	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=147290|AlignEnd=147595|GE=[NEG]|Gloss=NEG|nWord=23|RX=[VERBPRT]
 26	Boisiri	Boisiri	PROPN	_	_	_	_	_	AlignBegin=147595|AlignEnd=147900|GE=[Boisiri]|Gloss=Boisiri|nWord=24|RX=[NPROP]
 27	die	die	NOUN	_	_	_	_	_	AlignBegin=147900|AlignEnd=148205|GE=thing|Gloss=thing|nWord=25|RX=[N]
 28	,		PUNCT	_	_	_	_	_	AlignBegin=148205|AlignEnd=148510|nWord=26
 29	die	die	NOUN	_	_	_	_	_	AlignBegin=148510|AlignEnd=148815|GE=thing|Gloss=thing|nWord=27|RX=[N]
-30	me	me	PART	_	_	_	_	_	AlignBegin=148815|AlignEnd=149120|GE=[NEG]|Gloss=NEG|nWord=28|RX=[VERBPRT]
+30	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=148815|AlignEnd=149120|GE=[NEG]|Gloss=NEG|nWord=28|RX=[VERBPRT]
 31	no	no	ADJ	_	_	30	comp:pred	_	AlignBegin=149120|AlignEnd=149425|GE=good|Gloss=good|nWord=29|RX=[ADJ]
 32	no	no	PART	_	_	_	_	_	AlignBegin=149425|AlignEnd=149730|GE=[NEG]|Gloss=NEG|nWord=30|RX=[VERBPRT]
 33	gut	gut	VERB	_	_	34	comp:aux/m	_	AlignBegin=149730|AlignEnd=149882|GE=eat|Gloss=eat|nWord=31|RX=[VT]
@@ -728,7 +728,7 @@
 # text_en = Don't worry. What is thrown, (Native to Boisiri) take for you.
 # text_ortho = ba me taiade , mlianga mlianga , ba mung gaida ole .
 1	ba	ba	PRON	_	_	3	subj	_	AlignBegin=169170|AlignEnd=169385|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
-2	me	me	PART	_	_	_	_	_	AlignBegin=169385|AlignEnd=169600|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=169385|AlignEnd=169600|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	taiad	taiad	VERB	_	_	4	comp:aux/m	_	AlignBegin=169600|AlignEnd=169708|GE=worry|Gloss=worry|nWord=3|RX=[V]
 4	-e		AUX	_	_	_	_	_	AlignBegin=169708|AlignEnd=169815|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	,		PUNCT	_	_	_	_	_	AlignBegin=169815|AlignEnd=170030|nWord=4
@@ -757,11 +757,11 @@
 # text_ortho = ( ba me ta ) ba me kakenga gwa .
 1	(		PUNCT	_	_	_	_	_	AlignBegin=172395|AlignEnd=172574|nWord=1
 2	ba	ba	PRON	_	_	_	_	_	AlignBegin=172574|AlignEnd=172753|GE=[2SG]|Gloss=2SG|nWord=2|RX=[PRO]
-3	me	me	PART	_	_	_	_	_	AlignBegin=172753|AlignEnd=172932|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=172753|AlignEnd=172932|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	ta	ta	NOUN	_	_	_	_	_	AlignBegin=172932|AlignEnd=173111|GE=heart|Gloss=heart|nWord=4|RX=[N]
 5	)		PUNCT	_	_	_	_	_	AlignBegin=173111|AlignEnd=173290|nWord=5
 6	ba	ba	PRON	_	_	8	subj	_	AlignBegin=173290|AlignEnd=173469|GE=[2SG]|Gloss=2SG|nWord=6|RX=[PRO]
-7	me	me	AUX	_	_	0	root	_	AlignBegin=173469|AlignEnd=173648|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
+7	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=173469|AlignEnd=173648|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
 8	kakenga	kakenga	VERB	_	_	7	comp:aux	_	AlignBegin=173648|AlignEnd=173827|GE=[loose].[NPST]|Gloss=loose.NPST|nWord=8|RX=[V]
 9	gwa	gwa	ADV	_	_	_	_	_	AlignBegin=173827|AlignEnd=174006|GE=inside|Gloss=inside|nWord=9|RX=[ADV]
 10	.		PUNCT	_	_	_	_	_	AlignBegin=174006|AlignEnd=174185|Gloss=.|nWord=10
@@ -776,7 +776,7 @@
 # text_ortho = die kle manadale dake , asi es que kleada cha ke , kleada cha kle .
 1	die	die	NOUN	_	_	3	subj	_	AlignBegin=174205|AlignEnd=174717|GE=thing|Gloss=thing|nWord=1|RX=[N]
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=174717|AlignEnd=175229|GE=be|Gloss=be|nWord=2|RX=[V]
-3	mana	mana	VERB	_	_	4	comp:aux	_	AlignBegin=175229|AlignEnd=175485|GE=take_care|Gloss=take_care|nWord=3|RX=[V]
+3	mana	mana	VERB	_	_	4	comp:aux/m	_	AlignBegin=175229|AlignEnd=175485|GE=take_care|Gloss=take_care|nWord=3|RX=[V]
 4	-dale		AUX	_	_	2	comp:aux	_	AlignBegin=175485|AlignEnd=175741|GE=[IRR]|Gloss=-IRR|nWord=3|RX=[V:ANY]
 5	dake	dake	VERB	_	_	_	_	_	AlignBegin=175741|AlignEnd=176253|GE=cost|Gloss=cost|nWord=4|RX=[V]
 6	,		PUNCT	_	_	_	_	_	AlignBegin=176253|AlignEnd=176765|nWord=5
@@ -829,7 +829,7 @@
 4	ai	ai	ADV	_	_	_	_	_	AlignBegin=185647|AlignEnd=186021|GE=here|Gloss=here|nWord=4|RX=[ADV]
 5	ske	ske	ADP	_	_	_	_	_	AlignBegin=186021|AlignEnd=186395|GE=with|Gloss=with|nWord=5|RX=[ADP]
 6	kle	kle	AUX	_	_	0	root	_	AlignBegin=186395|AlignEnd=186769|GE=be|Gloss=be|nWord=6|RX=[V]
-7	gerud	gerud	VERB	_	_	8	comp:aux	_	AlignBegin=186769|AlignEnd=186956|GE=speak|Gloss=speak|nWord=7|RX=[V]
+7	gerud	gerud	VERB	_	_	8	comp:aux/m	_	AlignBegin=186769|AlignEnd=186956|GE=speak|Gloss=speak|nWord=7|RX=[V]
 8	-e		AUX	_	_	6	comp:aux	_	AlignBegin=186956|AlignEnd=187143|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
 9	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=187143|AlignEnd=187517|GE=like_that|Gloss=like_that|Lang=es|nWord=8|RX=[ADV]
 10	enusuli	enusuli	NOUN	_	_	_	_	_	AlignBegin=187517|AlignEnd=187891|GE=grandfather|Gloss=grandfather|nWord=9|RX=[N]
@@ -1185,7 +1185,7 @@
 5	ke	ke	ADP	_	_	2	comp:obl	_	AlignBegin=239823|AlignEnd=240489|GE=[DAT]|Gloss=DAT|nWord=4|RX=[ADP]
 6	:		PUNCT	_	_	_	_	_	AlignBegin=240489|AlignEnd=241155|nWord=5
 7	ba	ba	PRON	_	_	9	subj	_	AlignBegin=241830|AlignEnd=242230|GE=[2SG]|Gloss=2SG|nWord=6|RX=[PRO]
-8	me	me	PART	_	_	_	_	_	AlignBegin=242230|AlignEnd=242630|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
+8	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=242230|AlignEnd=242630|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
 9	chuk	chuk	VERB	_	_	10	comp:aux/m	_	AlignBegin=242630|AlignEnd=242830|GE=touch|Gloss=touch|nWord=8|RX=[V]
 10	-e		AUX	_	_	_	_	_	AlignBegin=242830|AlignEnd=243030|GE=[THM]|Gloss=-THM|nWord=8|RX=[V:ANY]
 11	dike	dike	ADP	_	_	_	_	_	AlignBegin=243030|AlignEnd=243430|GE=[INST]|Gloss=INST|nWord=9|RX=[ADP]
@@ -1200,7 +1200,7 @@
 # text_en = Do not waste, These are my animals.
 # text_ortho = ba me boitutu agwa , ese cha bdaia .
 1	ba	ba	PRON	_	_	3	subj	_	AlignBegin=243860|AlignEnd=244104|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
-2	me	me	AUX	_	_	_	_	_	AlignBegin=244104|AlignEnd=244348|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=244104|AlignEnd=244348|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	boitutu	boitutu	VERB	_	_	2	comp:aux	_	AlignBegin=244348|AlignEnd=244592|GE=waste|Gloss=waste|nWord=3|RX=[V]
 4	agwa	agwa	ADV	_	_	_	_	_	AlignBegin=244592|AlignEnd=244836|GE=[DISC]|Gloss=DISC|nWord=4|RX=[ADV]
 5	,		PUNCT	_	_	_	_	_	AlignBegin=244836|AlignEnd=245080|nWord=5
@@ -1250,7 +1250,7 @@
 15	,		PUNCT	_	_	_	_	_	AlignBegin=252582|AlignEnd=252970|nWord=12
 16	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=253010|AlignEnd=253167|GE=but|Gloss=but|Lang=es|nWord=13|RX=[COORDCONN]
 17	ba	ba	PRON	_	_	19	subj	_	AlignBegin=253167|AlignEnd=253324|GE=[2SG]|Gloss=2SG|nWord=14|RX=[PRO]
-18	me	me	AUX	_	_	_	_	_	AlignBegin=253324|AlignEnd=253481|GE=[NEG]|Gloss=NEG|nWord=15|RX=[VERBPRT]
+18	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=253324|AlignEnd=253481|GE=[NEG]|Gloss=NEG|nWord=15|RX=[VERBPRT]
 19	gwe	gwe	VERB	_	_	18	comp:aux	_	AlignBegin=253481|AlignEnd=253638|GE=kill|Gloss=kill|nWord=16|RX=[V]
 20	ngle	ngle	ADV	_	_	_	_	_	AlignBegin=253638|AlignEnd=253795|GE=more|Gloss=more|nWord=17|RX=[ADV]
 21	.		PUNCT	_	_	_	_	_	AlignBegin=253795|AlignEnd=253950|Gloss=.|nWord=18
@@ -1287,7 +1287,7 @@
 6	,		PUNCT	_	_	_	_	_	AlignBegin=257715|AlignEnd=257915|nWord=6
 7	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=257940|AlignEnd=258122|GE=and|Gloss=and|Lang=es|nWord=7|RX=[COORDCONN]
 8	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=258122|AlignEnd=258304|GE=now|Gloss=now|Lang=es|nWord=8|RX=[ADV]
-9	me	me	PART	_	_	_	_	_	AlignBegin=258304|AlignEnd=258486|GE=[NEG]|Gloss=NEG|nWord=9|RX=[VERBPRT]
+9	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=258304|AlignEnd=258486|GE=[NEG]|Gloss=NEG|nWord=9|RX=[VERBPRT]
 10	chek	chek	VERB	_	_	11	comp:aux/m	_	AlignBegin=258486|AlignEnd=258547|GE=stay|Gloss=stay|nWord=10|RX=[VI]
 11	-e		AUX	_	_	12	comp:aux/m	_	AlignBegin=258547|AlignEnd=258608|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
 12	-dale		AUX	_	_	_	_	_	AlignBegin=258608|AlignEnd=258668|GE=[IRR]|Gloss=-IRR|nWord=10|RX=[V:ANY]
@@ -1310,7 +1310,7 @@
 3	bda	bda	NOUN	_	_	_	_	_	AlignBegin=261000|AlignEnd=261510|GE=animal|Gloss=animal|nWord=3|RX=[N]
 4	lamu	lamu	NOUN	_	_	6	subj	_	AlignBegin=261510|AlignEnd=262020|GE=owner|Gloss=owner|nWord=4|RX=[N]
 5	kle	kle	AUX	_	_	_	_	_	AlignBegin=262020|AlignEnd=262530|GE=be|Gloss=be|nWord=5|RX=[V]
-6	gerud	gerud	VERB	_	_	7	comp:aux	_	AlignBegin=262530|AlignEnd=262785|GE=speak|Gloss=speak|nWord=6|RX=[V]
+6	gerud	gerud	VERB	_	_	7	comp:aux/m	_	AlignBegin=262530|AlignEnd=262785|GE=speak|Gloss=speak|nWord=6|RX=[V]
 7	-e		AUX	_	_	5	comp:aux	_	AlignBegin=262785|AlignEnd=263040|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 8	enusuli	enusuli	NOUN	_	_	_	_	_	AlignBegin=263040|AlignEnd=263550|GE=grandfather|Gloss=grandfather|nWord=7|RX=[N]
 9	Boisiri	Boisiri	PROPN	_	_	10	comp	_	AlignBegin=263550|AlignEnd=264060|GE=[Boisiri]|Gloss=Boisiri|nWord=8|RX=[NPROP]
@@ -1326,7 +1326,7 @@
 19	ke	ke	ADP	_	_	_	_	_	AlignBegin=267990|AlignEnd=268270|GE=[LOC]|Gloss=LOC|nWord=18|RX=[ADP]
 20	tengkle	tengkle	ADV	_	_	_	_	_	AlignBegin=268270|AlignEnd=268550|GE=through|Gloss=through|nWord=19|RX=[ADV]
 21	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=268550|AlignEnd=268830|GE=now|Gloss=now|Lang=es|nWord=20|RX=[ADV]
-22	me	me	PART	_	_	_	_	_	AlignBegin=268830|AlignEnd=269110|GE=[NEG]|Gloss=NEG|nWord=21|RX=[VERBPRT]
+22	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=268830|AlignEnd=269110|GE=[NEG]|Gloss=NEG|nWord=21|RX=[VERBPRT]
 23	chek	chek	VERB	_	_	24	comp:aux/m	_	AlignBegin=269110|AlignEnd=269250|GE=stay|Gloss=stay|nWord=22|RX=[VI]
 24	-u		AUX	_	_	_	_	_	AlignBegin=269250|AlignEnd=269390|GE=[PST]|Gloss=-PST|nWord=22|RX=[V:ANY]
 25	ali	ali	ADP	_	_	_	_	_	AlignBegin=269390|AlignEnd=269670|GE=with|Gloss=with|nWord=23|RX=[ADP]

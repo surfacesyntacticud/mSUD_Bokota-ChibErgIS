@@ -7,14 +7,14 @@
 # text_en = ‎‎Before, my grandfather and my grandmother lived in Panama.
 # text_ortho = cha uswilingaswili cha enusuli cha cheisuli toi Panama .
 1	cha	cha	PRON	_	_	_	_	_	AlignBegin=7440|AlignEnd=8130|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	uswilingaswili	uswilingaswili	ADV	_	_	_	_	_	AlignBegin=8130|AlignEnd=8820|GE=before|Gloss=before|nWord=2|RX=[ADV]
+2	uswilingaswili	uswilingaswili	ADV	_	_	7	mod:tmod	_	AlignBegin=8130|AlignEnd=8820|GE=before|Gloss=before|nWord=2|RX=[ADV]
 3	cha	cha	PRON	_	_	4	udep:poss	_	AlignBegin=8820|AlignEnd=9510|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
-4	enusuli	enusuli	NOUN	_	_	_	_	_	AlignBegin=9510|AlignEnd=10200|GE=grandfather|Gloss=grandfather|nWord=4|RX=[N]
+4	enusuli	enusuli	NOUN	_	_	7	subj	_	AlignBegin=9510|AlignEnd=10200|GE=grandfather|Gloss=grandfather|nWord=4|RX=[N]
 5	cha	cha	PRON	_	_	6	udep:poss	_	AlignBegin=10200|AlignEnd=10890|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
-6	cheisuli	cheisuli	NOUN	_	_	_	_	_	AlignBegin=10890|AlignEnd=11580|GE=grandmother|Gloss=grandmother|nWord=6|RX=[N]
-7	toi	toi	VERB	_	_	_	_	_	AlignBegin=11580|AlignEnd=12270|GE=live|Gloss=live|nWord=7|RX=[VI]
-8	Panama	Panama	PROPN	_	_	_	_	_	AlignBegin=12270|AlignEnd=12960|GE=[Panama]|Gloss=Panama|nWord=8|RX=[NPROP]
-9	.		PUNCT	_	_	_	_	_	AlignBegin=12960|AlignEnd=13650|Gloss=.|nWord=9
+6	cheisuli	cheisuli	NOUN	_	_	4	conj:coord	_	AlignBegin=10890|AlignEnd=11580|GE=grandmother|Gloss=grandmother|nWord=6|RX=[N]
+7	toi	toi	VERB	_	_	0	root	_	AlignBegin=11580|AlignEnd=12270|GE=live|Gloss=live|nWord=7|RX=[VI]
+8	Panama	Panama	PROPN	_	_	7	mod:lmod	_	AlignBegin=12270|AlignEnd=12960|GE=[Panama]|Gloss=Panama|nWord=8|RX=[NPROP]
+9	.		PUNCT	_	_	7	punct	_	AlignBegin=12960|AlignEnd=13650|Gloss=.|nWord=9
 
 # sent_id = SAB-TXT-AN-00001-03_02-02
 # speaker_id = @03
@@ -101,15 +101,15 @@
 1	enusuli	enusuli	NOUN	_	_	4	subj	_	AlignBegin=28670|AlignEnd=29136|GE=grandfather|Gloss=grandfather|nWord=1|RX=[N]
 2	cheisuli	cheisuli	NOUN	_	_	1	conj:coord	_	AlignBegin=29136|AlignEnd=29602|GE=grandmother|Gloss=grandmother|nWord=2|RX=[N]
 3	kle	kle	AUX	_	_	0	root	_	AlignBegin=29602|AlignEnd=30068|GE=be|Gloss=be|nWord=3|RX=[V]
-4	taianchuk	taianchuk	VERB	_	_	5	comp:aux	_	AlignBegin=30068|AlignEnd=30301|GE=think|Gloss=think|nWord=4|RX=[V]
+4	taianchuk	taianchuk	VERB	_	_	5	comp:aux/m	_	AlignBegin=30068|AlignEnd=30301|GE=think|Gloss=think|nWord=4|RX=[V]
 5	-e		AUX	_	_	3	comp:aux	_	AlignBegin=30301|AlignEnd=30534|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	,		PUNCT	_	_	_	_	_	AlignBegin=30534|AlignEnd=31000|nWord=5
+6	,		PUNCT	_	_	3	punct	_	AlignBegin=30534|AlignEnd=31000|nWord=5
 7	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=31020|AlignEnd=31254|GE=that|Gloss=that|Lang=es|nWord=6|RX=[PRO]
 8	hula	hula	NOUN	_	_	9	subj	_	AlignBegin=31254|AlignEnd=31488|GE=white_man|Gloss=white_man|nWord=7|RX=[N]
 9	chi	chi	VERB	_	_	10	comp:aux/m	_	AlignBegin=31488|AlignEnd=31605|GE=come|Gloss=come|nWord=8|RX=[VI]
 10	-u		AUX	_	_	_	_	_	AlignBegin=31605|AlignEnd=31722|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]
 11	no	no	ADV	_	_	_	_	_	AlignBegin=31722|AlignEnd=31956|GE=well|Gloss=well|nWord=9|RX=[ADV]
-12	.		PUNCT	_	_	_	_	_	AlignBegin=31956|AlignEnd=32190|Gloss=.|nWord=10
+12	.		PUNCT	_	_	3	punct	_	AlignBegin=31956|AlignEnd=32190|Gloss=.|nWord=10
 
 # sent_id = SAB-TXT-AN-00001-03_09-09
 # speaker_id = @03
@@ -125,7 +125,7 @@
 4	che	che	PRON	_	_	5	subj	_	AlignBegin=32710|AlignEnd=32950|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
 5	chk	chk	VERB	_	_	6	comp:aux/m	_	AlignBegin=32950|AlignEnd=33030|GE=arrive|Gloss=arrive|nWord=4|RX=[VI]
 6	-e		AUX	_	_	7	comp:aux/m	_	AlignBegin=33030|AlignEnd=33110|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-7	-nga		AUX	_	_	_	_	_	AlignBegin=33110|AlignEnd=33190|GE=[SUB]|Gloss=-SUB|nWord=4|RX=[V:ANY]
+7	-nga		AUX	_	_	2	mod:lmod	_	AlignBegin=33110|AlignEnd=33190|GE=[SUB]|Gloss=-SUB|nWord=4|RX=[V:ANY]
 8	.		PUNCT	_	_	3	punct	_	AlignBegin=33190|AlignEnd=33430|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-AN-00001-03_10-10
@@ -139,7 +139,7 @@
 1	hula	hula	NOUN	_	_	2	subj	_	AlignBegin=33455|AlignEnd=33715|GE=white_man|Gloss=white_man|nWord=1|RX=[N]
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=33715|AlignEnd=33845|GE=come|Gloss=come|nWord=2|RX=[VI]
 3	-u		AUX	_	_	0	root	_	AlignBegin=33845|AlignEnd=33975|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-4	guerra	guerra	NOUN	_	_	_	_	_	AlignBegin=33975|AlignEnd=34235|GE=war|Gloss=war|nWord=3|RX=[N]
+4	guerra	guerra	NOUN	_	_	2	mod:purpose	_	AlignBegin=33975|AlignEnd=34235|GE=war|Gloss=war|nWord=3|RX=[N]
 5	.		PUNCT	_	_	3	punct	_	AlignBegin=34235|AlignEnd=34495|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-AN-00001-03_11-11
@@ -153,7 +153,7 @@
 1	che	che	PRON	_	_	2	subj	_	AlignBegin=34640|AlignEnd=34960|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	chk	chk	VERB	_	_	3	comp:aux/m	_	AlignBegin=34960|AlignEnd=35067|GE=arrive|Gloss=arrive|nWord=2|RX=[VI]
 3	-e		AUX	_	_	4	comp:aux/m	_	AlignBegin=35067|AlignEnd=35174|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
-4	-nga		AUX	_	_	_	_	_	AlignBegin=35174|AlignEnd=35280|GE=[SUB]|Gloss=-SUB|nWord=2|RX=[V:ANY]
+4	-nga		AUX	_	_	6	mod:lmod	_	AlignBegin=35174|AlignEnd=35280|GE=[SUB]|Gloss=-SUB|nWord=2|RX=[V:ANY]
 5	hula	hula	NOUN	_	_	6	subj	_	AlignBegin=35280|AlignEnd=35600|GE=white_man|Gloss=white_man|nWord=3|RX=[N]
 6	chi	chi	VERB	_	_	7	comp:aux/m	_	AlignBegin=35600|AlignEnd=35760|GE=come|Gloss=come|nWord=4|RX=[VI]
 7	-u		AUX	_	_	0	root	_	AlignBegin=35760|AlignEnd=35920|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
@@ -167,13 +167,13 @@
 # text = entonces che chiu kike ula ngeru .
 # text_en = ‎‎So they escaped the white men.
 # text_ortho = entonces che chiu kike ula ngeru .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=36265|AlignEnd=36619|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
+1	entonces	entonces	ADV	_	Foreign=Yes	3	discourse	_	AlignBegin=36265|AlignEnd=36619|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	che	che	PRON	_	_	3	subj	_	AlignBegin=36619|AlignEnd=36973|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
 3	chi	chi	VERB	_	_	4	comp:aux/m	_	AlignBegin=36973|AlignEnd=37150|GE=come|Gloss=come|nWord=3|RX=[VI]
 4	-u		AUX	_	_	0	root	_	AlignBegin=37150|AlignEnd=37327|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
-5	kike	kike	VERB	_	_	_	_	_	AlignBegin=37327|AlignEnd=37681|GE=escape|Gloss=escape|nWord=4|RX=[VI]
-6	ula	ula	NOUN	_	_	_	_	_	AlignBegin=37681|AlignEnd=38035|GE=white_man|Gloss=white_man|nWord=5|RX=[N]
-7	ngeru	ngeru	ADJ	_	_	6	mod	_	AlignBegin=38035|AlignEnd=38389|GE=first|Gloss=first|nWord=6|RX=[ADJ]
+5	kike	kike	VERB	_	_	3	mod:purpose	_	AlignBegin=37327|AlignEnd=37681|GE=escape|Gloss=escape|nWord=4|RX=[VI]
+6	ula	ula	NOUN	_	_	7	comp	_	AlignBegin=37681|AlignEnd=38035|GE=white_man|Gloss=white_man|nWord=5|RX=[N]
+7	ngeru	ngeru	ADJ	_	_	5	comp:obl	_	AlignBegin=38035|AlignEnd=38389|GE=first|Gloss=first|nWord=6|RX=[ADJ]
 8	.		PUNCT	_	_	4	punct	_	AlignBegin=38389|AlignEnd=38745|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-AN-00001-03_13-13
@@ -203,7 +203,7 @@
 1	mucho	mucho	ADJ	_	_	_	_	_	AlignBegin=42130|AlignEnd=42474|GE=a_lot|Gloss=a_lot|nWord=1|RX=[ADJ]
 2	che	che	PRON	_	_	_	_	_	AlignBegin=42474|AlignEnd=42818|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
 3	ho	hoke	AUX	_	_	_	_	_	AlignBegin=42818|AlignEnd=43162|GE=[go].[PST]|Gloss=go.PST|nWord=3|RX=[VI]
-4	gu	gu	VERB	_	_	5	comp:aux	_	AlignBegin=43162|AlignEnd=43248|GE=kill|Gloss=kill|nWord=4|RX=[V]
+4	gu	gu	VERB	_	_	5	comp:aux/m	_	AlignBegin=43162|AlignEnd=43248|GE=kill|Gloss=kill|nWord=4|RX=[V]
 5	-ado		AUX	_	_	6	comp:aux/m	_	AlignBegin=43248|AlignEnd=43334|GE=[PART]|Gloss=-PART|nWord=4|RX=[VERB]
 6	-da		AUX	_	_	7	comp:aux/m	_	AlignBegin=43334|AlignEnd=43420|GE=emph|Gloss=emph|nWord=4|RX=[VERB]
 7	-da		AUX	_	_	_	_	_	AlignBegin=43420|AlignEnd=43506|GE=emph|Gloss=emph|nWord=4|RX=[VERB]
@@ -217,12 +217,12 @@
 # text = che ho gweda tengre .
 # text_en = ‎‎They came to kill a lot (of people).
 # text_ortho = che ho gweda tengre .
-1	che	che	PRON	_	_	_	_	_	AlignBegin=43915|AlignEnd=44161|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
-2	ho	hoke	VERB	_	_	_	_	_	AlignBegin=44161|AlignEnd=44407|GE=[go].[PST]|Gloss=go.PST|nWord=2|RX=[VI]
+1	che	che	PRON	_	_	2	subj	_	AlignBegin=43915|AlignEnd=44161|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	ho	hoke	VERB	_	_	0	root	_	AlignBegin=44161|AlignEnd=44407|GE=[go].[PST]|Gloss=go.PST|nWord=2|RX=[VI]
 3	gwe	gwe	VERB	_	_	4	comp:aux/m	_	AlignBegin=44407|AlignEnd=44489|GE=kill|Gloss=sleep|nWord=3|RX=[V]
-4	-da		AUX	_	_	_	_	_	AlignBegin=44489|AlignEnd=44653|GE=[0]|Gloss=-ASP|nWord=3|RX=[VERB]
-5	tengre	tengre	ADV	_	_	_	_	_	AlignBegin=44653|AlignEnd=44899|GE=a_lot|Gloss=a_lot|nWord=4|RX=[ADV]
-6	.		PUNCT	_	_	_	_	_	AlignBegin=44899|AlignEnd=45145|Gloss=.|nWord=5
+4	-da		AUX	_	_	2	mod:purpose	_	AlignBegin=44489|AlignEnd=44653|GE=[0]|Gloss=-ASP|nWord=3|RX=[VERB]
+5	tengre	tengre	ADV	_	_	3	mod	_	AlignBegin=44653|AlignEnd=44899|GE=a_lot|Gloss=a_lot|nWord=4|RX=[ADV]
+6	.		PUNCT	_	_	2	punct	_	AlignBegin=44899|AlignEnd=45145|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-AN-00001-03_16-16
 # speaker_id = @03
@@ -304,7 +304,7 @@
 2	toi	toi	VERB	_	_	3	comp:aux/m	_	AlignBegin=61728|AlignEnd=61834|GE=live|Gloss=live|nWord=2|RX=[VI]
 3	-d-		AUX	_	_	4	comp:aux/m	_	AlignBegin=61834|AlignEnd=61940|GE=[0]|Gloss=-0-|nWord=2|RX=[VERB]
 4	-u		AUX	_	_	0	root	_	AlignBegin=61940|AlignEnd=62046|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-5	guerra	guerra	NOUN	_	_	_	_	_	AlignBegin=62046|AlignEnd=62364|GE=war|Gloss=war|nWord=3|RX=[N]
+5	guerra	guerra	NOUN	_	_	2	comp:obl	_	AlignBegin=62046|AlignEnd=62364|GE=war|Gloss=war|nWord=3|RX=[N]
 6	.		PUNCT	_	_	4	punct	_	AlignBegin=62364|AlignEnd=62680|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-AN-00001-03_21-21
@@ -336,14 +336,14 @@
 # text = ama che chku cheke ai tengkle .
 # text_en = So they went to stay here among us.
 # text_ortho = ama che chku cheke ai tengkle .
-1	ama	ama	ADV	_	_	_	_	_	AlignBegin=75045|AlignEnd=75344|GE=so|Gloss=so|nWord=1|RX=[ADV]
+1	ama	ama	ADV	_	_	3	discourse	_	AlignBegin=75045|AlignEnd=75344|GE=so|Gloss=so|nWord=1|RX=[ADV]
 2	che	che	PRON	_	_	3	subj	_	AlignBegin=75344|AlignEnd=75643|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
 3	chk	chk	VERB	_	_	4	comp:aux/m	_	AlignBegin=75643|AlignEnd=75793|GE=arrive|Gloss=arrive|nWord=3|RX=[VI]
 4	-u		AUX	_	_	0	root	_	AlignBegin=75793|AlignEnd=75942|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
 5	chek	chek	VERB	_	_	6	comp:aux/m	_	AlignBegin=75942|AlignEnd=76092|GE=stay|Gloss=stay|nWord=4|RX=[VI]
-6	-e		AUX	_	_	_	_	_	AlignBegin=76092|AlignEnd=76241|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-7	ai	ai	ADV	_	_	_	_	_	AlignBegin=76241|AlignEnd=76540|GE=here|Gloss=here|nWord=5|RX=[ADV]
-8	tengkle	tengkle	ADV	_	_	_	_	_	AlignBegin=76540|AlignEnd=76839|GE=through|Gloss=through|nWord=6|RX=[ADV]
+6	-e		AUX	_	_	3	mod:purpose	_	AlignBegin=76092|AlignEnd=76241|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+7	ai	ai	ADV	_	_	5	mod:lmod	_	AlignBegin=76241|AlignEnd=76540|GE=here|Gloss=here|nWord=5|RX=[ADV]
+8	tengkle	tengkle	ADV	_	_	7	mod	_	AlignBegin=76540|AlignEnd=76839|GE=through|Gloss=through|nWord=6|RX=[ADV]
 9	.		PUNCT	_	_	4	punct	_	AlignBegin=76839|AlignEnd=77135|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-AN-00001-03_23-23
@@ -357,7 +357,7 @@
 1	che	che	PRON	_	_	2	subj	_	AlignBegin=77265|AlignEnd=77563|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	chk	chk	VERB	_	_	3	comp:aux/m	_	AlignBegin=77563|AlignEnd=77712|GE=arrive|Gloss=arrive|nWord=2|RX=[VI]
 3	-u		AUX	_	_	0	root	_	AlignBegin=77712|AlignEnd=77861|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-4	toi	toi	VERB	_	_	_	_	_	AlignBegin=77861|AlignEnd=78159|GE=live|Gloss=live|nWord=3|RX=[VI]
+4	toi	toi	VERB	_	_	2	mod:purpose	_	AlignBegin=77861|AlignEnd=78159|GE=live|Gloss=live|nWord=3|RX=[VI]
 5	aini	aini	ADV	_	_	4	mod:lmod	_	AlignBegin=78159|AlignEnd=78457|GE=here|Gloss=here|nWord=4|RX=[ADV]
 6	.		PUNCT	_	_	3	punct	_	AlignBegin=78457|AlignEnd=78755|Gloss=.|nWord=5
 
@@ -384,7 +384,7 @@
 # text_en = Here (there are) not my people.
 # text_ortho = ai me cha kwia .
 1	ai	ai	ADV	_	_	_	_	_	AlignBegin=81260|AlignEnd=81546|GE=here|Gloss=here|nWord=1|RX=[ADV]
-2	me	me	PART	_	_	_	_	_	AlignBegin=81546|AlignEnd=81832|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=81546|AlignEnd=81832|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	cha	cha	PRON	_	_	4	udep:poss	_	AlignBegin=81832|AlignEnd=82118|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
 4	kwia	kwia	NOUN	_	_	_	_	_	AlignBegin=82118|AlignEnd=82404|GE=people|Gloss=people|nWord=4|RX=[N]
 5	.		PUNCT	_	_	_	_	_	AlignBegin=82404|AlignEnd=82690|Gloss=.|nWord=5
@@ -408,7 +408,7 @@
 9	cha	cha	PRON	_	_	_	_	_	AlignBegin=93293|AlignEnd=94712|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
 10	kle	kle	AUX	_	_	_	_	_	AlignBegin=94712|AlignEnd=96131|GE=be|Gloss=be|nWord=9|RX=[V]
 11	nga	nga	NOUN	_	_	_	_	_	AlignBegin=96131|AlignEnd=97550|GE=village|Gloss=village|nWord=10|RX=[N]
-12	kada	kada	NOUN	_	_	_	_	_	AlignBegin=97550|AlignEnd=98969|GE=name|Gloss=name|nWord=11|RX=[N]
+12	kada	kada	NOUN	_	_	13	comp:aux/m	_	AlignBegin=97550|AlignEnd=98969|GE=name|Gloss=name|nWord=11|RX=[N]
 13	kle	kle	AUX	_	_	_	_	_	AlignBegin=98969|AlignEnd=100388|GE=be|Gloss=be|nWord=12|RX=[V]
 14	Ugachia	Ugachia	NOUN	_	_	15	comp	_	AlignBegin=100388|AlignEnd=101807|GE=[Ugachia]|Gloss=Ugachia|nWord=13|RX=[N]
 15	giti	giti	ADP	_	_	7	comp:obl	_	AlignBegin=101807|AlignEnd=103226|GE=[LOC]|Gloss=LOC|nWord=14|RX=[ADP]
@@ -422,7 +422,7 @@
 # text = kada kle ugachia giti .
 # text_en = ‎‎Named Ugatchia.
 # text_ortho = kada kle ugachia giti .
-1	kada	kada	NOUN	_	_	_	_	_	AlignBegin=105160|AlignEnd=105486|GE=name|Gloss=name|nWord=1|RX=[N]
+1	kada	kada	NOUN	_	_	2	comp:aux/m	_	AlignBegin=105160|AlignEnd=105486|GE=name|Gloss=name|nWord=1|RX=[N]
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=105486|AlignEnd=105812|GE=be|Gloss=be|nWord=2|RX=[V]
 3	Ugachia	Ugachia	NOUN	_	_	4	comp	_	AlignBegin=105812|AlignEnd=106138|GE=[Ugachia]|Gloss=Ugachia|nWord=3|RX=[N]
 4	giti	giti	ADP	_	_	_	_	_	AlignBegin=106138|AlignEnd=106464|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
@@ -436,7 +436,7 @@
 # text = eni cha nienunga cha cheisuli kle toi eni .
 # text_en = There were living my grandmother and my father.
 # text_ortho = eni cha nienunga cha cheisuli kle toi eni .
-1	eni	eni	ADV	_	_	_	_	_	AlignBegin=107200|AlignEnd=107588|GE=there|Gloss=there|nWord=1|RX=[ADV]
+1	eni	eni	ADV	_	_	7	mod	_	AlignBegin=107200|AlignEnd=107588|GE=there|Gloss=there|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	3	udep:poss	_	AlignBegin=107588|AlignEnd=107976|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	nienu	nienu	NOUN	_	_	4	comp:aux/m	_	AlignBegin=107976|AlignEnd=108170|GE=father|Gloss=father|nWord=3|RX=[N]
 4	-nga		AUX	_	_	8	subj	_	AlignBegin=108170|AlignEnd=108364|GE=[POSS]|Gloss=-POSS|nWord=3|RX=[N:ANY]
@@ -457,7 +457,7 @@
 # text_ortho = pero e me chiebale .
 1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=111140|AlignEnd=111412|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
 2	e	e	ADV	_	_	_	_	_	AlignBegin=111412|AlignEnd=111684|GE=now|Gloss=now|nWord=2|RX=[ADV]
-3	me	me	PART	_	_	_	_	_	AlignBegin=111684|AlignEnd=111956|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=111684|AlignEnd=111956|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	chi	chi	VERB	_	_	5	comp:aux/m	_	AlignBegin=111956|AlignEnd=112047|GE=come|Gloss=come|nWord=4|RX=[VI]
 5	-e		AUX	_	_	6	comp:aux/m	_	AlignBegin=112047|AlignEnd=112138|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 6	-bale		AUX	_	_	_	_	_	AlignBegin=112138|AlignEnd=112228|GE=[PART]|Gloss=-PART|nWord=4|RX=[V:ANY]
@@ -491,7 +491,7 @@
 # text_ortho = chiu pa guerra .
 1	chi	chi	VERB	_	_	2	comp:aux/m	_	AlignBegin=116120|AlignEnd=116260|GE=come|Gloss=come|nWord=1|RX=[VI]
 2	-u		AUX	_	_	0	root	_	AlignBegin=116260|AlignEnd=116400|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]
-3	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=116400|AlignEnd=116680|GE=to|Gloss=to|Lang=es|nWord=2|RX=[ADP]
+3	para	para	ADP	_	Foreign=Yes	1	mod:purpose	_	AlignBegin=116400|AlignEnd=116680|GE=to|Gloss=to|Lang=es|nWord=2|RX=[ADP]
 4	guerra	guerra	NOUN	_	_	3	comp	_	AlignBegin=116680|AlignEnd=116960|GE=war|Gloss=war|nWord=3|RX=[N]
 5	.		PUNCT	_	_	2	punct	_	AlignBegin=116960|AlignEnd=117240|Gloss=.|nWord=4
 
@@ -503,11 +503,11 @@
 # text = kike hula ngerule .
 # text_en = Escaping from the white men.
 # text_ortho = kike hula ngerule .
-1	kike	kike	VERB	_	_	_	_	_	AlignBegin=117245|AlignEnd=117899|GE=escape|Gloss=escape|nWord=1|RX=[VI]
-2	hula	hula	NOUN	_	_	_	_	_	AlignBegin=117899|AlignEnd=118553|GE=white_man|Gloss=white_man|nWord=2|RX=[N]
+1	kike	kike	VERB	_	_	0	root	_	AlignBegin=117245|AlignEnd=117899|GE=escape|Gloss=escape|nWord=1|RX=[VI]
+2	hula	hula	NOUN	_	_	3	comp	_	AlignBegin=117899|AlignEnd=118553|GE=white_man|Gloss=white_man|nWord=2|RX=[N]
 3	ngeru	ngeru	ADJ	_	_	4	comp:aux/m	_	AlignBegin=118553|AlignEnd=118880|GE=first|Gloss=first|nWord=3|RX=[ADJ]
-4	-le		AUX	_	_	_	_	_	AlignBegin=118880|AlignEnd=119207|GE=[ADJZ]|Gloss=-ADJZ|nWord=3|RX=[N>ADJ]
-5	.		PUNCT	_	_	_	_	_	AlignBegin=119207|AlignEnd=119860|Gloss=.|nWord=4
+4	-le		AUX	_	_	1	comp:obl	_	AlignBegin=118880|AlignEnd=119207|GE=[ADJZ]|Gloss=-ADJZ|nWord=3|RX=[N>ADJ]
+5	.		PUNCT	_	_	1	punct	_	AlignBegin=119207|AlignEnd=119860|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-AN-00001-03_33-33
 # speaker_id = @03
@@ -521,9 +521,9 @@
 2	todo	todo	DET	_	_	_	_	_	AlignBegin=120428|AlignEnd=120771|GE=all|Gloss=all|nWord=2|RX=[DET]
 3	Olechia	Olechia	PROPN	_	_	_	_	_	AlignBegin=120771|AlignEnd=121114|GE=[Olechia]|Gloss=Olechia|nWord=3|RX=[NPROP]
 4	kike	kike	VERB	_	_	_	_	_	AlignBegin=121114|AlignEnd=121457|GE=escape|Gloss=escape|nWord=4|RX=[VI]
-5	hula	hula	NOUN	_	_	_	_	_	AlignBegin=121457|AlignEnd=121800|GE=white_man|Gloss=white_man|nWord=5|RX=[N]
+5	hula	hula	NOUN	_	_	6	comp	_	AlignBegin=121457|AlignEnd=121800|GE=white_man|Gloss=white_man|nWord=5|RX=[N]
 6	ngeru	ngeru	ADJ	_	_	7	comp:aux/m	_	AlignBegin=121800|AlignEnd=121972|GE=first|Gloss=first|nWord=6|RX=[ADJ]
-7	-le		AUX	_	_	_	_	_	AlignBegin=121972|AlignEnd=122143|GE=[ADJZ]|Gloss=-ADJZ|nWord=6|RX=[N>ADJ]
+7	-le		AUX	_	_	4	comp:obl	_	AlignBegin=121972|AlignEnd=122143|GE=[ADJZ]|Gloss=-ADJZ|nWord=6|RX=[N>ADJ]
 8	.		PUNCT	_	_	_	_	_	AlignBegin=122143|AlignEnd=122485|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-AN-00001-03_34-34
@@ -566,7 +566,7 @@
 # text_ortho = entonces nga me chiu chku che kle toi ata aka , toi aini cha waninke , ama cha cheku aini cahuita giti .
 1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=129205|AlignEnd=129553|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	nga	nga	NOUN	_	_	_	_	_	AlignBegin=129553|AlignEnd=129901|GE=village|Gloss=village|nWord=2|RX=[N]
-3	me	me	PART	_	_	_	_	_	AlignBegin=129901|AlignEnd=130249|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=129901|AlignEnd=130249|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	chi	chi	VERB	_	_	5	comp:aux/m	_	AlignBegin=130249|AlignEnd=130423|GE=come|Gloss=come|nWord=4|RX=[VI]
 5	-u		AUX	_	_	_	_	_	AlignBegin=130423|AlignEnd=130597|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
 6	chk	chk	VERB	_	_	7	comp:aux/m	_	AlignBegin=130597|AlignEnd=130771|GE=arrive|Gloss=arrive|nWord=5|RX=[VI]

@@ -85,7 +85,7 @@
 7	,		PUNCT	_	_	_	_	_	AlignBegin=38180|AlignEnd=38850|nWord=5
 8	ama	ama	ADV	_	_	_	_	_	AlignBegin=38890|AlignEnd=39204|GE=so|Gloss=so|nWord=6|RX=[ADV]
 9	be	be	AUX	_	_	_	_	_	AlignBegin=39204|AlignEnd=39518|GE=[FUT]|Gloss=FUT|nWord=7|RX=[VERBPRT]
-10	chk	chk	VERB	_	_	11	comp:aux	_	AlignBegin=39518|AlignEnd=39675|GE=arrive|Gloss=arrive|nWord=8|RX=[VI]
+10	chk	chk	VERB	_	_	11	comp:aux/m	_	AlignBegin=39518|AlignEnd=39675|GE=arrive|Gloss=arrive|nWord=8|RX=[VI]
 11	-e		AUX	_	_	9	comp:aux	_	AlignBegin=39675|AlignEnd=39832|GE=[THM]|Gloss=-THM|nWord=8|RX=[V:ANY]
 12	onia	onia	NOUN	_	_	_	_	_	AlignBegin=39832|AlignEnd=40146|GE=soul|Gloss=soul|nWord=9|RX=[N]
 13	dra	dra	NOUN	_	_	_	_	_	AlignBegin=40146|AlignEnd=40460|GE=corpse|Gloss=corpse|nWord=10|RX=[N]
@@ -262,7 +262,7 @@
 # text_ortho = che oli me gna dieboi .
 1	che	che	PRON	_	_	2	udep:poss	_	AlignBegin=80925|AlignEnd=81348|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	oli	oli	NOUN	_	_	5	subj	_	AlignBegin=81348|AlignEnd=81771|GE=orphan|Gloss=orphan|nWord=2|RX=[N]
-3	me	me	AUX	_	_	0	root	_	AlignBegin=81771|AlignEnd=82194|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=81771|AlignEnd=82194|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	gna	gna	AUX	_	_	3	comp:aux	_	AlignBegin=82194|AlignEnd=82617|GE=can|Gloss=can|nWord=4|RX=[V]
 5	dieboi	dieboi	VERB	_	_	4	comp:aux	_	AlignBegin=82617|AlignEnd=83040|GE=work|Gloss=work|nWord=5|RX=[V]
 6	.		PUNCT	_	_	3	punct	_	AlignBegin=83040|AlignEnd=83465|Gloss=.|nWord=6
@@ -277,7 +277,7 @@
 # text_ortho = che oli me gna hoke ngabuoka ke .
 1	che	che	PRON	_	_	2	udep:poss	_	AlignBegin=83560|AlignEnd=84112|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	oli	oli	NOUN	_	_	5	subj	_	AlignBegin=84112|AlignEnd=84664|GE=orphan|Gloss=orphan|nWord=2|RX=[N]
-3	me	me	AUX	_	_	0	root	_	AlignBegin=84664|AlignEnd=85216|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=84664|AlignEnd=85216|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	gna	gna	AUX	_	_	3	comp:aux	_	AlignBegin=85216|AlignEnd=85768|GE=can|Gloss=can|nWord=4|RX=[V]
 5	hoke	hoke	VERB	_	_	4	comp:aux	_	AlignBegin=85768|AlignEnd=86320|GE=go|Gloss=go|nWord=5|RX=[VI]
 6	ngabuoka	ngabuoka	ADV	_	_	7	comp	_	AlignBegin=86320|AlignEnd=86872|GE=out_in_the_air|Gloss=out_in_the_air|nWord=6|RX=[ADV]
@@ -319,7 +319,7 @@
 25	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=99648|AlignEnd=99996|GE=be|Gloss=be|Lang=es|nWord=22|RX=[V]
 26	ne	ne	DET	_	_	_	_	_	AlignBegin=99996|AlignEnd=100344|GE=that|Gloss=that|nWord=23|RX=[DET]
 27	be	be	AUX	_	_	_	_	_	AlignBegin=100344|AlignEnd=100692|GE=[FUT]|Gloss=FUT|nWord=24|RX=[VERBPRT]
-28	chk	chk	VERB	_	_	29	comp:aux	_	AlignBegin=100692|AlignEnd=100866|GE=arrive|Gloss=arrive|nWord=25|RX=[VI]
+28	chk	chk	VERB	_	_	29	comp:aux/m	_	AlignBegin=100692|AlignEnd=100866|GE=arrive|Gloss=arrive|nWord=25|RX=[VI]
 29	-e		AUX	_	_	27	comp:aux	_	AlignBegin=100866|AlignEnd=101040|GE=[THM]|Gloss=-THM|nWord=25|RX=[V:ANY]
 30	nganchuke	nganchuke	_	_	_	_	_	_	AlignBegin=101040|AlignEnd=101388|nWord=26
 31	.		PUNCT	_	_	_	_	_	AlignBegin=101388|AlignEnd=101740|Gloss=.|nWord=27
@@ -335,7 +335,7 @@
 1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=101740|AlignEnd=102082|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=102082|AlignEnd=102424|GE=now|Gloss=now|Lang=es|nWord=2|RX=[ADV]
 3	che	che	PRON	_	_	_	_	_	AlignBegin=102424|AlignEnd=102766|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
-4	me	me	AUX	_	_	_	_	_	AlignBegin=102766|AlignEnd=103108|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
+4	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=102766|AlignEnd=103108|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
 5	gna	gna	AUX	_	_	4	comp:aux	_	AlignBegin=103108|AlignEnd=103450|GE=can|Gloss=can|nWord=5|RX=[V]
 6	...		PUNCT	_	_	_	_	_	AlignBegin=103450|AlignEnd=103790|nWord=6
 
@@ -540,7 +540,7 @@
 23	ese	ese	DET	_	_	_	_	_	AlignBegin=149290|AlignEnd=149850|GE=that|Gloss=that|nWord=20|RX=[DET]
 24	apa	apa	NUM	_	_	_	_	_	AlignBegin=149850|AlignEnd=150410|GE=eight|Gloss=eight|nWord=21|RX=[NUM]
 25	be	be	AUX	_	_	_	_	_	AlignBegin=150410|AlignEnd=150970|GE=[FUT]|Gloss=FUT|nWord=22|RX=[VERBPRT]
-26	chi	chi	VERB	_	_	27	comp:aux	_	AlignBegin=150970|AlignEnd=151250|GE=come|Gloss=come|nWord=23|RX=[VI]
+26	chi	chi	VERB	_	_	27	comp:aux/m	_	AlignBegin=150970|AlignEnd=151250|GE=come|Gloss=come|nWord=23|RX=[VI]
 27	-e		AUX	_	_	25	comp:aux	_	AlignBegin=151250|AlignEnd=151530|GE=[THM]|Gloss=-THM|nWord=23|RX=[V:ANY]
 28	,		PUNCT	_	_	_	_	_	AlignBegin=151530|AlignEnd=152090|nWord=24
 29	ese	ese	PRON	_	_	30	subj@pass	_	AlignBegin=152095|AlignEnd=152445|GE=that|Gloss=that|nWord=25|RX=[PRO]
@@ -601,7 +601,7 @@
 6	samla	samla	NOUN	_	_	7	comp:obj	_	AlignBegin=159843|AlignEnd=160200|GE=meat|Gloss=meat|nWord=5|RX=[N]
 7	gut	gut	VERB	_	_	8	comp:aux/m	_	AlignBegin=160200|AlignEnd=160378|GE=eat|Gloss=eat|nWord=6|RX=[VT]
 8	-e		AUX	_	_	5	comp:aux	_	AlignBegin=160378|AlignEnd=160557|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
-9	me	me	PART	_	_	_	_	_	AlignBegin=160557|AlignEnd=160914|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
+9	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=160557|AlignEnd=160914|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
 10	no	no	ADV	_	_	_	_	_	AlignBegin=160914|AlignEnd=161271|GE=well|Gloss=well|nWord=8|RX=[ADV]
 11	,		PUNCT	_	_	_	_	_	AlignBegin=161271|AlignEnd=161625|nWord=9
 12	che	che	PRON	_	_	13	udep:poss	_	AlignBegin=161755|AlignEnd=162044|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=10|RX=[PRO]
@@ -641,26 +641,26 @@
 2	cho	cho	NOUN	_	_	3	comp:obj	_	AlignBegin=169537|AlignEnd=170159|GE=salt|Gloss=salt|nWord=2|RX=[N]
 3	gut	gut	VERB	_	_	4	comp:aux/m	_	AlignBegin=170159|AlignEnd=170470|GE=eat|Gloss=eat|nWord=3|RX=[VT]
 4	-e		AUX	_	_	1	subj	_	AlignBegin=170470|AlignEnd=170781|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
-5	,		PUNCT	_	_	_	_	_	AlignBegin=170781|AlignEnd=171405|nWord=4
+5	,		PUNCT	_	_	1	punct	_	AlignBegin=170781|AlignEnd=171405|nWord=4
 6	sainkuli	sainkuli	ADV	_	_	1	parataxis	_	AlignBegin=171415|AlignEnd=171799|GE=forbidden|Gloss=forbidden|nWord=5|RX=[ADV]
 7	hasta	hasta	SCONJ	_	Foreign=Yes	6	mod:tmod	_	AlignBegin=171799|AlignEnd=172183|GE=to|Gloss=to|Lang=es|nWord=6|RX=[ADP]
 8	chui	chui	NOUN	_	_	_	_	_	AlignBegin=172183|AlignEnd=172567|GE=sun|Gloss=sun|nWord=7|RX=[N]
 9	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=172567|AlignEnd=172951|GE=be|Gloss=be|Lang=es|nWord=8|RX=[V]
 10	ne	ne	DET	_	_	_	_	_	AlignBegin=172951|AlignEnd=173335|GE=that|Gloss=that|nWord=9|RX=[DET]
 11	be	be	AUX	_	_	7	comp	_	AlignBegin=173335|AlignEnd=173719|GE=[FUT]|Gloss=FUT|nWord=10|RX=[VERBPRT]
-12	chk	chk	VERB	_	_	13	comp:aux	_	AlignBegin=173719|AlignEnd=173847|GE=arrive|Gloss=arrive|nWord=11|RX=[VI]
-13	-e		AUX	_	_	14	comp:aux	_	AlignBegin=173847|AlignEnd=173975|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
+12	chk	chk	VERB	_	_	13	comp:aux/m	_	AlignBegin=173719|AlignEnd=173847|GE=arrive|Gloss=arrive|nWord=11|RX=[VI]
+13	-e		AUX	_	_	14	comp:aux/m	_	AlignBegin=173847|AlignEnd=173975|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
 14	-nga		AUX	_	_	11	comp:aux	_	AlignBegin=173975|AlignEnd=174103|GE=[SUB]|Gloss=-SUB|nWord=11|RX=[V:ANY]
-15	,		PUNCT	_	_	_	_	_	AlignBegin=174103|AlignEnd=174485|nWord=12
+15	,		PUNCT	_	_	1	punct	_	AlignBegin=174103|AlignEnd=174485|nWord=12
 16	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=174680|AlignEnd=175108|GE=so|Gloss=so|Lang=es|nWord=13|RX=[ADV]
 17	che	che	PRON	_	_	19	subj	_	AlignBegin=175108|AlignEnd=175536|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=14|RX=[PRO]
 18	be	be	AUX	_	_	_	_	_	AlignBegin=175536|AlignEnd=175964|GE=[FUT]|Gloss=FUT|nWord=15|RX=[VERBPRT]
-19	blid	blid	VERB	_	_	20	comp:aux	_	AlignBegin=175964|AlignEnd=176178|GE=eat|Gloss=eat|nWord=16|RX=[VI]
+19	blid	blid	VERB	_	_	20	comp:aux/m	_	AlignBegin=175964|AlignEnd=176178|GE=eat|Gloss=eat|nWord=16|RX=[VI]
 20	-e		AUX	_	_	18	comp:aux	_	AlignBegin=176178|AlignEnd=176392|GE=[THM]|Gloss=-THM|nWord=16|RX=[V:ANY]
-21	,		PUNCT	_	_	_	_	_	AlignBegin=176392|AlignEnd=176820|nWord=17
+21	,		PUNCT	_	_	1	punct	_	AlignBegin=176392|AlignEnd=176820|nWord=17
 22	kwaite	kwaite	ADJ	_	_	_	_	_	AlignBegin=176905|AlignEnd=177273|GE=together|Gloss=together|nWord=18|RX=[ADJ]
 23	ali	ali	ADP	_	_	_	_	_	AlignBegin=177273|AlignEnd=177641|GE=with|Gloss=with|nWord=19|RX=[ADP]
 24	gut	gut	VERB	_	_	25	comp:aux/m	_	AlignBegin=177641|AlignEnd=177825|GE=eat|Gloss=eat|nWord=20|RX=[VT]
 25	-e		AUX	_	_	_	_	_	AlignBegin=177825|AlignEnd=178009|GE=[THM]|Gloss=-THM|nWord=20|RX=[V:ANY]
-26	.		PUNCT	_	_	_	_	_	AlignBegin=178009|AlignEnd=178375|Gloss=.|nWord=21
+26	.		PUNCT	_	_	1	punct	_	AlignBegin=178009|AlignEnd=178375|Gloss=.|nWord=21
 

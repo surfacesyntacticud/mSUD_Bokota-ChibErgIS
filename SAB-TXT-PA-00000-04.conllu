@@ -6,16 +6,16 @@
 # text = nga aini che kle hoke aini hoke ble ke .
 # text_en = Here in the village, we go to the sea.
 # text_ortho = nga aini che kle hoke aini hoke ble ke .
-1	nga	nga	NOUN	_	_	_	_	_	AlignBegin=14470|AlignEnd=14835|GE=village|Gloss=village|nWord=1|RX=[N]
-2	aini	aini	ADV	_	_	_	_	_	AlignBegin=14835|AlignEnd=15200|GE=here|Gloss=here|nWord=2|RX=[ADV]
+1	nga	nga	NOUN	_	_	5	mod	_	AlignBegin=14470|AlignEnd=14835|GE=village|Gloss=village|nWord=1|RX=[N]
+2	aini	aini	ADV	_	_	1	mod	_	AlignBegin=14835|AlignEnd=15200|GE=here|Gloss=here|nWord=2|RX=[ADV]
 3	che	che	PRON	_	_	5	subj	_	AlignBegin=15200|AlignEnd=15565|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
-4	kle	kle	AUX	_	_	_	_	_	AlignBegin=15565|AlignEnd=15930|GE=be|Gloss=be|nWord=4|RX=[V]
+4	kle	kle	AUX	_	_	0	root	_	AlignBegin=15565|AlignEnd=15930|GE=be|Gloss=be|nWord=4|RX=[V]
 5	hoke	hoke	VERB	_	_	4	comp:aux	_	AlignBegin=15930|AlignEnd=16295|GE=go|Gloss=go|nWord=5|RX=[VI]
 6	aini	aini	ADV	_	_	5	mod:lmod	_	AlignBegin=16295|AlignEnd=16660|GE=here|Gloss=here|nWord=6|RX=[ADV]
-7	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=16660|AlignEnd=17025|GE=go|Gloss=go|nWord=7|RX=[VI]
+7	hoke	hoke	VERB	_	_	4	conj:coord	_	AlignBegin=16660|AlignEnd=17025|GE=go|Gloss=go|nWord=7|RX=[VI]
 8	ble	ble	NOUN	_	_	9	comp	_	AlignBegin=17025|AlignEnd=17390|GE=sea|Gloss=sea|nWord=8|RX=[N]
 9	ke	ke	ADP	_	_	7	comp:obl	_	AlignBegin=17390|AlignEnd=17755|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
-10	.		PUNCT	_	_	_	_	_	AlignBegin=17755|AlignEnd=18120|Gloss=.|nWord=10
+10	.		PUNCT	_	_	4	punct	_	AlignBegin=17755|AlignEnd=18120|Gloss=.|nWord=10
 
 # sent_id = SAB-TXT-PA-00000-04_02-02
 # speaker_id = @04
@@ -26,11 +26,11 @@
 # text_en = There is a first river named Mongoloso.
 # text_ortho = chi nangka honinke kada kle Mongoloso .
 1	chi	chi	NOUN	_	_	_	_	_	AlignBegin=19530|AlignEnd=20027|GE=water|Gloss=water|nWord=1|RX=[N]
-2	nangka	nangka	ADJ	_	_	_	_	_	AlignBegin=20027|AlignEnd=20524|GE=next|Gloss=next|nWord=2|RX=[ADJ]
+2	nangka	nangka	ADJ	_	_	1	mod	_	AlignBegin=20027|AlignEnd=20524|GE=next|Gloss=next|nWord=2|RX=[ADJ]
 3	honinke	honinke	ADV	_	_	_	_	_	AlignBegin=20524|AlignEnd=21021|GE=first|Gloss=first|nWord=3|RX=[ADV]
-4	kada	kada	NOUN	_	_	_	_	_	AlignBegin=21021|AlignEnd=21518|GE=name|Gloss=name|nWord=4|RX=[N]
-5	kle	kle	AUX	_	_	_	_	_	AlignBegin=21518|AlignEnd=22015|GE=be|Gloss=be|nWord=5|RX=[V]
-6	Mongoloso	Mongoloso	PROPN	_	_	_	_	_	AlignBegin=22015|AlignEnd=22512|GE=[Mongoloso]|Gloss=Mongoloso|nWord=6|RX=[NPROP]
+4	kada	kada	NOUN	_	_	5	comp:aux/m	_	AlignBegin=21021|AlignEnd=21518|GE=name|Gloss=name|nWord=4|RX=[N]
+5	kle	kle	AUX	_	_	1	mod@relcl	_	AlignBegin=21518|AlignEnd=22015|GE=be|Gloss=be|nWord=5|RX=[V]
+6	Mongoloso	Mongoloso	PROPN	_	_	4	comp:obj	_	AlignBegin=22015|AlignEnd=22512|GE=[Mongoloso]|Gloss=Mongoloso|nWord=6|RX=[NPROP]
 7	.		PUNCT	_	_	_	_	_	AlignBegin=22512|AlignEnd=23010|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-PA-00000-04_03-03
@@ -53,7 +53,7 @@
 10	nangka	nangka	ADJ	_	_	_	_	_	AlignBegin=27428|AlignEnd=27900|GE=next|Gloss=next|nWord=10|RX=[ADJ]
 11	gda	gda	NUM	_	_	12	clf	_	AlignBegin=27900|AlignEnd=28136|GE=cl|Gloss=cl|nWord=11|RX=[NUM]
 12	oke	oke	NUM	_	_	_	_	_	AlignBegin=28136|AlignEnd=28372|GE=two|Gloss=two|nWord=11|RX=[NUM]
-13	kada	kada	NOUN	_	_	_	_	_	AlignBegin=28372|AlignEnd=28844|GE=name|Gloss=name|nWord=12|RX=[N]
+13	kada	kada	NOUN	_	_	14	comp:aux/m	_	AlignBegin=28372|AlignEnd=28844|GE=name|Gloss=name|nWord=12|RX=[N]
 14	kle	kle	AUX	_	_	_	_	_	AlignBegin=28844|AlignEnd=29316|GE=be|Gloss=be|nWord=13|RX=[V]
 15	quebrada	quebrada	NOUN	_	_	_	_	_	AlignBegin=29316|AlignEnd=29788|GE=river|Gloss=river|nWord=14|RX=[N]
 16	Limon	Limon	PROPN	_	_	_	_	_	AlignBegin=29788|AlignEnd=30260|GE=[Limon]|Gloss=Limon|nWord=15|RX=[NPROP]
@@ -135,12 +135,12 @@
 3	che	che	PRON	_	_	5	subj	_	AlignBegin=49396|AlignEnd=49769|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
 4	kle	kle	AUX	_	_	_	_	_	AlignBegin=49769|AlignEnd=50142|GE=be|Gloss=be|nWord=4|RX=[V]
 5	chage	chage	VERB	_	_	4	comp:aux	_	AlignBegin=50142|AlignEnd=50515|GE=walk|Gloss=walk|nWord=5|RX=[VI]
-6	nerku	nerku	ADV	_	_	_	_	_	AlignBegin=50515|AlignEnd=50888|GE=ahead|Gloss=ahead|nWord=6|RX=[ADV]
-7	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=50888|AlignEnd=51261|GE=more|Gloss=more|Lang=es|nWord=7|RX=[ADV]
+6	nerku	nerku	ADV	_	_	5	mod	_	AlignBegin=50515|AlignEnd=50888|GE=ahead|Gloss=ahead|nWord=6|RX=[ADV]
+7	mas	mas	ADV	_	Foreign=Yes	8	mod	_	AlignBegin=50888|AlignEnd=51261|GE=more|Gloss=more|Lang=es|nWord=7|RX=[ADV]
 8	gnanku	gnanku	ADV	_	_	_	_	_	AlignBegin=51261|AlignEnd=51634|GE=far.med|Gloss=far.med|nWord=8|RX=[ADV]
 9	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=51634|AlignEnd=52007|GE=there_is|Gloss=there_is|Lang=es|nWord=9|RX=[V]
-10	un	un	DET	_	_	_	_	_	AlignBegin=52007|AlignEnd=52380|GE=[INDEF].[M]|Gloss=INDEF.M|nWord=10|RX=[DET]
-11	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=52380|AlignEnd=52753|GE=school|Gloss=school|Lang=es|nWord=11|RX=[N]
+10	un	un	DET	_	_	11	det	_	AlignBegin=52007|AlignEnd=52380|GE=[INDEF].[M]|Gloss=INDEF.M|nWord=10|RX=[DET]
+11	escuela	escuela	NOUN	_	Foreign=Yes	9	subj	_	AlignBegin=52380|AlignEnd=52753|GE=school|Gloss=school|Lang=es|nWord=11|RX=[N]
 12	.		PUNCT	_	_	_	_	_	AlignBegin=52753|AlignEnd=53130|Gloss=.|nWord=12
 
 # sent_id = SAB-TXT-PA-00000-04_09-12
@@ -167,7 +167,7 @@
 14	chi	chi	NOUN	_	_	_	_	_	AlignBegin=62150|AlignEnd=62514|GE=water|Gloss=water|nWord=14|RX=[N]
 15	kweri	kweri	ADJ	_	_	_	_	_	AlignBegin=62514|AlignEnd=62878|GE=big|Gloss=big|nWord=15|RX=[ADJ]
 16	ka	ka	NOUN	_	_	_	_	_	AlignBegin=62878|AlignEnd=63242|GE=mouth|Gloss=mouth|nWord=16|RX=[N]
-17	kada	kada	NOUN	_	_	_	_	_	AlignBegin=63242|AlignEnd=63606|GE=name|Gloss=name|nWord=17|RX=[N]
+17	kada	kada	NOUN	_	_	18	comp:aux/m	_	AlignBegin=63242|AlignEnd=63606|GE=name|Gloss=name|nWord=17|RX=[N]
 18	kle	kle	AUX	_	_	_	_	_	AlignBegin=63606|AlignEnd=63970|GE=be|Gloss=be|nWord=18|RX=[V]
 19	Kawita	Kawita	PROPN	_	_	20	comp	_	AlignBegin=63970|AlignEnd=64334|GE=[Kawita]|Gloss=Kawita|nWord=19|RX=[NPROP]
 20	ke	ke	ADP	_	_	12	conj	_	AlignBegin=64334|AlignEnd=64698|GE=[LOC]|Gloss=LOC|nWord=20|RX=[ADP]
@@ -188,9 +188,9 @@
 # text_ortho = ba hoke diaku gnanku la calovebora .
 1	ba	ba	PRON	_	_	2	subj	_	AlignBegin=67010|AlignEnd=67519|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
 2	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=67519|AlignEnd=68028|GE=go|Gloss=go|nWord=2|RX=[VI]
-3	diaku	diaku	ADV	_	_	_	_	_	AlignBegin=68028|AlignEnd=68537|GE=close|Gloss=close|nWord=3|RX=[ADV]
+3	diaku	diaku	ADV	_	_	2	mod	_	AlignBegin=68028|AlignEnd=68537|GE=close|Gloss=close|nWord=3|RX=[ADV]
 4	gnanku	gnanku	ADV	_	_	_	_	_	AlignBegin=68537|AlignEnd=69046|GE=far.med|Gloss=far.med|nWord=4|RX=[ADV]
-5	la	la	X	_	_	_	_	_	AlignBegin=69046|AlignEnd=69555|GE=the|Gloss=the|nWord=5|RX=[ART]
+5	la	la	X	_	_	6	det	_	AlignBegin=69046|AlignEnd=69555|GE=the|Gloss=the|nWord=5|RX=[ART]
 6	Calovebora	Calovebora	PROPN	_	_	_	_	_	AlignBegin=69555|AlignEnd=70064|GE=[Calovebora]|Gloss=Calovebora|nWord=6|RX=[NPROP]
 7	.		PUNCT	_	_	_	_	_	AlignBegin=70064|AlignEnd=70570|Gloss=.|nWord=7
 
@@ -331,23 +331,23 @@
 1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=103280|AlignEnd=103464|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	ai	ai	ADV	_	_	_	_	_	AlignBegin=103464|AlignEnd=103648|GE=here|Gloss=here|nWord=2|RX=[ADV]
 3	ba	ba	PRON	_	_	5	subj	_	AlignBegin=103648|AlignEnd=103832|GE=[2SG]|Gloss=2SG|nWord=3|RX=[PRO]
-4	kle	kle	AUX	_	_	_	_	_	AlignBegin=103832|AlignEnd=104016|GE=be|Gloss=be|nWord=4|RX=[V]
+4	kle	kle	AUX	_	_	0	root	_	AlignBegin=103832|AlignEnd=104016|GE=be|Gloss=be|nWord=4|RX=[V]
 5	chk	chk	VERB	_	_	6	comp:aux/m	_	AlignBegin=104016|AlignEnd=104108|GE=arrive|Gloss=arrive|nWord=5|RX=[VI]
 6	-e		AUX	_	_	4	comp:aux	_	AlignBegin=104108|AlignEnd=104200|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
-7	eni	eni	ADV	_	_	_	_	_	AlignBegin=104200|AlignEnd=104384|GE=there|Gloss=there|nWord=6|RX=[ADV]
+7	eni	eni	ADV	_	_	5	mod	_	AlignBegin=104200|AlignEnd=104384|GE=there|Gloss=there|nWord=6|RX=[ADV]
 8	,		PUNCT	_	_	_	_	_	AlignBegin=104384|AlignEnd=104570|nWord=7
 9	ba	ba	PRON	_	_	11	subj	_	AlignBegin=104590|AlignEnd=104820|GE=[2SG]|Gloss=2SG|nWord=8|RX=[PRO]
-10	kle	kle	AUX	_	_	_	_	_	AlignBegin=104820|AlignEnd=105050|GE=be|Gloss=be|nWord=9|RX=[V]
+10	kle	kle	AUX	_	_	4	conj:coord	_	AlignBegin=104820|AlignEnd=105050|GE=be|Gloss=be|nWord=9|RX=[V]
 11	obe	obe	VERB	_	_	10	comp:aux	_	AlignBegin=105050|AlignEnd=105280|GE=bath|Gloss=bath|nWord=10|RX=[VI]
-12	ai	ai	ADV	_	_	_	_	_	AlignBegin=105280|AlignEnd=105510|GE=here|Gloss=here|nWord=11|RX=[ADV]
+12	ai	ai	ADV	_	_	11	mod:lmod	_	AlignBegin=105280|AlignEnd=105510|GE=here|Gloss=here|nWord=11|RX=[ADV]
 13	,		PUNCT	_	_	_	_	_	AlignBegin=105510|AlignEnd=105740|nWord=12
-14	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=105800|AlignEnd=106210|GE=to|Gloss=to|Lang=es|nWord=13|RX=[ADP]
+14	para	para	SCONJ	_	Foreign=Yes	11	mod:purpose	_	AlignBegin=105800|AlignEnd=106210|GE=to|Gloss=to|Lang=es|nWord=13|RX=[ADP]
 15	hoke	hoke	VERB	_	_	16	comp:aux/m	_	AlignBegin=106210|AlignEnd=106415|GE=go|Gloss=go|nWord=14|RX=[VI]
 16	-dale		AUX	_	_	14	comp	_	AlignBegin=106415|AlignEnd=106620|GE=[IRR]|Gloss=-IRR|nWord=14|RX=[V:ANY]
-17	nerku	nerku	ADV	_	_	_	_	_	AlignBegin=106620|AlignEnd=107030|GE=ahead|Gloss=ahead|nWord=15|RX=[ADV]
+17	nerku	nerku	ADV	_	_	15	mod	_	AlignBegin=106620|AlignEnd=107030|GE=ahead|Gloss=ahead|nWord=15|RX=[ADV]
 18	,		PUNCT	_	_	_	_	_	AlignBegin=107030|AlignEnd=107440|nWord=16
 19	ba	ba	PRON	_	_	21	subj	_	AlignBegin=107485|AlignEnd=107763|GE=[2SG]|Gloss=2SG|nWord=17|RX=[PRO]
-20	kle	kle	AUX	_	_	_	_	_	AlignBegin=107763|AlignEnd=108041|GE=be|Gloss=be|nWord=18|RX=[V]
+20	kle	kle	AUX	_	_	10	conj:coord	_	AlignBegin=107763|AlignEnd=108041|GE=be|Gloss=be|nWord=18|RX=[V]
 21	obe	obe	VERB	_	_	20	comp:aux	_	AlignBegin=108041|AlignEnd=108319|GE=bath|Gloss=bath|nWord=19|RX=[VI]
 22	.		PUNCT	_	_	_	_	_	AlignBegin=108319|AlignEnd=108595|Gloss=.|nWord=20
 
@@ -418,9 +418,9 @@
 # text_en = You go up the ladder.
 # text_ortho = usted sube kalera .
 1	usted	usted	PRON	_	_	2	subj	_	AlignBegin=114335|AlignEnd=114757|GE=[2SG].[form]|Gloss=2SG.form|nWord=1|RX=[PRO]
-2	sube	sube	VERB	_	Foreign=Yes	_	_	_	AlignBegin=114757|AlignEnd=115179|GE=go_up|Gloss=go_up|Lang=es|nWord=2|RX=[V]
-3	kalera	kalera	NOUN	_	_	_	_	_	AlignBegin=115179|AlignEnd=115601|GE=ladder|Gloss=ladder|nWord=3|RX=[N]
-4	.		PUNCT	_	_	_	_	_	AlignBegin=115601|AlignEnd=116025|Gloss=.|nWord=4
+2	sube	sube	VERB	_	Foreign=Yes	0	root	_	AlignBegin=114757|AlignEnd=115179|GE=go_up|Gloss=go_up|Lang=es|nWord=2|RX=[V]
+3	kalera	kalera	NOUN	_	_	2	comp:obj	_	AlignBegin=115179|AlignEnd=115601|GE=ladder|Gloss=ladder|nWord=3|RX=[N]
+4	.		PUNCT	_	_	2	punct	_	AlignBegin=115601|AlignEnd=116025|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-PA-00000-04_30-31
 # speaker_id = @04
@@ -454,14 +454,14 @@
 2	kle	kle	AUX	_	_	0	root	_	AlignBegin=120981|AlignEnd=121527|GE=be|Gloss=be|nWord=2|RX=[V]
 3	chk	chk	VERB	_	_	4	comp:aux/m	_	AlignBegin=121527|AlignEnd=121800|GE=arrive|Gloss=arrive|nWord=3|RX=[VI]
 4	-e		AUX	_	_	2	comp:aux	_	AlignBegin=121800|AlignEnd=122073|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
-5	iani	iani	ADV	_	_	_	_	_	AlignBegin=122073|AlignEnd=122619|GE=there|Gloss=there|nWord=4|RX=[ADV]
+5	iani	iani	ADV	_	_	3	mod:lmod	_	AlignBegin=122073|AlignEnd=122619|GE=there|Gloss=there|nWord=4|RX=[ADV]
 6	nga	nga	NOUN	_	_	7	comp	_	AlignBegin=122619|AlignEnd=122892|GE=village|Gloss=village|nWord=5|RX=[N]
 7	ske	ske	ADP	_	_	3	comp:obl	_	AlignBegin=122892|AlignEnd=123165|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
-8	pueblo	pueblo	NOUN	_	_	_	_	_	AlignBegin=123165|AlignEnd=123711|GE=village|Gloss=village|nWord=6|RX=[N]
-9	kada	kada	NOUN	_	_	_	_	_	AlignBegin=123711|AlignEnd=124257|GE=name|Gloss=name|nWord=7|RX=[N]
-10	kle	kle	AUX	_	_	_	_	_	AlignBegin=124257|AlignEnd=124803|GE=be|Gloss=be|nWord=8|RX=[V]
-11	Lapista	Lapista	PROPN	_	_	_	_	_	AlignBegin=124803|AlignEnd=125349|GE=[Lapista]|Gloss=Lapista|nWord=9|RX=[NPROP]
-12	Kagnu	Kagnu	PROPN	_	_	_	_	_	AlignBegin=125349|AlignEnd=125895|GE=[Kagnu]|Gloss=Kagnu|nWord=10|RX=[NPROP]
+8	pueblo	pueblo	NOUN	_	_	3	mod	_	AlignBegin=123165|AlignEnd=123711|GE=village|Gloss=village|nWord=6|RX=[N]
+9	kada	kada	NOUN	_	_	10	comp:aux/m	_	AlignBegin=123711|AlignEnd=124257|GE=name|Gloss=name|nWord=7|RX=[N]
+10	kle	kle	AUX	_	_	8	mod@relcl	_	AlignBegin=124257|AlignEnd=124803|GE=be|Gloss=be|nWord=8|RX=[V]
+11	Lapista	Lapista	PROPN	_	_	9	comp:obj	_	AlignBegin=124803|AlignEnd=125349|GE=[Lapista]|Gloss=Lapista|nWord=9|RX=[NPROP]
+12	Kagnu	Kagnu	PROPN	_	_	11	flat	_	AlignBegin=125349|AlignEnd=125895|GE=[Kagnu]|Gloss=Kagnu|nWord=10|RX=[NPROP]
 13	.		PUNCT	_	_	2	punct	_	AlignBegin=125895|AlignEnd=126440|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-PA-00000-04_33-34
@@ -479,17 +479,17 @@
 5	kweri	kweri	ADJ	_	_	4	mod	_	AlignBegin=128654|AlignEnd=129050|GE=big|Gloss=big|nWord=5|RX=[ADJ]
 6	ese	ese	DET	_	_	4	det	_	AlignBegin=129050|AlignEnd=129446|GE=that|Gloss=that|nWord=6|RX=[DET]
 7	cruza	cruza	VERB	_	_	3	comp:aux	_	AlignBegin=129446|AlignEnd=129842|GE=cross|Gloss=cross|nWord=7|RX=[V]
-8	,		PUNCT	_	_	_	_	_	AlignBegin=129842|AlignEnd=130240|nWord=8
+8	,		PUNCT	_	_	10	punct	_	AlignBegin=129842|AlignEnd=130240|nWord=8
 9	ba	ba	PRON	_	_	11	subj	_	AlignBegin=130270|AlignEnd=130566|GE=[2SG]|Gloss=2SG|nWord=9|RX=[PRO]
 10	kle	kle	AUX	_	_	0	root	_	AlignBegin=130566|AlignEnd=130862|GE=be|Gloss=be|nWord=10|RX=[V]
 11	chk	chk	VERB	_	_	12	comp:aux/m	_	AlignBegin=130862|AlignEnd=131010|GE=arrive|Gloss=arrive|nWord=11|RX=[VI]
 12	-e		AUX	_	_	10	comp:aux	_	AlignBegin=131010|AlignEnd=131158|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
-13	chi	chi	NOUN	_	_	_	_	_	AlignBegin=131158|AlignEnd=131454|GE=water|Gloss=water|nWord=12|RX=[N]
-14	kweri	kweri	ADJ	_	_	_	_	_	AlignBegin=131454|AlignEnd=131750|GE=big|Gloss=big|nWord=13|RX=[ADJ]
-15	Calovebora	Calovebora	PROPN	_	_	_	_	_	AlignBegin=131750|AlignEnd=132046|GE=[Calovebora]|Gloss=Calovebora|nWord=14|RX=[NPROP]
+13	chi	chi	NOUN	_	_	16	udep:poss	_	AlignBegin=131158|AlignEnd=131454|GE=water|Gloss=water|nWord=12|RX=[N]
+14	kweri	kweri	ADJ	_	_	13	mod	_	AlignBegin=131454|AlignEnd=131750|GE=big|Gloss=big|nWord=13|RX=[ADJ]
+15	Calovebora	Calovebora	PROPN	_	_	13	conj:dicto	_	AlignBegin=131750|AlignEnd=132046|GE=[Calovebora]|Gloss=Calovebora|nWord=14|RX=[NPROP]
 16	ka	ka	NOUN	_	_	17	comp	_	AlignBegin=132046|AlignEnd=132342|GE=mouth|Gloss=mouth|nWord=15|RX=[N]
 17	ke	ke	ADP	_	_	11	comp:obl	_	AlignBegin=132342|AlignEnd=132638|GE=[LOC]|Gloss=LOC|nWord=16|RX=[ADP]
-18	.		PUNCT	_	_	_	_	_	AlignBegin=132638|AlignEnd=132930|Gloss=.|nWord=17
+18	.		PUNCT	_	_	10	punct	_	AlignBegin=132638|AlignEnd=132930|Gloss=.|nWord=17
 
 # sent_id = SAB-TXT-PA-00000-04_35-35
 # speaker_id = @04

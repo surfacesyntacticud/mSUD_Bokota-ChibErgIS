@@ -175,7 +175,7 @@
 10	mung	mung	PART	_	_	_	_	_	AlignBegin=61445|AlignEnd=61865|GE=[REFL]|Gloss=REFL|nWord=7|RX=[VERBPRT]
 11	di	di	ADP	_	_	_	_	_	AlignBegin=61865|AlignEnd=62285|GE=[INST]|Gloss=INST|nWord=8|RX=[ADP]
 12	,		PUNCT	_	_	_	_	_	AlignBegin=62285|AlignEnd=62705|nWord=9
-13	kada	kada	NOUN	_	_	_	_	_	AlignBegin=62920|AlignEnd=63342|GE=name|Gloss=name|nWord=10|RX=[N]
+13	kada	kada	NOUN	_	_	14	comp:aux/m	_	AlignBegin=62920|AlignEnd=63342|GE=name|Gloss=name|nWord=10|RX=[N]
 14	kle	kle	AUX	_	_	_	_	_	AlignBegin=63342|AlignEnd=63764|GE=be|Gloss=be|nWord=11|RX=[V]
 15	Adan	Adan	PROPN	_	_	_	_	_	AlignBegin=63764|AlignEnd=64186|GE=[Adan]|Gloss=Adan|nWord=12|RX=[NPROP]
 16	,		PUNCT	_	_	_	_	_	AlignBegin=64186|AlignEnd=64610|nWord=13
@@ -183,14 +183,14 @@
 18	cha	cha	PRON	_	_	19	udep:poss	_	AlignBegin=65568|AlignEnd=66066|GE=[1SG]|Gloss=1SG|nWord=15|RX=[PRO]
 19	oli	oli	NOUN	_	_	20	comp:aux/m	_	AlignBegin=66066|AlignEnd=66315|GE=descendant|Gloss=descendant|nWord=16|RX=[N]
 20	-a		AUX	_	_	_	_	_	AlignBegin=66315|AlignEnd=66564|GE=[POSS]|Gloss=-POSS|nWord=16|RX=[N:ANY]
-21	kada	kada	NOUN	_	_	_	_	_	AlignBegin=66564|AlignEnd=67062|GE=name|Gloss=name|nWord=17|RX=[N]
+21	kada	kada	NOUN	_	_	22	comp:aux/m	_	AlignBegin=66564|AlignEnd=67062|GE=name|Gloss=name|nWord=17|RX=[N]
 22	kle	kle	AUX	_	_	_	_	_	AlignBegin=67062|AlignEnd=67560|GE=be|Gloss=be|nWord=18|RX=[V]
 23	Geraldo	Geraldo	PROPN	_	_	_	_	_	AlignBegin=67560|AlignEnd=68058|GE=[Geraldo]|Gloss=Geraldo|nWord=19|RX=[NPROP]
 24	,		PUNCT	_	_	_	_	_	AlignBegin=68058|AlignEnd=68555|nWord=20
 25	cha	cha	PRON	_	_	26	udep:poss	_	AlignBegin=68555|AlignEnd=69087|GE=[1SG]|Gloss=1SG|nWord=21|RX=[PRO]
 26	oli	oli	NOUN	_	_	27	comp:aux/m	_	AlignBegin=69087|AlignEnd=69353|GE=descendant|Gloss=descendant|nWord=22|RX=[N]
 27	-a		AUX	_	_	_	_	_	AlignBegin=69353|AlignEnd=69619|GE=[POSS]|Gloss=-POSS|nWord=22|RX=[N:ANY]
-28	kada	kada	NOUN	_	_	_	_	_	AlignBegin=69619|AlignEnd=70151|GE=name|Gloss=name|nWord=23|RX=[N]
+28	kada	kada	NOUN	_	_	29	comp:aux/m	_	AlignBegin=69619|AlignEnd=70151|GE=name|Gloss=name|nWord=23|RX=[N]
 29	kle	kle	AUX	_	_	_	_	_	AlignBegin=70151|AlignEnd=70683|GE=be|Gloss=be|nWord=24|RX=[V]
 30	Urbano	Urbano	PROPN	_	_	_	_	_	AlignBegin=70683|AlignEnd=71215|GE=[Urbano]|Gloss=Urbano|nWord=25|RX=[NPROP]
 31	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=71215|AlignEnd=71747|GE=and|Gloss=and|Lang=es|nWord=26|RX=[COORDCONN]
@@ -297,7 +297,7 @@
 6	ole	ole	ADP	_	_	3	comp:obl	_	AlignBegin=89085|AlignEnd=89382|GE=[COM]|Gloss=COM|nWord=6|RX=[ADP]
 7	,		PUNCT	_	_	_	_	_	AlignBegin=89382|AlignEnd=89680|nWord=7
 8	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=90335|AlignEnd=90625|GE=but|Gloss=but|Lang=es|nWord=8|RX=[COORDCONN]
-9	me	me	PART	_	_	_	_	_	AlignBegin=90625|AlignEnd=90915|GE=[NEG]|Gloss=NEG|nWord=9|RX=[VERBPRT]
+9	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=90625|AlignEnd=90915|GE=[NEG]|Gloss=NEG|nWord=9|RX=[VERBPRT]
 10	no	no	ADV	_	_	11	comp:aux/m	_	AlignBegin=90915|AlignEnd=91205|GE=well|Gloss=well|nWord=10|RX=[ADV]
 11	-dale		AUX	_	_	_	_	_	AlignBegin=91205|AlignEnd=91495|GE=[IRR]|Gloss=-IRR|nWord=11|RX=[V:ANY]
 12	,		PUNCT	_	_	_	_	_	AlignBegin=91495|AlignEnd=91785|nWord=12

@@ -165,7 +165,7 @@
 7	ole	ole	ADP	_	_	_	_	_	AlignBegin=42279|AlignEnd=42503|GE=[COM]|Gloss=COM|nWord=7|RX=[ADP]
 8	,		PUNCT	_	_	_	_	_	AlignBegin=42503|AlignEnd=42725|nWord=8
 9	cha	cha	PRON	_	_	13	subj	_	AlignBegin=42745|AlignEnd=42915|GE=[1SG]|Gloss=1SG|nWord=9|RX=[PRO]
-10	me	me	AUX	_	_	_	_	_	AlignBegin=42915|AlignEnd=43085|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]
+10	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=42915|AlignEnd=43085|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]
 11	kle	kle	AUX	_	_	10	comp:aux	_	AlignBegin=43085|AlignEnd=43255|GE=be|Gloss=be|nWord=11|RX=[V]
 12	mung	mung	PART	_	_	_	_	_	AlignBegin=43255|AlignEnd=43425|GE=[REFL]|Gloss=REFL|nWord=12|RX=[VERBPRT]
 13	gat	gat	VERB	_	_	14	comp:aux/m	_	AlignBegin=43425|AlignEnd=43482|GE=close|Gloss=close|nWord=13|RX=[V]
@@ -399,7 +399,7 @@
 19	bueno	bueno	ADJ	_	_	_	_	_	AlignBegin=85395|AlignEnd=85610|GE=good|Gloss=good|nWord=18|RX=[ADJ]
 20	cha	cha	PRON	_	_	22	subj	_	AlignBegin=85610|AlignEnd=85825|GE=[1SG]|Gloss=1SG|nWord=19|RX=[PRO]
 21	kle	kle	AUX	_	_	_	_	_	AlignBegin=85825|AlignEnd=86040|GE=be|Gloss=be|nWord=20|RX=[V]
-22	lingk	lingk	VERB	_	_	23	comp:aux	_	AlignBegin=86040|AlignEnd=86148|GE=place|Gloss=place|nWord=21|RX=[V]
+22	lingk	lingk	VERB	_	_	23	comp:aux/m	_	AlignBegin=86040|AlignEnd=86148|GE=place|Gloss=place|nWord=21|RX=[V]
 23	-e		AUX	_	_	21	comp:aux	_	AlignBegin=86148|AlignEnd=86255|GE=[THM]|Gloss=-THM|nWord=21|RX=[V:ANY]
 24	ngasuke	ngasuke	ADV	_	_	_	_	_	AlignBegin=86255|AlignEnd=86470|GE=outside|Gloss=outside|nWord=22|RX=[ADV]
 25	.		PUNCT	_	_	_	_	_	AlignBegin=86470|AlignEnd=86690|Gloss=.|nWord=23

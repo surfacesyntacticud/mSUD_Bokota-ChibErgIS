@@ -44,10 +44,10 @@
 8	kle	kle	AUX	_	_	0	root	_	AlignBegin=21265|AlignEnd=21700|GE=be|Gloss=be|nWord=6|RX=[V]
 9	toi	toi	VERB	_	_	8	comp:aux	_	AlignBegin=21700|AlignEnd=22135|GE=live|Gloss=live|nWord=7|RX=[VI]
 10	eni	eni	ADV	_	_	9	mod:lmod	_	AlignBegin=22135|AlignEnd=22570|GE=there|Gloss=there|nWord=8|RX=[ADV]
-11	nga	nga	NOUN	_	_	_	_	_	AlignBegin=22570|AlignEnd=23005|GE=village|Gloss=village|nWord=9|RX=[N]
-12	kada	kada	NOUN	_	_	_	_	_	AlignBegin=23005|AlignEnd=23440|GE=name|Gloss=name|nWord=10|RX=[N]
-13	kle	kle	AUX	_	_	_	_	_	AlignBegin=23440|AlignEnd=23875|GE=be|Gloss=be|nWord=11|RX=[V]
-14	Panama	Panama	PROPN	_	_	_	_	_	AlignBegin=23875|AlignEnd=24310|GE=[Panama]|Gloss=Panama|nWord=12|RX=[NPROP]
+11	nga	nga	NOUN	_	_	9	mod	_	AlignBegin=22570|AlignEnd=23005|GE=village|Gloss=village|nWord=9|RX=[N]
+12	kada	kada	NOUN	_	_	13	comp:aux@m	_	AlignBegin=23005|AlignEnd=23440|GE=name|Gloss=name|nWord=10|RX=[N]
+13	kle	kle	AUX	_	_	11	mod@relcl	_	AlignBegin=23440|AlignEnd=23875|GE=be|Gloss=be|nWord=11|RX=[V]
+14	Panama	Panama	PROPN	_	_	12	comp:pred	_	AlignBegin=23875|AlignEnd=24310|GE=[Panama]|Gloss=Panama|nWord=12|RX=[NPROP]
 15	iani	iani	ADV	_	_	_	_	_	AlignBegin=24310|AlignEnd=24745|GE=there|Gloss=there|nWord=13|RX=[ADV]
 16	.		PUNCT	_	_	8	punct	_	AlignBegin=24745|AlignEnd=25180|Gloss=.|nWord=14
 

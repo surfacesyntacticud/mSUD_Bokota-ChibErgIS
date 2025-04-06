@@ -9,7 +9,7 @@
 1	cha	cha	PRON	_	_	2	udep:poss	_	AlignBegin=12500|AlignEnd=12906|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	chui	chui	NOUN	_	_	_	_	_	AlignBegin=12906|AlignEnd=13312|GE=sun|Gloss=sun|nWord=2|RX=[N]
 3	iake	iake	ADJ	_	_	2	mod	_	AlignBegin=13312|AlignEnd=13718|GE=ancient|Gloss=ancient|nWord=3|RX=[ADJ]
-4	me	me	PART	_	_	_	_	_	AlignBegin=13718|AlignEnd=14124|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
+4	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=13718|AlignEnd=14124|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
 5	trenkwali	trenkwali	NOUN	_	_	_	_	_	AlignBegin=14124|AlignEnd=14530|GE=foetus|Gloss=foetus|nWord=5|RX=[N]
 6	bi	bi	ADV	_	_	_	_	_	AlignBegin=14530|AlignEnd=14936|GE=then|Gloss=then|nWord=6|RX=[ADV]
 7	gwame	gwame	VERB	_	_	8	comp:aux/m	_	AlignBegin=14936|AlignEnd=15139|GE=be.born|Gloss=be.born|nWord=7|RX=[V]
@@ -60,7 +60,7 @@
 2	es	es	VERB	_	Foreign=Yes	_	_	_	AlignBegin=25278|AlignEnd=25556|GE=be|Gloss=be|Lang=es|nWord=2|RX=[V]
 3	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=25556|AlignEnd=25834|GE=that|Gloss=that|Lang=es|nWord=3|RX=[PRO]
 4	cha	cha	PRON	_	_	8	subj	_	AlignBegin=25834|AlignEnd=26112|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
-5	me	me	PART	_	_	_	_	_	AlignBegin=26112|AlignEnd=26390|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
+5	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=26112|AlignEnd=26390|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
 6	cha	cha	PRON	_	_	7	udep:poss	_	AlignBegin=26390|AlignEnd=26668|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
 7	nienu	nienu	NOUN	_	_	8	comp:obj	_	AlignBegin=26668|AlignEnd=26946|GE=father|Gloss=father|nWord=7|RX=[N]
 8	uni	uni	VERB	_	_	9	comp:aux/m	_	AlignBegin=26946|AlignEnd=27085|GE=know|Gloss=know|nWord=8|RX=[V]
@@ -341,7 +341,7 @@
 2	ai	ai	ADV	_	_	_	_	_	AlignBegin=70242|AlignEnd=70479|GE=here|Gloss=here|nWord=2|RX=[ADV]
 3	ke	ke	ADP	_	_	_	_	_	AlignBegin=70479|AlignEnd=70716|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
 4	cha	cha	PRON	_	_	6	subj	_	AlignBegin=70716|AlignEnd=70953|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
-5	me	me	PART	_	_	_	_	_	AlignBegin=70953|AlignEnd=71190|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
+5	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=70953|AlignEnd=71190|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
 6	chk	chk	VERB	_	_	7	comp:aux/m	_	AlignBegin=71190|AlignEnd=71269|GE=arrive|Gloss=arrive|nWord=6|RX=[VI]
 7	-e		AUX	_	_	8	comp:aux/m	_	AlignBegin=71269|AlignEnd=71348|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 8	-bale		AUX	_	_	_	_	_	AlignBegin=71348|AlignEnd=71427|GE=[PART]|Gloss=-PART|nWord=6|RX=[V:ANY]
@@ -535,7 +535,7 @@
 4	-u		AUX	_	_	5	comp:aux/m	_	AlignBegin=102740|AlignEnd=102836|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
 5	-nga		AUX	_	_	1	comp	_	AlignBegin=102836|AlignEnd=102931|GE=[SUB]|Gloss=-SUB|nWord=3|RX=[V:ANY]
 6	ska	ska	NOUN	_	_	7	comp	_	AlignBegin=102931|AlignEnd=103218|GE=jail|Gloss=jail|nWord=4|RX=[N]
-7	ke	ke	ADP	_	_	3	comp:obl	_	AlignBegin=103218|AlignEnd=103505|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
+7	ke	ke	ADP	_	_	3	mod:lmod	_	AlignBegin=103218|AlignEnd=103505|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
 8	.		PUNCT	_	_	1	punct	_	AlignBegin=103505|AlignEnd=103790|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-LS-00000-02_33-33
@@ -551,7 +551,7 @@
 3	-u		AUX	_	_	4	comp:aux/m	_	AlignBegin=104320|AlignEnd=104384|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	-nga		AUX	_	_	_	_	_	AlignBegin=104384|AlignEnd=104447|GE=[SUB]|Gloss=-SUB|nWord=2|RX=[V:ANY]
 5	ska	ska	NOUN	_	_	6	comp	_	AlignBegin=104447|AlignEnd=104638|GE=jail|Gloss=jail|nWord=3|RX=[N]
-6	ke	ke	ADP	_	_	2	comp:obl	_	AlignBegin=104638|AlignEnd=104829|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
+6	ke	ke	ADP	_	_	2	mod:lmod	_	AlignBegin=104638|AlignEnd=104829|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
 7	.		PUNCT	_	_	_	_	_	AlignBegin=104829|AlignEnd=105020|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-LS-00000-02_34-34
@@ -639,7 +639,7 @@
 1	ama	ama	ADV	_	_	_	_	_	AlignBegin=113725|AlignEnd=114039|GE=so|Gloss=so|nWord=1|RX=[ADV]
 2	giti	giti	ADV	_	_	_	_	_	AlignBegin=114039|AlignEnd=114353|GE=here|Gloss=here|nWord=2|RX=[ADV]
 3	cha	cha	PRON	_	_	5	subj	_	AlignBegin=114353|AlignEnd=114667|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
-4	me	me	AUX	_	_	0	root	_	AlignBegin=114667|AlignEnd=114981|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
+4	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=114667|AlignEnd=114981|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
 5	gwae	gwae	VERB	_	_	4	comp:aux	_	AlignBegin=114981|AlignEnd=115138|GE=see|Gloss=see|nWord=5|RX=[V]
 6	kali	kali	PART	_	_	_	_	_	AlignBegin=115138|AlignEnd=115295|GE=want|Gloss=want|nWord=5|RX=[VERBPRT]
 7	Wami	Wami	NOUN	_	_	8	comp	_	AlignBegin=115295|AlignEnd=115609|GE=[Guaymi]|Gloss=Guaymi|nWord=6|RX=[N]
@@ -659,7 +659,7 @@
 3	giti	giti	ADV	_	_	_	_	_	AlignBegin=116823|AlignEnd=117087|GE=here|Gloss=here|nWord=3|RX=[ADV]
 4	cha	cha	PRON	_	_	6	subj	_	AlignBegin=117087|AlignEnd=117351|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
 5	kle	kle	AUX	_	_	0	root	_	AlignBegin=117351|AlignEnd=117615|GE=be|Gloss=be|nWord=5|RX=[V]
-6	kirabat	kirabat	VERB	_	_	7	comp:aux	_	AlignBegin=117615|AlignEnd=117747|GE=fight|Gloss=fight|nWord=6|RX=[V]
+6	kirabat	kirabat	VERB	_	_	7	comp:aux/m	_	AlignBegin=117615|AlignEnd=117747|GE=fight|Gloss=fight|nWord=6|RX=[V]
 7	-e		AUX	_	_	5	comp:aux	_	AlignBegin=117747|AlignEnd=117879|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 8	Wami	Wami	NOUN	_	_	9	comp	_	AlignBegin=117879|AlignEnd=118143|GE=[Guaymi]|Gloss=Guaymi|nWord=7|RX=[N]
 9	ole	ole	ADP	_	_	6	comp:obl	_	AlignBegin=118143|AlignEnd=118407|GE=[COM]|Gloss=COM|nWord=8|RX=[ADP]
@@ -675,7 +675,7 @@
 # text_ortho = porque daba me wami unie ulita , entonces daba ko kete wami ke .
 1	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=119420|AlignEnd=119799|GE=because|Gloss=because|Lang=es|nWord=1|RX=[CONN]
 2	daba	daba	NOUN	_	_	_	_	_	AlignBegin=119799|AlignEnd=120178|GE=brother|Gloss=brother|nWord=2|RX=[N]
-3	me	me	PART	_	_	_	_	_	AlignBegin=120178|AlignEnd=120557|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=120178|AlignEnd=120557|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	Wami	Wami	NOUN	_	_	5	comp:obj	_	AlignBegin=120557|AlignEnd=120936|GE=[Guaymi]|Gloss=Guaymi|nWord=4|RX=[N]
 5	uni	uni	VERB	_	_	6	comp:aux/m	_	AlignBegin=120936|AlignEnd=121126|GE=know|Gloss=know|nWord=5|RX=[V]
 6	-e		AUX	_	_	_	_	_	AlignBegin=121126|AlignEnd=121315|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
@@ -732,7 +732,7 @@
 # text_ortho = kle wami me toi wendi daba ole .
 1	kle	kle	AUX	_	_	_	_	_	AlignBegin=128565|AlignEnd=128807|GE=be|Gloss=be|nWord=1|RX=[V]
 2	Wami	Wami	NOUN	_	_	_	_	_	AlignBegin=128807|AlignEnd=129049|GE=[Guaymi]|Gloss=Guaymi|nWord=2|RX=[N]
-3	me	me	AUX	_	_	_	_	_	AlignBegin=129049|AlignEnd=129291|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=129049|AlignEnd=129291|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	toi	toi	VERB	_	_	3	comp:aux	_	AlignBegin=129291|AlignEnd=129533|GE=live|Gloss=live|nWord=4|RX=[VI]
 5	wendi	wendi	ADV	_	_	_	_	_	AlignBegin=129533|AlignEnd=129775|GE=calm|Gloss=calm|nWord=5|RX=[ADV]
 6	daba	daba	NOUN	_	_	7	comp	_	AlignBegin=129775|AlignEnd=130017|GE=brother|Gloss=brother|nWord=6|RX=[N]
@@ -766,7 +766,7 @@
 # text_ortho = entonces cha me gwaekali wami dike ai mung ske .
 1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=133310|AlignEnd=133681|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	4	subj	_	AlignBegin=133681|AlignEnd=134052|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
-3	me	me	AUX	_	_	0	root	_	AlignBegin=134052|AlignEnd=134423|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=134052|AlignEnd=134423|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	gwae	gwae	VERB	_	_	3	comp:aux	_	AlignBegin=134423|AlignEnd=134609|GE=see|Gloss=see|nWord=4|RX=[V]
 5	kali	kali	PART	_	_	_	_	_	AlignBegin=134609|AlignEnd=134794|GE=want|Gloss=want|nWord=4|RX=[VERBPRT]
 6	Wami	Wami	NOUN	_	_	7	comp	_	AlignBegin=134794|AlignEnd=135165|GE=[Guaymi]|Gloss=Guaymi|nWord=5|RX=[N]
@@ -788,7 +788,7 @@
 2	giti	giti	ADV	_	_	_	_	_	AlignBegin=137640|AlignEnd=137895|GE=here|Gloss=here|nWord=2|RX=[ADV]
 3	cha	cha	PRON	_	_	5	subj	_	AlignBegin=137895|AlignEnd=138150|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
 4	kle	kle	AUX	_	_	0	root	_	AlignBegin=138150|AlignEnd=138405|GE=be|Gloss=be|nWord=4|RX=[V]
-5	kirabat	kirabat	VERB	_	_	6	comp:aux	_	AlignBegin=138405|AlignEnd=138533|GE=fight|Gloss=fight|nWord=5|RX=[V]
+5	kirabat	kirabat	VERB	_	_	6	comp:aux/m	_	AlignBegin=138405|AlignEnd=138533|GE=fight|Gloss=fight|nWord=5|RX=[V]
 6	-e		AUX	_	_	4	comp:aux	_	AlignBegin=138533|AlignEnd=138660|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	Wami	Wami	NOUN	_	_	8	comp	_	AlignBegin=138660|AlignEnd=138915|GE=[Guaymi]|Gloss=Guaymi|nWord=6|RX=[N]
 8	ole	ole	ADP	_	_	5	comp:obl	_	AlignBegin=138915|AlignEnd=139170|GE=[COM]|Gloss=COM|nWord=7|RX=[ADP]

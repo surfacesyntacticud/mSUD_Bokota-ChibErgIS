@@ -221,7 +221,7 @@
 1	enusuli	enusuli	NOUN	_	_	5	subj	_	AlignBegin=73510|AlignEnd=74644|GE=grandfather|Gloss=grandfather|nWord=1|RX=[N]
 2	bligda	bligda	NOUN	_	_	_	_	_	AlignBegin=74644|AlignEnd=75778|GE=food|Gloss=food|nWord=2|RX=[N]
 3	ia	ia	NOUN	_	_	_	_	_	AlignBegin=75778|AlignEnd=76912|GE=drink|Gloss=drink|nWord=3|RX=[N]
-4	me	me	AUX	_	_	_	_	_	AlignBegin=76912|AlignEnd=78046|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
+4	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=76912|AlignEnd=78046|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
 5	ket	ket	VERB	_	_	6	comp:aux/m	_	AlignBegin=78046|AlignEnd=78613|GE=give|Gloss=give|nWord=5|RX=[V]
 6	-e		AUX	_	_	4	comp:aux	_	AlignBegin=78613|AlignEnd=79180|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	skeke	skeke	ADJ	_	_	_	_	_	AlignBegin=79180|AlignEnd=80314|GE=cold|Gloss=cold|nWord=6|RX=[ADJ]
@@ -242,11 +242,11 @@
 # text_en = But not sweet as today, that comes from the city. Sweet like here.
 # text_ortho = pero me bale nengke kle chie dwe unaske , sino bale aini .
 1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=83485|AlignEnd=84023|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
-2	me	me	PART	_	_	_	_	_	AlignBegin=84023|AlignEnd=84561|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=84023|AlignEnd=84561|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	bale	bale	ADJ	_	_	2	comp:pred	_	AlignBegin=84561|AlignEnd=85099|GE=sweet|Gloss=sweet|nWord=3|RX=[ADJ]
 4	nengke	nengke	ADV	_	_	3	mod	_	AlignBegin=85099|AlignEnd=85637|GE=today|Gloss=today|nWord=4|RX=[ADV]
 5	kle	kle	AUX	_	_	_	_	_	AlignBegin=85637|AlignEnd=86175|GE=be|Gloss=be|nWord=5|RX=[V]
-6	chi	chi	VERB	_	_	7	comp:aux	_	AlignBegin=86175|AlignEnd=86444|GE=come|Gloss=come|nWord=6|RX=[VI]
+6	chi	chi	VERB	_	_	7	comp:aux/m	_	AlignBegin=86175|AlignEnd=86444|GE=come|Gloss=come|nWord=6|RX=[VI]
 7	-e		AUX	_	_	5	comp:aux	_	AlignBegin=86444|AlignEnd=86713|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 8	dwe	dwe	VERB	_	_	_	_	_	AlignBegin=86713|AlignEnd=87251|GE=[carry].[NPST]|Gloss=carry.NPST|nWord=7|RX=[VT]
 9	unaske	unaske	NOUN	_	_	_	_	_	AlignBegin=87251|AlignEnd=87789|GE=city|Gloss=city|nWord=8|RX=[N]
@@ -503,16 +503,16 @@
 4	muire	muire	ADJ	_	_	5	comp:aux/m	_	AlignBegin=136943|AlignEnd=137170|GE=female|Gloss=female|nWord=3|RX=[ADJ]
 5	-ia		AUX	_	_	6	comp	_	AlignBegin=137170|AlignEnd=137397|GE=[POSS]|Gloss=-POSS|nWord=3|RX=[N:ANY]
 6	dike	dike	ADP	_	_	2	comp:obl	_	AlignBegin=137397|AlignEnd=137851|GE=[INST]|Gloss=INST|nWord=4|RX=[ADP]
-7	,		PUNCT	_	_	_	_	_	AlignBegin=137851|AlignEnd=138305|nWord=5
+7	,		PUNCT	_	_	13	punct	_	AlignBegin=137851|AlignEnd=138305|nWord=5
 8	muire	muire	ADJ	_	_	9	comp:aux/m	_	AlignBegin=138440|AlignEnd=138660|GE=female|Gloss=female|nWord=6|RX=[ADJ]
 9	-ia		AUX	_	_	13	subj	_	AlignBegin=138660|AlignEnd=138880|GE=[POSS]|Gloss=-POSS|nWord=6|RX=[N:ANY]
-10	gli	gli	NOUN	_	_	_	_	_	AlignBegin=138880|AlignEnd=139320|GE=tree|Gloss=tree|nWord=7|RX=[N]
-11	aini	aini	ADV	_	_	_	_	_	AlignBegin=139320|AlignEnd=139760|GE=here|Gloss=here|nWord=8|RX=[ADV]
-12	hukuagda	hukuagda	NOUN	_	_	_	_	_	AlignBegin=139760|AlignEnd=140200|GE=tree_type|Gloss=tree_type|nWord=9|RX=[N]
+10	gli	gli	NOUN	_	_	12	udep:poss	_	AlignBegin=138880|AlignEnd=139320|GE=tree|Gloss=tree|nWord=7|RX=[N]
+11	aini	aini	ADV	_	_	10	mod	_	AlignBegin=139320|AlignEnd=139760|GE=here|Gloss=here|nWord=8|RX=[ADV]
+12	hukuagda	hukuagda	NOUN	_	_	13	comp:obj	_	AlignBegin=139760|AlignEnd=140200|GE=tree_type|Gloss=tree_type|nWord=9|RX=[N]
 13	hunga	hunga	VERB	_	_	0	root	_	AlignBegin=140200|AlignEnd=140640|GE=take_out|Gloss=take_out|nWord=10|RX=[V]
 14	tri	tri	NOUN	_	_	15	comp	_	AlignBegin=140640|AlignEnd=141080|GE=back|Gloss=back|nWord=11|RX=[N]
 15	giti	giti	ADP	_	_	13	comp:obl	_	AlignBegin=141080|AlignEnd=141520|GE=[LOC]|Gloss=LOC|nWord=12|RX=[ADP]
-16	.		PUNCT	_	_	_	_	_	AlignBegin=141520|AlignEnd=141960|Gloss=.|nWord=13
+16	.		PUNCT	_	_	13	punct	_	AlignBegin=141520|AlignEnd=141960|Gloss=.|nWord=13
 
 # sent_id = SAB-TXT-OS-00001-01_34-34
 # speaker_id = @01
@@ -719,7 +719,7 @@
 4	Chere	Chere	PROPN	_	_	_	_	_	AlignBegin=175167|AlignEnd=175471|GE=[Chere]|Gloss=Chere|nWord=4|RX=[NPROP]
 5	cha	cha	PRON	_	_	7	subj	_	AlignBegin=175471|AlignEnd=175775|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
 6	kle	kle	AUX	_	_	0	root	_	AlignBegin=175775|AlignEnd=176079|GE=be|Gloss=be|nWord=6|RX=[V]
-7	kad	kad	VERB	_	_	8	comp:aux	_	AlignBegin=176079|AlignEnd=176231|GE=call|Gloss=call|nWord=7|RX=[V]
+7	kad	kad	VERB	_	_	8	comp:aux/m	_	AlignBegin=176079|AlignEnd=176231|GE=call|Gloss=call|nWord=7|RX=[V]
 8	-e		AUX	_	_	6	comp:aux	_	AlignBegin=176231|AlignEnd=176383|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
 9	misi	misi	NOUN	_	_	_	_	_	AlignBegin=176383|AlignEnd=176687|GE=jaguar|Gloss=jaguar|nWord=8|RX=[N]
 10	chada	chada	NOUN	_	_	11	comp:aux/m	_	AlignBegin=176687|AlignEnd=176839|GE=color|Gloss=color|nWord=9|RX=[N]

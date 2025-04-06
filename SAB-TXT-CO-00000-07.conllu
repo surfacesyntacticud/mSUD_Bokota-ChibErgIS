@@ -8,21 +8,21 @@
 # text_ortho = cha enusulia y cha chebia kle koi gweda , lukado giska giti .
 1	cha	cha	PRON	_	_	2	udep:poss	_	AlignBegin=8790|AlignEnd=9358|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	enusuli	enusuli	NOUN	_	_	3	comp:aux/m	_	AlignBegin=9358|AlignEnd=9642|GE=grandfather|Gloss=grandfather|nWord=2|RX=[N]
-3	-a		AUX	_	_	_	_	_	AlignBegin=9642|AlignEnd=9926|GE=[POSS]|Gloss=-POSS|nWord=2|RX=[N:ANY]
-4	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=9926|AlignEnd=10494|GE=and|Gloss=and|Lang=es|nWord=3|RX=[COORDCONN]
+3	-a		AUX	_	_	10	subj	_	AlignBegin=9642|AlignEnd=9926|GE=[POSS]|Gloss=-POSS|nWord=2|RX=[N:ANY]
+4	y	y	X	_	Foreign=Yes	7	cc	_	AlignBegin=9926|AlignEnd=10494|GE=and|Gloss=and|Lang=es|nWord=3|RX=[COORDCONN]
 5	cha	cha	PRON	_	_	6	udep:poss	_	AlignBegin=10494|AlignEnd=11062|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
 6	chebi	chebi	NOUN	_	_	7	comp:aux/m	_	AlignBegin=11062|AlignEnd=11346|GE=mother|Gloss=mother|nWord=5|RX=[N]
-7	-a		AUX	_	_	10	subj	_	AlignBegin=11346|AlignEnd=11630|GE=[POSS]|Gloss=-POSS|nWord=5|RX=[N:ANY]
-8	kle	kle	AUX	_	_	_	_	_	AlignBegin=11630|AlignEnd=12198|GE=be|Gloss=be|nWord=6|RX=[V]
+7	-a		AUX	_	_	3	conj:coord	_	AlignBegin=11346|AlignEnd=11630|GE=[POSS]|Gloss=-POSS|nWord=5|RX=[N:ANY]
+8	kle	kle	AUX	_	_	0	root	_	AlignBegin=11630|AlignEnd=12198|GE=be|Gloss=be|nWord=6|RX=[V]
 9	koi	koi	NOUN	_	_	10	comp:obj	_	AlignBegin=12198|AlignEnd=12766|GE=chicken|Gloss=chicken|nWord=7|RX=[N]
 10	gwe	gwe	VERB	_	_	11	comp:aux/m	_	AlignBegin=12766|AlignEnd=12955|GE=kill|Gloss=sleep|nWord=8|RX=[V]
 11	-da		AUX	_	_	8	comp:aux	_	AlignBegin=12955|AlignEnd=13334|GE=[0]|Gloss=-ASP|nWord=8|RX=[VERB]
-12	,		PUNCT	_	_	_	_	_	AlignBegin=13334|AlignEnd=13905|nWord=9
+12	,		PUNCT	_	_	8	punct	_	AlignBegin=13334|AlignEnd=13905|nWord=9
 13	luk	luk	VERB	_	_	14	comp:aux/m	_	AlignBegin=13922|AlignEnd=14052|GE=link|Gloss=link|nWord=10|RX=[VT]
-14	-ado		AUX	_	_	_	_	_	AlignBegin=14052|AlignEnd=14182|GE=[PART]|Gloss=-PART|nWord=10|RX=[VERB]
+14	-ado		AUX	_	_	9	mod	_	AlignBegin=14052|AlignEnd=14182|GE=[PART]|Gloss=-PART|nWord=10|RX=[VERB]
 15	giska	giska	NOUN	_	_	16	comp	_	AlignBegin=14182|AlignEnd=14442|GE=rope|Gloss=rope|nWord=11|RX=[N]
 16	giti	giti	ADP	_	_	13	comp:obl	_	AlignBegin=14442|AlignEnd=14702|GE=[LOC]|Gloss=LOC|nWord=12|RX=[ADP]
-17	.		PUNCT	_	_	_	_	_	AlignBegin=14702|AlignEnd=14962|Gloss=.|nWord=13
+17	.		PUNCT	_	_	8	punct	_	AlignBegin=14702|AlignEnd=14962|Gloss=.|nWord=13
 
 # sent_id = SAB-TXT-CO-00000-07_03-03
 # speaker_id = @07
@@ -196,7 +196,7 @@
 10	,		PUNCT	_	_	_	_	_	AlignBegin=59422|AlignEnd=59740|nWord=8
 11	bla	bla	NOUN	_	_	12	comp	_	AlignBegin=60730|AlignEnd=61133|GE=banana|Gloss=banana|nWord=9|RX=[N]
 12	ske	ske	ADP	_	_	_	_	_	AlignBegin=61133|AlignEnd=61536|GE=with|Gloss=with|nWord=10|RX=[ADP]
-13	me	me	PART	_	_	_	_	_	AlignBegin=61536|AlignEnd=61939|GE=[NEG]|Gloss=NEG|nWord=11|RX=[VERBPRT]
+13	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=61536|AlignEnd=61939|GE=[NEG]|Gloss=NEG|nWord=11|RX=[VERBPRT]
 14	cho	cho	NOUN	_	_	15	comp:obj	_	AlignBegin=61939|AlignEnd=62342|GE=salt|Gloss=salt|nWord=12|RX=[N]
 15	bek	bek	VERB	_	_	16	comp:aux/m	_	AlignBegin=62342|AlignEnd=62544|GE=put|Gloss=put|nWord=13|RX=[V]
 16	-u		AUX	_	_	_	_	_	AlignBegin=62544|AlignEnd=62745|GE=[PST]|Gloss=-PST|nWord=13|RX=[V:ANY]
@@ -212,7 +212,7 @@
 26	,		PUNCT	_	_	_	_	_	AlignBegin=65566|AlignEnd=65970|nWord=21
 27	cho	cho	NOUN	_	_	31	subj	_	AlignBegin=66180|AlignEnd=66713|GE=salt|Gloss=salt|nWord=22|RX=[N]
 28	antes	antes	ADV	_	_	_	_	_	AlignBegin=66713|AlignEnd=67246|GE=before|Gloss=before|nWord=23|RX=[ADV]
-29	me	me	AUX	_	_	_	_	_	AlignBegin=67246|AlignEnd=67779|GE=[NEG]|Gloss=NEG|nWord=24|RX=[VERBPRT]
+29	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=67246|AlignEnd=67779|GE=[NEG]|Gloss=NEG|nWord=24|RX=[VERBPRT]
 30	che	che	PRON	_	_	31	comp:obj	_	AlignBegin=67779|AlignEnd=68312|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=25|RX=[PRO]
 31	chk	chk	VERB	_	_	32	comp:aux/m	_	AlignBegin=68312|AlignEnd=68578|GE=arrive|Gloss=arrive|nWord=26|RX=[VI]
 32	-e		AUX	_	_	29	comp:aux	_	AlignBegin=68578|AlignEnd=68845|GE=[THM]|Gloss=-THM|nWord=26|RX=[V:ANY]
@@ -245,7 +245,7 @@
 2	koi	koi	NOUN	_	_	_	_	_	AlignBegin=72785|AlignEnd=73140|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
 3	ai	ai	PART	_	_	2	mod	_	AlignBegin=73140|AlignEnd=73495|GE=local|Gloss=local|nWord=3|RX=[PRO]
 4	agere	agere	ADJ	_	_	_	_	_	AlignBegin=73495|AlignEnd=73850|GE=new|Gloss=new|nWord=4|RX=[ADJ]
-5	me	me	PART	_	_	_	_	_	AlignBegin=73850|AlignEnd=74205|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
+5	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=73850|AlignEnd=74205|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
 6	koi	koi	NOUN	_	_	_	_	_	AlignBegin=74205|AlignEnd=74560|GE=chicken|Gloss=chicken|nWord=6|RX=[N]
 7	uswili	uswili	ADV	_	_	_	_	_	AlignBegin=74560|AlignEnd=74915|GE=before|Gloss=before|nWord=7|RX=[ADV]
 8	che	che	PRON	_	_	9	udep:poss	_	AlignBegin=74915|AlignEnd=75270|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=8|RX=[PRO]

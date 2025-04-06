@@ -130,7 +130,7 @@
 11	be	be	AUX	_	_	10	comp	_	AlignBegin=41299|AlignEnd=41468|GE=[FUT]|Gloss=FUT|nWord=10|RX=[VERBPRT]
 12	u	u	NOUN	_	_	14	subj	_	AlignBegin=41468|AlignEnd=41637|GE=house|Gloss=house|nWord=11|RX=[N]
 13	be	be	AUX	_	_	_	_	_	AlignBegin=41637|AlignEnd=41806|GE=[FUT]|Gloss=FUT|nWord=12|RX=[VERBPRT]
-14	chek	chek	VERB	_	_	15	comp:aux	_	AlignBegin=41806|AlignEnd=41890|GE=stay|Gloss=stay|nWord=13|RX=[VI]
+14	chek	chek	VERB	_	_	15	comp:aux/m	_	AlignBegin=41806|AlignEnd=41890|GE=stay|Gloss=stay|nWord=13|RX=[VI]
 15	-e		AUX	_	_	13	comp:aux	_	AlignBegin=41890|AlignEnd=41975|GE=[THM]|Gloss=-THM|nWord=13|RX=[V:ANY]
 16	no	no	ADJ	_	_	_	_	_	AlignBegin=41975|AlignEnd=42144|GE=good|Gloss=good|nWord=14|RX=[ADJ]
 17	.		PUNCT	_	_	_	_	_	AlignBegin=42144|AlignEnd=42310|Gloss=.|nWord=15

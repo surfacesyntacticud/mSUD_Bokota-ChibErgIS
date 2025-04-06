@@ -105,8 +105,8 @@
 # text_ortho = chui be chkenga cha chebi be kiro manane nengke , ama kike , hoke ngaske sukekre .
 1	chui	chui	NOUN	_	_	3	subj	_	AlignBegin=38100|AlignEnd=38795|GE=sun|Gloss=sun|nWord=1|RX=[N]
 2	be	be	AUX	_	_	10	mod:tmod	_	AlignBegin=38795|AlignEnd=39490|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
-3	chk	chk	VERB	_	_	4	comp:aux	_	AlignBegin=39490|AlignEnd=39722|GE=arrive|Gloss=arrive|nWord=3|RX=[VI]
-4	-e		AUX	_	_	5	comp:aux	_	AlignBegin=39722|AlignEnd=39954|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+3	chk	chk	VERB	_	_	4	comp:aux/m	_	AlignBegin=39490|AlignEnd=39722|GE=arrive|Gloss=arrive|nWord=3|RX=[VI]
+4	-e		AUX	_	_	5	comp:aux/m	_	AlignBegin=39722|AlignEnd=39954|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	-nga		AUX	_	_	2	comp:aux	_	AlignBegin=39954|AlignEnd=40185|GE=[SUB]|Gloss=-SUB|nWord=3|RX=[V:ANY]
 6	cha	cha	PRON	_	_	7	udep:poss	_	AlignBegin=40185|AlignEnd=40880|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
 7	chebi	chebi	NOUN	_	_	10	subj	_	AlignBegin=40880|AlignEnd=41575|GE=mother|Gloss=mother|nWord=5|RX=[N]
@@ -158,7 +158,7 @@
 23	-bale		AUX	_	_	_	_	_	AlignBegin=62046|AlignEnd=62306|GE=[PART]|Gloss=-PART|nWord=20|RX=[V:ANY]
 24	chebi	chebi	NOUN	_	_	26	subj	_	AlignBegin=62306|AlignEnd=63088|GE=mother|Gloss=mother|nWord=21|RX=[N]
 25	be	be	AUX	_	_	_	_	_	AlignBegin=63088|AlignEnd=63870|GE=[FUT]|Gloss=FUT|nWord=22|RX=[VERBPRT]
-26	manan	manan	VERB	_	_	27	comp:aux	_	AlignBegin=63870|AlignEnd=64261|GE=give_birth|Gloss=give_birth|nWord=23|RX=[V]
+26	manan	manan	VERB	_	_	27	comp:aux/m	_	AlignBegin=63870|AlignEnd=64261|GE=give_birth|Gloss=give_birth|nWord=23|RX=[V]
 27	-e		AUX	_	_	25	comp:aux	_	AlignBegin=64261|AlignEnd=64652|GE=[THM]|Gloss=-THM|nWord=23|RX=[V:ANY]
 28	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=64652|AlignEnd=65434|GE=forbidden|Gloss=forbidden|nWord=24|RX=[ADV]
 29	,		PUNCT	_	_	_	_	_	AlignBegin=65434|AlignEnd=66220|nWord=25
@@ -190,7 +190,7 @@
 55	cha	cha	PRON	_	_	_	_	_	AlignBegin=76074|AlignEnd=76491|GE=[1SG]|Gloss=1SG|nWord=51|RX=[PRO]
 56	)		PUNCT	_	_	_	_	_	AlignBegin=76491|AlignEnd=76908|nWord=52
 57	che	che	PRON	_	_	59	subj	_	AlignBegin=76908|AlignEnd=77325|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=53|RX=[PRO]
-58	me	me	AUX	_	_	_	_	_	AlignBegin=77325|AlignEnd=77742|GE=[NEG]|Gloss=NEG|nWord=54|RX=[VERBPRT]
+58	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=77325|AlignEnd=77742|GE=[NEG]|Gloss=NEG|nWord=54|RX=[VERBPRT]
 59	gwae	gwae	VERB	_	_	58	comp:aux	_	AlignBegin=77742|AlignEnd=78159|GE=see|Gloss=see|nWord=55|RX=[V]
 60	chebi	chebi	NOUN	_	_	61	comp	_	AlignBegin=78159|AlignEnd=78576|GE=mother|Gloss=mother|nWord=56|RX=[N]
 61	dike	dike	ADP	_	_	59	comp:obl	_	AlignBegin=78576|AlignEnd=78993|GE=[INST]|Gloss=INST|nWord=57|RX=[ADP]
@@ -265,7 +265,7 @@
 2	che	che	PRON	_	_	_	_	_	AlignBegin=91351|AlignEnd=91912|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
 3	ai	ai	PART	_	_	2	mod	_	AlignBegin=91912|AlignEnd=92473|GE=local|Gloss=local|nWord=3|RX=[PRO]
 4	chebi	chebi	NOUN	_	_	8	subj	_	AlignBegin=92473|AlignEnd=93034|GE=mother|Gloss=mother|nWord=4|RX=[N]
-5	me	me	AUX	_	_	0	root	_	AlignBegin=93034|AlignEnd=93595|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
+5	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=93034|AlignEnd=93595|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
 6	gna	gna	AUX	_	_	5	comp:aux	_	AlignBegin=93595|AlignEnd=94156|GE=can|Gloss=can|nWord=6|RX=[V]
 7	samla	samla	NOUN	_	_	8	comp:obj	_	AlignBegin=94156|AlignEnd=94717|GE=meat|Gloss=meat|nWord=7|RX=[N]
 8	gut	gut	VERB	_	_	9	comp:aux/m	_	AlignBegin=94717|AlignEnd=94997|GE=eat|Gloss=eat|nWord=8|RX=[VT]
@@ -281,7 +281,7 @@
 # text_en = The mother can't eat salt.
 # text_ortho = chebi me gna cho gute .
 1	chebi	chebi	NOUN	_	_	5	subj	_	AlignBegin=96310|AlignEnd=97167|GE=mother|Gloss=mother|nWord=1|RX=[N]
-2	me	me	AUX	_	_	0	root	_	AlignBegin=97167|AlignEnd=98024|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=97167|AlignEnd=98024|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	gna	gna	AUX	_	_	2	comp:aux	_	AlignBegin=98024|AlignEnd=98881|GE=can|Gloss=can|nWord=3|RX=[V]
 4	cho	cho	NOUN	_	_	5	comp:obj	_	AlignBegin=98881|AlignEnd=99738|GE=salt|Gloss=salt|nWord=4|RX=[N]
 5	gut	gut	VERB	_	_	6	comp:aux/m	_	AlignBegin=99738|AlignEnd=100166|GE=eat|Gloss=eat|nWord=5|RX=[VT]
@@ -297,7 +297,7 @@
 # text_en = The mother can't see or be close to the other kids.
 # text_ortho = chebi me gna tiengdale ko dike che ke .
 1	chebi	chebi	NOUN	_	_	_	_	_	AlignBegin=101620|AlignEnd=102002|GE=mother|Gloss=mother|nWord=1|RX=[N]
-2	me	me	AUX	_	_	0	root	_	AlignBegin=102002|AlignEnd=102384|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=102002|AlignEnd=102384|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	gna	gna	AUX	_	_	2	comp:aux	_	AlignBegin=102384|AlignEnd=102766|GE=can|Gloss=can|nWord=3|RX=[V]
 4	tieng	tieng	VERB	_	_	5	comp:aux/m	_	AlignBegin=102766|AlignEnd=102957|GE=[see].[NPST]|Gloss=see.NPST|nWord=4|RX=[V]
 5	-dale		AUX	_	_	3	comp:aux	_	AlignBegin=102957|AlignEnd=103148|GE=[IRR]|Gloss=-IRR|nWord=4|RX=[V:ANY]
@@ -316,7 +316,7 @@
 # text_en = The mother can't cook food for them. Their sister or their father cooks. For them to eat. Because they will turn lazy, it is forbidden.
 # text_ortho = chebi me gna bli hinane che ai aling , sino che ibote o che nienu bli hinane , pa che gute , porque che hoke gaba sainkuli .
 1	chebi	chebi	NOUN	_	_	5	subj	_	AlignBegin=105350|AlignEnd=105819|GE=mother|Gloss=mother|nWord=1|RX=[N]
-2	me	me	AUX	_	_	_	_	_	AlignBegin=105819|AlignEnd=106288|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=105819|AlignEnd=106288|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	gna	gna	AUX	_	_	2	comp:aux	_	AlignBegin=106288|AlignEnd=106757|GE=can|Gloss=can|nWord=3|RX=[V]
 4	bli	bli	NOUN	_	_	5	comp:obj	_	AlignBegin=106757|AlignEnd=107226|GE=food|Gloss=food|nWord=4|RX=[N]
 5	hinan	hinan	VERB	_	_	6	comp:aux/m	_	AlignBegin=107226|AlignEnd=107460|GE=cook|Gloss=cook|nWord=5|RX=[VT]
@@ -422,8 +422,8 @@
 3	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=128978|AlignEnd=129407|GE=be|Gloss=be|Lang=es|nWord=3|RX=[V]
 4	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=129407|AlignEnd=129836|GE=today|Gloss=today|nWord=4|RX=[ADV]
 5	be	be	AUX	_	_	_	_	_	AlignBegin=129836|AlignEnd=130265|GE=[FUT]|Gloss=FUT|nWord=5|RX=[VERBPRT]
-6	chk	chk	VERB	_	_	7	comp:aux	_	AlignBegin=130265|AlignEnd=130408|GE=arrive|Gloss=arrive|nWord=6|RX=[VI]
-7	-e		AUX	_	_	8	comp:aux	_	AlignBegin=130408|AlignEnd=130551|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
+6	chk	chk	VERB	_	_	7	comp:aux/m	_	AlignBegin=130265|AlignEnd=130408|GE=arrive|Gloss=arrive|nWord=6|RX=[VI]
+7	-e		AUX	_	_	8	comp:aux/m	_	AlignBegin=130408|AlignEnd=130551|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 8	-nga		AUX	_	_	5	comp:aux	_	AlignBegin=130551|AlignEnd=130694|GE=[SUB]|Gloss=-SUB|nWord=6|RX=[V:ANY]
 9	chebi	chebi	NOUN	_	_	10	comp	_	AlignBegin=130694|AlignEnd=131123|GE=mother|Gloss=mother|nWord=7|RX=[N]
 10	ke	ke	ADP	_	_	6	comp:obl	_	AlignBegin=131123|AlignEnd=131552|GE=[LOC]|Gloss=LOC|nWord=8|RX=[ADP]
@@ -445,7 +445,7 @@
 # text_ortho = swilitai be chie , chebi be hoke obe , chebi hongia giti chi ke , y che be hoke obe , kiro hombre batreti hoke obe sukekre chi ke .
 1	swilitai	swilitai	NOUN	_	_	3	subj	_	AlignBegin=134960|AlignEnd=135485|GE=morning|Gloss=morning|nWord=1|RX=[N]
 2	be	be	AUX	_	_	_	_	_	AlignBegin=135485|AlignEnd=136010|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
-3	chi	chi	VERB	_	_	4	comp:aux	_	AlignBegin=136010|AlignEnd=136272|GE=come|Gloss=come|nWord=3|RX=[VI]
+3	chi	chi	VERB	_	_	4	comp:aux/m	_	AlignBegin=136010|AlignEnd=136272|GE=come|Gloss=come|nWord=3|RX=[VI]
 4	-e		AUX	_	_	2	comp:aux	_	AlignBegin=136272|AlignEnd=136535|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	,		PUNCT	_	_	_	_	_	AlignBegin=136535|AlignEnd=137060|nWord=4
 6	chebi	chebi	NOUN	_	_	8	subj	_	AlignBegin=137315|AlignEnd=137759|GE=mother|Gloss=mother|nWord=5|RX=[N]
@@ -489,7 +489,7 @@
 3	nengke	nengke	ADV	_	_	2	comp:pred	_	AlignBegin=147800|AlignEnd=148020|GE=today|Gloss=today|nWord=3|RX=[ADV]
 4	che	che	PRON	_	_	6	subj	_	AlignBegin=148020|AlignEnd=148240|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=4|RX=[PRO]
 5	be	be	AUX	_	_	_	_	_	AlignBegin=148240|AlignEnd=148460|GE=[FUT]|Gloss=FUT|nWord=5|RX=[VERBPRT]
-6	blid	blid	VERB	_	_	7	comp:aux	_	AlignBegin=148460|AlignEnd=148570|GE=eat|Gloss=eat|nWord=6|RX=[VI]
+6	blid	blid	VERB	_	_	7	comp:aux/m	_	AlignBegin=148460|AlignEnd=148570|GE=eat|Gloss=eat|nWord=6|RX=[VI]
 7	-e		AUX	_	_	5	comp:aux	_	AlignBegin=148570|AlignEnd=148680|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 8	chebi	chebi	NOUN	_	_	9	comp	_	AlignBegin=148680|AlignEnd=148900|GE=mother|Gloss=mother|nWord=7|RX=[N]
 9	ole	ole	ADP	_	_	6	comp:obl	_	AlignBegin=148900|AlignEnd=149120|GE=[COM]|Gloss=COM|nWord=8|RX=[ADP]
@@ -517,8 +517,8 @@
 31	)		PUNCT	_	_	_	_	_	AlignBegin=159868|AlignEnd=160355|nWord=28
 32	dai	dai	NOUN	_	_	34	subj	_	AlignBegin=160355|AlignEnd=160842|GE=moon|Gloss=moon|nWord=29|RX=[N]
 33	be	be	AUX	_	_	27	comp	_	AlignBegin=160842|AlignEnd=161329|GE=[FUT]|Gloss=FUT|nWord=30|RX=[VERBPRT]
-34	chk	chk	VERB	_	_	35	comp:aux	_	AlignBegin=161329|AlignEnd=161491|GE=arrive|Gloss=arrive|nWord=31|RX=[VI]
-35	-e		AUX	_	_	36	comp:aux	_	AlignBegin=161491|AlignEnd=161653|GE=[THM]|Gloss=-THM|nWord=31|RX=[V:ANY]
+34	chk	chk	VERB	_	_	35	comp:aux/m	_	AlignBegin=161329|AlignEnd=161491|GE=arrive|Gloss=arrive|nWord=31|RX=[VI]
+35	-e		AUX	_	_	36	comp:aux/m	_	AlignBegin=161491|AlignEnd=161653|GE=[THM]|Gloss=-THM|nWord=31|RX=[V:ANY]
 36	-nga		AUX	_	_	33	comp:aux	_	AlignBegin=161653|AlignEnd=161816|GE=[SUB]|Gloss=-SUB|nWord=31|RX=[V:ANY]
 37	bita	bita	NUM	_	_	_	_	_	AlignBegin=161816|AlignEnd=162303|GE=class|Gloss=class|nWord=32|RX=[NUM]
 38	baka	baka	NOUN	_	_	_	_	_	AlignBegin=162303|AlignEnd=162790|GE=four|Gloss=four|nWord=33|RX=[N]
@@ -629,7 +629,7 @@
 29	chuda	chuda	NOUN	_	_	30	comp:aux/m	_	AlignBegin=186408|AlignEnd=186601|GE=species|Gloss=species|nWord=26|RX=[N]
 30	-ia		AUX	_	_	31	subj	_	AlignBegin=186601|AlignEnd=186794|GE=[POSS]|Gloss=-POSS|nWord=26|RX=[N:ANY]
 31	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=186794|AlignEnd=187180|GE=be|Gloss=be|Lang=es|nWord=27|RX=[V]
-32	me	me	PART	_	_	_	_	_	AlignBegin=187180|AlignEnd=187566|GE=[NEG]|Gloss=NEG|nWord=28|RX=[VERBPRT]
+32	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=187180|AlignEnd=187566|GE=[NEG]|Gloss=NEG|nWord=28|RX=[VERBPRT]
 33	kwi	kwi	ADJ	_	_	_	_	_	AlignBegin=187566|AlignEnd=187952|GE=idiot|Gloss=idiot|nWord=29|RX=[ADJ]
 34	,		PUNCT	_	_	_	_	_	AlignBegin=187952|AlignEnd=188340|nWord=30
 35	sino	sino	X	_	_	_	_	_	AlignBegin=188360|AlignEnd=188864|GE=otherwise|Gloss=otherwise|nWord=31|RX=[CONN]

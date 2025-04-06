@@ -94,7 +94,7 @@
 12	-e		AUX	_	_	13	comp:aux/m	_	AlignBegin=48881|AlignEnd=49032|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
 13	-nga		AUX	_	_	_	_	_	AlignBegin=49032|AlignEnd=49184|GE=[SUB]|Gloss=-SUB|nWord=11|RX=[V:ANY]
 14	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=49184|AlignEnd=49638|GE=be|Gloss=be|Lang=es|nWord=12|RX=[V]
-15	me	me	PART	_	_	_	_	_	AlignBegin=49638|AlignEnd=50092|GE=[NEG]|Gloss=NEG|nWord=13|RX=[VERBPRT]
+15	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=49638|AlignEnd=50092|GE=[NEG]|Gloss=NEG|nWord=13|RX=[VERBPRT]
 16	agale	agale	ADJ	_	_	_	_	_	AlignBegin=50092|AlignEnd=50546|GE=clean|Gloss=clean|nWord=14|RX=[ADJ]
 17	.		PUNCT	_	_	_	_	_	AlignBegin=50546|AlignEnd=51000|Gloss=.|nWord=15
 
@@ -357,8 +357,8 @@
 3	kle	kle	AUX	_	_	0	root	_	AlignBegin=98431|AlignEnd=98977|GE=be|Gloss=be|nWord=2|RX=[V]
 4	kak	kak	VERB	_	_	5	comp:aux/m	_	AlignBegin=98977|AlignEnd=99250|GE=send|Gloss=send|nWord=3|RX=[V]
 5	-e		AUX	_	_	3	comp:aux	_	AlignBegin=99250|AlignEnd=99523|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
-6	dieboi	dieboi	VERB	_	_	_	_	_	AlignBegin=99523|AlignEnd=100069|GE=work|Gloss=work|nWord=4|RX=[V]
-7	...		PUNCT	_	_	_	_	_	AlignBegin=100069|AlignEnd=100615|nWord=5
+6	dieboi	dieboi	VERB	_	_	4	mod:purpose	_	AlignBegin=99523|AlignEnd=100069|GE=work|Gloss=work|nWord=4|RX=[V]
+7	...		PUNCT	_	_	3	punct	_	AlignBegin=100069|AlignEnd=100615|nWord=5
 
 # sent_id = SAB-TXT-AN-00003-03_23-23
 # speaker_id = @03
@@ -539,7 +539,7 @@
 11	-nga		AUX	_	_	_	_	_	AlignBegin=131740|AlignEnd=131845|GE=[SUB]|Gloss=-SUB|nWord=8|RX=[V:ANY]
 12	,		PUNCT	_	_	_	_	_	AlignBegin=131845|AlignEnd=132160|nWord=9
 13	che	che	PRON	_	_	16	subj	_	AlignBegin=132200|AlignEnd=132450|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=10|RX=[PRO]
-14	me	me	AUX	_	_	_	_	_	AlignBegin=132450|AlignEnd=132700|GE=[NEG]|Gloss=NEG|nWord=11|RX=[VERBPRT]
+14	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=132450|AlignEnd=132700|GE=[NEG]|Gloss=NEG|nWord=11|RX=[VERBPRT]
 15	die	die	NOUN	_	_	16	comp:obj	_	AlignBegin=132700|AlignEnd=132950|GE=thing|Gloss=thing|nWord=12|RX=[N]
 16	ski	ski	VERB	_	_	17	comp:aux/m	_	AlignBegin=132950|AlignEnd=133075|GE=plant|Gloss=plant|nWord=13|RX=[VT]
 17	-e		AUX	_	_	14	comp:aux	_	AlignBegin=133075|AlignEnd=133200|GE=[THM]|Gloss=-THM|nWord=13|RX=[V:ANY]
@@ -991,7 +991,7 @@
 # text_en = We don't use chlore.
 # text_ortho = che me kle kloro usano .
 1	che	che	PRON	_	_	5	subj	_	AlignBegin=218510|AlignEnd=218862|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
-2	me	me	AUX	_	_	0	root	_	AlignBegin=218862|AlignEnd=219214|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=218862|AlignEnd=219214|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	kle	kle	AUX	_	_	2	comp:aux	_	AlignBegin=219214|AlignEnd=219566|GE=be|Gloss=be|nWord=3|RX=[V]
 4	chloro	chloro	NOUN	_	_	5	comp:obj	_	AlignBegin=219566|AlignEnd=219918|GE=chlorine|Gloss=chlorine|nWord=4|RX=[N]
 5	usano	usano	VERB	_	_	3	comp:aux	_	AlignBegin=219918|AlignEnd=220270|GE=use|Gloss=use|nWord=5|RX=[V]
@@ -1006,7 +1006,7 @@
 # text_en = I don't use the pounded thing (the washing powder).
 # text_ortho = cha me kle ete die dakale usale .
 1	cha	cha	PRON	_	_	8	subj	_	AlignBegin=220710|AlignEnd=221371|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	me	me	AUX	_	_	0	root	_	AlignBegin=221371|AlignEnd=222032|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=221371|AlignEnd=222032|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	kle	kle	AUX	_	_	2	comp:aux	_	AlignBegin=222032|AlignEnd=222693|GE=be|Gloss=be|nWord=3|RX=[V]
 4	este	este	DET	_	_	5	det	_	AlignBegin=222693|AlignEnd=223354|GE=that|Gloss=that|nWord=4|RX=[DET]
 5	die	die	NOUN	_	_	8	comp:obj	_	AlignBegin=223354|AlignEnd=224015|GE=thing|Gloss=thing|nWord=5|RX=[N]
@@ -1063,7 +1063,7 @@
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=235907|AlignEnd=236191|GE=come|Gloss=come|nWord=2|RX=[VI]
 3	-u		AUX	_	_	0	root	_	AlignBegin=236191|AlignEnd=236474|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	escuela	escuela	NOUN	_	Foreign=Yes	5	comp	_	AlignBegin=236474|AlignEnd=237041|GE=school|Gloss=school|Lang=es|nWord=3|RX=[N]
-5	dike	dike	ADP	_	_	2	comp:obl	_	AlignBegin=237041|AlignEnd=237608|GE=[INST]|Gloss=INST|nWord=4|RX=[ADP]
+5	dike	dike	ADP	_	_	2	mod:lmod	_	AlignBegin=237041|AlignEnd=237608|GE=[INST]|Gloss=INST|nWord=4|RX=[ADP]
 6	.		PUNCT	_	_	3	punct	_	AlignBegin=237608|AlignEnd=238176|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-AN-00003-03_70-70

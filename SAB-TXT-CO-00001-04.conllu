@@ -74,16 +74,16 @@
 8	koi	koi	NOUN	_	_	9	comp:obj	_	AlignBegin=37450|AlignEnd=37790|GE=chicken|Gloss=chicken|nWord=6|RX=[N]
 9	li	li	VERB	_	_	10	comp:aux/m	_	AlignBegin=37790|AlignEnd=37960|GE=cook|Gloss=cook|nWord=7|RX=[VT]
 10	-e		AUX	_	_	3	conj:coord	_	AlignBegin=37960|AlignEnd=38130|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
-11	,		PUNCT	_	_	_	_	_	AlignBegin=38130|AlignEnd=38470|nWord=8
+11	,		PUNCT	_	_	3	punct	_	AlignBegin=38130|AlignEnd=38470|nWord=8
 12	chi	chi	NOUN	_	_	13	comp:obj	_	AlignBegin=38485|AlignEnd=38792|GE=water|Gloss=water|nWord=9|RX=[N]
 13	li	li	VERB	_	_	14	comp:aux/m	_	AlignBegin=38792|AlignEnd=38946|GE=cook|Gloss=cook|nWord=10|RX=[VT]
-14	-e		AUX	_	_	_	_	_	AlignBegin=38946|AlignEnd=39099|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
-15	,		PUNCT	_	_	_	_	_	AlignBegin=39099|AlignEnd=39405|nWord=11
+14	-e		AUX	_	_	10	conj:coord	_	AlignBegin=38946|AlignEnd=39099|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
+15	,		PUNCT	_	_	3	punct	_	AlignBegin=39099|AlignEnd=39405|nWord=11
 16	para	para	ADP	_	Foreign=Yes	3	mod	_	AlignBegin=39435|AlignEnd=39797|GE=to|Gloss=to|Lang=es|nWord=12|RX=[ADP]
 17	koi	koi	NOUN	_	_	18	comp:obj	_	AlignBegin=39797|AlignEnd=40159|GE=chicken|Gloss=chicken|nWord=13|RX=[N]
 18	huk	huk	VERB	_	_	19	comp:aux/m	_	AlignBegin=40159|AlignEnd=40340|GE=pluck|Gloss=pluck|nWord=14|RX=[V]
 19	-e		AUX	_	_	16	comp	_	AlignBegin=40340|AlignEnd=40521|GE=[THM]|Gloss=-THM|nWord=14|RX=[V:ANY]
-20	.		PUNCT	_	_	_	_	_	AlignBegin=40521|AlignEnd=40885|Gloss=.|nWord=15
+20	.		PUNCT	_	_	3	punct	_	AlignBegin=40521|AlignEnd=40885|Gloss=.|nWord=15
 
 # sent_id = SAB-TXT-CO-00001-04_09-09
 # speaker_id = @04
@@ -192,7 +192,7 @@
 # text_ortho = friado che me kle koi gute aini .
 1	friado	friado	ADJ	_	_	_	_	_	AlignBegin=56735|AlignEnd=57026|GE=fried|Gloss=fried|nWord=1|RX=[ADJ]
 2	che	che	PRON	_	_	6	subj	_	AlignBegin=57026|AlignEnd=57317|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
-3	me	me	AUX	_	_	0	root	_	AlignBegin=57317|AlignEnd=57608|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=57317|AlignEnd=57608|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	kle	kle	AUX	_	_	3	comp:aux	_	AlignBegin=57608|AlignEnd=57899|GE=be|Gloss=be|nWord=4|RX=[V]
 5	koi	koi	NOUN	_	_	6	comp:obj	_	AlignBegin=57899|AlignEnd=58190|GE=chicken|Gloss=chicken|nWord=5|RX=[N]
 6	gut	gut	VERB	_	_	7	comp:aux/m	_	AlignBegin=58190|AlignEnd=58336|GE=eat|Gloss=eat|nWord=6|RX=[VT]
@@ -209,7 +209,7 @@
 # text_en = (We) don't eat fried chicken here.
 # text_ortho = friado me kle koi gute aini .
 1	friado	friado	ADJ	_	_	_	_	_	AlignBegin=59835|AlignEnd=60072|GE=fried|Gloss=fried|nWord=1|RX=[ADJ]
-2	me	me	AUX	_	_	0	root	_	AlignBegin=60072|AlignEnd=60309|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=60072|AlignEnd=60309|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	kle	kle	AUX	_	_	2	comp:aux	_	AlignBegin=60309|AlignEnd=60546|GE=be|Gloss=be|nWord=3|RX=[V]
 4	koi	koi	NOUN	_	_	5	comp:obj	_	AlignBegin=60546|AlignEnd=60783|GE=chicken|Gloss=chicken|nWord=4|RX=[N]
 5	gut	gut	VERB	_	_	6	comp:aux/m	_	AlignBegin=60783|AlignEnd=60901|GE=eat|Gloss=eat|nWord=5|RX=[VT]

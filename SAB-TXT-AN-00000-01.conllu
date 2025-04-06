@@ -221,8 +221,8 @@
 1	che	che	PRON	_	_	2	subj	_	AlignBegin=100610|AlignEnd=100942|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=100942|AlignEnd=101108|GE=come|Gloss=come|nWord=2|RX=[VI]
 3	-u		AUX	_	_	0	root	_	AlignBegin=101108|AlignEnd=101274|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-4	ne	ne	DET	_	_	_	_	_	AlignBegin=101274|AlignEnd=101606|GE=that|Gloss=that|nWord=3|RX=[DET]
-5	waninke	waninke	ADV	_	_	_	_	_	AlignBegin=101606|AlignEnd=101938|GE=place_of|Gloss=place_of|nWord=4|RX=[ADV]
+4	ne	ne	DET	_	_	5	comp	_	AlignBegin=101274|AlignEnd=101606|GE=that|Gloss=that|nWord=3|RX=[DET]
+5	waninke	waninke	ADV	_	_	2	mod:lmod	_	AlignBegin=101606|AlignEnd=101938|GE=place_of|Gloss=place_of|nWord=4|RX=[ADV]
 6	.		PUNCT	_	_	3	punct	_	AlignBegin=101938|AlignEnd=102270|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-AN-00000-01_18-18
@@ -237,7 +237,7 @@
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=103685|AlignEnd=103890|GE=come|Gloss=come|nWord=2|RX=[VI]
 3	-u		AUX	_	_	0	root	_	AlignBegin=103890|AlignEnd=104095|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	Ugachia	Ugachia	NOUN	_	_	5	comp	_	AlignBegin=104095|AlignEnd=104505|GE=[Ugachia]|Gloss=Ugachia|nWord=3|RX=[N]
-5	giti	giti	ADP	_	_	2	comp:obl	_	AlignBegin=104505|AlignEnd=104915|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
+5	giti	giti	ADP	_	_	2	mod:lmod	_	AlignBegin=104505|AlignEnd=104915|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
 6	.		PUNCT	_	_	3	punct	_	AlignBegin=104915|AlignEnd=105325|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-AN-00000-01_19-19
@@ -264,37 +264,37 @@
 # text_ortho = enusuli chiu kanan ke , chiu aini nang gwadia , honi ugachia giti , chiu cha cheisuli cha chebi , chiu dwe aini , chi Klamengda giti .
 1	enusuli	enusuli	NOUN	_	_	2	subj	_	AlignBegin=114700|AlignEnd=115790|GE=grandfather|Gloss=grandfather|nWord=1|RX=[N]
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=115790|AlignEnd=116335|GE=come|Gloss=come|nWord=2|RX=[VI]
-3	-u		AUX	_	_	_	_	_	AlignBegin=116335|AlignEnd=116880|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
+3	-u		AUX	_	_	0	root	_	AlignBegin=116335|AlignEnd=116880|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	kanan	kanan	NOUN	_	_	5	comp	_	AlignBegin=116880|AlignEnd=117970|GE=hunt|Gloss=hunt|nWord=3|RX=[N]
 5	ke	ke	ADP	_	_	2	comp:obl	_	AlignBegin=117970|AlignEnd=119060|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
-6	,		PUNCT	_	_	_	_	_	AlignBegin=119060|AlignEnd=120150|nWord=5
+6	,		PUNCT	_	_	3	punct	_	AlignBegin=119060|AlignEnd=120150|nWord=5
 7	chi	chi	VERB	_	_	8	comp:aux/m	_	AlignBegin=123320|AlignEnd=123595|GE=come|Gloss=come|nWord=6|RX=[VI]
-8	-u		AUX	_	_	_	_	_	AlignBegin=123595|AlignEnd=123870|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]
+8	-u		AUX	_	_	3	conj:coord	_	AlignBegin=123595|AlignEnd=123870|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]
 9	aini	aini	ADV	_	_	7	mod:lmod	_	AlignBegin=123870|AlignEnd=124420|GE=here|Gloss=here|nWord=7|RX=[ADV]
-10	nang	nang	NOUN	_	_	_	_	_	AlignBegin=124420|AlignEnd=124970|GE=village|Gloss=village|nWord=8|RX=[N]
+10	nang	nang	NOUN	_	_	9	mod:lmod	_	AlignBegin=124420|AlignEnd=124970|GE=village|Gloss=village|nWord=8|RX=[N]
 11	gwadia	gwadia	ADJ	_	_	10	mod	_	AlignBegin=124970|AlignEnd=125520|GE=lonely|Gloss=lonely|nWord=9|RX=[ADJ]
-12	,		PUNCT	_	_	_	_	_	AlignBegin=125520|AlignEnd=126070|nWord=10
+12	,		PUNCT	_	_	3	punct	_	AlignBegin=125520|AlignEnd=126070|nWord=10
 13	ho	hoke	VERB	_	_	14	comp:aux/m	_	AlignBegin=131500|AlignEnd=131775|GE=[go].[PST]|Gloss=go.PST|nWord=11|RX=[VI]
-14	-ni		AUX	_	_	_	_	_	AlignBegin=131775|AlignEnd=132050|GE=[IT]|Gloss=-IT|nWord=11|RX=[V:ANY]
+14	-ni		AUX	_	_	8	conj:coord	_	AlignBegin=131775|AlignEnd=132050|GE=[IT]|Gloss=-IT|nWord=11|RX=[V:ANY]
 15	Ugachia	Ugachia	NOUN	_	_	16	comp	_	AlignBegin=132050|AlignEnd=132600|GE=[Ugachia]|Gloss=Ugachia|nWord=12|RX=[N]
 16	giti	giti	ADP	_	_	13	comp:obl	_	AlignBegin=132600|AlignEnd=133150|GE=[LOC]|Gloss=LOC|nWord=13|RX=[ADP]
-17	,		PUNCT	_	_	_	_	_	AlignBegin=133150|AlignEnd=133700|nWord=14
+17	,		PUNCT	_	_	3	punct	_	AlignBegin=133150|AlignEnd=133700|nWord=14
 18	chi	chi	VERB	_	_	19	comp:aux/m	_	AlignBegin=135220|AlignEnd=135649|GE=come|Gloss=come|nWord=15|RX=[VI]
-19	-u		AUX	_	_	_	_	_	AlignBegin=135649|AlignEnd=136078|GE=[PST]|Gloss=-PST|nWord=15|RX=[V:ANY]
+19	-u		AUX	_	_	14	conj:coord	_	AlignBegin=135649|AlignEnd=136078|GE=[PST]|Gloss=-PST|nWord=15|RX=[V:ANY]
 20	cha	cha	PRON	_	_	21	udep:poss	_	AlignBegin=136078|AlignEnd=136936|GE=[1SG]|Gloss=1SG|nWord=16|RX=[PRO]
-21	cheisuli	cheisuli	NOUN	_	_	_	_	_	AlignBegin=136936|AlignEnd=137794|GE=grandmother|Gloss=grandmother|nWord=17|RX=[N]
+21	cheisuli	cheisuli	NOUN	_	_	18	mod:lmod	_	AlignBegin=136936|AlignEnd=137794|GE=grandmother|Gloss=grandmother|nWord=17|RX=[N]
 22	cha	cha	PRON	_	_	23	udep:poss	_	AlignBegin=137794|AlignEnd=138652|GE=[1SG]|Gloss=1SG|nWord=18|RX=[PRO]
-23	chebi	chebi	NOUN	_	_	_	_	_	AlignBegin=138652|AlignEnd=139510|GE=mother|Gloss=mother|nWord=19|RX=[N]
-24	,		PUNCT	_	_	_	_	_	AlignBegin=139510|AlignEnd=140370|nWord=20
+23	chebi	chebi	NOUN	_	_	21	conj:coord	_	AlignBegin=138652|AlignEnd=139510|GE=mother|Gloss=mother|nWord=19|RX=[N]
+24	,		PUNCT	_	_	3	punct	_	AlignBegin=139510|AlignEnd=140370|nWord=20
 25	chi	chi	VERB	_	_	26	comp:aux/m	_	AlignBegin=141060|AlignEnd=141330|GE=come|Gloss=come|nWord=21|RX=[VI]
-26	-u		AUX	_	_	_	_	_	AlignBegin=141330|AlignEnd=141600|GE=[PST]|Gloss=-PST|nWord=21|RX=[V:ANY]
-27	dwe	dwe	VERB	_	_	_	_	_	AlignBegin=141600|AlignEnd=142140|GE=[carry].[NPST]|Gloss=carry.NPST|nWord=22|RX=[VT]
+26	-u		AUX	_	_	19	conj:coord	_	AlignBegin=141330|AlignEnd=141600|GE=[PST]|Gloss=-PST|nWord=21|RX=[V:ANY]
+27	dwe	dwe	VERB	_	_	25	mod:purpose	_	AlignBegin=141600|AlignEnd=142140|GE=[carry].[NPST]|Gloss=carry.NPST|nWord=22|RX=[VT]
 28	aini	aini	ADV	_	_	27	mod:lmod	_	AlignBegin=142140|AlignEnd=142680|GE=here|Gloss=here|nWord=23|RX=[ADV]
-29	,		PUNCT	_	_	_	_	_	AlignBegin=142680|AlignEnd=143220|nWord=24
-30	chi	chi	NOUN	_	_	_	_	_	AlignBegin=145820|AlignEnd=146650|GE=water|Gloss=water|nWord=25|RX=[N]
-31	Klamengda	Klamengda	PROPN	_	_	32	comp	_	AlignBegin=146650|AlignEnd=147480|GE=[Klamengda]|Gloss=Klamengda|nWord=26|RX=[NPROP]
+29	,		PUNCT	_	_	3	punct	_	AlignBegin=142680|AlignEnd=143220|nWord=24
+30	chi	chi	NOUN	_	_	32	comp	_	AlignBegin=145820|AlignEnd=146650|GE=water|Gloss=water|nWord=25|RX=[N]
+31	Klamengda	Klamengda	PROPN	_	_	30	flat	_	AlignBegin=146650|AlignEnd=147480|GE=[Klamengda]|Gloss=Klamengda|nWord=26|RX=[NPROP]
 32	giti	giti	ADP	_	_	27	comp:obl	_	AlignBegin=147480|AlignEnd=148310|GE=[LOC]|Gloss=LOC|nWord=27|RX=[ADP]
-33	.		PUNCT	_	_	_	_	_	AlignBegin=148310|AlignEnd=149140|Gloss=.|nWord=28
+33	.		PUNCT	_	_	3	punct	_	AlignBegin=148310|AlignEnd=149140|Gloss=.|nWord=28
 
 # sent_id = SAB-TXT-AN-00000-01_26-26
 # speaker_id = @01

@@ -95,7 +95,7 @@
 3	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=40504|AlignEnd=40758|GE=child|Gloss=child|nWord=3|RX=[N]
 4	gwa	gwa	_	_	_	_	_	_	AlignBegin=40758|AlignEnd=41011|nWord=3
 5	soli	soli	NOUN	_	_	3	mod	_	AlignBegin=41011|AlignEnd=41518|GE=little|Gloss=little|nWord=4|RX=[N]
-6	me	me	AUX	_	_	0	root	_	AlignBegin=41518|AlignEnd=42025|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
+6	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=41518|AlignEnd=42025|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
 7	gna	gna	AUX	_	_	6	comp:aux	_	AlignBegin=42025|AlignEnd=42532|GE=can|Gloss=can|nWord=6|RX=[V]
 8	hoke	hoke	VERB	_	_	7	comp:aux	_	AlignBegin=42532|AlignEnd=43039|GE=go|Gloss=go|nWord=7|RX=[VI]
 9	swente	swente	VERB	_	_	_	_	_	AlignBegin=43039|AlignEnd=43546|GE=see|Gloss=see|nWord=8|RX=[V]

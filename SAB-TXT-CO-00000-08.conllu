@@ -54,13 +54,13 @@
 # text = despues cha kle ko huke ngasuke .
 # text_en = Then I hand pluck (the chicken) outside.
 # text_ortho = despues cha kle ko huke ngasuke .
-1	despues	despues	ADV	_	_	_	_	_	AlignBegin=23600|AlignEnd=23887|GE=then|Gloss=then|nWord=1|RX=[ADV]
+1	despues	despues	ADV	_	_	5	mod	_	AlignBegin=23600|AlignEnd=23887|GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	6	subj	_	AlignBegin=23887|AlignEnd=24174|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	kle	kle	AUX	_	_	6	comp:aux/m	_	AlignBegin=24174|AlignEnd=24461|GE=be|Gloss=be|nWord=3|RX=[V]
 4	ko	ko	NOUN	_	_	5	comp:obj	_	AlignBegin=24461|AlignEnd=24748|GE=hand|Gloss=hand|nWord=4|RX=[N]
 5	huk	huk	VERB	_	_	6	comp:aux/m	_	AlignBegin=24748|AlignEnd=24892|GE=pluck|Gloss=pluck|nWord=5|RX=[V]
 6	-e		AUX	_	_	0	root	_	AlignBegin=24892|AlignEnd=25035|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
-7	ngasuke	ngasuke	ADV	_	_	_	_	_	AlignBegin=25035|AlignEnd=25322|GE=outside|Gloss=outside|nWord=6|RX=[ADV]
+7	ngasuke	ngasuke	ADV	_	_	5	mod:lmod	_	AlignBegin=25035|AlignEnd=25322|GE=outside|Gloss=outside|nWord=6|RX=[ADV]
 8	.		PUNCT	_	_	6	punct	_	AlignBegin=25322|AlignEnd=25610|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-CO-00000-08_05-07
@@ -72,26 +72,26 @@
 # text_en = (When) I pluck all the chicken, I cut the chicken. I put (it) in the fire.
 # text_ortho = cha kle koi huke ulita , cha kle koi mne , cha kle tke hia ke .
 1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=26940|AlignEnd=27152|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	kle	kle	AUX	_	_	_	_	_	AlignBegin=27152|AlignEnd=27364|GE=be|Gloss=be|nWord=2|RX=[V]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=27152|AlignEnd=27364|GE=be|Gloss=be|nWord=2|RX=[V]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=27364|AlignEnd=27576|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
 4	huk	huk	VERB	_	_	5	comp:aux/m	_	AlignBegin=27576|AlignEnd=27682|GE=pluck|Gloss=pluck|nWord=4|RX=[V]
 5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=27682|AlignEnd=27788|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=27788|AlignEnd=28000|GE=all|Gloss=all|nWord=5|RX=[ADV]
-7	,		PUNCT	_	_	_	_	_	AlignBegin=28000|AlignEnd=28210|nWord=6
+6	ulita	ulita	ADV	_	_	4	mod	_	AlignBegin=27788|AlignEnd=28000|GE=all|Gloss=all|nWord=5|RX=[ADV]
+7	,		PUNCT	_	_	2	punct	_	AlignBegin=28000|AlignEnd=28210|nWord=6
 8	cha	cha	PRON	_	_	11	subj	_	AlignBegin=28210|AlignEnd=28442|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
-9	kle	kle	AUX	_	_	_	_	_	AlignBegin=28442|AlignEnd=28674|GE=be|Gloss=be|nWord=8|RX=[V]
+9	kle	kle	AUX	_	_	2	conj:coord	_	AlignBegin=28442|AlignEnd=28674|GE=be|Gloss=be|nWord=8|RX=[V]
 10	koi	koi	NOUN	_	_	11	comp:obj	_	AlignBegin=28674|AlignEnd=28906|GE=chicken|Gloss=chicken|nWord=9|RX=[N]
 11	mn	mn	VERB	_	_	12	comp:aux/m	_	AlignBegin=28906|AlignEnd=29022|GE=cut|Gloss=cut|nWord=10|RX=[VT]
 12	-e		AUX	_	_	9	comp:aux	_	AlignBegin=29022|AlignEnd=29138|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
-13	,		PUNCT	_	_	_	_	_	AlignBegin=29138|AlignEnd=29370|nWord=11
+13	,		PUNCT	_	_	2	punct	_	AlignBegin=29138|AlignEnd=29370|nWord=11
 14	cha	cha	PRON	_	_	16	subj	_	AlignBegin=29445|AlignEnd=29660|GE=[1SG]|Gloss=1SG|nWord=12|RX=[PRO]
-15	kle	kle	AUX	_	_	_	_	_	AlignBegin=29660|AlignEnd=29875|GE=be|Gloss=be|nWord=13|RX=[V]
+15	kle	kle	AUX	_	_	9	conj:coord	_	AlignBegin=29660|AlignEnd=29875|GE=be|Gloss=be|nWord=13|RX=[V]
 16	tk	tk	VERB	_	_	17	comp:aux/m	_	AlignBegin=29875|AlignEnd=29983|GE=put|Gloss=put|nWord=14|RX=[VT]
 17	-e		AUX	_	_	15	comp:aux	_	AlignBegin=29983|AlignEnd=30090|GE=[THM]|Gloss=-THM|nWord=14|RX=[V:ANY]
 18	hi	hi	NOUN	_	_	19	comp:aux/m	_	AlignBegin=30090|AlignEnd=30198|GE=fire|Gloss=fire|nWord=15|RX=[N]
 19	-a		AUX	_	_	20	comp	_	AlignBegin=30198|AlignEnd=30305|GE=[0]|Gloss=-0|nWord=15|RX=[NOUN]
-20	ke	ke	ADP	_	_	_	_	_	AlignBegin=30305|AlignEnd=30520|GE=[LOC]|Gloss=LOC|nWord=16|RX=[ADP]
-21	.		PUNCT	_	_	_	_	_	AlignBegin=30520|AlignEnd=30735|Gloss=.|nWord=17
+20	ke	ke	ADP	_	_	16	mod:lmod	_	AlignBegin=30305|AlignEnd=30520|GE=[LOC]|Gloss=LOC|nWord=16|RX=[ADP]
+21	.		PUNCT	_	_	2	punct	_	AlignBegin=30520|AlignEnd=30735|Gloss=.|nWord=17
 
 # sent_id = SAB-TXT-CO-00000-08_08-09
 # speaker_id = @08
@@ -154,7 +154,7 @@
 2	kle	kle	AUX	_	_	0	root	_	AlignBegin=42773|AlignEnd=43126|GE=be|Gloss=be|nWord=2|RX=[V]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=43126|AlignEnd=43479|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
 4	hunga	hunga	VERB	_	_	2	comp:aux	_	AlignBegin=43479|AlignEnd=43832|GE=take_out|Gloss=take_out|nWord=4|RX=[V]
-5	kedaru	kedaru	ADV	_	_	_	_	_	AlignBegin=43832|AlignEnd=44185|GE=outside|Gloss=outside|nWord=5|RX=[ADV]
+5	kedaru	kedaru	ADV	_	_	4	mod:lmod	_	AlignBegin=43832|AlignEnd=44185|GE=outside|Gloss=outside|nWord=5|RX=[ADV]
 6	.		PUNCT	_	_	2	punct	_	AlignBegin=44185|AlignEnd=44540|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-CO-00000-08_14-14
@@ -181,7 +181,7 @@
 # text = despues cha kle bligda ne gute .
 # text_en = Then I eat that food.
 # text_ortho = despues cha kle bligda ne gute .
-1	despues	despues	ADV	_	_	_	_	_	AlignBegin=47405|AlignEnd=47798|GE=then|Gloss=then|nWord=1|RX=[ADV]
+1	despues	despues	ADV	_	_	6	mod	_	AlignBegin=47405|AlignEnd=47798|GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	6	subj	_	AlignBegin=47798|AlignEnd=48191|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	kle	kle	AUX	_	_	0	root	_	AlignBegin=48191|AlignEnd=48584|GE=be|Gloss=be|nWord=3|RX=[V]
 4	bligda	bligda	NOUN	_	_	6	comp:obj	_	AlignBegin=48584|AlignEnd=48977|GE=food|Gloss=food|nWord=4|RX=[N]

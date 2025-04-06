@@ -6,14 +6,14 @@
 # text = cha soli cha chebi koi gweda .
 # text_en = When I was a baby, my mother killed the chicken.
 # text_ortho = cha soli cha chebi koi gweda .
-1	cha	cha	PRON	_	_	_	_	_	AlignBegin=26550|AlignEnd=27123|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+1	cha	cha	PRON	_	_	6	mod:tmod	_	AlignBegin=26550|AlignEnd=27123|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	soli	soli	NOUN	_	_	1	mod	_	AlignBegin=27123|AlignEnd=27696|GE=little|Gloss=little|nWord=2|RX=[N]
 3	cha	cha	PRON	_	_	4	udep:poss	_	AlignBegin=27696|AlignEnd=28269|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
 4	chebi	chebi	NOUN	_	_	6	subj	_	AlignBegin=28269|AlignEnd=28842|GE=mother|Gloss=mother|nWord=4|RX=[N]
 5	koi	koi	NOUN	_	_	6	comp:obj	_	AlignBegin=28842|AlignEnd=29415|GE=chicken|Gloss=chicken|nWord=5|RX=[N]
 6	gwe	gwe	VERB	_	_	7	comp:aux/m	_	AlignBegin=29415|AlignEnd=29606|GE=kill|Gloss=sleep|nWord=6|RX=[V]
-7	-da		AUX	_	_	_	_	_	AlignBegin=29606|AlignEnd=29988|GE=[0]|Gloss=-ASP|nWord=6|RX=[VERB]
-8	.		PUNCT	_	_	_	_	_	AlignBegin=29988|AlignEnd=30560|Gloss=.|nWord=7
+7	-da		AUX	_	_	0	root	_	AlignBegin=29606|AlignEnd=29988|GE=[0]|Gloss=-ASP|nWord=6|RX=[VERB]
+8	.		PUNCT	_	_	7	punct	_	AlignBegin=29988|AlignEnd=30560|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-CO-00000-02_02-05
 # speaker_id = @02
@@ -25,22 +25,22 @@
 # text_ortho = koi gweda , chi ute ke koi giti , koi huke , koi dodade .
 1	koi	koi	NOUN	_	_	2	comp:obj	_	AlignBegin=31290|AlignEnd=31730|GE=chicken|Gloss=chicken|nWord=1|RX=[N]
 2	gwe	gwe	VERB	_	_	3	comp:aux/m	_	AlignBegin=31730|AlignEnd=31877|GE=kill|Gloss=sleep|nWord=2|RX=[V]
-3	-da		AUX	_	_	_	_	_	AlignBegin=31877|AlignEnd=32170|GE=[0]|Gloss=-ASP|nWord=2|RX=[VERB]
-4	,		PUNCT	_	_	_	_	_	AlignBegin=32170|AlignEnd=32610|nWord=3
+3	-da		AUX	_	_	0	root	_	AlignBegin=31877|AlignEnd=32170|GE=[0]|Gloss=-ASP|nWord=2|RX=[VERB]
+4	,		PUNCT	_	_	3	punct	_	AlignBegin=32170|AlignEnd=32610|nWord=3
 5	chi	chi	NOUN	_	_	7	comp	_	AlignBegin=32965|AlignEnd=33290|GE=water|Gloss=water|nWord=4|RX=[N]
 6	ute	ute	ADJ	_	_	5	mod	_	AlignBegin=33290|AlignEnd=33615|GE=hot|Gloss=hot|nWord=5|RX=[ADJ]
 7	ke	ke	ADP	_	_	2	comp:obl	_	AlignBegin=33615|AlignEnd=33940|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
 8	koi	koi	NOUN	_	_	9	comp	_	AlignBegin=33940|AlignEnd=34265|GE=chicken|Gloss=chicken|nWord=7|RX=[N]
 9	giti	giti	ADP	_	_	2	comp:obl	_	AlignBegin=34265|AlignEnd=34590|GE=[LOC]|Gloss=LOC|nWord=8|RX=[ADP]
-10	,		PUNCT	_	_	_	_	_	AlignBegin=34590|AlignEnd=34915|nWord=9
+10	,		PUNCT	_	_	3	punct	_	AlignBegin=34590|AlignEnd=34915|nWord=9
 11	koi	koi	NOUN	_	_	12	comp:obj	_	AlignBegin=35185|AlignEnd=35725|GE=chicken|Gloss=chicken|nWord=10|RX=[N]
 12	huk	huk	VERB	_	_	13	comp:aux/m	_	AlignBegin=35725|AlignEnd=35995|GE=pluck|Gloss=pluck|nWord=11|RX=[V]
-13	-e		AUX	_	_	_	_	_	AlignBegin=35995|AlignEnd=36265|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
-14	,		PUNCT	_	_	_	_	_	AlignBegin=36265|AlignEnd=36805|nWord=12
+13	-e		AUX	_	_	3	conj:coord	_	AlignBegin=35995|AlignEnd=36265|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
+14	,		PUNCT	_	_	3	punct	_	AlignBegin=36265|AlignEnd=36805|nWord=12
 15	koi	koi	NOUN	_	_	16	comp:obj	_	AlignBegin=39450|AlignEnd=39943|GE=chicken|Gloss=chicken|nWord=13|RX=[N]
 16	dodad	dodad	VERB	_	_	17	comp:aux/m	_	AlignBegin=39943|AlignEnd=40189|GE=make|Gloss=make|nWord=14|RX=[VT]
-17	-e		AUX	_	_	_	_	_	AlignBegin=40189|AlignEnd=40436|GE=[THM]|Gloss=-THM|nWord=14|RX=[V:ANY]
-18	.		PUNCT	_	_	_	_	_	AlignBegin=40436|AlignEnd=40930|Gloss=.|nWord=15
+17	-e		AUX	_	_	13	conj:coord	_	AlignBegin=40189|AlignEnd=40436|GE=[THM]|Gloss=-THM|nWord=14|RX=[V:ANY]
+18	.		PUNCT	_	_	3	punct	_	AlignBegin=40436|AlignEnd=40930|Gloss=.|nWord=15
 
 # sent_id = SAB-TXT-CO-00000-02_06-06
 # speaker_id = @02
@@ -113,7 +113,7 @@
 3	-e		AUX	_	_	0	root	_	AlignBegin=54990|AlignEnd=55199|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
 4	skeke	skeke	ADJ	_	_	2	comp:pred	_	AlignBegin=55199|AlignEnd=55616|GE=cold|Gloss=cold|nWord=3|RX=[ADJ]
 5	cho	cho	NOUN	_	_	_	_	_	AlignBegin=55616|AlignEnd=56033|GE=salt|Gloss=salt|nWord=4|RX=[N]
-6	me	me	PART	_	_	_	_	_	AlignBegin=56033|AlignEnd=56450|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
+6	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=56033|AlignEnd=56450|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
 7	.		PUNCT	_	_	3	punct	_	AlignBegin=56450|AlignEnd=56865|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-CO-00000-02_13-13

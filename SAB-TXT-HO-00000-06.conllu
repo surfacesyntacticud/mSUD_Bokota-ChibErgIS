@@ -112,10 +112,10 @@
 3	u	u	NOUN	_	_	4	comp:obj	_	AlignBegin=15791|AlignEnd=16009|GE=house|Gloss=house|nWord=3|RX=[N]
 4	ski	ski	VERB	_	_	5	comp:aux/m	_	AlignBegin=16009|AlignEnd=16118|GE=cover|Gloss=cover|nWord=4|RX=[VT]
 5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=16118|AlignEnd=16227|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	,		PUNCT	_	_	_	_	_	AlignBegin=16227|AlignEnd=16445|nWord=5
+6	,		PUNCT	_	_	2	punct	_	AlignBegin=16227|AlignEnd=16445|nWord=5
 7	giska	giska	NOUN	_	_	8	comp	_	AlignBegin=16465|AlignEnd=16785|GE=rope|Gloss=rope|nWord=6|RX=[N]
 8	giti	giti	ADP	_	_	4	comp:obl	_	AlignBegin=16785|AlignEnd=17105|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
-9	.		PUNCT	_	_	_	_	_	AlignBegin=17105|AlignEnd=17425|Gloss=.|nWord=8
+9	.		PUNCT	_	_	2	punct	_	AlignBegin=17105|AlignEnd=17425|Gloss=.|nWord=8
 
 # sent_id = SAB-TXT-HO-00000-06_10-10
 # speaker_id = @06
@@ -354,12 +354,12 @@
 1	para	para	SCONJ	_	Foreign=Yes	0	root	_	AlignBegin=88715|AlignEnd=89060|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
 2	che	che	PRON	_	_	4	subj	_	AlignBegin=89060|AlignEnd=89405|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
 3	be	be	AUX	_	_	10	mod:tmod	_	AlignBegin=89405|AlignEnd=89750|GE=[FUT]|Gloss=FUT|nWord=3|RX=[VERBPRT]
-4	skit	skit	VERB	_	_	5	comp:aux	_	AlignBegin=89750|AlignEnd=89922|GE=set_foot|Gloss=set_foot|nWord=4|RX=[V]
+4	skit	skit	VERB	_	_	5	comp:aux/m	_	AlignBegin=89750|AlignEnd=89922|GE=set_foot|Gloss=set_foot|nWord=4|RX=[V]
 5	-e		AUX	_	_	3	comp:aux	_	AlignBegin=89922|AlignEnd=90095|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 6	gli	gli	NOUN	_	_	7	comp	_	AlignBegin=90095|AlignEnd=90440|GE=tree|Gloss=tree|nWord=5|RX=[N]
 7	giti	giti	ADP	_	_	4	comp:obl	_	AlignBegin=90440|AlignEnd=90785|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
 8	gli	gli	NOUN	_	_	10	subj	_	AlignBegin=90785|AlignEnd=91130|GE=tree|Gloss=tree|nWord=7|RX=[N]
-9	me	me	AUX	_	_	1	comp	_	AlignBegin=91130|AlignEnd=91475|GE=[NEG]|Gloss=NEG|nWord=8|RX=[VERBPRT]
+9	me	me	AUX	_	Polarity=Neg	1	comp	_	AlignBegin=91130|AlignEnd=91475|GE=[NEG]|Gloss=NEG|nWord=8|RX=[VERBPRT]
 10	fatenunga	fatenga	VERB	_	_	9	comp:aux	_	AlignBegin=91475|AlignEnd=91820|GE=[fall].[PST]|Gloss=fall.PST|nWord=9|RX=[V]
 11	.		PUNCT	_	_	1	punct	_	AlignBegin=91820|AlignEnd=92165|Gloss=.|nWord=10
 
@@ -372,7 +372,7 @@
 # text_en = So we don´t get hurt.
 # text_ortho = che me nentike .
 1	che	che	PRON	_	_	3	subj	_	AlignBegin=92555|AlignEnd=92897|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
-2	me	me	AUX	_	_	_	_	_	AlignBegin=92897|AlignEnd=93239|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=92897|AlignEnd=93239|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	nentike	nentike	VERB	_	_	2	comp:aux	_	AlignBegin=93239|AlignEnd=93581|GE=hurt|Gloss=hurt|nWord=3|RX=[V]
 4	.		PUNCT	_	_	_	_	_	AlignBegin=93581|AlignEnd=93925|Gloss=.|nWord=4
 

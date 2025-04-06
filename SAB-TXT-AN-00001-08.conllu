@@ -11,7 +11,7 @@
 3	die	die	NOUN	_	_	4	comp:obj	_	AlignBegin=9690|AlignEnd=9980|GE=thing|Gloss=thing|nWord=3|RX=[N]
 4	dodad	dodad	VERB	_	_	5	comp:aux/m	_	AlignBegin=9980|AlignEnd=10125|GE=make|Gloss=make|nWord=4|RX=[VT]
 5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=10125|AlignEnd=10270|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	...		PUNCT	_	_	_	_	_	AlignBegin=10270|AlignEnd=10560|nWord=5
+6	...		PUNCT	_	_	2	punct	_	AlignBegin=10270|AlignEnd=10560|nWord=5
 
 # sent_id = SAB-TXT-AN-00001-08_02-02
 # speaker_id = @08
@@ -26,7 +26,7 @@
 3	die	die	NOUN	_	_	4	comp:obj	_	AlignBegin=11276|AlignEnd=11609|GE=thing|Gloss=thing|nWord=3|RX=[N]
 4	dodad	dodad	VERB	_	_	5	comp:aux/m	_	AlignBegin=11609|AlignEnd=11775|GE=make|Gloss=make|nWord=4|RX=[VT]
 5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=11775|AlignEnd=11942|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	kaire	kaire	ADV	_	_	_	_	_	AlignBegin=11942|AlignEnd=12275|GE=same|Gloss=same|nWord=5|RX=[ADV]
+6	kaire	kaire	ADV	_	_	4	mod	_	AlignBegin=11942|AlignEnd=12275|GE=same|Gloss=same|nWord=5|RX=[ADV]
 7	.		PUNCT	_	_	2	punct	_	AlignBegin=12275|AlignEnd=12610|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-AN-00001-08_03-04
@@ -37,25 +37,25 @@
 # text = die ngaske cha kle gute kaire , y cha kle die chudea gute kaire .
 # text_en = The things in the fields, I do similarly. And I eat the same things as my ancestors.
 # text_ortho = die ngaske cha kle gute kaire , y cha kle die chudea gute kaire .
-1	die	die	NOUN	_	_	_	_	_	AlignBegin=12845|AlignEnd=13184|GE=thing|Gloss=thing|nWord=1|RX=[N]
+1	die	die	NOUN	_	_	6	comp:obj	_	AlignBegin=12845|AlignEnd=13184|GE=thing|Gloss=thing|nWord=1|RX=[N]
 2	nga	nga	NOUN	_	_	3	comp	_	AlignBegin=13184|AlignEnd=13354|GE=field|Gloss=field|nWord=2|RX=[N]
-3	ske	ske	ADP	_	_	_	_	_	AlignBegin=13354|AlignEnd=13523|GE=[LOC]|Gloss=LOC|nWord=2|RX=[ADP]
+3	ske	ske	ADP	_	_	1	mod:lmod	_	AlignBegin=13354|AlignEnd=13523|GE=[LOC]|Gloss=LOC|nWord=2|RX=[ADP]
 4	cha	cha	PRON	_	_	6	subj	_	AlignBegin=13523|AlignEnd=13862|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
 5	kle	kle	AUX	_	_	0	root	_	AlignBegin=13862|AlignEnd=14201|GE=be|Gloss=be|nWord=4|RX=[V]
-6	gut	gut	VERB	_	_	7	comp:aux	_	AlignBegin=14201|AlignEnd=14371|GE=eat|Gloss=eat|nWord=5|RX=[VT]
+6	gut	gut	VERB	_	_	7	comp:aux/m	_	AlignBegin=14201|AlignEnd=14371|GE=eat|Gloss=eat|nWord=5|RX=[VT]
 7	-e		AUX	_	_	5	comp:aux	_	AlignBegin=14371|AlignEnd=14540|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
-8	kaire	kaire	ADV	_	_	_	_	_	AlignBegin=14540|AlignEnd=14879|GE=same|Gloss=same|nWord=6|RX=[ADV]
-9	,		PUNCT	_	_	_	_	_	AlignBegin=14879|AlignEnd=15215|nWord=7
-10	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=15325|AlignEnd=15654|GE=and|Gloss=and|Lang=es|nWord=8|RX=[COORDCONN]
+8	kaire	kaire	ADV	_	_	6	mod	_	AlignBegin=14540|AlignEnd=14879|GE=same|Gloss=same|nWord=6|RX=[ADV]
+9	,		PUNCT	_	_	5	punct	_	AlignBegin=14879|AlignEnd=15215|nWord=7
+10	y	y	X	_	Foreign=Yes	12	cc	_	AlignBegin=15325|AlignEnd=15654|GE=and|Gloss=and|Lang=es|nWord=8|RX=[COORDCONN]
 11	cha	cha	PRON	_	_	16	subj	_	AlignBegin=15654|AlignEnd=15983|GE=[1SG]|Gloss=1SG|nWord=9|RX=[PRO]
-12	kle	kle	AUX	_	_	_	_	_	AlignBegin=15983|AlignEnd=16312|GE=be|Gloss=be|nWord=10|RX=[V]
-13	die	die	NOUN	_	_	_	_	_	AlignBegin=16312|AlignEnd=16641|GE=thing|Gloss=thing|nWord=11|RX=[N]
+12	kle	kle	AUX	_	_	5	conj:coord	_	AlignBegin=15983|AlignEnd=16312|GE=be|Gloss=be|nWord=10|RX=[V]
+13	die	die	NOUN	_	_	16	comp:obj	_	AlignBegin=16312|AlignEnd=16641|GE=thing|Gloss=thing|nWord=11|RX=[N]
 14	chude	chude	NOUN	_	_	15	comp:aux/m	_	AlignBegin=16641|AlignEnd=16805|GE=seed|Gloss=seed|nWord=12|RX=[N]
-15	-a		AUX	_	_	_	_	_	AlignBegin=16805|AlignEnd=16970|GE=[0]|Gloss=-0|nWord=12|RX=[VERB]
+15	-a		AUX	_	_	13	mod	_	AlignBegin=16805|AlignEnd=16970|GE=[0]|Gloss=-0|nWord=12|RX=[VERB]
 16	gut	gut	VERB	_	_	17	comp:aux/m	_	AlignBegin=16970|AlignEnd=17134|GE=eat|Gloss=eat|nWord=13|RX=[VT]
 17	-e		AUX	_	_	12	comp:aux	_	AlignBegin=17134|AlignEnd=17299|GE=[THM]|Gloss=-THM|nWord=13|RX=[V:ANY]
-18	kaire	kaire	ADV	_	_	_	_	_	AlignBegin=17299|AlignEnd=17628|GE=same|Gloss=same|nWord=14|RX=[ADV]
-19	.		PUNCT	_	_	_	_	_	AlignBegin=17628|AlignEnd=17955|Gloss=.|nWord=15
+18	kaire	kaire	ADV	_	_	16	mod	_	AlignBegin=17299|AlignEnd=17628|GE=same|Gloss=same|nWord=14|RX=[ADV]
+19	.		PUNCT	_	_	5	punct	_	AlignBegin=17628|AlignEnd=17955|Gloss=.|nWord=15
 
 # sent_id = SAB-TXT-AN-00001-08_05-05
 # speaker_id = @08
@@ -65,12 +65,12 @@
 # text = die ngaske cha kle ute rokli skie roklita giti .
 # text_en = The wild things, I shoot them with arrows.
 # text_ortho = die ngaske cha kle ute rokli skie roklita giti .
-1	die	die	NOUN	_	_	_	_	_	AlignBegin=18205|AlignEnd=18524|GE=thing|Gloss=thing|nWord=1|RX=[N]
+1	die	die	NOUN	_	_	8	comp:obj	_	AlignBegin=18205|AlignEnd=18524|GE=thing|Gloss=thing|nWord=1|RX=[N]
 2	nga	nga	NOUN	_	_	3	comp	_	AlignBegin=18524|AlignEnd=18684|GE=field|Gloss=field|nWord=2|RX=[N]
-3	ske	ske	ADP	_	_	_	_	_	AlignBegin=18684|AlignEnd=18843|GE=[LOC]|Gloss=LOC|nWord=2|RX=[ADP]
+3	ske	ske	ADP	_	_	1	mod:lmod	_	AlignBegin=18684|AlignEnd=18843|GE=[LOC]|Gloss=LOC|nWord=2|RX=[ADP]
 4	cha	cha	PRON	_	_	8	subj	_	AlignBegin=18843|AlignEnd=19162|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
 5	kle	kle	AUX	_	_	0	root	_	AlignBegin=19162|AlignEnd=19481|GE=be|Gloss=be|nWord=4|RX=[V]
-6	ute	ute	_	_	_	_	_	_	AlignBegin=19481|AlignEnd=19800|nWord=5
+6	ute	ute	_	_	_	8	conj:dicto	_	AlignBegin=19481|AlignEnd=19800|nWord=5
 7	rokli	rokli	NOUN	_	_	8	comp:obj@fixed	_	AlignBegin=19800|AlignEnd=20119|GE=weapon|Gloss=weapon|nWord=6|RX=[N]
 8	ski	ski	VERB	_	_	9	comp:aux/m	_	AlignBegin=20119|AlignEnd=20279|GE=shoot|Gloss=shoot|nWord=7|RX=[VT]
 9	-e		AUX	_	_	5	comp:aux	_	AlignBegin=20279|AlignEnd=20438|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
@@ -88,10 +88,10 @@
 # text_ortho = cha kle chke die gude .
 1	cha	cha	PRON	_	_	3	subj	_	AlignBegin=21495|AlignEnd=21674|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	kle	kle	AUX	_	_	0	root	_	AlignBegin=21674|AlignEnd=21853|GE=be|Gloss=be|nWord=2|RX=[V]
-3	chk	chk	VERB	_	_	4	comp:aux	_	AlignBegin=21853|AlignEnd=21943|GE=arrive|Gloss=arrive|nWord=3|RX=[VI]
+3	chk	chk	VERB	_	_	4	comp:aux/m	_	AlignBegin=21853|AlignEnd=21943|GE=arrive|Gloss=arrive|nWord=3|RX=[VI]
 4	-e		AUX	_	_	2	comp:aux	_	AlignBegin=21943|AlignEnd=22032|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
-5	die	die	NOUN	_	_	_	_	_	AlignBegin=22032|AlignEnd=22211|GE=thing|Gloss=thing|nWord=4|RX=[N]
-6	gude	gude	ADV	_	_	_	_	_	AlignBegin=22211|AlignEnd=22390|GE=inside_the_house|Gloss=inside_the_house|nWord=5|RX=[ADV]
+5	die	die	NOUN	_	_	3	comp:obl	_	AlignBegin=22032|AlignEnd=22211|GE=thing|Gloss=thing|nWord=4|RX=[N]
+6	gude	gude	ADV	_	_	3	mod:lmod	_	AlignBegin=22211|AlignEnd=22390|GE=inside_the_house|Gloss=inside_the_house|nWord=5|RX=[ADV]
 7	.		PUNCT	_	_	2	punct	_	AlignBegin=22390|AlignEnd=22570|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-AN-00001-08_07-07
@@ -124,7 +124,7 @@
 5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=25771|AlignEnd=25932|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 6	hi	hi	NOUN	_	_	7	comp:aux/m	_	AlignBegin=25932|AlignEnd=26094|GE=fire|Gloss=fire|nWord=5|RX=[N]
 7	-a		AUX	_	_	8	comp	_	AlignBegin=26094|AlignEnd=26255|GE=[0]|Gloss=-0|nWord=5|RX=[NOUN]
-8	ke	ke	ADP	_	_	_	_	_	AlignBegin=26255|AlignEnd=26578|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
+8	ke	ke	ADP	_	_	4	mod:lmod	_	AlignBegin=26255|AlignEnd=26578|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
 9	.		PUNCT	_	_	2	punct	_	AlignBegin=26578|AlignEnd=26900|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-AN-00001-08_09-10
@@ -141,12 +141,12 @@
 4	die	die	NOUN	_	_	_	_	_	AlignBegin=27719|AlignEnd=27977|GE=thing|Gloss=thing|nWord=4|RX=[N]
 5	)		PUNCT	_	_	_	_	_	AlignBegin=27977|AlignEnd=28235|nWord=5
 6	die	die	NOUN	_	_	7	subj	_	AlignBegin=28235|AlignEnd=28493|GE=thing|Gloss=thing|nWord=6|RX=[N]
-7	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=28493|AlignEnd=28751|GE=go|Gloss=go|nWord=7|RX=[VI]
+7	hoke	hoke	VERB	_	_	0	root	_	AlignBegin=28493|AlignEnd=28751|GE=go|Gloss=go|nWord=7|RX=[VI]
 8	eru	eru	ADJ	_	_	7	comp:pred	_	AlignBegin=28751|AlignEnd=29009|GE=ready|Gloss=ready|nWord=8|RX=[ADJ]
 9	,		PUNCT	_	_	_	_	_	AlignBegin=29009|AlignEnd=29265|nWord=9
 10	despues	despues	ADV	_	_	12	mod	_	AlignBegin=29650|AlignEnd=29910|GE=then|Gloss=then|nWord=10|RX=[ADV]
 11	cha	cha	PRON	_	_	14	subj	_	AlignBegin=29910|AlignEnd=30170|GE=[1SG]|Gloss=1SG|nWord=11|RX=[PRO]
-12	kle	kle	AUX	_	_	_	_	_	AlignBegin=30170|AlignEnd=30430|GE=be|Gloss=be|nWord=12|RX=[V]
+12	kle	kle	AUX	_	_	7	conj:coord	_	AlignBegin=30170|AlignEnd=30430|GE=be|Gloss=be|nWord=12|RX=[V]
 13	bla	bla	NOUN	_	_	14	comp:obj	_	AlignBegin=30430|AlignEnd=30690|GE=banana|Gloss=banana|nWord=13|RX=[N]
 14	tk	tk	VERB	_	_	15	comp:aux/m	_	AlignBegin=30690|AlignEnd=30820|GE=put|Gloss=put|nWord=14|RX=[VT]
 15	-e		AUX	_	_	12	comp:aux	_	AlignBegin=30820|AlignEnd=30950|GE=[THM]|Gloss=-THM|nWord=14|RX=[V:ANY]
@@ -183,23 +183,23 @@
 # text_ortho = antes hay mucho chubi here , hay mucho blegda , ahora die mendale , die fatenunga ene , die fatenunga , ya die ho fatenunga , die van ho ulita .
 1	antes	antes	ADV	_	_	_	_	_	AlignBegin=47730|AlignEnd=48093|GE=before|Gloss=before|nWord=1|RX=[ADV]
 2	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=48093|AlignEnd=48456|GE=there_is|Gloss=there_is|Lang=es|nWord=2|RX=[V]
-3	mucho	mucho	ADJ	_	_	_	_	_	AlignBegin=48456|AlignEnd=48819|GE=a_lot|Gloss=a_lot|nWord=3|RX=[ADJ]
+3	mucho	mucho	ADJ	_	_	4	mod	_	AlignBegin=48456|AlignEnd=48819|GE=a_lot|Gloss=a_lot|nWord=3|RX=[ADJ]
 4	chubi	chubi	NOUN	_	_	_	_	_	AlignBegin=48819|AlignEnd=49182|GE=turkey|Gloss=turkey|nWord=4|RX=[N]
 5	here	here	ADJ	_	_	4	mod	_	AlignBegin=49182|AlignEnd=49545|GE=black|Gloss=black|nWord=5|RX=[ADJ]
 6	,		PUNCT	_	_	_	_	_	AlignBegin=49545|AlignEnd=49910|nWord=6
 7	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=50115|AlignEnd=50513|GE=there_is|Gloss=there_is|Lang=es|nWord=7|RX=[V]
-8	mucho	mucho	ADJ	_	_	_	_	_	AlignBegin=50513|AlignEnd=50911|GE=a_lot|Gloss=a_lot|nWord=8|RX=[ADJ]
+8	mucho	mucho	ADJ	_	_	9	mod	_	AlignBegin=50513|AlignEnd=50911|GE=a_lot|Gloss=a_lot|nWord=8|RX=[ADJ]
 9	blegda	blegda	NOUN	_	_	_	_	_	AlignBegin=50911|AlignEnd=51309|GE=porc|Gloss=porc|nWord=9|RX=[N]
 10	,		PUNCT	_	_	_	_	_	AlignBegin=51309|AlignEnd=51705|nWord=10
-11	ahora	ahora	ADV	_	Foreign=Yes	_	_	_	AlignBegin=52055|AlignEnd=52360|GE=now|Gloss=now|Lang=es|nWord=11|RX=[ADV]
-12	die	die	NOUN	_	_	_	_	_	AlignBegin=52360|AlignEnd=52665|GE=thing|Gloss=thing|nWord=12|RX=[N]
+11	ahora	ahora	ADV	_	Foreign=Yes	13	mod	_	AlignBegin=52055|AlignEnd=52360|GE=now|Gloss=now|Lang=es|nWord=11|RX=[ADV]
+12	die	die	NOUN	_	_	13	subj	_	AlignBegin=52360|AlignEnd=52665|GE=thing|Gloss=thing|nWord=12|RX=[N]
 13	mendale	mendale	PART	_	_	_	_	_	AlignBegin=52665|AlignEnd=52970|GE=[NEG]|Gloss=NEG|nWord=13|RX=[VERBPRT]
 14	,		PUNCT	_	_	_	_	_	AlignBegin=52970|AlignEnd=53275|nWord=14
-15	die	die	NOUN	_	_	_	_	_	AlignBegin=53280|AlignEnd=53595|GE=thing|Gloss=thing|nWord=15|RX=[N]
+15	die	die	NOUN	_	_	16	subj	_	AlignBegin=53280|AlignEnd=53595|GE=thing|Gloss=thing|nWord=15|RX=[N]
 16	fatenunga	fatenga	VERB	_	_	_	_	_	AlignBegin=53595|AlignEnd=53910|GE=[disappear].[PST]|Gloss=disappear.PST|nWord=16|RX=[V]
-17	ene	ene	ADV	_	_	_	_	_	AlignBegin=53910|AlignEnd=54225|GE=so|Gloss=so|nWord=17|RX=[ADV]
+17	ene	ene	ADV	_	_	16	mod	_	AlignBegin=53910|AlignEnd=54225|GE=so|Gloss=so|nWord=17|RX=[ADV]
 18	,		PUNCT	_	_	_	_	_	AlignBegin=54225|AlignEnd=54540|nWord=18
-19	die	die	NOUN	_	_	_	_	_	AlignBegin=55085|AlignEnd=55565|GE=thing|Gloss=thing|nWord=19|RX=[N]
+19	die	die	NOUN	_	_	20	subj	_	AlignBegin=55085|AlignEnd=55565|GE=thing|Gloss=thing|nWord=19|RX=[N]
 20	fatenunga	fatenga	VERB	_	_	_	_	_	AlignBegin=55565|AlignEnd=56045|GE=[disappear].[PST]|Gloss=disappear.PST|nWord=20|RX=[V]
 21	,		PUNCT	_	_	_	_	_	AlignBegin=56045|AlignEnd=56525|nWord=21
 22	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=56665|AlignEnd=57049|GE=now|Gloss=now|Lang=es|nWord=22|RX=[ADV]

@@ -21,7 +21,7 @@
 # text_ortho = cha kle taianchuke geru ai ke de soli bi , cuando cha chiu dui ai giti , geru nware trakadale cha bitaya ske : como chube ( ponia ) che bitaia gai , para giska huenga cha bitaia aling naskoni .
 1	cha	cha	PRON	_	_	3	subj	_	AlignBegin=10560|AlignEnd=10929|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=10929|AlignEnd=11298|GE=be|Gloss=be|nWord=2|RX=[V]
-3	taianchuk	taianchuk	VERB	_	_	4	comp:aux	_	AlignBegin=11298|AlignEnd=11482|GE=think|Gloss=think|nWord=3|RX=[V]
+3	taianchuk	taianchuk	VERB	_	_	4	comp:aux/m	_	AlignBegin=11298|AlignEnd=11482|GE=think|Gloss=think|nWord=3|RX=[V]
 4	-e		AUX	_	_	2	comp:aux	_	AlignBegin=11482|AlignEnd=11667|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	geru	geru	NOUN	_	_	_	_	_	AlignBegin=11667|AlignEnd=12036|GE=story|Gloss=story|nWord=4|RX=[N]
 6	ai	ai	ADV	_	_	_	_	_	AlignBegin=12036|AlignEnd=12405|GE=here|Gloss=here|nWord=5|RX=[ADV]
@@ -36,7 +36,7 @@
 15	-u		AUX	_	_	12	comp	_	AlignBegin=15568|AlignEnd=15803|GE=[PST]|Gloss=-PST|nWord=13|RX=[V:ANY]
 16	dui	dui	NOUN	_	_	18	comp	_	AlignBegin=15803|AlignEnd=16274|GE=dirt|Gloss=dirt|nWord=14|RX=[N]
 17	ai	ai	ADV	_	_	16	mod	_	AlignBegin=16274|AlignEnd=16745|GE=here|Gloss=here|nWord=15|RX=[ADV]
-18	giti	giti	ADP	_	_	14	comp:obl	_	AlignBegin=16745|AlignEnd=17216|GE=[LOC]|Gloss=LOC|nWord=16|RX=[ADP]
+18	giti	giti	ADP	_	_	14	mod:lmod	_	AlignBegin=16745|AlignEnd=17216|GE=[LOC]|Gloss=LOC|nWord=16|RX=[ADP]
 19	,		PUNCT	_	_	_	_	_	AlignBegin=17216|AlignEnd=17690|nWord=17
 20	geru	geru	NOUN	_	_	22	comp:obj	_	AlignBegin=18095|AlignEnd=18621|GE=story|Gloss=story|nWord=18|RX=[N]
 21	nware	nware	ADJ	_	_	20	mod	_	AlignBegin=18621|AlignEnd=19147|GE=good|Gloss=good|nWord=19|RX=[ADJ]
@@ -75,7 +75,7 @@
 # text_en = Now it is not the case anymore. Now everything is falling apart.
 # text_ortho = ya me cheku che ske , ya ho fatenga .
 1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=29415|AlignEnd=29615|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
-2	me	me	AUX	_	_	_	_	_	AlignBegin=29615|AlignEnd=29815|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=29615|AlignEnd=29815|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	chek	chek	VERB	_	_	4	comp:aux/m	_	AlignBegin=29815|AlignEnd=29915|GE=stay|Gloss=stay|nWord=3|RX=[VI]
 4	-u		AUX	_	_	2	comp:aux	_	AlignBegin=29915|AlignEnd=30015|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
 5	che	che	PRON	_	_	6	comp	_	AlignBegin=30015|AlignEnd=30215|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=4|RX=[PRO]
@@ -109,7 +109,7 @@
 13	,		PUNCT	_	_	_	_	_	AlignBegin=34235|AlignEnd=34430|nWord=11
 14	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=34430|AlignEnd=34770|GE=so|Gloss=so|Lang=es|nWord=12|RX=[ADV]
 15	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=34770|AlignEnd=35110|GE=now|Gloss=now|Lang=es|nWord=13|RX=[ADV]
-16	me	me	PART	_	_	_	_	_	AlignBegin=35110|AlignEnd=35450|GE=[NEG]|Gloss=NEG|nWord=14|RX=[VERBPRT]
+16	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=35110|AlignEnd=35450|GE=[NEG]|Gloss=NEG|nWord=14|RX=[VERBPRT]
 17	chek	chek	VERB	_	_	18	comp:aux/m	_	AlignBegin=35450|AlignEnd=35620|GE=stay|Gloss=stay|nWord=15|RX=[VI]
 18	-u		AUX	_	_	_	_	_	AlignBegin=35620|AlignEnd=35790|GE=[PST]|Gloss=-PST|nWord=15|RX=[V:ANY]
 19	che	che	PRON	_	_	20	comp	_	AlignBegin=35790|AlignEnd=36130|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=16|RX=[PRO]
@@ -141,7 +141,7 @@
 15	,		PUNCT	_	_	_	_	_	AlignBegin=47290|AlignEnd=48040|nWord=14
 16	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=48370|AlignEnd=48810|GE=but|Gloss=but|Lang=es|nWord=15|RX=[COORDCONN]
 17	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=48810|AlignEnd=49250|GE=now|Gloss=now|Lang=es|nWord=16|RX=[ADV]
-18	me	me	PART	_	_	_	_	_	AlignBegin=49250|AlignEnd=49690|GE=[NEG]|Gloss=NEG|nWord=17|RX=[VERBPRT]
+18	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=49250|AlignEnd=49690|GE=[NEG]|Gloss=NEG|nWord=17|RX=[VERBPRT]
 19	chek	chek	VERB	_	_	20	comp:aux/m	_	AlignBegin=49690|AlignEnd=49910|GE=stay|Gloss=stay|nWord=18|RX=[VI]
 20	-u		AUX	_	_	_	_	_	AlignBegin=49910|AlignEnd=50130|GE=[PST]|Gloss=-PST|nWord=18|RX=[V:ANY]
 21	che	che	PRON	_	_	22	comp	_	AlignBegin=50130|AlignEnd=50570|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=19|RX=[PRO]

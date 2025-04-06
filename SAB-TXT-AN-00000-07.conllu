@@ -110,7 +110,7 @@
 # text_ortho = pero che me aini Cahuita .
 1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=34585|AlignEnd=34888|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
 2	che	che	PRON	_	_	_	_	_	AlignBegin=34888|AlignEnd=35191|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
-3	me	me	PART	_	_	_	_	_	AlignBegin=35191|AlignEnd=35494|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=35191|AlignEnd=35494|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	aini	aini	ADV	_	_	_	_	_	AlignBegin=35494|AlignEnd=35797|GE=here|Gloss=here|nWord=4|RX=[ADV]
 5	cahuita	cahuita	PROPN	_	_	_	_	_	AlignBegin=35797|AlignEnd=36100|GE=[Kawita]|Gloss=Kawita|nWord=5|RX=[NPROP]
 6	.		PUNCT	_	_	_	_	_	AlignBegin=36100|AlignEnd=36405|Gloss=.|nWord=6
@@ -152,7 +152,7 @@
 2	che	che	PRON	_	_	3	udep:poss	_	AlignBegin=44722|AlignEnd=45322|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
 3	nglia	nglia	NOUN	_	_	4	comp:aux/m	_	AlignBegin=45322|AlignEnd=45622|GE=king|Gloss=king|nWord=3|RX=[N]
 4	-re		AUX	_	_	_	_	_	AlignBegin=45622|AlignEnd=45922|GE=[ADJZ]|Gloss=-ADJZ|nWord=3|RX=[N>ADJ]
-5	me	me	PART	_	_	_	_	_	AlignBegin=45922|AlignEnd=46522|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
+5	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=45922|AlignEnd=46522|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
 6	,		PUNCT	_	_	_	_	_	AlignBegin=46522|AlignEnd=47122|nWord=5
 7	ho	hoke	VERB	_	_	_	_	_	AlignBegin=47750|AlignEnd=47954|GE=[go].[PST]|Gloss=go.PST|nWord=6|RX=[VI]
 8	toi	toi	VERB	_	_	7	mod:purpose	_	AlignBegin=47954|AlignEnd=48158|GE=live|Gloss=live|nWord=7|RX=[VI]
@@ -175,7 +175,7 @@
 # text = enusuli kada Ruperto Gonzales chku aini .
 # text_en = The ancestor named Ruperto Gonzales came here.
 # text_ortho = enusuli kada Ruperto Gonzales chku aini .
-1	enusuli	enusuli	NOUN	_	_	_	_	_	AlignBegin=51450|AlignEnd=52167|GE=grandfather|Gloss=grandfather|nWord=1|RX=[N]
+1	enusuli	enusuli	NOUN	_	_	5	subj	_	AlignBegin=51450|AlignEnd=52167|GE=grandfather|Gloss=grandfather|nWord=1|RX=[N]
 2	kada	kada	NOUN	_	_	_	_	_	AlignBegin=52167|AlignEnd=52884|GE=name|Gloss=name|nWord=2|RX=[N]
 3	Ruperto	Ruperto	PROPN	_	_	_	_	_	AlignBegin=52884|AlignEnd=53601|GE=[Ruperto]|Gloss=Ruperto|nWord=3|RX=[NPROP]
 4	Gonzales	Gonzales	PROPN	_	_	3	flat	_	AlignBegin=53601|AlignEnd=54318|GE=[Gonzales]|Gloss=Gonzales|nWord=4|RX=[NPROP]
@@ -228,7 +228,7 @@
 19	chi	chi	VERB	_	_	20	comp:aux/m	_	AlignBegin=69915|AlignEnd=70055|GE=come|Gloss=come|nWord=16|RX=[VI]
 20	-u		AUX	_	_	_	_	_	AlignBegin=70055|AlignEnd=70195|GE=[PST]|Gloss=-PST|nWord=16|RX=[V:ANY]
 21	gere	gere	NOUN	_	_	22	comp	_	AlignBegin=70195|AlignEnd=70475|GE=coral|Gloss=coral|nWord=17|RX=[N]
-22	ke	ke	ADP	_	_	19	comp:obl	_	AlignBegin=70475|AlignEnd=70755|GE=[LOC]|Gloss=LOC|nWord=18|RX=[ADP]
+22	ke	ke	ADP	_	_	19	mod:lmod	_	AlignBegin=70475|AlignEnd=70755|GE=[LOC]|Gloss=LOC|nWord=18|RX=[ADP]
 23	.		PUNCT	_	_	_	_	_	AlignBegin=70755|AlignEnd=71035|Gloss=.|nWord=19
 
 # sent_id = SAB-TXT-AN-00000-07_21-21
@@ -240,11 +240,11 @@
 # text_en = They fought with the Guaymis.
 # text_ortho = che mung dole wami ole .
 1	che	che	PRON	_	_	3	subj	_	AlignBegin=71455|AlignEnd=71730|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
-2	mung	mung	PART	_	_	_	_	_	AlignBegin=71730|AlignEnd=72005|GE=[REFL]|Gloss=REFL|nWord=2|RX=[VERBPRT]
-3	dole	dole	VERB	_	_	_	_	_	AlignBegin=72005|AlignEnd=72280|GE=[fight].[NPST]|Gloss=fight.NPST|nWord=3|RX=[V]
+2	mung	mung	PART	_	_	3	comp:obj	_	AlignBegin=71730|AlignEnd=72005|GE=[REFL]|Gloss=REFL|nWord=2|RX=[VERBPRT]
+3	dole	dole	VERB	_	_	0	root	_	AlignBegin=72005|AlignEnd=72280|GE=[fight].[NPST]|Gloss=fight.NPST|nWord=3|RX=[V]
 4	Wami	Wami	NOUN	_	_	5	comp	_	AlignBegin=72280|AlignEnd=72555|GE=[Guaymi]|Gloss=Guaymi|nWord=4|RX=[N]
 5	ole	ole	ADP	_	_	3	comp:obl	_	AlignBegin=72555|AlignEnd=72830|GE=[COM]|Gloss=COM|nWord=5|RX=[ADP]
-6	.		PUNCT	_	_	_	_	_	AlignBegin=72830|AlignEnd=73105|Gloss=.|nWord=6
+6	.		PUNCT	_	_	3	punct	_	AlignBegin=72830|AlignEnd=73105|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-AN-00000-07_22-22
 # speaker_id = @07
@@ -255,11 +255,11 @@
 # text_en = The Guaymis fought with them.
 # text_ortho = wami mung dole che ole .
 1	Wami	Wami	NOUN	_	_	3	subj	_	AlignBegin=73240|AlignEnd=73455|GE=[Guaymi]|Gloss=Guaymi|nWord=1|RX=[N]
-2	mung	mung	PART	_	_	_	_	_	AlignBegin=73455|AlignEnd=73670|GE=[REFL]|Gloss=REFL|nWord=2|RX=[VERBPRT]
-3	dole	dole	VERB	_	_	_	_	_	AlignBegin=73670|AlignEnd=73885|GE=[fight].[NPST]|Gloss=fight.NPST|nWord=3|RX=[V]
+2	mung	mung	PART	_	_	3	comp:obj	_	AlignBegin=73455|AlignEnd=73670|GE=[REFL]|Gloss=REFL|nWord=2|RX=[VERBPRT]
+3	dole	dole	VERB	_	_	0	root	_	AlignBegin=73670|AlignEnd=73885|GE=[fight].[NPST]|Gloss=fight.NPST|nWord=3|RX=[V]
 4	che	che	PRON	_	_	5	comp	_	AlignBegin=73885|AlignEnd=74100|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=4|RX=[PRO]
 5	ole	ole	ADP	_	_	3	comp:obl	_	AlignBegin=74100|AlignEnd=74315|GE=[COM]|Gloss=COM|nWord=5|RX=[ADP]
-6	.		PUNCT	_	_	_	_	_	AlignBegin=74315|AlignEnd=74530|Gloss=.|nWord=6
+6	.		PUNCT	_	_	3	punct	_	AlignBegin=74315|AlignEnd=74530|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-AN-00000-07_23-23
 # speaker_id = @07
@@ -272,8 +272,8 @@
 1	che	che	PRON	_	_	2	subj	_	AlignBegin=74575|AlignEnd=74789|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=74789|AlignEnd=74896|GE=come|Gloss=come|nWord=2|RX=[VI]
 3	-u		AUX	_	_	0	root	_	AlignBegin=74896|AlignEnd=75003|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-4	ai	ai	ADV	_	_	_	_	_	AlignBegin=75003|AlignEnd=75217|GE=here|Gloss=here|nWord=3|RX=[ADV]
-5	gnanku	gnanku	ADV	_	_	_	_	_	AlignBegin=75217|AlignEnd=75431|GE=far.med|Gloss=far.med|nWord=4|RX=[ADV]
+4	ai	ai	ADV	_	_	2	mod:lmod	_	AlignBegin=75003|AlignEnd=75217|GE=here|Gloss=here|nWord=3|RX=[ADV]
+5	gnanku	gnanku	ADV	_	_	2	mod:lmod	_	AlignBegin=75217|AlignEnd=75431|GE=far.med|Gloss=far.med|nWord=4|RX=[ADV]
 6	.		PUNCT	_	_	3	punct	_	AlignBegin=75431|AlignEnd=75645|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-AN-00000-07_24-25
@@ -417,7 +417,7 @@
 12	koladu	kolale	VERB	_	_	_	_	_	AlignBegin=117680|AlignEnd=118335|GE=[play].[PST]|Gloss=play.PST|nWord=11|RX=[V]
 13	ka	ka	NOUN	_	_	15	subj	_	AlignBegin=118335|AlignEnd=118990|GE=language|Gloss=language|nWord=12|RX=[N]
 14	be	be	AUX	_	_	_	_	_	AlignBegin=118990|AlignEnd=119645|GE=[FUT]|Gloss=FUT|nWord=13|RX=[VERBPRT]
-15	chi	chi	VERB	_	_	16	comp:aux	_	AlignBegin=119645|AlignEnd=119973|GE=come|Gloss=come|nWord=14|RX=[VI]
+15	chi	chi	VERB	_	_	16	comp:aux/m	_	AlignBegin=119645|AlignEnd=119973|GE=come|Gloss=come|nWord=14|RX=[VI]
 16	-e		AUX	_	_	14	comp:aux	_	AlignBegin=119973|AlignEnd=120300|GE=[THM]|Gloss=-THM|nWord=14|RX=[V:ANY]
 17	ole	ole	ADP	_	_	_	_	_	AlignBegin=120300|AlignEnd=120955|GE=[COM]|Gloss=COM|nWord=15|RX=[ADP]
 18	,		PUNCT	_	_	_	_	_	AlignBegin=120955|AlignEnd=121610|nWord=16
@@ -445,7 +445,7 @@
 # text_ortho = ya che me gna hoke mas .
 1	ya	ya	ADV	_	Foreign=Yes	5	mod:tmod	_	AlignBegin=124560|AlignEnd=124946|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	che	che	PRON	_	_	5	subj	_	AlignBegin=124946|AlignEnd=125332|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
-3	me	me	AUX	_	_	0	root	_	AlignBegin=125332|AlignEnd=125718|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=125332|AlignEnd=125718|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	gna	gna	AUX	_	_	3	comp:aux	_	AlignBegin=125718|AlignEnd=126104|GE=can|Gloss=can|nWord=4|RX=[V]
 5	hoke	hoke	VERB	_	_	4	comp:aux	_	AlignBegin=126104|AlignEnd=126490|GE=go|Gloss=go|nWord=5|RX=[VI]
 6	mas	mas	ADV	_	Foreign=Yes	5	mod	_	AlignBegin=126490|AlignEnd=126876|GE=more|Gloss=more|Lang=es|nWord=6|RX=[ADV]
@@ -461,7 +461,7 @@
 # text_ortho = ya na me cheku che ali .
 1	ya	ya	ADV	_	Foreign=Yes	4	mod:tmod	_	AlignBegin=128020|AlignEnd=128200|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	na	na	ADJ	_	_	4	comp:obj	_	AlignBegin=128200|AlignEnd=128380|GE=other|Gloss=other|nWord=2|RX=[DET]
-3	me	me	AUX	_	_	0	root	_	AlignBegin=128380|AlignEnd=128560|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=128380|AlignEnd=128560|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	chek	chek	VERB	_	_	5	comp:aux/m	_	AlignBegin=128560|AlignEnd=128650|GE=stay|Gloss=stay|nWord=4|RX=[VI]
 5	-u		AUX	_	_	3	comp:aux	_	AlignBegin=128650|AlignEnd=128740|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
 6	che	che	PRON	_	_	7	comp	_	AlignBegin=128740|AlignEnd=128920|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=5|RX=[PRO]

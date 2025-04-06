@@ -12,7 +12,7 @@
 4	bolo	bolo	ADJ	_	_	3	comp:pred	_	AlignBegin=9374|AlignEnd=10022|GE=pregnant|Gloss=pregnant|nWord=4|RX=[ADJ]
 5	,		PUNCT	_	_	_	_	_	AlignBegin=10022|AlignEnd=10670|nWord=5
 6	muinga	muinga	NOUN	_	_	11	subj	_	AlignBegin=10770|AlignEnd=11129|GE=woman|Gloss=woman|nWord=6|RX=[N]
-7	me	me	AUX	_	_	_	_	_	AlignBegin=11129|AlignEnd=11488|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
+7	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=11129|AlignEnd=11488|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
 8	gna	gna	AUX	_	_	7	comp:aux	_	AlignBegin=11488|AlignEnd=11847|GE=can|Gloss=can|nWord=8|RX=[V]
 9	bla	bla	NOUN	_	_	11	comp:obj	_	AlignBegin=11847|AlignEnd=12206|GE=banana|Gloss=banana|nWord=9|RX=[N]
 10	dabe	dabe	ADJ	_	_	9	mod	_	AlignBegin=12206|AlignEnd=12565|GE=red|Gloss=red|nWord=10|RX=[ADJ]
@@ -20,7 +20,7 @@
 12	-e		AUX	_	_	8	comp:aux	_	AlignBegin=12745|AlignEnd=12924|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
 13	,		PUNCT	_	_	_	_	_	AlignBegin=12924|AlignEnd=13280|nWord=12
 14	muinga	muinga	NOUN	_	_	19	subj	_	AlignBegin=13330|AlignEnd=13597|GE=woman|Gloss=woman|nWord=13|RX=[N]
-15	me	me	AUX	_	_	_	_	_	AlignBegin=13597|AlignEnd=13864|GE=[NEG]|Gloss=NEG|nWord=14|RX=[VERBPRT]
+15	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=13597|AlignEnd=13864|GE=[NEG]|Gloss=NEG|nWord=14|RX=[VERBPRT]
 16	gna	gna	AUX	_	_	15	comp:aux	_	AlignBegin=13864|AlignEnd=14131|GE=can|Gloss=can|nWord=15|RX=[V]
 17	die	die	NOUN	_	_	19	comp:obj	_	AlignBegin=14131|AlignEnd=14398|GE=thing|Gloss=thing|nWord=16|RX=[N]
 18	bale	bale	ADJ	_	_	17	mod	_	AlignBegin=14398|AlignEnd=14665|GE=sweet|Gloss=sweet|nWord=17|RX=[ADJ]
@@ -75,12 +75,12 @@
 # text_en = Because she can't walk fast, She can't walk and get up from the ground fast, She can't run fast, She walks with clumsy feet.
 # text_ortho = porque me gna chage blikaia , me gna chage y dui bduke giti blikaia , me gna skwenga blikaia , kle chage sra kwi .
 1	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=22970|AlignEnd=23258|GE=because|Gloss=because|Lang=es|nWord=1|RX=[CONN]
-2	me	me	AUX	_	_	_	_	_	AlignBegin=23258|AlignEnd=23546|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+2	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=23258|AlignEnd=23546|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	gna	gna	AUX	_	_	2	comp:aux	_	AlignBegin=23546|AlignEnd=23834|GE=can|Gloss=can|nWord=3|RX=[V]
 4	chage	chage	VERB	_	_	3	comp:aux	_	AlignBegin=23834|AlignEnd=24122|GE=walk|Gloss=walk|nWord=4|RX=[VI]
 5	blikaia	blikaia	ADV	_	_	_	_	_	AlignBegin=24122|AlignEnd=24410|GE=quickly|Gloss=quickly|nWord=5|RX=[ADV]
 6	,		PUNCT	_	_	_	_	_	AlignBegin=24410|AlignEnd=24700|nWord=6
-7	me	me	AUX	_	_	_	_	_	AlignBegin=25160|AlignEnd=25401|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
+7	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=25160|AlignEnd=25401|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
 8	gna	gna	AUX	_	_	7	comp:aux	_	AlignBegin=25401|AlignEnd=25642|GE=can|Gloss=can|nWord=8|RX=[V]
 9	chage	chage	VERB	_	_	8	comp:aux	_	AlignBegin=25642|AlignEnd=25883|GE=walk|Gloss=walk|nWord=9|RX=[VI]
 10	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=25883|AlignEnd=26124|GE=and|Gloss=and|Lang=es|nWord=10|RX=[COORDCONN]
@@ -89,7 +89,7 @@
 13	giti	giti	ADP	_	_	_	_	_	AlignBegin=26606|AlignEnd=26847|GE=[LOC]|Gloss=LOC|nWord=13|RX=[ADP]
 14	blikaia	blikaia	ADV	_	_	_	_	_	AlignBegin=26847|AlignEnd=27088|GE=quickly|Gloss=quickly|nWord=14|RX=[ADV]
 15	,		PUNCT	_	_	_	_	_	AlignBegin=27088|AlignEnd=27330|nWord=15
-16	me	me	AUX	_	_	_	_	_	AlignBegin=27330|AlignEnd=27576|GE=[NEG]|Gloss=NEG|nWord=16|RX=[VERBPRT]
+16	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=27330|AlignEnd=27576|GE=[NEG]|Gloss=NEG|nWord=16|RX=[VERBPRT]
 17	gna	gna	AUX	_	_	16	comp:aux	_	AlignBegin=27576|AlignEnd=27822|GE=can|Gloss=can|nWord=17|RX=[V]
 18	skwenga	skwenga	VERB	_	_	17	comp:aux	_	AlignBegin=27822|AlignEnd=28068|GE=[run].[NPST]|Gloss=run.NPST|nWord=18|RX=[V]
 19	blikaia	blikaia	ADV	_	_	_	_	_	AlignBegin=28068|AlignEnd=28314|GE=quickly|Gloss=quickly|nWord=19|RX=[ADV]
@@ -127,7 +127,7 @@
 # text_ortho = chi bale me hadale .
 1	chi	chi	NOUN	_	_	4	comp:obj	_	AlignBegin=35080|AlignEnd=35478|GE=water|Gloss=water|nWord=1|RX=[N]
 2	bale	bale	ADJ	_	_	1	mod	_	AlignBegin=35478|AlignEnd=35876|GE=sweet|Gloss=sweet|nWord=2|RX=[ADJ]
-3	me	me	AUX	_	_	0	root	_	AlignBegin=35876|AlignEnd=36274|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+3	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=35876|AlignEnd=36274|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	ha	hai	VERB	_	_	5	comp:aux/m	_	AlignBegin=36274|AlignEnd=36473|GE=drink|Gloss=drink|nWord=4|RX=[VT]
 5	-dale		AUX	_	_	3	comp:aux	_	AlignBegin=36473|AlignEnd=36672|GE=[IRR]|Gloss=-IRR|nWord=4|RX=[V:ANY]
 6	.		PUNCT	_	_	3	punct	_	AlignBegin=36672|AlignEnd=37070|Gloss=.|nWord=5
@@ -153,7 +153,7 @@
 11	dike	dike	ADP	_	_	9	comp:obl	_	AlignBegin=40270|AlignEnd=40544|GE=[INST]|Gloss=INST|nWord=11|RX=[ADP]
 12	,		PUNCT	_	_	_	_	_	AlignBegin=40544|AlignEnd=40820|nWord=12
 13	kle	kle	AUX	_	_	_	_	_	AlignBegin=40860|AlignEnd=41185|GE=be|Gloss=be|nWord=13|RX=[V]
-14	skwatik	skwatik	VERB	_	_	15	comp:aux	_	AlignBegin=41185|AlignEnd=41347|GE=be_tired|Gloss=be_tired|nWord=14|RX=[V]
+14	skwatik	skwatik	VERB	_	_	15	comp:aux/m	_	AlignBegin=41185|AlignEnd=41347|GE=be_tired|Gloss=be_tired|nWord=14|RX=[V]
 15	-e		AUX	_	_	13	comp:aux	_	AlignBegin=41347|AlignEnd=41510|GE=[THM]|Gloss=-THM|nWord=14|RX=[V:ANY]
 16	gde	gde	NOUN	_	_	_	_	_	AlignBegin=41510|AlignEnd=41835|GE=bag|Gloss=bag|nWord=15|RX=[N]
 17	hinwe	hinwe	NOUN	_	_	18	comp	_	AlignBegin=41835|AlignEnd=42160|GE=illness|Gloss=illness|nWord=16|RX=[N]
@@ -201,7 +201,7 @@
 3	y	y	X	_	Foreign=Yes	1	cc	_	AlignBegin=50742|AlignEnd=51038|GE=and|Gloss=and|Lang=es|nWord=3|RX=[COORDCONN]
 4	muinga	muinga	NOUN	_	_	1	conj:coord	_	AlignBegin=51038|AlignEnd=51334|GE=woman|Gloss=woman|nWord=4|RX=[N]
 5	ne	ne	DET	_	_	4	mod	_	AlignBegin=51334|AlignEnd=51630|GE=that|Gloss=that|nWord=5|RX=[DET]
-6	me	me	AUX	_	_	0	root	_	AlignBegin=51630|AlignEnd=51926|GE=[NEG]|Gloss=NEG|nWord=6|RX=[VERBPRT]
+6	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=51630|AlignEnd=51926|GE=[NEG]|Gloss=NEG|nWord=6|RX=[VERBPRT]
 7	keruchuk	keruchuk	VERB	_	_	8	comp:aux/m	_	AlignBegin=51926|AlignEnd=52074|GE=understand|Gloss=understand|nWord=7|RX=[V]
 8	-e		AUX	_	_	6	comp:aux	_	AlignBegin=52074|AlignEnd=52222|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
 9	kiro	kiro	NOUN	_	_	12	comp	_	AlignBegin=52222|AlignEnd=52370|GE=child|Gloss=child|nWord=8|RX=[N]

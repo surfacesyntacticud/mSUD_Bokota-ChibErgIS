@@ -246,7 +246,7 @@
 5	,		PUNCT	_	_	_	_	_	AlignBegin=87239|AlignEnd=87525|nWord=5
 6	daba	daba	NOUN	_	_	8	subj	_	AlignBegin=87595|AlignEnd=87905|GE=brother|Gloss=brother|nWord=6|RX=[N]
 7	be	be	AUX	_	_	_	_	_	AlignBegin=87905|AlignEnd=88215|GE=[FUT]|Gloss=FUT|nWord=7|RX=[VERBPRT]
-8	chk	chk	VERB	_	_	9	comp:aux	_	AlignBegin=88215|AlignEnd=88370|GE=arrive|Gloss=arrive|nWord=8|RX=[VI]
+8	chk	chk	VERB	_	_	9	comp:aux/m	_	AlignBegin=88215|AlignEnd=88370|GE=arrive|Gloss=arrive|nWord=8|RX=[VI]
 9	-e		AUX	_	_	7	comp:aux	_	AlignBegin=88370|AlignEnd=88525|GE=[THM]|Gloss=-THM|nWord=8|RX=[V:ANY]
 10	dole	dole	VERB	_	_	_	_	_	AlignBegin=88525|AlignEnd=88835|GE=[fight].[NPST]|Gloss=fight.NPST|nWord=9|RX=[V]
 11	na	na	ADJ	_	_	_	_	_	AlignBegin=88835|AlignEnd=89145|GE=other|Gloss=other|nWord=10|RX=[DET]

@@ -120,7 +120,7 @@
 9	dike	dike	ADP	_	_	_	_	_	AlignBegin=27390|AlignEnd=27680|GE=[INST]|Gloss=INST|nWord=6|RX=[ADP]
 10	,		PUNCT	_	_	_	_	_	AlignBegin=27680|AlignEnd=27970|nWord=7
 11	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=28100|AlignEnd=28393|GE=to|Gloss=to|Lang=es|nWord=8|RX=[ADP]
-12	me	me	PART	_	_	_	_	_	AlignBegin=28393|AlignEnd=28686|GE=[NEG]|Gloss=NEG|nWord=9|RX=[VERBPRT]
+12	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=28393|AlignEnd=28686|GE=[NEG]|Gloss=NEG|nWord=9|RX=[VERBPRT]
 13	hubdu	hubdu	NOUN	_	_	_	_	_	AlignBegin=28686|AlignEnd=28979|GE=insect.type|Gloss=insect.type|nWord=10|RX=[N]
 14	gli	gli	NOUN	_	_	_	_	_	AlignBegin=28979|AlignEnd=29272|GE=tree|Gloss=tree|nWord=11|RX=[N]
 15	dat	dat	VERB	_	_	16	comp:aux/m	_	AlignBegin=29272|AlignEnd=29418|GE=cut|Gloss=cut|nWord=12|RX=[VT]
@@ -174,7 +174,7 @@
 # text = me u tkedikuda , entonces ho (_) glita (_), pa no hubdu gli tkediku blikaia .
 # text_en = So it does not make the house fall, So the hubdu does not make the posts fall quickly.
 # text_ortho = me u tkedikuda , entonces ho (_) glita (_), pa no hubdu gli tkediku blikaia .
-1	me	me	PART	_	_	_	_	_	AlignBegin=32880|AlignEnd=33210|GE=[NEG]|Gloss=NEG|nWord=1|RX=[VERBPRT]
+1	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=32880|AlignEnd=33210|GE=[NEG]|Gloss=NEG|nWord=1|RX=[VERBPRT]
 2	u	u	NOUN	_	_	_	_	_	AlignBegin=33210|AlignEnd=33540|GE=house|Gloss=house|nWord=2|RX=[N]
 3	tk	tk	VERB	_	_	4	comp:aux/m	_	AlignBegin=33540|AlignEnd=33622|GE=put|Gloss=put|nWord=3|RX=[VT]
 4	-e		AUX	_	_	_	_	_	AlignBegin=33622|AlignEnd=33704|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
@@ -318,7 +318,7 @@
 19	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=57196|AlignEnd=57512|GE=so|Gloss=so|Lang=es|nWord=18|RX=[ADV]
 20	ama	ama	ADV	_	_	_	_	_	AlignBegin=57512|AlignEnd=57828|GE=so|Gloss=so|nWord=19|RX=[ADV]
 21	kle	kle	AUX	_	_	_	_	_	AlignBegin=57828|AlignEnd=58144|GE=be|Gloss=be|nWord=20|RX=[V]
-22	kachi	kachi	VERB	_	_	23	comp:aux	_	AlignBegin=58144|AlignEnd=58302|GE=end|Gloss=end|nWord=21|RX=[V]
+22	kachi	kachi	VERB	_	_	23	comp:aux/m	_	AlignBegin=58144|AlignEnd=58302|GE=end|Gloss=end|nWord=21|RX=[V]
 23	-e		AUX	_	_	21	comp:aux	_	AlignBegin=58302|AlignEnd=58460|GE=[THM]|Gloss=-THM|nWord=21|RX=[V:ANY]
 24	blikaia	blikaia	ADV	_	_	_	_	_	AlignBegin=58460|AlignEnd=58776|GE=quickly|Gloss=quickly|nWord=22|RX=[ADV]
 25	.		PUNCT	_	_	_	_	_	AlignBegin=58776|AlignEnd=59090|Gloss=.|nWord=23
@@ -336,7 +336,7 @@
 3	kle	kle	AUX	_	_	0	root	_	AlignBegin=59961|AlignEnd=60224|GE=be|Gloss=be|nWord=3|RX=[V]
 4	u	u	NOUN	_	_	5	comp:obj	_	AlignBegin=60224|AlignEnd=60487|GE=house|Gloss=house|nWord=4|RX=[N]
 5	gwagat	gwagat	VERB	_	_	6	comp:aux/m	_	AlignBegin=60487|AlignEnd=60575|GE=prepare|Gloss=prepare|nWord=5|RX=[VT]
-6	-e		AUX	_	_	7	comp:aux	_	AlignBegin=60575|AlignEnd=60663|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+6	-e		AUX	_	_	7	comp:aux/m	_	AlignBegin=60575|AlignEnd=60663|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	-nga		AUX	_	_	3	comp:aux	_	AlignBegin=60663|AlignEnd=60750|GE=[SUB]|Gloss=-SUB|nWord=5|RX=[V:ANY]
 8	aini	aini	ADV	_	_	5	mod:lmod	_	AlignBegin=60750|AlignEnd=61013|GE=here|Gloss=here|nWord=6|RX=[ADV]
 9	.		PUNCT	_	_	3	punct	_	AlignBegin=61013|AlignEnd=61275|Gloss=.|nWord=7

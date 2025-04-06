@@ -6,7 +6,7 @@
 # text = hong gadale aini gwa iani ba be hong gai de eni .
 # text_en = Here, to that hill, you will take a path from there.
 # text_ortho = hong gadale aini gwa iani ba be hong gai de eni .
-1	hong	hong	NOUN	_	_	_	_	_	AlignBegin=19000|AlignEnd=19233|GE=path|Gloss=path|nWord=1|RX=[N]
+1	hong	hong	NOUN	_	_	2	subj@pass	_	AlignBegin=19000|AlignEnd=19233|GE=path|Gloss=path|nWord=1|RX=[N]
 2	ga	gai	VERB	_	_	3	comp:aux/m	_	AlignBegin=19233|AlignEnd=19349|GE=pick_up|Gloss=pick_up|nWord=2|RX=[VT]
 3	-dale		AUX	_	_	_	_	_	AlignBegin=19349|AlignEnd=19466|GE=[IRR]|Gloss=-IRR|nWord=2|RX=[V:ANY]
 4	aini	aini	ADV	_	_	_	_	_	AlignBegin=19466|AlignEnd=19699|GE=here|Gloss=here|nWord=3|RX=[ADV]
@@ -37,7 +37,7 @@
 7	nga	nga	NOUN	_	_	_	_	_	AlignBegin=23777|AlignEnd=24054|GE=village|Gloss=village|nWord=7|RX=[N]
 8	kada	kada	NOUN	_	_	_	_	_	AlignBegin=24054|AlignEnd=24331|GE=name|Gloss=name|nWord=8|RX=[N]
 9	chi	chi	NOUN	_	_	_	_	_	AlignBegin=24331|AlignEnd=24608|GE=water|Gloss=water|nWord=9|RX=[N]
-10	kada	kada	NOUN	_	_	_	_	_	AlignBegin=24608|AlignEnd=24885|GE=name|Gloss=name|nWord=10|RX=[N]
+10	kada	kada	NOUN	_	_	11	comp:aux/m	_	AlignBegin=24608|AlignEnd=24885|GE=name|Gloss=name|nWord=10|RX=[N]
 11	kle	kle	AUX	_	_	_	_	_	AlignBegin=24885|AlignEnd=25162|GE=be|Gloss=be|nWord=11|RX=[V]
 12	Limon	Limon	PROPN	_	_	_	_	_	AlignBegin=25162|AlignEnd=25439|GE=[Limon]|Gloss=Limon|nWord=12|RX=[NPROP]
 13	.		PUNCT	_	_	_	_	_	AlignBegin=25439|AlignEnd=25715|Gloss=.|nWord=13
@@ -94,13 +94,13 @@
 # text = hong kweri aling hong sketengkle aling ba be hoke iani .
 # text_en = That path that go through, you will go there.
 # text_ortho = hong kweri aling hong sketengkle aling ba be hoke iani .
-1	hong	hong	NOUN	_	_	_	_	_	AlignBegin=30265|AlignEnd=30563|GE=path|Gloss=path|nWord=1|RX=[N]
-2	kweri	kweri	ADJ	_	_	_	_	_	AlignBegin=30563|AlignEnd=30861|GE=big|Gloss=big|nWord=2|RX=[ADJ]
-3	aling	aling	ADP	_	_	_	_	_	AlignBegin=30861|AlignEnd=31159|GE=for|Gloss=for|nWord=3|RX=[ADP]
-4	hong	hong	NOUN	_	_	_	_	_	AlignBegin=31159|AlignEnd=31457|GE=path|Gloss=path|nWord=4|RX=[N]
-5	ske	ske	ADP	_	_	_	_	_	AlignBegin=31457|AlignEnd=31606|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
-6	tengkle	tengkle	ADV	_	_	_	_	_	AlignBegin=31606|AlignEnd=31755|GE=through|Gloss=through|nWord=5|RX=[ADV]
-7	aling	aling	ADP	_	_	_	_	_	AlignBegin=31755|AlignEnd=32053|GE=for|Gloss=for|nWord=6|RX=[ADP]
+1	hong	hong	NOUN	_	_	3	comp	_	AlignBegin=30265|AlignEnd=30563|GE=path|Gloss=path|nWord=1|RX=[N]
+2	kweri	kweri	ADJ	_	_	1	mod	_	AlignBegin=30563|AlignEnd=30861|GE=big|Gloss=big|nWord=2|RX=[ADJ]
+3	aling	aling	ADP	_	_	10	mod	_	AlignBegin=30861|AlignEnd=31159|GE=for|Gloss=for|nWord=3|RX=[ADP]
+4	hong	hong	NOUN	_	_	7	comp	_	AlignBegin=31159|AlignEnd=31457|GE=path|Gloss=path|nWord=4|RX=[N]
+5	ske	ske	ADP	_	_	4	mod	_	AlignBegin=31457|AlignEnd=31606|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
+6	tengkle	tengkle	ADV	_	_	5	compound	_	AlignBegin=31606|AlignEnd=31755|GE=through|Gloss=through|nWord=5|RX=[ADV]
+7	aling	aling	ADP	_	_	10	mod	_	AlignBegin=31755|AlignEnd=32053|GE=for|Gloss=for|nWord=6|RX=[ADP]
 8	ba	ba	PRON	_	_	10	subj	_	AlignBegin=32053|AlignEnd=32351|GE=[2SG]|Gloss=2SG|nWord=7|RX=[PRO]
 9	be	be	AUX	_	_	0	root	_	AlignBegin=32351|AlignEnd=32649|GE=[FUT]|Gloss=FUT|nWord=8|RX=[VERBPRT]
 10	hoke	hoke	VERB	_	_	9	comp:aux	_	AlignBegin=32649|AlignEnd=32947|GE=go|Gloss=go|nWord=9|RX=[VI]
@@ -131,9 +131,9 @@
 # text = chi tira tengkle ba be hoke .
 # text_en = You will go through the dangerous river.
 # text_ortho = chi tira tengkle ba be hoke .
-1	chi	chi	NOUN	_	_	_	_	_	AlignBegin=35175|AlignEnd=35449|GE=water|Gloss=water|nWord=1|RX=[N]
-2	tira	tira	NOUN	_	_	_	_	_	AlignBegin=35449|AlignEnd=35723|GE=danger|Gloss=danger|nWord=2|RX=[N]
-3	tengkle	tengkle	ADV	_	_	_	_	_	AlignBegin=35723|AlignEnd=35997|GE=through|Gloss=through|nWord=3|RX=[ADV]
+1	chi	chi	NOUN	_	_	3	comp	_	AlignBegin=35175|AlignEnd=35449|GE=water|Gloss=water|nWord=1|RX=[N]
+2	tira	tira	NOUN	_	_	1	mod	_	AlignBegin=35449|AlignEnd=35723|GE=danger|Gloss=danger|nWord=2|RX=[N]
+3	tengkle	tengkle	ADV	_	_	6	mod	_	AlignBegin=35723|AlignEnd=35997|GE=through|Gloss=through|nWord=3|RX=[ADV]
 4	ba	ba	PRON	_	_	6	subj	_	AlignBegin=35997|AlignEnd=36271|GE=[2SG]|Gloss=2SG|nWord=4|RX=[PRO]
 5	be	be	AUX	_	_	0	root	_	AlignBegin=36271|AlignEnd=36545|GE=[FUT]|Gloss=FUT|nWord=5|RX=[VERBPRT]
 6	hoke	hoke	VERB	_	_	5	comp:aux	_	AlignBegin=36545|AlignEnd=36819|GE=go|Gloss=go|nWord=6|RX=[VI]
@@ -151,7 +151,7 @@
 2	be	be	AUX	_	_	0	root	_	AlignBegin=38185|AlignEnd=38570|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
 3	hoke	hoke	VERB	_	_	2	comp:aux	_	AlignBegin=38570|AlignEnd=38955|GE=go|Gloss=go|nWord=3|RX=[VI]
 4	nga	nga	NOUN	_	_	_	_	_	AlignBegin=38955|AlignEnd=39340|GE=village|Gloss=village|nWord=4|RX=[N]
-5	kada	kada	NOUN	_	_	_	_	_	AlignBegin=39340|AlignEnd=39725|GE=name|Gloss=name|nWord=5|RX=[N]
+5	kada	kada	NOUN	_	_	6	comp:aux/m	_	AlignBegin=39340|AlignEnd=39725|GE=name|Gloss=name|nWord=5|RX=[N]
 6	kle	kle	AUX	_	_	_	_	_	AlignBegin=39725|AlignEnd=40110|GE=be|Gloss=be|nWord=6|RX=[V]
 7	chi	chi	NOUN	_	_	_	_	_	AlignBegin=40110|AlignEnd=40495|GE=water|Gloss=water|nWord=7|RX=[N]
 8	kweri	kweri	ADJ	_	_	_	_	_	AlignBegin=40495|AlignEnd=40880|GE=big|Gloss=big|nWord=8|RX=[ADJ]
@@ -170,7 +170,7 @@
 1	ba	ba	PRON	_	_	3	subj	_	AlignBegin=42295|AlignEnd=42443|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
 2	be	be	AUX	_	_	0	root	_	AlignBegin=42443|AlignEnd=42591|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
 3	hoke	hoke	VERB	_	_	2	comp:aux	_	AlignBegin=42591|AlignEnd=42739|GE=go|Gloss=go|nWord=3|RX=[VI]
-4	me	me	PART	_	_	_	_	_	AlignBegin=42739|AlignEnd=42887|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
+4	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=42739|AlignEnd=42887|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
 5	honingke	honingke	ADV	_	_	_	_	_	AlignBegin=42887|AlignEnd=43035|GE=first|Gloss=first|nWord=5|RX=[ADV]
 6	.		PUNCT	_	_	2	punct	_	AlignBegin=43035|AlignEnd=43185|Gloss=.|nWord=6
 
@@ -185,8 +185,8 @@
 1	ba	ba	PRON	_	_	3	subj	_	AlignBegin=43185|AlignEnd=43342|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
 2	be	be	AUX	_	_	0	root	_	AlignBegin=43342|AlignEnd=43499|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
 3	hoke	hoke	VERB	_	_	2	comp:aux	_	AlignBegin=43499|AlignEnd=43656|GE=go|Gloss=go|nWord=3|RX=[VI]
-4	ngeru	ngeru	ADV	_	_	_	_	_	AlignBegin=43656|AlignEnd=43813|GE=first|Gloss=first|nWord=4|RX=[ADJ]
-5	ke	ke	ADP	_	_	_	_	_	AlignBegin=43813|AlignEnd=43970|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
+4	ngeru	ngeru	ADV	_	_	5	comp	_	AlignBegin=43656|AlignEnd=43813|GE=first|Gloss=first|nWord=4|RX=[ADJ]
+5	ke	ke	ADP	_	_	3	mod	_	AlignBegin=43813|AlignEnd=43970|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
 6	.		PUNCT	_	_	2	punct	_	AlignBegin=43970|AlignEnd=44125|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-PA-00000-06_12-12
@@ -213,8 +213,8 @@
 # text_ortho = ba be nga giudale tkenga .
 1	ba	ba	PRON	_	_	5	subj	_	AlignBegin=47320|AlignEnd=47987|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
 2	be	be	AUX	_	_	0	root	_	AlignBegin=47987|AlignEnd=48654|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
-3	nga	nga	NOUN	_	_	_	_	_	AlignBegin=48654|AlignEnd=49321|GE=village|Gloss=village|nWord=3|RX=[N]
-4	giudale	giudale	PROPN	_	_	_	_	_	AlignBegin=49321|AlignEnd=49988|GE=giudale|Gloss=giudale|nWord=4|RX=[NPROP]
+3	nga	nga	NOUN	_	_	5	comp:obj	_	AlignBegin=48654|AlignEnd=49321|GE=village|Gloss=village|nWord=3|RX=[N]
+4	giudale	giudale	PROPN	_	_	3	mod	_	AlignBegin=49321|AlignEnd=49988|GE=giudale|Gloss=giudale|nWord=4|RX=[NPROP]
 5	tkenga	tkenga	VERB	_	_	2	comp:aux	_	AlignBegin=49988|AlignEnd=50655|GE=[cut].[NPST]|Gloss=cut.NPST|nWord=5|RX=[VT]
 6	.		PUNCT	_	_	2	punct	_	AlignBegin=50655|AlignEnd=51320|Gloss=.|nWord=6
 
@@ -244,8 +244,8 @@
 3	ho	hoke	VERB	_	_	4	comp:aux/m	_	AlignBegin=53806|AlignEnd=54022|GE=[go].[PST]|Gloss=go.PST|nWord=3|RX=[VI]
 4	-ni		AUX	_	_	2	comp:aux	_	AlignBegin=54022|AlignEnd=54239|GE=[IT]|Gloss=-IT|nWord=3|RX=[V:ANY]
 5	gda	gda	NUM	_	_	6	clf	_	AlignBegin=54239|AlignEnd=54455|GE=cl|Gloss=cl|nWord=4|RX=[NUM]
-6	ite	ite	NUM	_	_	_	_	_	AlignBegin=54455|AlignEnd=54672|GE=one|Gloss=one|nWord=4|RX=[NUM]
-7	iani	iani	ADV	_	_	_	_	_	AlignBegin=54672|AlignEnd=55105|GE=there|Gloss=there|nWord=5|RX=[ADV]
+6	ite	ite	NUM	_	_	3	mod	_	AlignBegin=54455|AlignEnd=54672|GE=one|Gloss=one|nWord=4|RX=[NUM]
+7	iani	iani	ADV	_	_	3	mod:lmod	_	AlignBegin=54672|AlignEnd=55105|GE=there|Gloss=there|nWord=5|RX=[ADV]
 8	.		PUNCT	_	_	2	punct	_	AlignBegin=55105|AlignEnd=55540|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-PA-00000-06_16-16
@@ -256,8 +256,8 @@
 # text = apa ke ba be budachia tkenga .
 # text_en = Eight hours later you will cross the Buda river.
 # text_ortho = apa ke ba be budachia tkenga .
-1	apa	apa	NUM	_	_	_	_	_	AlignBegin=56665|AlignEnd=56928|GE=eight|Gloss=eight|nWord=1|RX=[NUM]
-2	ke	ke	ADP	_	_	_	_	_	AlignBegin=56928|AlignEnd=57191|GE=[LOC]|Gloss=LOC|nWord=2|RX=[ADP]
+1	apa	apa	NUM	_	_	2	comp	_	AlignBegin=56665|AlignEnd=56928|GE=eight|Gloss=eight|nWord=1|RX=[NUM]
+2	ke	ke	ADP	_	_	6	mod	_	AlignBegin=56928|AlignEnd=57191|GE=[LOC]|Gloss=LOC|nWord=2|RX=[ADP]
 3	ba	ba	PRON	_	_	6	subj	_	AlignBegin=57191|AlignEnd=57454|GE=[2SG]|Gloss=2SG|nWord=3|RX=[PRO]
 4	be	be	AUX	_	_	0	root	_	AlignBegin=57454|AlignEnd=57717|GE=[FUT]|Gloss=FUT|nWord=4|RX=[VERBPRT]
 5	budachia	budachia	PROPN	_	_	6	comp:obj	_	AlignBegin=57717|AlignEnd=57980|GE=budachia|Gloss=budachia|nWord=5|RX=[NPROP]
@@ -274,9 +274,9 @@
 # text_ortho = ba be budachia gdaite tkenga .
 1	ba	ba	PRON	_	_	6	subj	_	AlignBegin=58770|AlignEnd=59014|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
 2	be	be	AUX	_	_	0	root	_	AlignBegin=59014|AlignEnd=59258|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
-3	budachia	budachia	PROPN	_	_	_	_	_	AlignBegin=59258|AlignEnd=59502|GE=budachia|Gloss=budachia|nWord=3|RX=[NPROP]
+3	budachia	budachia	PROPN	_	_	6	comp:obj	_	AlignBegin=59258|AlignEnd=59502|GE=budachia|Gloss=budachia|nWord=3|RX=[NPROP]
 4	gda	gda	NUM	_	_	5	clf	_	AlignBegin=59502|AlignEnd=59624|GE=cl|Gloss=cl|nWord=4|RX=[NUM]
-5	ite	ite	NUM	_	_	_	_	_	AlignBegin=59624|AlignEnd=59746|GE=one|Gloss=one|nWord=4|RX=[NUM]
+5	ite	ite	NUM	_	_	3	mod:num	_	AlignBegin=59624|AlignEnd=59746|GE=one|Gloss=one|nWord=4|RX=[NUM]
 6	tkenga	tkenga	VERB	_	_	2	comp:aux	_	AlignBegin=59746|AlignEnd=59990|GE=[cut].[NPST]|Gloss=cut.NPST|nWord=5|RX=[VT]
 7	.		PUNCT	_	_	2	punct	_	AlignBegin=59990|AlignEnd=60235|Gloss=.|nWord=6
 
@@ -289,15 +289,15 @@
 # text_en = You will go until you arrive to Rio Hato.
 # text_ortho = ba be hoke ta be chke hatogwada giti .
 1	ba	ba	PRON	_	_	3	subj	_	AlignBegin=60235|AlignEnd=60489|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
-2	be	be	AUX	_	_	_	_	_	AlignBegin=60489|AlignEnd=60743|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
+2	be	be	AUX	_	_	0	root	_	AlignBegin=60489|AlignEnd=60743|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
 3	hoke	hoke	VERB	_	_	2	comp:aux	_	AlignBegin=60743|AlignEnd=60997|GE=go|Gloss=go|nWord=3|RX=[VI]
-4	ta	ta	ADP	_	_	_	_	_	AlignBegin=60997|AlignEnd=61251|GE=to|Gloss=to|nWord=4|RX=[ADP]
-5	be	be	AUX	_	_	_	_	_	AlignBegin=61251|AlignEnd=61505|GE=[FUT]|Gloss=FUT|nWord=5|RX=[VERBPRT]
+4	ta	ta	ADP	_	_	3	mod	_	AlignBegin=60997|AlignEnd=61251|GE=to|Gloss=to|nWord=4|RX=[ADP]
+5	be	be	AUX	_	_	4	comp	_	AlignBegin=61251|AlignEnd=61505|GE=[FUT]|Gloss=FUT|nWord=5|RX=[VERBPRT]
 6	chk	chk	VERB	_	_	7	comp:aux/m	_	AlignBegin=61505|AlignEnd=61632|GE=arrive|Gloss=arrive|nWord=6|RX=[VI]
 7	-e		AUX	_	_	5	comp:aux	_	AlignBegin=61632|AlignEnd=61759|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 8	Hatogwada	Hatogwada	PROPN	_	_	9	comp	_	AlignBegin=61759|AlignEnd=62013|GE=[Hatogwada]|Gloss=Hatogwada|nWord=7|RX=[NPROP]
 9	giti	giti	ADP	_	_	6	comp:obl	_	AlignBegin=62013|AlignEnd=62267|GE=[LOC]|Gloss=LOC|nWord=8|RX=[ADP]
-10	.		PUNCT	_	_	_	_	_	AlignBegin=62267|AlignEnd=62525|Gloss=.|nWord=9
+10	.		PUNCT	_	_	2	punct	_	AlignBegin=62267|AlignEnd=62525|Gloss=.|nWord=9
 
 # sent_id = SAB-TXT-PA-00000-06_19-19
 # speaker_id = @06
@@ -349,14 +349,14 @@
 # text = ata hoke chke himong Olechia ke .
 # text_en = Until you go to Oletchia.
 # text_ortho = ata hoke chke himong Olechia ke .
-1	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=67230|AlignEnd=67590|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
-2	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=67590|AlignEnd=67950|GE=go|Gloss=go|nWord=2|RX=[VI]
+1	hasta	hasta	ADP	_	Foreign=Yes	0	root	_	AlignBegin=67230|AlignEnd=67590|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
+2	hoke	hoke	VERB	_	_	1	comp	_	AlignBegin=67590|AlignEnd=67950|GE=go|Gloss=go|nWord=2|RX=[VI]
 3	chk	chk	VERB	_	_	4	comp:aux/m	_	AlignBegin=67950|AlignEnd=68130|GE=arrive|Gloss=arrive|nWord=3|RX=[VI]
 4	-e		AUX	_	_	2	compound:svc	_	AlignBegin=68130|AlignEnd=68310|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
-5	himong	himong	ADV	_	_	_	_	_	AlignBegin=68310|AlignEnd=68670|GE=down|Gloss=down|nWord=4|RX=[ADV]
+5	himong	himong	ADV	_	_	3	mod:lmod	_	AlignBegin=68310|AlignEnd=68670|GE=down|Gloss=down|nWord=4|RX=[ADV]
 6	Olechia	Olechia	PROPN	_	_	7	comp	_	AlignBegin=68670|AlignEnd=69030|GE=[Olechia]|Gloss=Olechia|nWord=5|RX=[NPROP]
 7	ke	ke	ADP	_	_	3	comp:obl	_	AlignBegin=69030|AlignEnd=69390|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
-8	.		PUNCT	_	_	_	_	_	AlignBegin=69390|AlignEnd=69750|Gloss=.|nWord=7
+8	.		PUNCT	_	_	1	punct	_	AlignBegin=69390|AlignEnd=69750|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-PA-00000-06_23-23
 # speaker_id = @06
@@ -366,23 +366,23 @@
 # text = ya Olechia ke ba be hoke gnanku ba be hoke chke a la ekuela guacamaya .
 # text_en = When (you) arrive in Oletchia you will go to the school of Guacamaya.
 # text_ortho = ya Olechia ke ba be hoke gnanku ba be hoke chke a la ekuela guacamaya .
-1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=70040|AlignEnd=70241|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
+1	ya	ya	ADV	_	Foreign=Yes	6	mod	_	AlignBegin=70040|AlignEnd=70241|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	Olechia	Olechia	PROPN	_	_	3	comp	_	AlignBegin=70241|AlignEnd=70442|GE=[Olechia]|Gloss=Olechia|nWord=2|RX=[NPROP]
-3	ke	ke	ADP	_	_	_	_	_	AlignBegin=70442|AlignEnd=70643|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
+3	ke	ke	ADP	_	_	6	mod	_	AlignBegin=70442|AlignEnd=70643|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
 4	ba	ba	PRON	_	_	6	subj	_	AlignBegin=70643|AlignEnd=70844|GE=[2SG]|Gloss=2SG|nWord=4|RX=[PRO]
-5	be	be	AUX	_	_	_	_	_	AlignBegin=70844|AlignEnd=71045|GE=[FUT]|Gloss=FUT|nWord=5|RX=[VERBPRT]
+5	be	be	AUX	_	_	0	root	_	AlignBegin=70844|AlignEnd=71045|GE=[FUT]|Gloss=FUT|nWord=5|RX=[VERBPRT]
 6	hoke	hoke	VERB	_	_	5	comp:aux	_	AlignBegin=71045|AlignEnd=71246|GE=go|Gloss=go|nWord=6|RX=[VI]
-7	gnanku	gnanku	ADV	_	_	_	_	_	AlignBegin=71246|AlignEnd=71447|GE=far.med|Gloss=far.med|nWord=7|RX=[ADV]
+7	gnanku	gnanku	ADV	_	_	6	mod:lmod	_	AlignBegin=71246|AlignEnd=71447|GE=far.med|Gloss=far.med|nWord=7|RX=[ADV]
 8	ba	ba	PRON	_	_	10	subj	_	AlignBegin=71447|AlignEnd=71648|GE=[2SG]|Gloss=2SG|nWord=8|RX=[PRO]
-9	be	be	AUX	_	_	_	_	_	AlignBegin=71648|AlignEnd=71849|GE=[FUT]|Gloss=FUT|nWord=9|RX=[VERBPRT]
+9	be	be	AUX	_	_	5	conj:coord	_	AlignBegin=71648|AlignEnd=71849|GE=[FUT]|Gloss=FUT|nWord=9|RX=[VERBPRT]
 10	hoke	hoke	VERB	_	_	9	comp:aux	_	AlignBegin=71849|AlignEnd=72050|GE=go|Gloss=go|nWord=10|RX=[VI]
 11	chk	chk	VERB	_	_	12	comp:aux/m	_	AlignBegin=72050|AlignEnd=72150|GE=arrive|Gloss=arrive|nWord=11|RX=[VI]
 12	-e		AUX	_	_	10	compound:svc	_	AlignBegin=72150|AlignEnd=72251|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
-13	a	a	ADP	_	_	_	_	_	AlignBegin=72251|AlignEnd=72452|GE=to|Gloss=to|nWord=12|RX=[ADP]
-14	la	la	X	_	_	_	_	_	AlignBegin=72452|AlignEnd=72653|GE=the|Gloss=the|nWord=13|RX=[ART]
-15	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=72653|AlignEnd=72854|GE=school|Gloss=school|Lang=es|nWord=14|RX=[N]
-16	Guacamaya	Guacamaya	PROPN	_	_	_	_	_	AlignBegin=72854|AlignEnd=73055|GE=[Guacamaya]|Gloss=Guacamaya|nWord=15|RX=[NPROP]
-17	.		PUNCT	_	_	_	_	_	AlignBegin=73055|AlignEnd=73250|Gloss=.|nWord=16
+13	a	a	ADP	_	_	11	mod:lmod	_	AlignBegin=72251|AlignEnd=72452|GE=to|Gloss=to|nWord=12|RX=[ADP]
+14	la	la	X	_	_	15	det	_	AlignBegin=72452|AlignEnd=72653|GE=the|Gloss=the|nWord=13|RX=[ART]
+15	escuela	escuela	NOUN	_	Foreign=Yes	13	comp	_	AlignBegin=72653|AlignEnd=72854|GE=school|Gloss=school|Lang=es|nWord=14|RX=[N]
+16	Guacamaya	Guacamaya	PROPN	_	_	15	mod	_	AlignBegin=72854|AlignEnd=73055|GE=[Guacamaya]|Gloss=Guacamaya|nWord=15|RX=[NPROP]
+17	.		PUNCT	_	_	5	punct	_	AlignBegin=73055|AlignEnd=73250|Gloss=.|nWord=16
 
 # sent_id = SAB-TXT-PA-00000-06_24-24
 # speaker_id = @06
@@ -393,12 +393,12 @@
 # text_en = But one year ago there were no school.
 # text_ortho = pero un año honingke la ekuela me .
 1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=73560|AlignEnd=73879|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
-2	un	un	DET	_	_	_	_	_	AlignBegin=73879|AlignEnd=74198|GE=[INDEF].[M]|Gloss=INDEF.M|nWord=2|RX=[DET]
+2	un	un	DET	_	_	3	det	_	AlignBegin=73879|AlignEnd=74198|GE=[INDEF].[M]|Gloss=INDEF.M|nWord=2|RX=[DET]
 3	año	año	NOUN	_	_	_	_	_	AlignBegin=74198|AlignEnd=74517|GE=year|Gloss=year|nWord=3|RX=[N]
 4	honingke	honingke	ADV	_	_	_	_	_	AlignBegin=74517|AlignEnd=74836|GE=first|Gloss=first|nWord=4|RX=[ADV]
-5	la	la	X	_	_	_	_	_	AlignBegin=74836|AlignEnd=75155|GE=the|Gloss=the|nWord=5|RX=[ART]
+5	la	la	X	_	_	6	det	_	AlignBegin=74836|AlignEnd=75155|GE=the|Gloss=the|nWord=5|RX=[ART]
 6	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=75155|AlignEnd=75474|GE=school|Gloss=school|Lang=es|nWord=6|RX=[N]
-7	me	me	PART	_	_	_	_	_	AlignBegin=75474|AlignEnd=75793|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
+7	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=75474|AlignEnd=75793|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
 8	.		PUNCT	_	_	_	_	_	AlignBegin=75793|AlignEnd=76110|Gloss=.|nWord=8
 
 # sent_id = SAB-TXT-PA-00000-06_25-25
@@ -410,8 +410,8 @@
 # text_en = no, the school came nowadays.
 # text_ortho = no la ekuela e chkebale nengke .
 1	no	no	PART	_	_	_	_	_	AlignBegin=76270|AlignEnd=76571|GE=[NEG]|Gloss=NEG|nWord=1|RX=[VERBPRT]
-2	la	la	X	_	_	_	_	_	AlignBegin=76571|AlignEnd=76872|GE=the|Gloss=the|nWord=2|RX=[ART]
-3	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=76872|AlignEnd=77173|GE=school|Gloss=school|Lang=es|nWord=3|RX=[N]
+2	la	la	X	_	_	3	det	_	AlignBegin=76571|AlignEnd=76872|GE=the|Gloss=the|nWord=2|RX=[ART]
+3	escuela	escuela	NOUN	_	Foreign=Yes	5	subj	_	AlignBegin=76872|AlignEnd=77173|GE=school|Gloss=school|Lang=es|nWord=3|RX=[N]
 4	es	es	VERB	_	Foreign=Yes	_	_	_	AlignBegin=77173|AlignEnd=77474|GE=be|Gloss=be|Lang=es|nWord=4|RX=[V]
 5	chk	chk	VERB	_	_	6	comp:aux/m	_	AlignBegin=77474|AlignEnd=77574|GE=arrive|Gloss=arrive|nWord=5|RX=[VI]
 6	-e		AUX	_	_	7	comp:aux/m	_	AlignBegin=77574|AlignEnd=77674|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
@@ -431,7 +431,7 @@
 2	honingke	honingke	ADV	_	_	_	_	_	AlignBegin=82968|AlignEnd=83256|GE=first|Gloss=first|nWord=2|RX=[ADV]
 3	la	la	X	_	_	_	_	_	AlignBegin=83256|AlignEnd=83544|GE=the|Gloss=the|nWord=3|RX=[ART]
 4	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=83544|AlignEnd=83832|GE=school|Gloss=school|Lang=es|nWord=4|RX=[N]
-5	me	me	PART	_	_	_	_	_	AlignBegin=83832|AlignEnd=84120|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
+5	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=83832|AlignEnd=84120|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
 6	.		PUNCT	_	_	_	_	_	AlignBegin=84120|AlignEnd=84410|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-PA-00000-06_27-27
@@ -442,11 +442,11 @@
 # text = ese nga kada kle Olechia .
 # text_en = This village is called Oletchia.
 # text_ortho = ese nga kada kle Olechia .
-1	ese	ese	DET	_	_	_	_	_	AlignBegin=84600|AlignEnd=84907|GE=that|Gloss=that|nWord=1|RX=[DET]
+1	ese	ese	DET	_	_	2	det	_	AlignBegin=84600|AlignEnd=84907|GE=that|Gloss=that|nWord=1|RX=[DET]
 2	nga	nga	NOUN	_	_	_	_	_	AlignBegin=84907|AlignEnd=85214|GE=village|Gloss=village|nWord=2|RX=[N]
-3	kada	kada	NOUN	_	_	_	_	_	AlignBegin=85214|AlignEnd=85521|GE=name|Gloss=name|nWord=3|RX=[N]
-4	kle	kle	AUX	_	_	_	_	_	AlignBegin=85521|AlignEnd=85828|GE=be|Gloss=be|nWord=4|RX=[V]
-5	Olechia	Olechia	PROPN	_	_	_	_	_	AlignBegin=85828|AlignEnd=86135|GE=[Olechia]|Gloss=Olechia|nWord=5|RX=[NPROP]
+3	kada	kada	NOUN	_	_	4	comp:aux/m	_	AlignBegin=85214|AlignEnd=85521|GE=name|Gloss=name|nWord=3|RX=[N]
+4	kle	kle	AUX	_	_	2	mod@relcl	_	AlignBegin=85521|AlignEnd=85828|GE=be|Gloss=be|nWord=4|RX=[V]
+5	Olechia	Olechia	PROPN	_	_	3	comp:obj	_	AlignBegin=85828|AlignEnd=86135|GE=[Olechia]|Gloss=Olechia|nWord=5|RX=[NPROP]
 6	.		PUNCT	_	_	_	_	_	AlignBegin=86135|AlignEnd=86440|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-PA-00000-06_28-28
@@ -461,11 +461,11 @@
 2	espagnol	espagnol	NOUN	_	_	_	_	_	AlignBegin=88049|AlignEnd=88578|GE=spanish|Gloss=spanish|nWord=2|RX=[N]
 3	dice	dice	VERB	_	_	_	_	_	AlignBegin=88578|AlignEnd=89107|GE=say|Gloss=say|nWord=3|RX=[V]
 4	Guacamaya	Guacamaya	PROPN	_	_	_	_	_	AlignBegin=89107|AlignEnd=89636|GE=[Guacamaya]|Gloss=Guacamaya|nWord=4|RX=[NPROP]
-5	ese	ese	DET	_	_	_	_	_	AlignBegin=89636|AlignEnd=90165|GE=that|Gloss=that|nWord=5|RX=[DET]
+5	ese	ese	DET	_	_	6	det	_	AlignBegin=89636|AlignEnd=90165|GE=that|Gloss=that|nWord=5|RX=[DET]
 6	nga	nga	NOUN	_	_	_	_	_	AlignBegin=90165|AlignEnd=90694|GE=village|Gloss=village|nWord=6|RX=[N]
-7	kada	kada	NOUN	_	_	_	_	_	AlignBegin=90694|AlignEnd=91223|GE=name|Gloss=name|nWord=7|RX=[N]
-8	kle	kle	AUX	_	_	_	_	_	AlignBegin=91223|AlignEnd=91752|GE=be|Gloss=be|nWord=8|RX=[V]
-9	Olechia	Olechia	PROPN	_	_	_	_	_	AlignBegin=91752|AlignEnd=92281|GE=[Olechia]|Gloss=Olechia|nWord=9|RX=[NPROP]
+7	kada	kada	NOUN	_	_	8	comp:aux/m	_	AlignBegin=90694|AlignEnd=91223|GE=name|Gloss=name|nWord=7|RX=[N]
+8	kle	kle	AUX	_	_	6	mod@relcl	_	AlignBegin=91223|AlignEnd=91752|GE=be|Gloss=be|nWord=8|RX=[V]
+9	Olechia	Olechia	PROPN	_	_	7	comp:obj	_	AlignBegin=91752|AlignEnd=92281|GE=[Olechia]|Gloss=Olechia|nWord=9|RX=[NPROP]
 10	.		PUNCT	_	_	_	_	_	AlignBegin=92281|AlignEnd=92810|Gloss=.|nWord=10
 
 # sent_id = SAB-TXT-PA-00000-06_29-29
