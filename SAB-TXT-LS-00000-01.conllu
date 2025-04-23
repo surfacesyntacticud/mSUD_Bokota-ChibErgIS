@@ -8,7 +8,7 @@
 # text_ortho = ba nengke se chkedo cha ske cha aini .
 1	ba	ba	PRON	_	_	4	subj	_	AlignBegin=4330|AlignEnd=4969|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
 2	nengke	nengke	ADV	_	_	4	mod:tmod	_	AlignBegin=4969|AlignEnd=5608|GE=today|Gloss=today|nWord=2|RX=[ADV]
-3	se	se	PART	_	_	_	_	_	AlignBegin=5608|AlignEnd=6247|GE=[REFL]|Gloss=REFL|nWord=3|RX=[VERBPRT]
+3	se	se	PRON	_	_	_	_	_	AlignBegin=5608|AlignEnd=6247|GE=[REFL]|Gloss=REFL|nWord=3|RX=[VERBPRT]
 4	chk	chk	VERB	_	_	5	comp:aux/m	_	AlignBegin=6247|AlignEnd=6567|GE=arrive|Gloss=arrive|nWord=4|RX=[VI]
 5	-edo		AUX	_	_	_	_	_	AlignBegin=6567|AlignEnd=6886|GE=[PART]|Gloss=-PART|nWord=4|RX=[VERBAL_PARTICLE]
 6	cha	cha	PRON	_	_	7	comp	_	AlignBegin=6886|AlignEnd=7525|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
@@ -463,7 +463,7 @@
 5	-ni		AUX	_	_	0	root	_	AlignBegin=99248|AlignEnd=99486|GE=[IT]|Gloss=-IT|nWord=3|RX=[V:ANY]
 6	cha	cha	PRON	_	_	7	udep:poss	_	AlignBegin=99486|AlignEnd=100198|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
 7	chebi	chebi	NOUN	_	_	8	comp	_	AlignBegin=100198|AlignEnd=100910|GE=mother|Gloss=mother|nWord=5|RX=[N]
-8	waninke	waninke	ADV	_	_	3	mod:lmod	_	AlignBegin=100910|AlignEnd=101622|GE=place_of|Gloss=place_of|nWord=6|RX=[ADV]
+8	waninke	waninke	ADP	_	_	3	mod:lmod	_	AlignBegin=100910|AlignEnd=101622|GE=place_of|Gloss=place_of|nWord=6|RX=[ADV]
 9	aini	aini	ADV	_	_	3	mod:lmod	_	AlignBegin=101622|AlignEnd=102334|GE=here|Gloss=here|nWord=7|RX=[ADV]
 10	.		PUNCT	_	_	5	punct	_	AlignBegin=102334|AlignEnd=103050|Gloss=.|nWord=8
 
@@ -765,18 +765,18 @@
 1	cha	cha	PRON	_	_	3	subj	_	AlignBegin=171855|AlignEnd=172230|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	die	die	NOUN	_	_	3	comp:obj	_	AlignBegin=172230|AlignEnd=172605|GE=thing|Gloss=thing|nWord=2|RX=[N]
 3	chuad	chuad	VERB	_	_	4	comp:aux/m	_	AlignBegin=172605|AlignEnd=172793|GE=sell|Gloss=sell|nWord=3|RX=[VT]
-4	-u		AUX	_	_	_	_	_	AlignBegin=172793|AlignEnd=172980|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
+4	-u		AUX	_	_	0	root	_	AlignBegin=172793|AlignEnd=172980|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
 5	,		PUNCT	_	_	_	_	_	AlignBegin=172980|AlignEnd=173355|nWord=4
 6	cha	cha	PRON	_	_	8	subj	_	AlignBegin=173415|AlignEnd=173775|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
 7	die	die	NOUN	_	_	8	comp:obj	_	AlignBegin=173775|AlignEnd=174135|GE=thing|Gloss=thing|nWord=6|RX=[N]
 8	gik	gik	VERB	_	_	9	comp:aux/m	_	AlignBegin=174135|AlignEnd=174315|GE=buy|Gloss=buy|nWord=7|RX=[VT]
-9	-e		AUX	_	_	_	_	_	AlignBegin=174315|AlignEnd=174495|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
+9	-e		AUX	_	_	4	conj:coord	_	AlignBegin=174315|AlignEnd=174495|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
 10	,		PUNCT	_	_	_	_	_	AlignBegin=174495|AlignEnd=174855|nWord=8
-11	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=174950|AlignEnd=175246|GE=and|Gloss=and|Lang=es|nWord=9|RX=[COORDCONN]
+11	y	y	X	_	Foreign=Yes	15	cc	_	AlignBegin=174950|AlignEnd=175246|GE=and|Gloss=and|Lang=es|nWord=9|RX=[COORDCONN]
 12	cha	cha	PRON	_	_	14	subj	_	AlignBegin=175246|AlignEnd=175542|GE=[1SG]|Gloss=1SG|nWord=10|RX=[PRO]
 13	die	die	NOUN	_	_	14	comp:obj	_	AlignBegin=175542|AlignEnd=175838|GE=thing|Gloss=thing|nWord=11|RX=[N]
 14	chuad	chuad	VERB	_	_	15	comp:aux/m	_	AlignBegin=175838|AlignEnd=175986|GE=sell|Gloss=sell|nWord=12|RX=[VT]
-15	-u		AUX	_	_	_	_	_	AlignBegin=175986|AlignEnd=176134|GE=[PST]|Gloss=-PST|nWord=12|RX=[V:ANY]
+15	-u		AUX	_	_	9	conj:coord	_	AlignBegin=175986|AlignEnd=176134|GE=[PST]|Gloss=-PST|nWord=12|RX=[V:ANY]
 16	.		PUNCT	_	_	_	_	_	AlignBegin=176134|AlignEnd=176430|Gloss=.|nWord=13
 
 # sent_id = SAB-TXT-LS-00000-01_056-056
@@ -874,7 +874,7 @@
 9	chi	chi	VERB	_	_	10	comp:aux/m	_	AlignBegin=196275|AlignEnd=196400|GE=come|Gloss=come|nWord=8|RX=[VI]
 10	-e		AUX	_	_	_	_	_	AlignBegin=196400|AlignEnd=196525|GE=[THM]|Gloss=-THM|nWord=8|RX=[V:ANY]
 11	cha	cha	PRON	_	_	14	subj	_	AlignBegin=196525|AlignEnd=196775|GE=[1SG]|Gloss=1SG|nWord=9|RX=[PRO]
-12	waninke	waninke	ADV	_	_	_	_	_	AlignBegin=196775|AlignEnd=197025|GE=place_of|Gloss=place_of|nWord=10|RX=[ADV]
+12	waninke	waninke	ADP	_	_	_	_	_	AlignBegin=196775|AlignEnd=197025|GE=place_of|Gloss=place_of|nWord=10|RX=[ADV]
 13	koi	koi	NOUN	_	_	_	_	_	AlignBegin=197025|AlignEnd=197275|GE=chicken|Gloss=chicken|nWord=11|RX=[N]
 14	gik	gik	VERB	_	_	15	comp:aux/m	_	AlignBegin=197275|AlignEnd=197400|GE=buy|Gloss=buy|nWord=12|RX=[VT]
 15	-e		AUX	_	_	_	_	_	AlignBegin=197400|AlignEnd=197525|GE=[THM]|Gloss=-THM|nWord=12|RX=[V:ANY]
@@ -2069,7 +2069,7 @@
 4	daba	daba	NOUN	_	_	_	_	_	AlignBegin=457790|AlignEnd=458340|GE=brother|Gloss=brother|nWord=4|RX=[N]
 5	salebli	salebli	ADJ	_	_	4	mod	_	AlignBegin=458340|AlignEnd=458890|GE=different|Gloss=different|nWord=5|RX=[ADJ]
 6	una	una	NOUN	_	_	_	_	_	AlignBegin=458890|AlignEnd=459440|GE=city|Gloss=city|nWord=6|RX=[N]
-7	mung	mung	PART	_	_	_	_	_	AlignBegin=459440|AlignEnd=459990|GE=[REFL]|Gloss=REFL|nWord=7|RX=[VERBPRT]
+7	mung	mung	PRON	_	_	_	_	_	AlignBegin=459440|AlignEnd=459990|GE=[REFL]|Gloss=REFL|nWord=7|RX=[VERBPRT]
 8	chi	chi	VERB	_	_	9	comp:aux/m	_	AlignBegin=459990|AlignEnd=460265|GE=come|Gloss=come|nWord=8|RX=[VI]
 9	-u		AUX	_	_	_	_	_	AlignBegin=460265|AlignEnd=460540|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]
 10	gira	gira	NOUN	_	_	11	comp	_	AlignBegin=460540|AlignEnd=461090|GE=race|Gloss=race|nWord=9|RX=[N]

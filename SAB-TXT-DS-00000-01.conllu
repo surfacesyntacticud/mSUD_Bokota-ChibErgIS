@@ -618,7 +618,7 @@
 23	,		PUNCT	_	_	_	_	_	AlignBegin=164110|AlignEnd=164510|nWord=17
 24	che	che	PRON	_	_	27	subj	_	AlignBegin=164795|AlignEnd=165200|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=18|RX=[PRO]
 25	kle	kle	AUX	_	_	_	_	_	AlignBegin=165200|AlignEnd=165605|GE=be|Gloss=be|nWord=19|RX=[V]
-26	mung	mung	PART	_	_	_	_	_	AlignBegin=165605|AlignEnd=166010|GE=[REFL]|Gloss=REFL|nWord=20|RX=[VERBPRT]
+26	mung	mung	PRON	_	_	_	_	_	AlignBegin=165605|AlignEnd=166010|GE=[REFL]|Gloss=REFL|nWord=20|RX=[VERBPRT]
 27	gut	gut	VERB	_	_	28	comp:aux/m	_	AlignBegin=166010|AlignEnd=166212|GE=eat|Gloss=eat|nWord=21|RX=[VT]
 28	-e		AUX	_	_	25	comp:aux	_	AlignBegin=166212|AlignEnd=166415|GE=[THM]|Gloss=-THM|nWord=21|RX=[V:ANY]
 29	naskoni	naskoni	ADV	_	_	_	_	_	AlignBegin=166415|AlignEnd=166820|GE=back|Gloss=back|nWord=22|RX=[ADV]

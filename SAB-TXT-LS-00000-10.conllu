@@ -167,12 +167,12 @@
 2	cha	cha	PRON	_	_	3	udep:poss	_	AlignBegin=59480|AlignEnd=59800|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	oli	oli	NOUN	_	_	4	comp:aux/m	_	AlignBegin=59800|AlignEnd=59960|GE=descendant|Gloss=descendant|nWord=3|RX=[N]
 4	-a		AUX	_	_	_	_	_	AlignBegin=59960|AlignEnd=60120|GE=[POSS]|Gloss=-POSS|nWord=3|RX=[N:ANY]
-5	mun	mun	PART	_	_	6	comp:aux/m	_	AlignBegin=60120|AlignEnd=60280|GE=[REFL]|Gloss=REFL|nWord=4|RX=[VERBPRT]
+5	mun	mun	PRON	_	_	6	comp:aux/m	_	AlignBegin=60120|AlignEnd=60280|GE=[REFL]|Gloss=REFL|nWord=4|RX=[VERBPRT]
 6	-le		AUX	_	_	_	_	_	AlignBegin=60280|AlignEnd=60440|GE=[ADJZ]|Gloss=-ADJZ|nWord=4|RX=[N>ADJ]
 7	,		PUNCT	_	_	_	_	_	AlignBegin=60440|AlignEnd=60760|nWord=5
 8	kwia	kwia	NOUN	_	_	_	_	_	AlignBegin=61025|AlignEnd=61235|GE=people|Gloss=people|nWord=6|RX=[N]
 9	baka	baka	NOUN	_	_	_	_	_	AlignBegin=61235|AlignEnd=61445|GE=four|Gloss=four|nWord=6|RX=[N]
-10	mung	mung	PART	_	_	_	_	_	AlignBegin=61445|AlignEnd=61865|GE=[REFL]|Gloss=REFL|nWord=7|RX=[VERBPRT]
+10	mung	mung	PRON	_	_	_	_	_	AlignBegin=61445|AlignEnd=61865|GE=[REFL]|Gloss=REFL|nWord=7|RX=[VERBPRT]
 11	di	di	ADP	_	_	_	_	_	AlignBegin=61865|AlignEnd=62285|GE=[INST]|Gloss=INST|nWord=8|RX=[ADP]
 12	,		PUNCT	_	_	_	_	_	AlignBegin=62285|AlignEnd=62705|nWord=9
 13	kada	kada	NOUN	_	_	14	comp:aux/m	_	AlignBegin=62920|AlignEnd=63342|GE=name|Gloss=name|nWord=10|RX=[N]
@@ -245,7 +245,7 @@
 5	chk	chk	VERB	_	_	6	comp:aux/m	_	AlignBegin=80282|AlignEnd=80420|GE=arrive|Gloss=arrive|nWord=5|RX=[VI]
 6	-e		AUX	_	_	7	comp:aux/m	_	AlignBegin=80420|AlignEnd=80558|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	-bale		AUX	_	_	_	_	_	AlignBegin=80558|AlignEnd=80695|GE=[PART]|Gloss=-PART|nWord=5|RX=[V:ANY]
-8	mung	mung	PART	_	_	_	_	_	AlignBegin=80695|AlignEnd=81108|GE=[REFL]|Gloss=REFL|nWord=6|RX=[VERBPRT]
+8	mung	mung	PRON	_	_	_	_	_	AlignBegin=80695|AlignEnd=81108|GE=[REFL]|Gloss=REFL|nWord=6|RX=[VERBPRT]
 9	kira	kira	NOUN	_	_	10	comp:obj	_	AlignBegin=81108|AlignEnd=81521|GE=strenth|Gloss=strenth|nWord=7|RX=[N]
 10	bek	bek	VERB	_	_	11	comp:aux/m	_	AlignBegin=81521|AlignEnd=81727|GE=put|Gloss=put|nWord=8|RX=[V]
 11	-e		AUX	_	_	_	_	_	AlignBegin=81727|AlignEnd=81934|GE=[THM]|Gloss=-THM|nWord=8|RX=[V:ANY]

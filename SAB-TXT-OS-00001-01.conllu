@@ -393,8 +393,8 @@
 3	bita	bita	NOUN	_	_	4	subj	_	AlignBegin=120250|AlignEnd=120630|GE=piece|Gloss=piece|nWord=3|RX=[N]
 4	chek	chek	VERB	_	_	5	comp:aux/m	_	AlignBegin=120630|AlignEnd=120820|GE=stay|Gloss=stay|nWord=4|RX=[VI]
 5	-u		AUX	_	_	0	root	_	AlignBegin=120820|AlignEnd=121010|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
-6	ne	ne	DET	_	_	_	_	_	AlignBegin=121010|AlignEnd=121390|GE=that|Gloss=that|nWord=5|RX=[DET]
-7	waninke	waninke	ADV	_	_	_	_	_	AlignBegin=121390|AlignEnd=121770|GE=place_of|Gloss=place_of|nWord=6|RX=[ADV]
+6	ne	ne	DET	_	_	7	comp	_	AlignBegin=121010|AlignEnd=121390|GE=that|Gloss=that|nWord=5|RX=[DET]
+7	waninke	waninke	ADP	_	_	_	_	_	AlignBegin=121390|AlignEnd=121770|GE=place_of|Gloss=place_of|nWord=6|RX=[ADV]
 8	.		PUNCT	_	_	5	punct	_	AlignBegin=121770|AlignEnd=122150|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-OS-00001-01_26-26

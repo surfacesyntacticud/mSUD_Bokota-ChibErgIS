@@ -580,7 +580,7 @@
 14	toi	toi	VERB	_	_	_	_	_	AlignBegin=134560|AlignEnd=135176|GE=live|Gloss=live|nWord=12|RX=[VI]
 15	aini	aini	ADV	_	_	14	mod:lmod	_	AlignBegin=135176|AlignEnd=135792|GE=here|Gloss=here|nWord=13|RX=[ADV]
 16	cha	cha	PRON	_	_	_	_	_	AlignBegin=135792|AlignEnd=136408|GE=[1SG]|Gloss=1SG|nWord=14|RX=[PRO]
-17	waninke	waninke	ADV	_	_	_	_	_	AlignBegin=136408|AlignEnd=137024|GE=place_of|Gloss=place_of|nWord=15|RX=[ADV]
+17	waninke	waninke	ADP	_	_	_	_	_	AlignBegin=136408|AlignEnd=137024|GE=place_of|Gloss=place_of|nWord=15|RX=[ADV]
 18	,		PUNCT	_	_	_	_	_	AlignBegin=137024|AlignEnd=137640|nWord=16
 19	ama	ama	ADV	_	_	_	_	_	AlignBegin=138525|AlignEnd=138959|GE=so|Gloss=so|nWord=17|RX=[ADV]
 20	cha	cha	PRON	_	_	21	subj	_	AlignBegin=138959|AlignEnd=139393|GE=[1SG]|Gloss=1SG|nWord=18|RX=[PRO]

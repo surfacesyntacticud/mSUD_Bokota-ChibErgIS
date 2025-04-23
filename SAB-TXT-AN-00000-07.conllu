@@ -240,7 +240,7 @@
 # text_en = They fought with the Guaymis.
 # text_ortho = che mung dole wami ole .
 1	che	che	PRON	_	_	3	subj	_	AlignBegin=71455|AlignEnd=71730|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
-2	mung	mung	PART	_	_	3	comp:obj	_	AlignBegin=71730|AlignEnd=72005|GE=[REFL]|Gloss=REFL|nWord=2|RX=[VERBPRT]
+2	mung	mung	PRON	_	_	3	comp:obj	_	AlignBegin=71730|AlignEnd=72005|GE=[REFL]|Gloss=REFL|nWord=2|RX=[VERBPRT]
 3	dole	dole	VERB	_	_	0	root	_	AlignBegin=72005|AlignEnd=72280|GE=[fight].[NPST]|Gloss=fight.NPST|nWord=3|RX=[V]
 4	Wami	Wami	NOUN	_	_	5	comp	_	AlignBegin=72280|AlignEnd=72555|GE=[Guaymi]|Gloss=Guaymi|nWord=4|RX=[N]
 5	ole	ole	ADP	_	_	3	comp:obl	_	AlignBegin=72555|AlignEnd=72830|GE=[COM]|Gloss=COM|nWord=5|RX=[ADP]
@@ -255,7 +255,7 @@
 # text_en = The Guaymis fought with them.
 # text_ortho = wami mung dole che ole .
 1	Wami	Wami	NOUN	_	_	3	subj	_	AlignBegin=73240|AlignEnd=73455|GE=[Guaymi]|Gloss=Guaymi|nWord=1|RX=[N]
-2	mung	mung	PART	_	_	3	comp:obj	_	AlignBegin=73455|AlignEnd=73670|GE=[REFL]|Gloss=REFL|nWord=2|RX=[VERBPRT]
+2	mung	mung	PRON	_	_	3	comp:obj	_	AlignBegin=73455|AlignEnd=73670|GE=[REFL]|Gloss=REFL|nWord=2|RX=[VERBPRT]
 3	dole	dole	VERB	_	_	0	root	_	AlignBegin=73670|AlignEnd=73885|GE=[fight].[NPST]|Gloss=fight.NPST|nWord=3|RX=[V]
 4	che	che	PRON	_	_	5	comp	_	AlignBegin=73885|AlignEnd=74100|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=4|RX=[PRO]
 5	ole	ole	ADP	_	_	3	comp:obl	_	AlignBegin=74100|AlignEnd=74315|GE=[COM]|Gloss=COM|nWord=5|RX=[ADP]

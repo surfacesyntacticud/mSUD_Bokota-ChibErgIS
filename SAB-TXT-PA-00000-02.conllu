@@ -242,7 +242,7 @@
 9	,		PUNCT	_	_	_	_	_	AlignBegin=73621|AlignEnd=73985|nWord=8
 10	daba	daba	NOUN	_	_	_	_	_	AlignBegin=73985|AlignEnd=74468|GE=brother|Gloss=brother|nWord=9|RX=[N]
 11	sale	sale	ADJ	_	_	10	mod	_	AlignBegin=74468|AlignEnd=74951|GE=different|Gloss=different|nWord=10|RX=[ADJ]
-12	mung	mung	PART	_	_	_	_	_	AlignBegin=74951|AlignEnd=75434|GE=[REFL]|Gloss=REFL|nWord=11|RX=[VERBPRT]
+12	mung	mung	PRON	_	_	_	_	_	AlignBegin=74951|AlignEnd=75434|GE=[REFL]|Gloss=REFL|nWord=11|RX=[VERBPRT]
 13	bitaia	bitaia	NOUN	_	_	14	comp	_	AlignBegin=75434|AlignEnd=75917|GE=family|Gloss=family|nWord=12|RX=[N]
 14	dike	dike	ADP	_	_	7	comp:obl	_	AlignBegin=75917|AlignEnd=76400|GE=[INST]|Gloss=INST|nWord=13|RX=[ADP]
 15	,		PUNCT	_	_	_	_	_	AlignBegin=76400|AlignEnd=76885|nWord=14

@@ -52,7 +52,7 @@
 2	cha	cha	PRON	_	_	3	subj	_	AlignBegin=29298|AlignEnd=29656|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	dod	dod	VERB	_	_	4	comp:aux/m	_	AlignBegin=29656|AlignEnd=29835|GE=fight|Gloss=fight|nWord=3|RX=[VI]
 4	-u		AUX	_	_	0	root	_	AlignBegin=29835|AlignEnd=30014|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
-5	mung	mung	PART	_	_	_	_	_	AlignBegin=30014|AlignEnd=30372|GE=[REFL]|Gloss=REFL|nWord=4|RX=[VERBPRT]
+5	mung	mung	PRON	_	_	_	_	_	AlignBegin=30014|AlignEnd=30372|GE=[REFL]|Gloss=REFL|nWord=4|RX=[VERBPRT]
 6	giti	giti	ADP	_	_	_	_	_	AlignBegin=30372|AlignEnd=30730|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
 7	.		PUNCT	_	_	4	punct	_	AlignBegin=30730|AlignEnd=31090|Gloss=.|nWord=6
 
@@ -67,7 +67,7 @@
 1	cha	cha	PRON	_	_	2	subj	_	AlignBegin=32020|AlignEnd=32350|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	dod	dod	VERB	_	_	3	comp:aux/m	_	AlignBegin=32350|AlignEnd=32515|GE=fight|Gloss=fight|nWord=2|RX=[VI]
 3	-u		AUX	_	_	_	_	_	AlignBegin=32515|AlignEnd=32680|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-4	mung	mung	PART	_	_	_	_	_	AlignBegin=32680|AlignEnd=33010|GE=[REFL]|Gloss=REFL|nWord=3|RX=[VERBPRT]
+4	mung	mung	PRON	_	_	_	_	_	AlignBegin=32680|AlignEnd=33010|GE=[REFL]|Gloss=REFL|nWord=3|RX=[VERBPRT]
 5	giti	giti	ADP	_	_	_	_	_	AlignBegin=33010|AlignEnd=33340|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
 6	,		PUNCT	_	_	_	_	_	AlignBegin=33340|AlignEnd=33670|nWord=5
 7	cha	cha	PRON	_	_	10	subj	_	AlignBegin=33810|AlignEnd=34167|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
@@ -268,7 +268,7 @@
 1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=96030|AlignEnd=96681|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	_	_	_	AlignBegin=96681|AlignEnd=97332|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	kle	kle	AUX	_	_	_	_	_	AlignBegin=97332|AlignEnd=97983|GE=be|Gloss=be|nWord=3|RX=[V]
-4	mung	mung	PART	_	_	_	_	_	AlignBegin=97983|AlignEnd=98634|GE=[REFL]|Gloss=REFL|nWord=4|RX=[VERBPRT]
+4	mung	mung	PRON	_	_	_	_	_	AlignBegin=97983|AlignEnd=98634|GE=[REFL]|Gloss=REFL|nWord=4|RX=[VERBPRT]
 5	gerea	gerea	NOUN	_	_	_	_	_	AlignBegin=98634|AlignEnd=99285|GE=people|Gloss=people|nWord=5|RX=[N]
 6	gudiade	gudiade	NOUN	_	_	_	_	_	AlignBegin=99285|AlignEnd=99936|GE=singer|Gloss=singer|nWord=6|RX=[N]
 7	,		PUNCT	_	_	_	_	_	AlignBegin=99936|AlignEnd=100590|nWord=7

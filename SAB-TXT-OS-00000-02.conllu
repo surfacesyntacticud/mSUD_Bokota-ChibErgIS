@@ -188,7 +188,7 @@
 5	trak	trak	VERB	_	_	6	comp:aux/m	_	AlignBegin=47586|AlignEnd=47718|GE=tell|Gloss=tell|nWord=5|RX=[V]
 6	-e		AUX	_	_	_	_	_	AlignBegin=47718|AlignEnd=47850|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	iani	iani	ADV	_	_	_	_	_	AlignBegin=47850|AlignEnd=48114|GE=there|Gloss=there|nWord=6|RX=[ADV]
-8	mung	mung	PART	_	_	_	_	_	AlignBegin=48114|AlignEnd=48378|GE=[REFL]|Gloss=REFL|nWord=7|RX=[VERBPRT]
+8	mung	mung	PRON	_	_	_	_	_	AlignBegin=48114|AlignEnd=48378|GE=[REFL]|Gloss=REFL|nWord=7|RX=[VERBPRT]
 9	bitaia	bitaia	NOUN	_	_	10	comp	_	AlignBegin=48378|AlignEnd=48642|GE=family|Gloss=family|nWord=8|RX=[N]
 10	ole	ole	ADP	_	_	5	comp:obl	_	AlignBegin=48642|AlignEnd=48906|GE=[COM]|Gloss=COM|nWord=9|RX=[ADP]
 11	,		PUNCT	_	_	_	_	_	AlignBegin=48906|AlignEnd=49170|nWord=10
@@ -560,7 +560,7 @@
 9	,		PUNCT	_	_	_	_	_	AlignBegin=137710|AlignEnd=138160|nWord=6
 10	cha	cha	PRON	_	_	13	subj	_	AlignBegin=138175|AlignEnd=138372|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
 11	kle	kle	AUX	_	_	_	_	_	AlignBegin=138372|AlignEnd=138569|GE=be|Gloss=be|nWord=8|RX=[V]
-12	mung	mung	PART	_	_	_	_	_	AlignBegin=138569|AlignEnd=138766|GE=[REFL]|Gloss=REFL|nWord=9|RX=[VERBPRT]
+12	mung	mung	PRON	_	_	_	_	_	AlignBegin=138569|AlignEnd=138766|GE=[REFL]|Gloss=REFL|nWord=9|RX=[VERBPRT]
 13	gai	gai	VERB	_	_	14	comp:aux/m	_	AlignBegin=138766|AlignEnd=138832|GE=pick_up|Gloss=pick_up|nWord=10|RX=[VT]
 14	-d-		AUX	_	_	15	comp:aux/m	_	AlignBegin=138832|AlignEnd=138898|GE=[0]|Gloss=-0-|nWord=10|RX=[VERB]
 15	-a		AUX	_	_	11	comp:aux	_	AlignBegin=138898|AlignEnd=138963|GE=[0]|Gloss=-0|nWord=10|RX=[VERB]
@@ -665,7 +665,7 @@
 18	,		PUNCT	_	_	_	_	_	AlignBegin=156940|AlignEnd=157340|nWord=13
 19	cha	cha	PRON	_	_	22	subj	_	AlignBegin=157360|AlignEnd=157573|GE=[1SG]|Gloss=1SG|nWord=14|RX=[PRO]
 20	kle	kle	AUX	_	_	_	_	_	AlignBegin=157573|AlignEnd=157786|GE=be|Gloss=be|nWord=15|RX=[V]
-21	mung	mung	PART	_	_	22	compound	_	AlignBegin=157786|AlignEnd=157999|GE=[REFL]|Gloss=REFL|nWord=16|RX=[VERBPRT]
+21	mung	mung	PRON	_	_	22	compound	_	AlignBegin=157786|AlignEnd=157999|GE=[REFL]|Gloss=REFL|nWord=16|RX=[VERBPRT]
 22	gai	gai	VERB	_	_	20	comp:aux	_	AlignBegin=157999|AlignEnd=158212|GE=pick_up|Gloss=pick_up|nWord=17|RX=[VT]
 23	ole	ole	ADP	_	_	22	compound@part	_	AlignBegin=158212|AlignEnd=158425|GE=[COM]|Gloss=COM|nWord=18|RX=[ADP]
 24	.		PUNCT	_	_	_	_	_	AlignBegin=158425|AlignEnd=158640|Gloss=.|nWord=19
@@ -740,7 +740,7 @@
 11	-nga		AUX	_	_	_	_	_	AlignBegin=170530|AlignEnd=170621|GE=[SUB]|Gloss=-SUB|nWord=6|RX=[V:ANY]
 12	,		PUNCT	_	_	_	_	_	AlignBegin=170621|AlignEnd=170895|nWord=7
 13	ba	ba	PRON	_	_	15	subj	_	AlignBegin=170920|AlignEnd=171138|GE=[2SG]|Gloss=2SG|nWord=8|RX=[PRO]
-14	mung	mung	PART	_	_	_	_	_	AlignBegin=171138|AlignEnd=171356|GE=[REFL]|Gloss=REFL|nWord=9|RX=[VERBPRT]
+14	mung	mung	PRON	_	_	_	_	_	AlignBegin=171138|AlignEnd=171356|GE=[REFL]|Gloss=REFL|nWord=9|RX=[VERBPRT]
 15	gai	gai	VERB	_	_	16	comp:aux/m	_	AlignBegin=171356|AlignEnd=171429|GE=pick_up|Gloss=pick_up|nWord=10|RX=[VT]
 16	-d-		AUX	_	_	17	comp:aux/m	_	AlignBegin=171429|AlignEnd=171502|GE=[0]|Gloss=-0-|nWord=10|RX=[VERB]
 17	-a		AUX	_	_	_	_	_	AlignBegin=171502|AlignEnd=171574|GE=[PASS]|Gloss=-PASS|nWord=10|RX=[V:ANY]
@@ -1143,7 +1143,7 @@
 1	gire	gire	ADV	_	_	_	_	_	AlignBegin=227405|AlignEnd=227827|GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	kwia	kwia	NOUN	_	_	_	_	_	AlignBegin=227827|AlignEnd=228249|GE=people|Gloss=people|nWord=2|RX=[N]
 3	batre	batre	ADV	_	_	_	_	_	AlignBegin=228249|AlignEnd=228671|GE=a_lot|Gloss=a_lot|nWord=3|RX=[ADV]
-4	mung	mung	PART	_	_	_	_	_	AlignBegin=228671|AlignEnd=229093|GE=[REFL]|Gloss=REFL|nWord=4|RX=[VERBPRT]
+4	mung	mung	PRON	_	_	_	_	_	AlignBegin=228671|AlignEnd=229093|GE=[REFL]|Gloss=REFL|nWord=4|RX=[VERBPRT]
 5	fui	fui	PART	_	_	6	comp:aux/m	_	AlignBegin=229093|AlignEnd=229234|GE=loc.origin|Gloss=loc.origin|nWord=5|RX=[VERBPRT]
 6	-a		AUX	_	_	7	comp:aux/m	_	AlignBegin=229234|AlignEnd=229375|GE=[0]|Gloss=-0|nWord=5|RX=[VERB]
 7	-le		AUX	_	_	_	_	_	AlignBegin=229375|AlignEnd=229515|GE=[ADJZ]|Gloss=-ADJZ|nWord=5|RX=[N>ADJ]

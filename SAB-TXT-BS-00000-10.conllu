@@ -12,7 +12,7 @@
 4	sabe	sabe	VERB	_	_	3	comp:aux	_	AlignBegin=7367|AlignEnd=7811|GE=know|Gloss=know|nWord=4|RX=[V]
 5	cha	cha	PRON	_	_	8	subj	_	AlignBegin=7811|AlignEnd=8255|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
 6	kle	kle	AUX	_	_	_	_	_	AlignBegin=8255|AlignEnd=8699|GE=be|Gloss=be|nWord=6|RX=[V]
-7	mung	mung	PART	_	_	_	_	_	AlignBegin=8699|AlignEnd=9143|GE=[REFL]|Gloss=REFL|nWord=7|RX=[VERBPRT]
+7	mung	mung	PRON	_	_	_	_	_	AlignBegin=8699|AlignEnd=9143|GE=[REFL]|Gloss=REFL|nWord=7|RX=[VERBPRT]
 8	gai	gai	VERB	_	_	6	comp:aux	_	AlignBegin=9143|AlignEnd=9587|GE=pick_up|Gloss=pick_up|nWord=8|RX=[VT]
 9	cocinera	cocinera	NOUN	_	_	10	comp	_	AlignBegin=9587|AlignEnd=10031|GE=wife|Gloss=wife|nWord=9|RX=[N]
 10	ole	ole	ADP	_	_	8	comp:obl	_	AlignBegin=10031|AlignEnd=10475|GE=[COM]|Gloss=COM|nWord=10|RX=[ADP]

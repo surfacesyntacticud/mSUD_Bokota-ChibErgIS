@@ -106,7 +106,7 @@
 9	cha	cha	PRON	_	_	10	comp:obj	_	AlignBegin=39232|AlignEnd=39554|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
 10	du	dwe	VERB	_	_	6	conj:coord	_	AlignBegin=39554|AlignEnd=39876|GE=[carry].[PST]|Gloss=carry.PST|nWord=8|RX=[VT]
 11	maungia	maungia	PRON	_	_	12	comp	_	AlignBegin=39876|AlignEnd=40198|GE=[3SG]|Gloss=3SG|nWord=9|RX=[PRO]
-12	waninke	waninke	ADV	_	_	10	comp:obl	_	AlignBegin=40198|AlignEnd=40520|GE=place_of|Gloss=place_of|nWord=10|RX=[ADV]
+12	waninke	waninke	ADP	_	_	10	comp:obl	_	AlignBegin=40198|AlignEnd=40520|GE=place_of|Gloss=place_of|nWord=10|RX=[ADV]
 13	.		PUNCT	_	_	6	punct	_	AlignBegin=40520|AlignEnd=40840|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-LS-00000-04_08-09
@@ -121,7 +121,7 @@
 2	chek	chek	VERB	_	_	3	comp:aux/m	_	AlignBegin=41600|AlignEnd=41770|GE=stay|Gloss=stay|nWord=2|RX=[VI]
 3	-u		AUX	_	_	_	_	_	AlignBegin=41770|AlignEnd=41940|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	cheigda	cheigda	NOUN	_	_	5	comp	_	AlignBegin=41940|AlignEnd=42280|GE=aunt|Gloss=aunt|nWord=3|RX=[N]
-5	waninke	waninke	ADV	_	_	2	comp:obl	_	AlignBegin=42280|AlignEnd=42620|GE=place_of|Gloss=place_of|nWord=4|RX=[ADV]
+5	waninke	waninke	ADP	_	_	2	comp:obl	_	AlignBegin=42280|AlignEnd=42620|GE=place_of|Gloss=place_of|nWord=4|RX=[ADV]
 6	,		PUNCT	_	_	_	_	_	AlignBegin=42620|AlignEnd=42960|nWord=5
 7	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=43005|AlignEnd=43325|GE=so|Gloss=so|Lang=es|nWord=6|RX=[ADV]
 8	cheigda	cheigda	NOUN	_	_	11	subj	_	AlignBegin=43325|AlignEnd=43645|GE=aunt|Gloss=aunt|nWord=7|RX=[N]
@@ -194,7 +194,7 @@
 9	cha	cha	PRON	_	_	10	comp:obj	_	AlignBegin=56474|AlignEnd=56911|GE=[1SG]|Gloss=1SG|nWord=9|RX=[PRO]
 10	du	dwe	VERB	_	_	3	conj:coord	_	AlignBegin=56911|AlignEnd=57348|GE=[carry].[PST]|Gloss=carry.PST|nWord=10|RX=[VT]
 11	nienugda	nienugda	NOUN	_	_	12	comp	_	AlignBegin=57348|AlignEnd=57785|GE=stepfather|Gloss=stepfather|nWord=11|RX=[N]
-12	waninke	waninke	ADV	_	_	10	comp:obl	_	AlignBegin=57785|AlignEnd=58222|GE=place_of|Gloss=place_of|nWord=12|RX=[ADV]
+12	waninke	waninke	ADP	_	_	10	comp:obl	_	AlignBegin=57785|AlignEnd=58222|GE=place_of|Gloss=place_of|nWord=12|RX=[ADV]
 13	.		PUNCT	_	_	3	punct	_	AlignBegin=58222|AlignEnd=58660|Gloss=.|nWord=13
 
 # sent_id = SAB-TXT-LS-00000-04_16-17
@@ -309,7 +309,7 @@
 25	chk	chk	VERB	_	_	26	comp:aux/m	_	AlignBegin=77237|AlignEnd=77385|GE=arrive|Gloss=arrive|nWord=21|RX=[VI]
 26	-u		AUX	_	_	_	_	_	AlignBegin=77385|AlignEnd=77534|GE=[PST]|Gloss=-PST|nWord=21|RX=[V:ANY]
 27	aini	aini	ADV	_	_	25	mod:lmod	_	AlignBegin=77534|AlignEnd=77831|GE=here|Gloss=here|nWord=22|RX=[ADV]
-28	mung	mung	PART	_	_	_	_	_	AlignBegin=77831|AlignEnd=78128|GE=[REFL]|Gloss=REFL|nWord=23|RX=[VERBPRT]
+28	mung	mung	PRON	_	_	_	_	_	AlignBegin=77831|AlignEnd=78128|GE=[REFL]|Gloss=REFL|nWord=23|RX=[VERBPRT]
 29	bitaia	bitaia	NOUN	_	_	30	comp	_	AlignBegin=78128|AlignEnd=78425|GE=family|Gloss=family|nWord=24|RX=[N]
 30	ske	ske	ADP	_	_	25	comp:obl	_	AlignBegin=78425|AlignEnd=78722|GE=with|Gloss=with|nWord=25|RX=[ADP]
 31	.		PUNCT	_	_	_	_	_	AlignBegin=78722|AlignEnd=79020|Gloss=.|nWord=26

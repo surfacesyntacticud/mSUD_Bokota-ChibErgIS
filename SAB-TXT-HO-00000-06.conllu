@@ -178,7 +178,7 @@
 3	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=27821|AlignEnd=28129|GE=now|Gloss=now|Lang=es|nWord=3|RX=[ADV]
 4	gli	gli	NOUN	_	_	_	_	_	AlignBegin=28129|AlignEnd=28437|GE=tree|Gloss=tree|nWord=4|RX=[N]
 5	ese	ese	DET	_	_	4	mod	_	AlignBegin=28437|AlignEnd=28745|GE=that|Gloss=that|nWord=5|RX=[DET]
-6	se	se	PART	_	_	_	_	_	AlignBegin=28745|AlignEnd=29053|GE=[REFL]|Gloss=REFL|nWord=6|RX=[VERBPRT]
+6	se	se	PRON	_	_	_	_	_	AlignBegin=28745|AlignEnd=29053|GE=[REFL]|Gloss=REFL|nWord=6|RX=[VERBPRT]
 7	hu	hue	VERB	_	_	8	comp:aux/m	_	AlignBegin=29053|AlignEnd=29156|GE=[find].[PST]|Gloss=find.PST|nWord=7|RX=[VT]
 8	-a		AUX	_	_	9	comp:aux/m	_	AlignBegin=29156|AlignEnd=29259|GE=[PASS]|Gloss=-PASS|nWord=7|RX=[V:ANY]
 9	-le		AUX	_	_	_	_	_	AlignBegin=29259|AlignEnd=29361|GE=[ADJZ]|Gloss=-ADJZ|nWord=7|RX=[N>ADJ]
@@ -199,7 +199,7 @@
 # text_ortho = asi mismo se bliadale bu huale kwian baka .
 1	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=37880|AlignEnd=38051|GE=like_that|Gloss=like_that|Lang=es|nWord=1|RX=[ADV]
 2	mismo	mismo	ADV	_	Foreign=Yes	_	_	_	AlignBegin=38051|AlignEnd=38222|GE=as_well|Gloss=as_well|Lang=es|nWord=2|RX=[ADV]
-3	se	se	PART	_	_	_	_	_	AlignBegin=38222|AlignEnd=38393|GE=[REFL]|Gloss=REFL|nWord=3|RX=[VERBPRT]
+3	se	se	PRON	_	_	_	_	_	AlignBegin=38222|AlignEnd=38393|GE=[REFL]|Gloss=REFL|nWord=3|RX=[VERBPRT]
 4	bli	bli	VERB	_	_	5	comp:aux/m	_	AlignBegin=38393|AlignEnd=38450|GE=dress|Gloss=dress|nWord=4|RX=[V]
 5	-a		AUX	_	_	6	comp:aux/m	_	AlignBegin=38450|AlignEnd=38507|GE=[PASS]|Gloss=-PASS|nWord=4|RX=[V:ANY]
 6	-dale		AUX	_	_	_	_	_	AlignBegin=38507|AlignEnd=38564|GE=[IRR]|Gloss=-IRR|nWord=4|RX=[V:ANY]

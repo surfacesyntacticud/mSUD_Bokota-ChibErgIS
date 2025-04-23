@@ -529,7 +529,7 @@
 1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=108765|AlignEnd=109133|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
 2	che	che	PRON	_	_	3	det:poss	_	AlignBegin=109133|AlignEnd=109501|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
 3	doia	doia	NOUN	_	_	_	_	_	AlignBegin=109501|AlignEnd=109869|GE=enemy|Gloss=enemy|nWord=3|RX=[N]
-4	mung	mung	PART	_	_	_	_	_	AlignBegin=109869|AlignEnd=110237|GE=[REFL]|Gloss=REFL|nWord=4|RX=[VERBPRT]
+4	mung	mung	PRON	_	_	_	_	_	AlignBegin=109869|AlignEnd=110237|GE=[REFL]|Gloss=REFL|nWord=4|RX=[VERBPRT]
 5	chuk	chuk	VERB	_	_	6	comp:aux/m	_	AlignBegin=110237|AlignEnd=110421|GE=stay_awake|Gloss=stay_awake|nWord=5|RX=[V]
 6	-u		AUX	_	_	0	root	_	AlignBegin=110421|AlignEnd=110605|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]
 7	maungia	maungia	PRON	_	_	8	udep:poss	_	AlignBegin=110605|AlignEnd=110973|GE=[3SG]|Gloss=3SG|nWord=6|RX=[PRO]

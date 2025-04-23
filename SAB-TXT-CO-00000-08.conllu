@@ -55,11 +55,11 @@
 # text_en = Then I hand pluck (the chicken) outside.
 # text_ortho = despues cha kle ko huke ngasuke .
 1	despues	despues	ADV	_	_	5	mod	_	AlignBegin=23600|AlignEnd=23887|GE=then|Gloss=then|nWord=1|RX=[ADV]
-2	cha	cha	PRON	_	_	6	subj	_	AlignBegin=23887|AlignEnd=24174|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
-3	kle	kle	AUX	_	_	6	comp:aux/m	_	AlignBegin=24174|AlignEnd=24461|GE=be|Gloss=be|nWord=3|RX=[V]
+2	cha	cha	PRON	_	_	5	subj	_	AlignBegin=23887|AlignEnd=24174|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	kle	kle	AUX	_	_	0	root	_	AlignBegin=24174|AlignEnd=24461|GE=be|Gloss=be|nWord=3|RX=[V]
 4	ko	ko	NOUN	_	_	5	comp:obj	_	AlignBegin=24461|AlignEnd=24748|GE=hand|Gloss=hand|nWord=4|RX=[N]
 5	huk	huk	VERB	_	_	6	comp:aux/m	_	AlignBegin=24748|AlignEnd=24892|GE=pluck|Gloss=pluck|nWord=5|RX=[V]
-6	-e		AUX	_	_	0	root	_	AlignBegin=24892|AlignEnd=25035|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+6	-e		AUX	_	_	3	comp:aux	_	AlignBegin=24892|AlignEnd=25035|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	ngasuke	ngasuke	ADV	_	_	5	mod:lmod	_	AlignBegin=25035|AlignEnd=25322|GE=outside|Gloss=outside|nWord=6|RX=[ADV]
 8	.		PUNCT	_	_	6	punct	_	AlignBegin=25322|AlignEnd=25610|Gloss=.|nWord=7
 

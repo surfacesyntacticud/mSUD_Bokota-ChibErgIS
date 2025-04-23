@@ -70,8 +70,8 @@
 3	ske	ske	ADP	_	_	1	mod:lmod	_	AlignBegin=18684|AlignEnd=18843|GE=[LOC]|Gloss=LOC|nWord=2|RX=[ADP]
 4	cha	cha	PRON	_	_	8	subj	_	AlignBegin=18843|AlignEnd=19162|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
 5	kle	kle	AUX	_	_	0	root	_	AlignBegin=19162|AlignEnd=19481|GE=be|Gloss=be|nWord=4|RX=[V]
-6	ute	ute	_	_	_	8	conj:dicto	_	AlignBegin=19481|AlignEnd=19800|nWord=5
-7	rokli	rokli	NOUN	_	_	8	comp:obj@fixed	_	AlignBegin=19800|AlignEnd=20119|GE=weapon|Gloss=weapon|nWord=6|RX=[N]
+6	ute	ute	X	_	_	8	conj:dicto	_	AlignBegin=19481|AlignEnd=19800|nWord=5
+7	rokli	rokli	NOUN	_	_	8	udep	_	AlignBegin=19800|AlignEnd=20119|GE=weapon|Gloss=weapon|nWord=6|RX=[N]
 8	ski	ski	VERB	_	_	9	comp:aux/m	_	AlignBegin=20119|AlignEnd=20279|GE=shoot|Gloss=shoot|nWord=7|RX=[VT]
 9	-e		AUX	_	_	5	comp:aux	_	AlignBegin=20279|AlignEnd=20438|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
 10	roklita	roklita	NOUN	_	_	11	comp	_	AlignBegin=20438|AlignEnd=20757|GE=weapon|Gloss=weapon|nWord=8|RX=[N]
