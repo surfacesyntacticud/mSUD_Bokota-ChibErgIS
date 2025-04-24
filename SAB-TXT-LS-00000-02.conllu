@@ -41,9 +41,9 @@
 3	-u		AUX	_	_	_	_	_	AlignBegin=21694|AlignEnd=21913|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	toi	toi	VERB	_	_	_	_	_	AlignBegin=21913|AlignEnd=22352|GE=live|Gloss=live|nWord=3|RX=[VI]
 5	oli	oli	NOUN	_	_	6	comp:aux/m	_	AlignBegin=22352|AlignEnd=22572|GE=orphan|Gloss=orphan|nWord=4|RX=[N]
-6	-re		AUX	_	_	_	_	_	AlignBegin=22572|AlignEnd=22791|GE=[ADJZ]|Gloss=-ADJZ|nWord=4|RX=[N>ADJ]
+6	-re		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=22572|AlignEnd=22791|GE=[ADJZ]|Gloss=-ADJZ|nWord=4|RX=[N>ADJ]
 7	kwia	kwia	NOUN	_	_	8	comp:aux/m	_	AlignBegin=22791|AlignEnd=23011|GE=people|Gloss=people|nWord=5|RX=[N]
-8	-le		AUX	_	_	_	_	_	AlignBegin=23011|AlignEnd=23230|GE=[ADJZ]|Gloss=-ADJZ|nWord=5|RX=[N>ADJ]
+8	-le		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=23011|AlignEnd=23230|GE=[ADJZ]|Gloss=-ADJZ|nWord=5|RX=[N>ADJ]
 9	gligdo	gligdo	NOUN	_	_	10	comp	_	AlignBegin=23230|AlignEnd=23669|GE=tree_foot|Gloss=tree_foot|nWord=6|RX=[N]
 10	ke	ke	ADP	_	_	4	comp:obl	_	AlignBegin=23669|AlignEnd=24108|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
 11	.		PUNCT	_	_	_	_	_	AlignBegin=24108|AlignEnd=24545|Gloss=.|nWord=8
@@ -149,7 +149,7 @@
 4	manan	manan	VERB	_	_	5	comp:aux/m	_	AlignBegin=40762|AlignEnd=41104|GE=take_care|Gloss=take_care|nWord=4|RX=[V]
 5	-u		AUX	_	_	0	root	_	AlignBegin=41104|AlignEnd=41446|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
 6	dake	dake	NOUN	_	_	7	comp:aux/m	_	AlignBegin=41446|AlignEnd=41788|GE=pain|Gloss=pain|nWord=5|RX=[N]
-7	-are		AUX	_	_	_	_	_	AlignBegin=41788|AlignEnd=42130|GE=[ADJZ]|Gloss=-ADJZ|nWord=5|RX=[N>ADJ]
+7	-are		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=41788|AlignEnd=42130|GE=[ADJZ]|Gloss=-ADJZ|nWord=5|RX=[N>ADJ]
 8	mung	mung	PRON	_	_	_	_	_	AlignBegin=42130|AlignEnd=42814|GE=[REFL]|Gloss=REFL|nWord=6|RX=[VERBPRT]
 9	dike	dike	ADP	_	_	_	_	_	AlignBegin=42814|AlignEnd=43498|GE=[INST]|Gloss=INST|nWord=7|RX=[ADP]
 10	.		PUNCT	_	_	5	punct	_	AlignBegin=43498|AlignEnd=44180|Gloss=.|nWord=8

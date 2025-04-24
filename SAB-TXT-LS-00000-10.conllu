@@ -71,7 +71,7 @@
 5	tik	tik	VERB	_	_	6	comp:aux/m	_	AlignBegin=32233|AlignEnd=32489|GE=grow|Gloss=grow|nWord=4|RX=[V]
 6	-e		AUX	_	_	_	_	_	AlignBegin=32489|AlignEnd=32744|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 7	huma	huma	ADJ	_	_	8	comp:aux/m	_	AlignBegin=32744|AlignEnd=33000|GE=old|Gloss=old|nWord=5|RX=[ADJ]
-8	-le		AUX	_	_	_	_	_	AlignBegin=33000|AlignEnd=33255|GE=[ADJZ]|Gloss=-ADJZ|nWord=5|RX=[N>ADJ]
+8	-le		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=33000|AlignEnd=33255|GE=[ADJZ]|Gloss=-ADJZ|nWord=5|RX=[N>ADJ]
 9	,		PUNCT	_	_	_	_	_	AlignBegin=33255|AlignEnd=33765|nWord=6
 10	hasta	hasta	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=33765|AlignEnd=34404|GE=to|Gloss=to|Lang=es|nWord=7|RX=[ADP]
 11	que	que	X	_	Foreign=Yes	10	compound	_	AlignBegin=34404|AlignEnd=35043|GE=that|Gloss=that|Lang=es|nWord=8|RX=[PRO]
@@ -168,7 +168,7 @@
 3	oli	oli	NOUN	_	_	4	comp:aux/m	_	AlignBegin=59800|AlignEnd=59960|GE=descendant|Gloss=descendant|nWord=3|RX=[N]
 4	-a		AUX	_	_	_	_	_	AlignBegin=59960|AlignEnd=60120|GE=[POSS]|Gloss=-POSS|nWord=3|RX=[N:ANY]
 5	mun	mun	PRON	_	_	6	comp:aux/m	_	AlignBegin=60120|AlignEnd=60280|GE=[REFL]|Gloss=REFL|nWord=4|RX=[VERBPRT]
-6	-le		AUX	_	_	_	_	_	AlignBegin=60280|AlignEnd=60440|GE=[ADJZ]|Gloss=-ADJZ|nWord=4|RX=[N>ADJ]
+6	-le		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=60280|AlignEnd=60440|GE=[ADJZ]|Gloss=-ADJZ|nWord=4|RX=[N>ADJ]
 7	,		PUNCT	_	_	_	_	_	AlignBegin=60440|AlignEnd=60760|nWord=5
 8	kwia	kwia	NOUN	_	_	_	_	_	AlignBegin=61025|AlignEnd=61235|GE=people|Gloss=people|nWord=6|RX=[N]
 9	baka	baka	NOUN	_	_	_	_	_	AlignBegin=61235|AlignEnd=61445|GE=four|Gloss=four|nWord=6|RX=[N]
@@ -318,8 +318,7 @@
 27	daba	daba	NOUN	_	_	29	comp	_	AlignBegin=95781|AlignEnd=96160|GE=brother|Gloss=brother|nWord=26|RX=[N]
 28	salebli	salebli	ADJ	_	_	27	mod	_	AlignBegin=96160|AlignEnd=96539|GE=different|Gloss=different|nWord=27|RX=[ADJ]
 29	ole	ole	ADP	_	_	26	comp:obl	_	AlignBegin=96539|AlignEnd=96918|GE=[COM]|Gloss=COM|nWord=28|RX=[ADP]
-30	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=96918|AlignEnd=97108|GE=child|Gloss=child|nWord=29|RX=[N]
-31	gwa	gwa	_	_	_	_	_	_	AlignBegin=97108|AlignEnd=97297|nWord=29
-32	ole	ole	ADP	_	_	_	_	_	AlignBegin=97297|AlignEnd=97676|GE=[COM]|Gloss=COM|nWord=30|RX=[ADP]
-33	.		PUNCT	_	_	_	_	_	AlignBegin=97676|AlignEnd=98055|Gloss=.|nWord=31
+30	kirogwa	kiro	NOUN	_	_	31	comp	_	AlignBegin=96918|AlignEnd=97297|GE=child|Gloss=child|nWord=29|RX=[N]
+31	ole	ole	ADP	_	_	26	comp:obl	_	AlignBegin=97297|AlignEnd=97676|GE=[COM]|Gloss=COM|nWord=30|RX=[ADP]
+32	.		PUNCT	_	_	_	_	_	AlignBegin=97676|AlignEnd=98055|Gloss=.|nWord=31
 

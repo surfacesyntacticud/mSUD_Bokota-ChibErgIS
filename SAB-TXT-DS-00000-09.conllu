@@ -49,7 +49,7 @@
 2	gliga	gliga	NOUN	_	_	_	_	_	AlignBegin=16783|AlignEnd=17136|GE=plant_type|Gloss=plant_type|nWord=2|RX=[N]
 3	ne	ne	DET	_	_	2	mod	_	AlignBegin=17136|AlignEnd=17489|GE=that|Gloss=that|nWord=3|RX=[DET]
 4	daka	daka	VERB	_	_	5	comp:aux/m	_	AlignBegin=17489|AlignEnd=17665|GE=pound|Gloss=pound|nWord=4|RX=[V]
-5	-le		AUX	_	_	2	mod	_	AlignBegin=17665|AlignEnd=17842|GE=[ADJZ]|Gloss=-ADJZ|nWord=4|RX=[N>ADJ]
+5	-le		AUX	_	DerPos=ADJ	2	mod	_	AlignBegin=17665|AlignEnd=17842|GE=[ADJZ]|Gloss=-ADJZ|nWord=4|RX=[N>ADJ]
 6	cha	cha	PRON	_	_	8	subj	_	AlignBegin=17842|AlignEnd=18195|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
 7	kle	kle	AUX	_	_	0	root	_	AlignBegin=18195|AlignEnd=18548|GE=be|Gloss=be|nWord=6|RX=[V]
 8	hinan	hinan	VERB	_	_	9	comp:aux/m	_	AlignBegin=18548|AlignEnd=18724|GE=cook|Gloss=cook|nWord=7|RX=[VT]

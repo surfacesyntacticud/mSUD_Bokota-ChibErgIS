@@ -27,7 +27,7 @@
 # text_en = The white man (was) called Benino.
 # text_ortho = hulale kada Benino .
 1	hula	hula	NOUN	_	_	2	comp:aux/m	_	AlignBegin=19740|AlignEnd=20078|GE=white_man|Gloss=white_man|nWord=1|RX=[N]
-2	-le		AUX	_	_	_	_	_	AlignBegin=20078|AlignEnd=20415|GE=[ADJZ]|Gloss=-ADJZ|nWord=1|RX=[N>ADJ]
+2	-le		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=20078|AlignEnd=20415|GE=[ADJZ]|Gloss=-ADJZ|nWord=1|RX=[N>ADJ]
 3	kada	kada	NOUN	_	_	_	_	_	AlignBegin=20415|AlignEnd=21090|GE=name|Gloss=name|nWord=2|RX=[N]
 4	Benino	Benino	PROPN	_	_	_	_	_	AlignBegin=21090|AlignEnd=21765|GE=[Benino]|Gloss=Benino|nWord=3|RX=[NPROP]
 5	.		PUNCT	_	_	_	_	_	AlignBegin=21765|AlignEnd=22440|Gloss=.|nWord=4
@@ -174,11 +174,11 @@
 13	,		PUNCT	_	_	_	_	_	AlignBegin=64420|AlignEnd=64784|nWord=11
 14	misi	misi	NOUN	_	_	_	_	_	AlignBegin=64784|AlignEnd=65148|GE=jaguar|Gloss=jaguar|nWord=12|RX=[N]
 15	here	here	ADJ	_	_	16	comp:aux/m	_	AlignBegin=65148|AlignEnd=65330|GE=black|Gloss=black|nWord=13|RX=[ADJ]
-16	-re		AUX	_	_	14	mod	_	AlignBegin=65330|AlignEnd=65512|GE=[ADJZ]|Gloss=-ADJZ|nWord=13|RX=[N>ADJ]
+16	-re		AUX	_	DerPos=ADJ	14	mod	_	AlignBegin=65330|AlignEnd=65512|GE=[ADJZ]|Gloss=-ADJZ|nWord=13|RX=[N>ADJ]
 17	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=65512|AlignEnd=65876|GE=and|Gloss=and|Lang=es|nWord=14|RX=[COORDCONN]
 18	misi	misi	NOUN	_	_	_	_	_	AlignBegin=65876|AlignEnd=66240|GE=jaguar|Gloss=jaguar|nWord=15|RX=[N]
 19	dabe	dabe	ADJ	_	_	20	comp:aux/m	_	AlignBegin=66240|AlignEnd=66422|GE=red|Gloss=red|nWord=16|RX=[ADJ]
-20	-re		AUX	_	_	18	mod	_	AlignBegin=66422|AlignEnd=66604|GE=[ADJZ]|Gloss=-ADJZ|nWord=16|RX=[N>ADJ]
+20	-re		AUX	_	DerPos=ADJ	18	mod	_	AlignBegin=66422|AlignEnd=66604|GE=[ADJZ]|Gloss=-ADJZ|nWord=16|RX=[N>ADJ]
 21	.		PUNCT	_	_	_	_	_	AlignBegin=66604|AlignEnd=66970|Gloss=.|nWord=17
 
 # sent_id = SAB-TXT-OS-00001-01_11-11
@@ -702,7 +702,7 @@
 12	ne	ne	DET	_	_	_	_	_	AlignBegin=171865|AlignEnd=172463|GE=that|Gloss=that|nWord=10|RX=[DET]
 13	misi	misi	NOUN	_	_	14	udep:poss	_	AlignBegin=172463|AlignEnd=173061|GE=jaguar|Gloss=jaguar|nWord=11|RX=[N]
 14	chada	chada	NOUN	_	_	15	comp:aux/m	_	AlignBegin=173061|AlignEnd=173360|GE=color|Gloss=color|nWord=12|RX=[N]
-15	-le		AUX	_	_	13	mod	_	AlignBegin=173360|AlignEnd=173659|GE=[ADJZ]|Gloss=-ADJZ|nWord=12|RX=[N>ADJ]
+15	-le		AUX	_	DerPos=ADJ	13	mod	_	AlignBegin=173360|AlignEnd=173659|GE=[ADJZ]|Gloss=-ADJZ|nWord=12|RX=[N>ADJ]
 16	.		PUNCT	_	_	_	_	_	AlignBegin=173659|AlignEnd=174255|Gloss=.|nWord=13
 
 # sent_id = SAB-TXT-OS-00001-01_47-47
@@ -723,7 +723,7 @@
 8	-e		AUX	_	_	6	comp:aux	_	AlignBegin=176231|AlignEnd=176383|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
 9	misi	misi	NOUN	_	_	_	_	_	AlignBegin=176383|AlignEnd=176687|GE=jaguar|Gloss=jaguar|nWord=8|RX=[N]
 10	chada	chada	NOUN	_	_	11	comp:aux/m	_	AlignBegin=176687|AlignEnd=176839|GE=color|Gloss=color|nWord=9|RX=[N]
-11	-le		AUX	_	_	9	mod	_	AlignBegin=176839|AlignEnd=176991|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
+11	-le		AUX	_	DerPos=ADJ	9	mod	_	AlignBegin=176839|AlignEnd=176991|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
 12	.		PUNCT	_	_	6	punct	_	AlignBegin=176991|AlignEnd=177295|Gloss=.|nWord=10
 
 # sent_id = SAB-TXT-OS-00001-01_48-48

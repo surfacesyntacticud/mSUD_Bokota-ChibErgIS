@@ -206,7 +206,7 @@
 # text_ortho = chebi manale , nienu kle chebi manane sukekre iani .
 1	chebi	chebi	NOUN	_	_	_	_	_	AlignBegin=79730|AlignEnd=80168|GE=mother|Gloss=mother|nWord=1|RX=[N]
 2	mana	mana	VERB	_	_	3	comp:aux/m	_	AlignBegin=80168|AlignEnd=80387|GE=give_birth|Gloss=give_birth|nWord=2|RX=[V]
-3	-le		AUX	_	_	_	_	_	AlignBegin=80387|AlignEnd=80606|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
+3	-le		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=80387|AlignEnd=80606|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
 4	,		PUNCT	_	_	6	punct	_	AlignBegin=80606|AlignEnd=81044|nWord=3
 5	nienu	nienu	NOUN	_	_	8	subj	_	AlignBegin=81044|AlignEnd=81482|GE=father|Gloss=father|nWord=4|RX=[N]
 6	kle	kle	AUX	_	_	0	root	_	AlignBegin=81482|AlignEnd=81920|GE=be|Gloss=be|nWord=5|RX=[V]
@@ -605,7 +605,7 @@
 5	ai	ai	PART	_	_	4	mod	_	AlignBegin=180910|AlignEnd=181120|GE=local|Gloss=local|nWord=5|RX=[PRO]
 6	ho	hoke	AUX	_	_	_	_	_	AlignBegin=181120|AlignEnd=181330|GE=[go].[PST]|Gloss=go.PST|nWord=6|RX=[VI]
 7	gaba	gaba	ADV	_	_	8	comp:aux/m	_	AlignBegin=181330|AlignEnd=181435|GE=slowly|Gloss=slowly|nWord=7|RX=[ADV]
-8	-re		AUX	_	_	6	comp:pred	_	AlignBegin=181435|AlignEnd=181540|GE=[ADJZ]|Gloss=-ADJZ|nWord=7|RX=[N>ADJ]
+8	-re		AUX	_	DerPos=ADJ	6	comp:pred	_	AlignBegin=181435|AlignEnd=181540|GE=[ADJZ]|Gloss=-ADJZ|nWord=7|RX=[N>ADJ]
 9	,		PUNCT	_	_	_	_	_	AlignBegin=181540|AlignEnd=181750|nWord=8
 10	cha	cha	PRON	_	_	11	udep:poss	_	AlignBegin=181795|AlignEnd=182080|GE=[1SG]|Gloss=1SG|nWord=9|RX=[PRO]
 11	chuga	chuga	NOUN	_	_	15	subj	_	AlignBegin=182080|AlignEnd=182365|GE=head|Gloss=head|nWord=10|RX=[N]
@@ -614,7 +614,7 @@
 14	-ia		AUX	_	_	11	conj:coord	_	AlignBegin=182792|AlignEnd=182935|GE=[POSS]|Gloss=-POSS|nWord=12|RX=[N:ANY]
 15	ho	hoke	AUX	_	_	_	_	_	AlignBegin=182935|AlignEnd=183220|GE=[go].[PST]|Gloss=go.PST|nWord=13|RX=[VI]
 16	gaba	gaba	ADV	_	_	17	comp:aux/m	_	AlignBegin=183220|AlignEnd=183362|GE=slowly|Gloss=slowly|nWord=14|RX=[ADV]
-17	-re		AUX	_	_	15	comp:pred	_	AlignBegin=183362|AlignEnd=183505|GE=[ADJZ]|Gloss=-ADJZ|nWord=14|RX=[N>ADJ]
+17	-re		AUX	_	DerPos=ADJ	15	comp:pred	_	AlignBegin=183362|AlignEnd=183505|GE=[ADJZ]|Gloss=-ADJZ|nWord=14|RX=[N>ADJ]
 18	,		PUNCT	_	_	_	_	_	AlignBegin=183505|AlignEnd=183790|nWord=15
 19	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=183790|AlignEnd=183997|GE=and|Gloss=and|Lang=es|nWord=16|RX=[COORDCONN]
 20	cha	cha	PRON	_	_	23	subj	_	AlignBegin=183997|AlignEnd=184204|GE=[1SG]|Gloss=1SG|nWord=17|RX=[PRO]
@@ -645,7 +645,7 @@
 45	taianchuk	taianchuk	VERB	_	_	46	comp:aux/m	_	AlignBegin=193105|AlignEnd=193425|GE=think|Gloss=think|nWord=41|RX=[V]
 46	-e		AUX	_	_	_	_	_	AlignBegin=193425|AlignEnd=193745|GE=[THM]|Gloss=-THM|nWord=41|RX=[V:ANY]
 47	blikaia	blikaia	ADV	_	_	48	comp:aux/m	_	AlignBegin=193745|AlignEnd=194065|GE=quickly|Gloss=quickly|nWord=42|RX=[ADV]
-48	-re		AUX	_	_	_	_	_	AlignBegin=194065|AlignEnd=194385|GE=[ADJZ]|Gloss=-ADJZ|nWord=42|RX=[N>ADJ]
+48	-re		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=194065|AlignEnd=194385|GE=[ADJZ]|Gloss=-ADJZ|nWord=42|RX=[N>ADJ]
 49	,		PUNCT	_	_	_	_	_	AlignBegin=194385|AlignEnd=195025|nWord=43
 50	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=195080|AlignEnd=195524|GE=but|Gloss=but|Lang=es|nWord=44|RX=[COORDCONN]
 51	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=195524|AlignEnd=195968|GE=today|Gloss=today|nWord=45|RX=[ADV]
@@ -667,7 +667,7 @@
 67	ai	ai	PART	_	_	66	mod	_	AlignBegin=201444|AlignEnd=201815|GE=local|Gloss=local|nWord=59|RX=[PRO]
 68	ho	hoke	AUX	_	_	_	_	_	AlignBegin=201815|AlignEnd=202186|GE=[go].[PST]|Gloss=go.PST|nWord=60|RX=[VI]
 69	kwi	kwi	ADJ	_	_	70	comp:aux/m	_	AlignBegin=202186|AlignEnd=202372|GE=idiot|Gloss=idiot|nWord=61|RX=[ADJ]
-70	-are		AUX	_	_	68	comp:pred	_	AlignBegin=202372|AlignEnd=202557|GE=[ADJZ]|Gloss=-ADJZ|nWord=61|RX=[N>ADJ]
+70	-are		AUX	_	DerPos=ADJ	68	comp:pred	_	AlignBegin=202372|AlignEnd=202557|GE=[ADJZ]|Gloss=-ADJZ|nWord=61|RX=[N>ADJ]
 71	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=202557|AlignEnd=202928|GE=all|Gloss=all|nWord=62|RX=[ADV]
 72	.		PUNCT	_	_	_	_	_	AlignBegin=202928|AlignEnd=203300|Gloss=.|nWord=63
 

@@ -379,7 +379,7 @@
 11	chk	chk	VERB	_	_	12	comp:aux/m	_	AlignBegin=72050|AlignEnd=72150|GE=arrive|Gloss=arrive|nWord=11|RX=[VI]
 12	-e		AUX	_	_	10	compound:svc	_	AlignBegin=72150|AlignEnd=72251|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
 13	a	a	ADP	_	_	11	mod:lmod	_	AlignBegin=72251|AlignEnd=72452|GE=to|Gloss=to|nWord=12|RX=[ADP]
-14	la	la	X	_	_	15	det	_	AlignBegin=72452|AlignEnd=72653|GE=the|Gloss=the|nWord=13|RX=[ART]
+14	la	la	DET	_	_	15	det	_	AlignBegin=72452|AlignEnd=72653|GE=the|Gloss=the|nWord=13|RX=[ART]
 15	escuela	escuela	NOUN	_	Foreign=Yes	13	comp	_	AlignBegin=72653|AlignEnd=72854|GE=school|Gloss=school|Lang=es|nWord=14|RX=[N]
 16	Guacamaya	Guacamaya	PROPN	_	_	15	mod	_	AlignBegin=72854|AlignEnd=73055|GE=[Guacamaya]|Gloss=Guacamaya|nWord=15|RX=[NPROP]
 17	.		PUNCT	_	_	5	punct	_	AlignBegin=73055|AlignEnd=73250|Gloss=.|nWord=16
@@ -396,7 +396,7 @@
 2	un	un	DET	_	_	3	det	_	AlignBegin=73879|AlignEnd=74198|GE=[INDEF].[M]|Gloss=INDEF.M|nWord=2|RX=[DET]
 3	año	año	NOUN	_	_	_	_	_	AlignBegin=74198|AlignEnd=74517|GE=year|Gloss=year|nWord=3|RX=[N]
 4	honingke	honingke	ADV	_	_	_	_	_	AlignBegin=74517|AlignEnd=74836|GE=first|Gloss=first|nWord=4|RX=[ADV]
-5	la	la	X	_	_	6	det	_	AlignBegin=74836|AlignEnd=75155|GE=the|Gloss=the|nWord=5|RX=[ART]
+5	la	la	DET	_	_	6	det	_	AlignBegin=74836|AlignEnd=75155|GE=the|Gloss=the|nWord=5|RX=[ART]
 6	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=75155|AlignEnd=75474|GE=school|Gloss=school|Lang=es|nWord=6|RX=[N]
 7	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=75474|AlignEnd=75793|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
 8	.		PUNCT	_	_	_	_	_	AlignBegin=75793|AlignEnd=76110|Gloss=.|nWord=8
@@ -410,7 +410,7 @@
 # text_en = no, the school came nowadays.
 # text_ortho = no la ekuela e chkebale nengke .
 1	no	no	PART	_	_	_	_	_	AlignBegin=76270|AlignEnd=76571|GE=[NEG]|Gloss=NEG|nWord=1|RX=[VERBPRT]
-2	la	la	X	_	_	3	det	_	AlignBegin=76571|AlignEnd=76872|GE=the|Gloss=the|nWord=2|RX=[ART]
+2	la	la	DET	_	_	3	det	_	AlignBegin=76571|AlignEnd=76872|GE=the|Gloss=the|nWord=2|RX=[ART]
 3	escuela	escuela	NOUN	_	Foreign=Yes	5	subj	_	AlignBegin=76872|AlignEnd=77173|GE=school|Gloss=school|Lang=es|nWord=3|RX=[N]
 4	es	es	VERB	_	Foreign=Yes	_	_	_	AlignBegin=77173|AlignEnd=77474|GE=be|Gloss=be|Lang=es|nWord=4|RX=[V]
 5	chk	chk	VERB	_	_	6	comp:aux/m	_	AlignBegin=77474|AlignEnd=77574|GE=arrive|Gloss=arrive|nWord=5|RX=[VI]
@@ -429,7 +429,7 @@
 # text_ortho = pero honingke la ekuela me .
 1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=82680|AlignEnd=82968|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
 2	honingke	honingke	ADV	_	_	_	_	_	AlignBegin=82968|AlignEnd=83256|GE=first|Gloss=first|nWord=2|RX=[ADV]
-3	la	la	X	_	_	_	_	_	AlignBegin=83256|AlignEnd=83544|GE=the|Gloss=the|nWord=3|RX=[ART]
+3	la	la	DET	_	_	4	det	_	AlignBegin=83256|AlignEnd=83544|GE=the|Gloss=the|nWord=3|RX=[ART]
 4	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=83544|AlignEnd=83832|GE=school|Gloss=school|Lang=es|nWord=4|RX=[N]
 5	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=83832|AlignEnd=84120|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
 6	.		PUNCT	_	_	_	_	_	AlignBegin=84120|AlignEnd=84410|Gloss=.|nWord=6

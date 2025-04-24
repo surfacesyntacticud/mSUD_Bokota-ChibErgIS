@@ -25,7 +25,7 @@
 17	-e		AUX	_	_	_	_	_	AlignBegin=14848|AlignEnd=15097|GE=[THM]|Gloss=-THM|nWord=15|RX=[V:ANY]
 18	bag	bag	VERB	_	_	19	comp:aux/m	_	AlignBegin=15097|AlignEnd=15263|GE=ceremoniate|Gloss=ceremoniate|nWord=16|RX=[VI]
 19	-e		AUX	_	_	20	comp:aux/m	_	AlignBegin=15263|AlignEnd=15429|GE=[THM]|Gloss=-THM|nWord=16|RX=[V:ANY]
-20	-re		AUX	_	_	_	_	_	AlignBegin=15429|AlignEnd=15594|GE=[ADJZ]|Gloss=-ADJZ|nWord=16|RX=[N>ADJ]
+20	-re		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=15429|AlignEnd=15594|GE=[ADJZ]|Gloss=-ADJZ|nWord=16|RX=[N>ADJ]
 21	.		PUNCT	_	_	_	_	_	AlignBegin=15594|AlignEnd=16090|Gloss=.|nWord=17
 
 # sent_id = SAB-TXT-DS-00000-04_04-04

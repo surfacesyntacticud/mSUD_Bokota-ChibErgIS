@@ -16,7 +16,7 @@
 8	ho	hoke	AUX	_	_	_	_	_	AlignBegin=11873|AlignEnd=12264|GE=[go].[PST]|Gloss=go.PST|nWord=8|RX=[VI]
 9	skwendu	skwendu	VERB	_	_	8	comp:aux	_	AlignBegin=12264|AlignEnd=12655|GE=appear.pst|Gloss=appear.pst|nWord=9|RX=[V]
 10	bate	bate	ADV	_	_	11	comp:aux/m	_	AlignBegin=12655|AlignEnd=12851|GE=away|Gloss=away|nWord=10|RX=[ADV]
-11	-are		AUX	_	_	_	_	_	AlignBegin=12851|AlignEnd=13046|GE=[ADJZ]|Gloss=-ADJZ|nWord=10|RX=[N>ADJ]
+11	-are		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=12851|AlignEnd=13046|GE=[ADJZ]|Gloss=-ADJZ|nWord=10|RX=[N>ADJ]
 12	.		PUNCT	_	_	_	_	_	AlignBegin=13046|AlignEnd=13440|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-PA-00000-03_03-03

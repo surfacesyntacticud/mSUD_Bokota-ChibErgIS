@@ -860,7 +860,7 @@
 # text_ortho = ski bitale honi .
 1	ski	ski	NOUN	_	_	_	_	_	AlignBegin=193215|AlignEnd=193637|GE=motete|Gloss=motete|nWord=1|RX=[N]
 2	bita	bita	NOUN	_	_	3	comp:aux/m	_	AlignBegin=193637|AlignEnd=193848|GE=piece|Gloss=piece|nWord=2|RX=[N]
-3	-le		AUX	_	_	1	mod	_	AlignBegin=193848|AlignEnd=194059|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
+3	-le		AUX	_	DerPos=ADJ	1	mod	_	AlignBegin=193848|AlignEnd=194059|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
 4	ho	hoke	VERB	_	_	5	comp:aux/m	_	AlignBegin=194059|AlignEnd=194270|GE=[go].[PST]|Gloss=go.PST|nWord=3|RX=[VI]
 5	-ni		AUX	_	_	_	_	_	AlignBegin=194270|AlignEnd=194481|GE=[IT]|Gloss=-IT|nWord=3|RX=[V:ANY]
 6	.		PUNCT	_	_	_	_	_	AlignBegin=194481|AlignEnd=194905|Gloss=.|nWord=4

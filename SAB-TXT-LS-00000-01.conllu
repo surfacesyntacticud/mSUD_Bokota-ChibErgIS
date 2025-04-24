@@ -1834,7 +1834,7 @@
 1	die	die	NOUN	_	_	_	_	_	AlignBegin=410920|AlignEnd=411218|GE=thing|Gloss=thing|nWord=1|RX=[N]
 2	ngle	ngle	ADV	_	_	3	comp:aux/m	_	AlignBegin=411218|AlignEnd=411317|GE=more|Gloss=more|nWord=2|RX=[ADV]
 3	-a		AUX	_	_	4	comp:aux/m	_	AlignBegin=411317|AlignEnd=411416|GE=[0]|Gloss=-0|nWord=2|RX=[NOUN]
-4	-re		AUX	_	_	_	_	_	AlignBegin=411416|AlignEnd=411516|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
+4	-re		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=411416|AlignEnd=411516|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
 5	aini	aini	ADV	_	_	_	_	_	AlignBegin=411516|AlignEnd=411814|GE=here|Gloss=here|nWord=3|RX=[ADV]
 6	.		PUNCT	_	_	_	_	_	AlignBegin=411814|AlignEnd=412110|Gloss=.|nWord=4
 

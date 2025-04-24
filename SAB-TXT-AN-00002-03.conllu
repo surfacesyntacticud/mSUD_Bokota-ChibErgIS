@@ -1097,7 +1097,7 @@
 7	esta	esta	VERB	_	Foreign=Yes	3	conj:coord	_	AlignBegin=181003|AlignEnd=181421|GE=be|Gloss=be|Lang=es|nWord=7|RX=[V]
 8	miaska	miaska	ADJ	_	_	7	comp:pred	_	AlignBegin=181421|AlignEnd=181839|GE=dirty|Gloss=dirty|nWord=8|RX=[ADJ]
 9	dui	dui	NOUN	_	_	10	comp:aux/m	_	AlignBegin=181839|AlignEnd=182048|GE=dirt|Gloss=dirt|nWord=9|RX=[N]
-10	-le		AUX	_	_	8	mod	_	AlignBegin=182048|AlignEnd=182257|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
+10	-le		AUX	_	DerPos=ADJ	8	mod	_	AlignBegin=182048|AlignEnd=182257|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
 11	,		PUNCT	_	_	13	punct	_	AlignBegin=182257|AlignEnd=182675|nWord=10
 12	che	che	PRON	_	_	16	subj	_	AlignBegin=182695|AlignEnd=183022|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=11|RX=[PRO]
 13	tiene	tiene	AUX	_	Foreign=Yes	0	root	_	AlignBegin=183022|AlignEnd=183349|GE=have|Gloss=have|Lang=es|nWord=12|RX=[V]

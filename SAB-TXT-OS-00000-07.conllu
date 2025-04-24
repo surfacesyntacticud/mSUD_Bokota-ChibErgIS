@@ -104,7 +104,7 @@
 8	-e		AUX	_	_	5	comp:aux	_	AlignBegin=33563|AlignEnd=33659|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
 9	kwia	kwia	NOUN	_	_	_	_	_	AlignBegin=33659|AlignEnd=33851|GE=people|Gloss=people|nWord=8|RX=[N]
 10	hula	hula	NOUN	_	_	11	comp:aux/m	_	AlignBegin=33851|AlignEnd=33947|GE=white_man|Gloss=white_man|nWord=9|RX=[N]
-11	-le		AUX	_	_	12	comp	_	AlignBegin=33947|AlignEnd=34043|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
+11	-le		AUX	_	DerPos=ADJ	12	comp	_	AlignBegin=33947|AlignEnd=34043|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
 12	ke	ke	ADP	_	_	_	_	_	AlignBegin=34043|AlignEnd=34235|GE=[DAT]|Gloss=DAT|nWord=10|RX=[ADP]
 13	,		PUNCT	_	_	_	_	_	AlignBegin=34235|AlignEnd=34430|nWord=11
 14	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=34430|AlignEnd=34770|GE=so|Gloss=so|Lang=es|nWord=12|RX=[ADV]

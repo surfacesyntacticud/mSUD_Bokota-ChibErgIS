@@ -17,18 +17,17 @@
 9	cocinera	cocinera	NOUN	_	_	10	comp	_	AlignBegin=9587|AlignEnd=10031|GE=wife|Gloss=wife|nWord=9|RX=[N]
 10	ole	ole	ADP	_	_	8	comp:obl	_	AlignBegin=10031|AlignEnd=10475|GE=[COM]|Gloss=COM|nWord=10|RX=[ADP]
 11	,		PUNCT	_	_	_	_	_	AlignBegin=10475|AlignEnd=10915|nWord=11
-12	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=11035|AlignEnd=11317|GE=and|Gloss=and|Lang=es|nWord=12|RX=[COORDCONN]
+12	y	y	CCONJ	_	Foreign=Yes	15	cc	_	AlignBegin=11035|AlignEnd=11317|GE=and|Gloss=and|Lang=es|nWord=12|RX=[COORDCONN]
 13	cocinera	cocinera	NOUN	_	_	15	subj	_	AlignBegin=11317|AlignEnd=11599|GE=wife|Gloss=wife|nWord=13|RX=[N]
-14	kle	kle	AUX	_	_	_	_	_	AlignBegin=11599|AlignEnd=11881|GE=be|Gloss=be|nWord=14|RX=[V]
+14	kle	kle	AUX	_	_	6	conj:coord	_	AlignBegin=11599|AlignEnd=11881|GE=be|Gloss=be|nWord=14|RX=[V]
 15	gai	gai	VERB	_	_	14	comp:aux	_	AlignBegin=11881|AlignEnd=12163|GE=pick_up|Gloss=pick_up|nWord=15|RX=[VT]
 16	,		PUNCT	_	_	_	_	_	AlignBegin=12163|AlignEnd=12445|nWord=16
 17	cocinera	cocinera	NOUN	_	_	19	subj	_	AlignBegin=12490|AlignEnd=12970|GE=wife|Gloss=wife|nWord=17|RX=[N]
 18	kle	kle	AUX	_	_	_	_	_	AlignBegin=12970|AlignEnd=13450|GE=be|Gloss=be|nWord=18|RX=[V]
 19	chage	chage	VERB	_	_	18	comp:aux	_	AlignBegin=13450|AlignEnd=13930|GE=walk|Gloss=walk|nWord=19|RX=[VI]
-20	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=13930|AlignEnd=14170|GE=child|Gloss=child|nWord=20|RX=[N]
-21	gwa	gwa	_	_	_	_	_	_	AlignBegin=14170|AlignEnd=14410|nWord=20
-22	ole	ole	ADP	_	_	19	comp:obl	_	AlignBegin=14410|AlignEnd=14890|GE=[COM]|Gloss=COM|nWord=21|RX=[ADP]
-23	.		PUNCT	_	_	_	_	_	AlignBegin=14890|AlignEnd=15370|Gloss=.|nWord=22
+20	kirogwa	kiro	NOUN	_	_	21	comp	_	AlignBegin=13930|AlignEnd=14410|GE=child|Gloss=child|nWord=20|RX=[N]
+21	ole	ole	ADP	_	_	19	comp:obl	_	AlignBegin=14410|AlignEnd=14890|GE=[COM]|Gloss=COM|nWord=21|RX=[ADP]
+22	.		PUNCT	_	_	_	_	_	AlignBegin=14890|AlignEnd=15370|Gloss=.|nWord=22
 
 # sent_id = SAB-TXT-BS-10_04-07
 # speaker_id = @10
@@ -41,36 +40,35 @@
 1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=19160|AlignEnd=19523|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	de	de	ADP	_	_	_	_	_	AlignBegin=19523|AlignEnd=19886|GE=from|Gloss=from|nWord=2|RX=[ADP]
 3	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=19886|AlignEnd=20249|GE=that|Gloss=that|Lang=es|nWord=3|RX=[PRO]
-4	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=20249|AlignEnd=20431|GE=child|Gloss=child|nWord=4|RX=[N]
-5	gwa	gwa	_	_	_	_	_	_	AlignBegin=20431|AlignEnd=20612|nWord=4
-6	kle	kle	AUX	_	_	_	_	_	AlignBegin=20612|AlignEnd=20975|GE=be|Gloss=be|nWord=5|RX=[V]
-7	chi	chi	VERB	_	_	8	comp:aux/m	_	AlignBegin=20975|AlignEnd=21157|GE=come|Gloss=come|nWord=6|RX=[VI]
-8	-e		AUX	_	_	6	comp:aux	_	AlignBegin=21157|AlignEnd=21338|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
-9	,		PUNCT	_	_	_	_	_	AlignBegin=21338|AlignEnd=21700|nWord=7
-10	ski	ski	VERB	_	_	11	comp:aux/m	_	AlignBegin=23500|AlignEnd=23777|GE=plant|Gloss=plant|nWord=8|RX=[VT]
-11	-e		AUX	_	_	_	_	_	AlignBegin=23777|AlignEnd=24054|GE=[THM]|Gloss=-THM|nWord=8|RX=[V:ANY]
-12	ko	ko	NOUN	_	_	13	comp	_	AlignBegin=24054|AlignEnd=24608|GE=hand|Gloss=hand|nWord=9|RX=[N]
-13	dike	dike	ADP	_	_	10	comp:obl	_	AlignBegin=24608|AlignEnd=25162|GE=[INST]|Gloss=INST|nWord=10|RX=[ADP]
-14	o	o	X	_	_	_	_	_	AlignBegin=25162|AlignEnd=25716|GE=or|Gloss=or|nWord=11|RX=[COORDCONN]
-15	gire	gire	ADV	_	_	_	_	_	AlignBegin=25716|AlignEnd=26270|GE=then|Gloss=then|nWord=12|RX=[ADV]
-16	necesita	necesita	VERB	_	_	_	_	_	AlignBegin=26270|AlignEnd=26824|GE=need|Gloss=need|nWord=13|RX=[V]
-17	cheisuli	cheisuli	NOUN	_	_	16	comp:obj	_	AlignBegin=26824|AlignEnd=27378|GE=grandmother|Gloss=grandmother|nWord=14|RX=[N]
-18	,		PUNCT	_	_	_	_	_	AlignBegin=27378|AlignEnd=27930|nWord=15
-19	necesita	necesita	VERB	_	_	_	_	_	AlignBegin=29340|AlignEnd=30257|GE=need|Gloss=need|nWord=16|RX=[V]
-20	enusuli	enusuli	NOUN	_	_	19	comp:obj	_	AlignBegin=30257|AlignEnd=31174|GE=grandfather|Gloss=grandfather|nWord=17|RX=[N]
-21	o	o	X	_	_	_	_	_	AlignBegin=31174|AlignEnd=32091|GE=or|Gloss=or|nWord=18|RX=[COORDCONN]
-22	cheigda	cheigda	NOUN	_	_	23	comp:aux/m	_	AlignBegin=32091|AlignEnd=32549|GE=aunt|Gloss=aunt|nWord=19|RX=[N]
-23	-ia		AUX	_	_	_	_	_	AlignBegin=32549|AlignEnd=33008|GE=[POSS]|Gloss=-POSS|nWord=19|RX=[N:ANY]
-24	o	o	X	_	_	_	_	_	AlignBegin=33008|AlignEnd=33925|GE=or|Gloss=or|nWord=20|RX=[COORDCONN]
-25	cheisuli	cheisuli	NOUN	_	_	26	comp:aux/m	_	AlignBegin=33925|AlignEnd=34383|GE=grandmother|Gloss=grandmother|nWord=21|RX=[N]
-26	-a		AUX	_	_	_	_	_	AlignBegin=34383|AlignEnd=34842|GE=[POSS]|Gloss=-POSS|nWord=21|RX=[N:ANY]
-27	,		PUNCT	_	_	_	_	_	AlignBegin=34842|AlignEnd=35760|nWord=22
-28	kle	kle	AUX	_	_	_	_	_	AlignBegin=35780|AlignEnd=36124|GE=be|Gloss=be|nWord=23|RX=[V]
-29	mana	mana	VERB	_	_	30	comp:aux/m	_	AlignBegin=36124|AlignEnd=36239|GE=take_care|Gloss=take_care|nWord=24|RX=[V]
-30	-d-		AUX	_	_	31	comp:aux/m	_	AlignBegin=36239|AlignEnd=36354|GE=[0]|Gloss=-0-|nWord=24|RX=[VERB]
-31	-e		AUX	_	_	28	comp:aux	_	AlignBegin=36354|AlignEnd=36468|GE=[THM]|Gloss=-THM|nWord=24|RX=[V:ANY]
-32	dike	dike	ADP	_	_	_	_	_	AlignBegin=36468|AlignEnd=36812|GE=[INST]|Gloss=INST|nWord=25|RX=[ADP]
-33	.		PUNCT	_	_	_	_	_	AlignBegin=36812|AlignEnd=37155|Gloss=.|nWord=26
+4	kirogwa	kiro	NOUN	_	_	6	subj	_	AlignBegin=20249|AlignEnd=20612|GE=child|Gloss=child|nWord=4|RX=[N]
+5	kle	kle	AUX	_	_	_	_	_	AlignBegin=20612|AlignEnd=20975|GE=be|Gloss=be|nWord=5|RX=[V]
+6	chi	chi	VERB	_	_	7	comp:aux/m	_	AlignBegin=20975|AlignEnd=21157|GE=come|Gloss=come|nWord=6|RX=[VI]
+7	-e		AUX	_	_	5	comp:aux	_	AlignBegin=21157|AlignEnd=21338|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
+8	,		PUNCT	_	_	_	_	_	AlignBegin=21338|AlignEnd=21700|nWord=7
+9	ski	ski	VERB	_	_	10	comp:aux/m	_	AlignBegin=23500|AlignEnd=23777|GE=plant|Gloss=plant|nWord=8|RX=[VT]
+10	-e		AUX	_	_	_	_	_	AlignBegin=23777|AlignEnd=24054|GE=[THM]|Gloss=-THM|nWord=8|RX=[V:ANY]
+11	ko	ko	NOUN	_	_	12	comp	_	AlignBegin=24054|AlignEnd=24608|GE=hand|Gloss=hand|nWord=9|RX=[N]
+12	dike	dike	ADP	_	_	9	comp:obl	_	AlignBegin=24608|AlignEnd=25162|GE=[INST]|Gloss=INST|nWord=10|RX=[ADP]
+13	o	o	CCONJ	_	_	14	cc	_	AlignBegin=25162|AlignEnd=25716|GE=or|Gloss=or|nWord=11|RX=[COORDCONN]
+14	gire	gire	ADV	_	_	10	conj:coord	_	AlignBegin=25716|AlignEnd=26270|GE=then|Gloss=then|nWord=12|RX=[ADV]
+15	necesita	necesita	VERB	_	_	_	_	_	AlignBegin=26270|AlignEnd=26824|GE=need|Gloss=need|nWord=13|RX=[V]
+16	cheisuli	cheisuli	NOUN	_	_	15	comp:obj	_	AlignBegin=26824|AlignEnd=27378|GE=grandmother|Gloss=grandmother|nWord=14|RX=[N]
+17	,		PUNCT	_	_	_	_	_	AlignBegin=27378|AlignEnd=27930|nWord=15
+18	necesita	necesita	VERB	_	_	15	conj:coord	_	AlignBegin=29340|AlignEnd=30257|GE=need|Gloss=need|nWord=16|RX=[V]
+19	enusuli	enusuli	NOUN	_	_	18	comp:obj	_	AlignBegin=30257|AlignEnd=31174|GE=grandfather|Gloss=grandfather|nWord=17|RX=[N]
+20	o	o	CCONJ	_	_	21	cc	_	AlignBegin=31174|AlignEnd=32091|GE=or|Gloss=or|nWord=18|RX=[COORDCONN]
+21	cheigda	cheigda	NOUN	_	_	22	comp:aux/m	_	AlignBegin=32091|AlignEnd=32549|GE=aunt|Gloss=aunt|nWord=19|RX=[N]
+22	-ia		AUX	_	_	19	conj:coord	_	AlignBegin=32549|AlignEnd=33008|GE=[POSS]|Gloss=-POSS|nWord=19|RX=[N:ANY]
+23	o	o	CCONJ	_	_	24	cc	_	AlignBegin=33008|AlignEnd=33925|GE=or|Gloss=or|nWord=20|RX=[COORDCONN]
+24	cheisuli	cheisuli	NOUN	_	_	25	comp:aux/m	_	AlignBegin=33925|AlignEnd=34383|GE=grandmother|Gloss=grandmother|nWord=21|RX=[N]
+25	-a		AUX	_	_	22	conj:coord	_	AlignBegin=34383|AlignEnd=34842|GE=[POSS]|Gloss=-POSS|nWord=21|RX=[N:ANY]
+26	,		PUNCT	_	_	_	_	_	AlignBegin=34842|AlignEnd=35760|nWord=22
+27	kle	kle	AUX	_	_	_	_	_	AlignBegin=35780|AlignEnd=36124|GE=be|Gloss=be|nWord=23|RX=[V]
+28	mana	mana	VERB	_	_	29	comp:aux/m	_	AlignBegin=36124|AlignEnd=36239|GE=take_care|Gloss=take_care|nWord=24|RX=[V]
+29	-d-		AUX	_	_	30	comp:aux/m	_	AlignBegin=36239|AlignEnd=36354|GE=[0]|Gloss=-0-|nWord=24|RX=[VERB]
+30	-e		AUX	_	_	27	comp:aux	_	AlignBegin=36354|AlignEnd=36468|GE=[THM]|Gloss=-THM|nWord=24|RX=[V:ANY]
+31	dike	dike	ADP	_	_	_	_	_	AlignBegin=36468|AlignEnd=36812|GE=[INST]|Gloss=INST|nWord=25|RX=[ADP]
+32	.		PUNCT	_	_	_	_	_	AlignBegin=36812|AlignEnd=37155|Gloss=.|nWord=26
 
 # sent_id = SAB-TXT-BS-10_08-12
 # speaker_id = @10

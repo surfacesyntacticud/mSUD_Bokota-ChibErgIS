@@ -196,7 +196,7 @@
 # text = kiro trenkwali y muinga ne me keruchuke kirogwa hombre ke .
 # text_en = The newborn and the woman can't be heard by the kids.
 # text_ortho = kiro trenkwali y muinga ne me keruchuke kirogwa hombre ke .
-1	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=50150|AlignEnd=50446|GE=child|Gloss=child|nWord=1|RX=[N]
+1	kiro	kiro	NOUN	_	_	7	comp:obj	_	AlignBegin=50150|AlignEnd=50446|GE=child|Gloss=child|nWord=1|RX=[N]
 2	trenkwali	trenkwali	NOUN	_	_	1	mod	_	AlignBegin=50446|AlignEnd=50742|GE=foetus|Gloss=foetus|nWord=2|RX=[N]
 3	y	y	X	_	Foreign=Yes	1	cc	_	AlignBegin=50742|AlignEnd=51038|GE=and|Gloss=and|Lang=es|nWord=3|RX=[COORDCONN]
 4	muinga	muinga	NOUN	_	_	1	conj:coord	_	AlignBegin=51038|AlignEnd=51334|GE=woman|Gloss=woman|nWord=4|RX=[N]
@@ -204,11 +204,10 @@
 6	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=51630|AlignEnd=51926|GE=[NEG]|Gloss=NEG|nWord=6|RX=[VERBPRT]
 7	keruchuk	keruchuk	VERB	_	_	8	comp:aux/m	_	AlignBegin=51926|AlignEnd=52074|GE=understand|Gloss=understand|nWord=7|RX=[V]
 8	-e		AUX	_	_	6	comp:aux	_	AlignBegin=52074|AlignEnd=52222|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
-9	kiro	kiro	NOUN	_	_	12	comp	_	AlignBegin=52222|AlignEnd=52370|GE=child|Gloss=child|nWord=8|RX=[N]
-10	gwa	gwa	_	_	_	_	_	_	AlignBegin=52370|AlignEnd=52518|Gloss=cl|nWord=8
-11	hombre	hombre	ADJ	_	_	9	mod	_	AlignBegin=52518|AlignEnd=52814|GE=male|Gloss=male|nWord=9|RX=[ADJ]
-12	ke	ke	ADP	_	_	_	_	_	AlignBegin=52814|AlignEnd=53110|GE=[LOC]|Gloss=LOC|nWord=10|RX=[ADP]
-13	.		PUNCT	_	_	6	punct	_	AlignBegin=53110|AlignEnd=53410|Gloss=.|nWord=11
+9	kirogwa	kiro	NOUN	_	_	11	comp	_	AlignBegin=52222|AlignEnd=52518|GE=child|Gloss=child|nWord=8|RX=[N]
+10	hombre	hombre	ADJ	_	_	9	mod	_	AlignBegin=52518|AlignEnd=52814|GE=male|Gloss=male|nWord=9|RX=[ADJ]
+11	ke	ke	ADP	_	_	7	subj	_	AlignBegin=52814|AlignEnd=53110|GE=[LOC]|Gloss=LOC|nWord=10|RX=[ADP]
+12	.		PUNCT	_	_	6	punct	_	AlignBegin=53110|AlignEnd=53410|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-BS-00000-09_19-19
 # speaker_id = @09
@@ -220,7 +219,7 @@
 # text_ortho = hami kedale .
 1	hami	hami	NOUN	_	_	_	_	_	AlignBegin=53470|AlignEnd=54087|GE=man|Gloss=man|nWord=1|RX=[N]
 2	keda	keda	NOUN	_	_	3	comp:aux/m	_	AlignBegin=54087|AlignEnd=54395|GE=valley|Gloss=valley|nWord=2|RX=[N]
-3	-le		AUX	_	_	1	mod	_	AlignBegin=54395|AlignEnd=54704|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
+3	-le		AUX	_	DerPos=ADJ	1	mod	_	AlignBegin=54395|AlignEnd=54704|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
 4	.		PUNCT	_	_	_	_	_	AlignBegin=54704|AlignEnd=55320|Gloss=.|nWord=3
 
 # sent_id = SAB-TXT-BS-00000-09_20-20
@@ -233,7 +232,7 @@
 # text_ortho = hami kedale .
 1	hami	hami	NOUN	_	_	_	_	_	AlignBegin=55360|AlignEnd=55840|GE=man|Gloss=man|nWord=1|RX=[N]
 2	keda	keda	NOUN	_	_	3	comp:aux/m	_	AlignBegin=55840|AlignEnd=56080|GE=valley|Gloss=valley|nWord=2|RX=[N]
-3	-le		AUX	_	_	1	mod	_	AlignBegin=56080|AlignEnd=56320|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
+3	-le		AUX	_	DerPos=ADJ	1	mod	_	AlignBegin=56080|AlignEnd=56320|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
 4	.		PUNCT	_	_	_	_	_	AlignBegin=56320|AlignEnd=56800|Gloss=.|nWord=3
 
 # sent_id = SAB-TXT-BS-00000-09_21-22

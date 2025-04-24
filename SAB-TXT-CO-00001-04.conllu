@@ -179,7 +179,7 @@
 4	skeke	skeke	ADJ	_	_	_	_	_	AlignBegin=54809|AlignEnd=55111|GE=cold|Gloss=cold|nWord=3|RX=[ADJ]
 5	,		PUNCT	_	_	_	_	_	AlignBegin=55111|AlignEnd=55415|nWord=4
 6	chi	chi	NOUN	_	_	7	comp:aux/m	_	AlignBegin=55585|AlignEnd=55915|GE=water|Gloss=water|nWord=5|RX=[N]
-7	-le		AUX	_	_	_	_	_	AlignBegin=55915|AlignEnd=56245|GE=[ADJZ]|Gloss=-ADJZ|nWord=6|RX=[N>ADJ]
+7	-le		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=55915|AlignEnd=56245|GE=[ADJZ]|Gloss=-ADJZ|nWord=6|RX=[N>ADJ]
 8	.		PUNCT	_	_	_	_	_	AlignBegin=56245|AlignEnd=56575|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-CO-00001-04_17-17

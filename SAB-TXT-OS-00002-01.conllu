@@ -88,7 +88,7 @@
 8	ru	ru	NOUN	_	_	_	_	_	AlignBegin=24927|AlignEnd=25148|GE=aligator|Gloss=aligator|nWord=8|RX=[N]
 9	ngle	ngle	ADV	_	_	10	comp:aux/m	_	AlignBegin=25148|AlignEnd=25222|GE=more|Gloss=more|nWord=9|RX=[ADV]
 10	-a		AUX	_	_	11	comp:aux/m	_	AlignBegin=25222|AlignEnd=25296|GE=[0]|Gloss=-0|nWord=9|RX=[NOUN]
-11	-re		AUX	_	_	_	_	_	AlignBegin=25296|AlignEnd=25369|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
+11	-re		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=25296|AlignEnd=25369|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
 12	chi	chi	NOUN	_	_	14	comp	_	AlignBegin=25369|AlignEnd=25590|GE=water|Gloss=water|nWord=10|RX=[N]
 13	ai	ai	ADV	_	_	12	det	_	AlignBegin=25590|AlignEnd=25811|GE=here|Gloss=here|nWord=11|RX=[ADV]
 14	ke	ke	ADP	_	_	_	_	_	AlignBegin=25811|AlignEnd=26032|GE=[LOC]|Gloss=LOC|nWord=12|RX=[ADP]

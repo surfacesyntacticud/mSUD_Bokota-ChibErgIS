@@ -90,18 +90,17 @@
 # text = kiro haling kirogwa soli me gna hoke swente koi dike .
 # text_en = The young kids, the babies, they can't see the chicken.
 # text_ortho = kiro haling kirogwa soli me gna hoke swente koi dike .
-1	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=39490|AlignEnd=39997|GE=child|Gloss=child|nWord=1|RX=[N]
+1	kiro	kiro	NOUN	_	_	7	subj	_	AlignBegin=39490|AlignEnd=39997|GE=child|Gloss=child|nWord=1|RX=[N]
 2	haling	haling	ADJ	_	_	1	mod	_	AlignBegin=39997|AlignEnd=40504|GE=small|Gloss=small|nWord=2|RX=[ADJ]
-3	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=40504|AlignEnd=40758|GE=child|Gloss=child|nWord=3|RX=[N]
-4	gwa	gwa	_	_	_	_	_	_	AlignBegin=40758|AlignEnd=41011|nWord=3
-5	soli	soli	NOUN	_	_	3	mod	_	AlignBegin=41011|AlignEnd=41518|GE=little|Gloss=little|nWord=4|RX=[N]
-6	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=41518|AlignEnd=42025|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
-7	gna	gna	AUX	_	_	6	comp:aux	_	AlignBegin=42025|AlignEnd=42532|GE=can|Gloss=can|nWord=6|RX=[V]
-8	hoke	hoke	VERB	_	_	7	comp:aux	_	AlignBegin=42532|AlignEnd=43039|GE=go|Gloss=go|nWord=7|RX=[VI]
-9	swente	swente	VERB	_	_	_	_	_	AlignBegin=43039|AlignEnd=43546|GE=see|Gloss=see|nWord=8|RX=[V]
-10	koi	koi	NOUN	_	_	11	comp	_	AlignBegin=43546|AlignEnd=44053|GE=chicken|Gloss=chicken|nWord=9|RX=[N]
-11	dike	dike	ADP	_	_	9	comp:obl	_	AlignBegin=44053|AlignEnd=44560|GE=[INST]|Gloss=INST|nWord=10|RX=[ADP]
-12	.		PUNCT	_	_	6	punct	_	AlignBegin=44560|AlignEnd=45065|Gloss=.|nWord=11
+3	kirogwa	kiro	NOUN	_	_	1	conj:coord	_	AlignBegin=40504|AlignEnd=41011|GE=child|Gloss=child|nWord=3|RX=[N]
+4	soli	soli	NOUN	_	_	3	mod	_	AlignBegin=41011|AlignEnd=41518|GE=little|Gloss=little|nWord=4|RX=[N]
+5	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=41518|AlignEnd=42025|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
+6	gna	gna	AUX	_	_	5	comp:aux	_	AlignBegin=42025|AlignEnd=42532|GE=can|Gloss=can|nWord=6|RX=[V]
+7	hoke	hoke	VERB	_	_	6	comp:aux	_	AlignBegin=42532|AlignEnd=43039|GE=go|Gloss=go|nWord=7|RX=[VI]
+8	swente	swente	VERB	_	_	7	mod:purpose	_	AlignBegin=43039|AlignEnd=43546|GE=see|Gloss=see|nWord=8|RX=[V]
+9	koi	koi	NOUN	_	_	10	comp	_	AlignBegin=43546|AlignEnd=44053|GE=chicken|Gloss=chicken|nWord=9|RX=[N]
+10	dike	dike	ADP	_	_	8	comp:obl	_	AlignBegin=44053|AlignEnd=44560|GE=[INST]|Gloss=INST|nWord=10|RX=[ADP]
+11	.		PUNCT	_	_	5	punct	_	AlignBegin=44560|AlignEnd=45065|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-CO-00000-03_08-08
 # speaker_id = @03

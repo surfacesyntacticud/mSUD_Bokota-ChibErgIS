@@ -125,7 +125,7 @@
 6	luk	luk	VERB	_	_	7	comp:aux/m	_	AlignBegin=38345|AlignEnd=38488|GE=link|Gloss=link|nWord=6|RX=[VT]
 7	-e		AUX	_	_	_	_	_	AlignBegin=38488|AlignEnd=38631|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 8	ngania	ngania	ADV	_	_	6	mod:lmod	_	AlignBegin=38631|AlignEnd=38917|GE=up|Gloss=up|nWord=7|RX=[ADV]
-9	u	u	NOUN	_	_	10	:poss	_	AlignBegin=38917|AlignEnd=39203|GE=house|Gloss=house|nWord=8|RX=[N]
+9	u	u	NOUN	_	_	10	udep:poss	_	AlignBegin=38917|AlignEnd=39203|GE=house|Gloss=house|nWord=8|RX=[N]
 10	sing	sing	NOUN	_	_	11	comp	_	AlignBegin=39203|AlignEnd=39489|GE=nose|Gloss=nose|nWord=9|RX=[N]
 11	ke	ke	ADP	_	_	6	comp:obl	_	AlignBegin=39489|AlignEnd=39775|GE=[LOC]|Gloss=LOC|nWord=10|RX=[ADP]
 12	.		PUNCT	_	_	_	_	_	AlignBegin=39775|AlignEnd=40065|Gloss=.|nWord=11

@@ -24,24 +24,23 @@
 16	dike	dike	ADP	_	_	13	comp:obl	_	AlignBegin=17962|AlignEnd=18501|GE=[INST]|Gloss=INST|nWord=15|RX=[ADP]
 17	,		PUNCT	_	_	11	punct	_	AlignBegin=18501|AlignEnd=19040|nWord=16
 18	porque	porque	X	_	Foreign=Yes	13	mod	_	AlignBegin=20110|AlignEnd=20568|GE=because|Gloss=because|Lang=es|nWord=17|RX=[CONN]
-19	kwia	kwia	NOUN	_	_	25	subj	_	AlignBegin=20568|AlignEnd=21026|GE=people|Gloss=people|nWord=18|RX=[N]
+19	kwia	kwia	NOUN	_	_	24	subj	_	AlignBegin=20568|AlignEnd=21026|GE=people|Gloss=people|nWord=18|RX=[N]
 20	soli	soli	ADJ	_	_	19	mod	_	AlignBegin=21026|AlignEnd=21484|GE=little|Gloss=little|nWord=19|RX=[N]
 21	kwia	kwia	NOUN	_	_	19	conj:coord	_	AlignBegin=21484|AlignEnd=21942|GE=people|Gloss=people|nWord=20|RX=[N]
 22	agere	agere	ADJ	_	_	21	mod	_	AlignBegin=21942|AlignEnd=22400|GE=new|Gloss=new|nWord=21|RX=[ADJ]
-23	kiro	kiro	NOUN	_	_	21	conj:coord	_	AlignBegin=22400|AlignEnd=22629|GE=child|Gloss=child|nWord=22|RX=[N]
-24	gwa	gwa	_	_	_	23	mod	_	AlignBegin=22629|AlignEnd=22858|nWord=22
-25	hoke	hoke	AUX	_	_	18	comp	_	AlignBegin=22858|AlignEnd=23316|GE=go|Gloss=go|nWord=23|RX=[VI]
-26	padi	padi	NOUN	_	_	27	comp:obj	_	AlignBegin=23316|AlignEnd=23774|GE=machete|Gloss=machete|nWord=24|RX=[N]
-27	gudiale	gudiale	VERB	_	_	25	comp:aux	_	AlignBegin=23774|AlignEnd=24232|GE=dream|Gloss=dream|nWord=25|RX=[V]
-28	,		PUNCT	_	_	11	punct	_	AlignBegin=24232|AlignEnd=24690|nWord=26
-29	hoke	hoke	AUX	_	_	25	conj:coord	_	AlignBegin=24690|AlignEnd=25148|GE=go|Gloss=go|nWord=27|RX=[VI]
-30	mong	mong	NOUN	_	_	31	comp:obj	_	AlignBegin=25148|AlignEnd=25606|GE=axe|Gloss=axe|nWord=28|RX=[N]
-31	gudiale	gudiale	VERB	_	_	29	comp:aux	_	AlignBegin=25606|AlignEnd=26064|GE=dream|Gloss=dream|nWord=29|RX=[V]
-32	,		PUNCT	_	_	11	punct	_	AlignBegin=26064|AlignEnd=26522|nWord=30
-33	hoke	hoke	AUX	_	_	29	conj:coord	_	AlignBegin=26522|AlignEnd=26980|GE=go|Gloss=go|nWord=31|RX=[VI]
-34	ngagoka	ngagoka	NOUN	_	_	35	comp:obj	_	AlignBegin=26980|AlignEnd=27438|GE=snake|Gloss=snake|nWord=32|RX=[N]
-35	gudiale	gudiale	VERB	_	_	33	comp:aux	_	AlignBegin=27438|AlignEnd=27896|GE=dream|Gloss=dream|nWord=33|RX=[V]
-36	.		PUNCT	_	_	11	punct	_	AlignBegin=27896|AlignEnd=28350|Gloss=.|nWord=34
+23	kirogwa	kiro	NOUN	_	_	21	conj:coord	_	AlignBegin=22400|AlignEnd=22858|GE=child|Gloss=child|nWord=22|RX=[N]
+24	hoke	hoke	AUX	_	_	18	comp	_	AlignBegin=22858|AlignEnd=23316|GE=go|Gloss=go|nWord=23|RX=[VI]
+25	padi	padi	NOUN	_	_	26	comp:obj	_	AlignBegin=23316|AlignEnd=23774|GE=machete|Gloss=machete|nWord=24|RX=[N]
+26	gudiale	gudiale	VERB	_	_	24	comp:aux	_	AlignBegin=23774|AlignEnd=24232|GE=dream|Gloss=dream|nWord=25|RX=[V]
+27	,		PUNCT	_	_	11	punct	_	AlignBegin=24232|AlignEnd=24690|nWord=26
+28	hoke	hoke	AUX	_	_	24	conj:coord	_	AlignBegin=24690|AlignEnd=25148|GE=go|Gloss=go|nWord=27|RX=[VI]
+29	mong	mong	NOUN	_	_	30	comp:obj	_	AlignBegin=25148|AlignEnd=25606|GE=axe|Gloss=axe|nWord=28|RX=[N]
+30	gudiale	gudiale	VERB	_	_	28	comp:aux	_	AlignBegin=25606|AlignEnd=26064|GE=dream|Gloss=dream|nWord=29|RX=[V]
+31	,		PUNCT	_	_	11	punct	_	AlignBegin=26064|AlignEnd=26522|nWord=30
+32	hoke	hoke	AUX	_	_	28	conj:coord	_	AlignBegin=26522|AlignEnd=26980|GE=go|Gloss=go|nWord=31|RX=[VI]
+33	ngagoka	ngagoka	NOUN	_	_	34	comp:obj	_	AlignBegin=26980|AlignEnd=27438|GE=snake|Gloss=snake|nWord=32|RX=[N]
+34	gudiale	gudiale	VERB	_	_	32	comp:aux	_	AlignBegin=27438|AlignEnd=27896|GE=dream|Gloss=dream|nWord=33|RX=[V]
+35	.		PUNCT	_	_	11	punct	_	AlignBegin=27896|AlignEnd=28350|Gloss=.|nWord=34
 
 # sent_id = SAB-TXT-BS-00000-02_04-07
 # speaker_id = @02

@@ -369,7 +369,7 @@
 4	cha	cha	PRON	_	_	_	_	_	AlignBegin=118788|AlignEnd=119072|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
 5	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=119072|AlignEnd=119356|GE=up|Gloss=up|nWord=4|RX=[ADV]
 6	ga	gai	VERB	_	_	7	comp:aux/m	_	AlignBegin=119356|AlignEnd=119498|GE=pick_up|Gloss=pick_up|nWord=5|RX=[VT]
-7	-le		AUX	_	_	_	_	_	AlignBegin=119498|AlignEnd=119640|GE=[ADJZ]|Gloss=-ADJZ|nWord=5|RX=[N>ADJ]
+7	-le		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=119498|AlignEnd=119640|GE=[ADJZ]|Gloss=-ADJZ|nWord=5|RX=[N>ADJ]
 8	,		PUNCT	_	_	_	_	_	AlignBegin=119640|AlignEnd=119924|nWord=6
 9	daba	daba	NOUN	_	_	_	_	_	AlignBegin=119924|AlignEnd=120208|GE=brother|Gloss=brother|nWord=7|RX=[N]
 10	na	na	ADJ	_	_	9	mod	_	AlignBegin=120208|AlignEnd=120492|GE=other|Gloss=other|nWord=8|RX=[DET]
