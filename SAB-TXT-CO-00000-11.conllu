@@ -34,7 +34,7 @@
 26	-a		AUX	_	_	27	comp	_	AlignBegin=20436|AlignEnd=20734|GE=[0]|Gloss=-0|nWord=20|RX=[NOUN]
 27	ke	ke	ADP	_	_	23	comp:obl	_	AlignBegin=20734|AlignEnd=21330|GE=[LOC]|Gloss=LOC|nWord=21|RX=[ADP]
 28	huk	huk	VERB	_	_	29	comp:aux/m	_	AlignBegin=21330|AlignEnd=21628|GE=pluck|Gloss=pluck|nWord=22|RX=[V]
-29	-e		AUX	_	_	23	mod:purpose	_	AlignBegin=21628|AlignEnd=21926|GE=[THM]|Gloss=-THM|nWord=22|RX=[V:ANY]
+29	-e		AUX	_	_	23	mod:purp	_	AlignBegin=21628|AlignEnd=21926|GE=[THM]|Gloss=-THM|nWord=22|RX=[V:ANY]
 30	,		PUNCT	_	_	_	_	_	AlignBegin=21926|AlignEnd=22520|nWord=23
 31	y	y	X	_	Foreign=Yes	37	cc	_	AlignBegin=23090|AlignEnd=23493|GE=and|Gloss=and|Lang=es|nWord=24|RX=[COORDCONN]
 32	(		PUNCT	_	_	_	_	_	AlignBegin=23493|AlignEnd=23896|nWord=25

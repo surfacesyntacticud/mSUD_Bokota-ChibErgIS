@@ -26,8 +26,8 @@
 # text = hulale kada Benino .
 # text_en = The white man (was) called Benino.
 # text_ortho = hulale kada Benino .
-1	hula	hula	NOUN	_	_	2	comp:aux/m	_	AlignBegin=19740|AlignEnd=20078|GE=white_man|Gloss=white_man|nWord=1|RX=[N]
-2	-le		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=20078|AlignEnd=20415|GE=[ADJZ]|Gloss=-ADJZ|nWord=1|RX=[N>ADJ]
+1	hula	hula	NOUN	_	DerPos=ADJ	2	comp:aux/m	_	AlignBegin=19740|AlignEnd=20078|GE=white_man|Gloss=white_man|nWord=1|RX=[N]
+2	-le		AUX	_	_	_	_	_	AlignBegin=20078|AlignEnd=20415|GE=[ADJZ]|Gloss=-ADJZ|nWord=1|RX=[N>ADJ]
 3	kada	kada	NOUN	_	_	_	_	_	AlignBegin=20415|AlignEnd=21090|GE=name|Gloss=name|nWord=2|RX=[N]
 4	Benino	Benino	PROPN	_	_	_	_	_	AlignBegin=21090|AlignEnd=21765|GE=[Benino]|Gloss=Benino|nWord=3|RX=[NPROP]
 5	.		PUNCT	_	_	_	_	_	AlignBegin=21765|AlignEnd=22440|Gloss=.|nWord=4
@@ -159,26 +159,26 @@
 # text = ama cha nienu gerudu , que enusuli no misi gweda , misi herere y misi dabere .
 # text_en = So my father said, That the jaguar was killed by that grandfather, a black one and a red one.
 # text_ortho = ama cha nienu gerudu , que enusuli no misi gweda , misi herere y misi dabere .
-1	ama	ama	ADV	_	_	_	_	_	AlignBegin=58780|AlignEnd=59538|GE=so|Gloss=so|nWord=1|RX=[ADV]
-2	cha	cha	PRON	_	_	3	udep:poss	_	AlignBegin=59538|AlignEnd=60296|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
-3	nienu	nienu	NOUN	_	_	4	subj	_	AlignBegin=60296|AlignEnd=61054|GE=father|Gloss=father|nWord=3|RX=[N]
-4	gerud	gerud	VERB	_	_	5	comp:aux/m	_	AlignBegin=61054|AlignEnd=61433|GE=speak|Gloss=speak|nWord=4|RX=[V]
-5	-u		AUX	_	_	_	_	_	AlignBegin=61433|AlignEnd=61812|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
-6	,		PUNCT	_	_	_	_	_	AlignBegin=61812|AlignEnd=62570|nWord=5
-7	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=62600|AlignEnd=62964|GE=that|Gloss=that|Lang=es|nWord=6|RX=[PRO]
-8	enusuli	enusuli	NOUN	_	_	11	subj	_	AlignBegin=62964|AlignEnd=63328|GE=grandfather|Gloss=grandfather|nWord=7|RX=[N]
-9	no	no	AUX	_	_	_	_	_	AlignBegin=63328|AlignEnd=63692|GE=[FOC]|Gloss=FOC|nWord=8|RX=[NOMPRT]
-10	misi	misi	NOUN	_	_	11	comp:obj	_	AlignBegin=63692|AlignEnd=64056|GE=jaguar|Gloss=jaguar|nWord=9|RX=[N]
-11	gwe	gwe	VERB	_	_	12	comp:aux/m	_	AlignBegin=64056|AlignEnd=64177|GE=kill|Gloss=sleep|nWord=10|RX=[V]
-12	-da		AUX	_	_	_	_	_	AlignBegin=64177|AlignEnd=64420|GE=[0]|Gloss=-ASP|nWord=10|RX=[VERB]
-13	,		PUNCT	_	_	_	_	_	AlignBegin=64420|AlignEnd=64784|nWord=11
-14	misi	misi	NOUN	_	_	_	_	_	AlignBegin=64784|AlignEnd=65148|GE=jaguar|Gloss=jaguar|nWord=12|RX=[N]
-15	here	here	ADJ	_	_	16	comp:aux/m	_	AlignBegin=65148|AlignEnd=65330|GE=black|Gloss=black|nWord=13|RX=[ADJ]
-16	-re		AUX	_	DerPos=ADJ	14	mod	_	AlignBegin=65330|AlignEnd=65512|GE=[ADJZ]|Gloss=-ADJZ|nWord=13|RX=[N>ADJ]
-17	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=65512|AlignEnd=65876|GE=and|Gloss=and|Lang=es|nWord=14|RX=[COORDCONN]
-18	misi	misi	NOUN	_	_	_	_	_	AlignBegin=65876|AlignEnd=66240|GE=jaguar|Gloss=jaguar|nWord=15|RX=[N]
-19	dabe	dabe	ADJ	_	_	20	comp:aux/m	_	AlignBegin=66240|AlignEnd=66422|GE=red|Gloss=red|nWord=16|RX=[ADJ]
-20	-re		AUX	_	DerPos=ADJ	18	mod	_	AlignBegin=66422|AlignEnd=66604|GE=[ADJZ]|Gloss=-ADJZ|nWord=16|RX=[N>ADJ]
+1	ama	ama	ADV	_	DerPos=ADJ	_	_	_	AlignBegin=58780|AlignEnd=59538|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	cha	cha	PRON	_	DerPos=ADJ	3	udep:poss	_	AlignBegin=59538|AlignEnd=60296|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	nienu	nienu	NOUN	_	DerPos=ADJ	4	subj	_	AlignBegin=60296|AlignEnd=61054|GE=father|Gloss=father|nWord=3|RX=[N]
+4	gerud	gerud	VERB	_	DerPos=ADJ	5	comp:aux/m	_	AlignBegin=61054|AlignEnd=61433|GE=speak|Gloss=speak|nWord=4|RX=[V]
+5	-u		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=61433|AlignEnd=61812|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
+6	,		PUNCT	_	DerPos=ADJ	_	_	_	AlignBegin=61812|AlignEnd=62570|nWord=5
+7	que	que	PRON	_	DerPos=ADJ|Foreign=Yes	_	_	_	AlignBegin=62600|AlignEnd=62964|GE=that|Gloss=that|Lang=es|nWord=6|RX=[PRO]
+8	enusuli	enusuli	NOUN	_	DerPos=ADJ	11	subj	_	AlignBegin=62964|AlignEnd=63328|GE=grandfather|Gloss=grandfather|nWord=7|RX=[N]
+9	no	no	AUX	_	DerPos=ADJ	_	_	_	AlignBegin=63328|AlignEnd=63692|GE=[FOC]|Gloss=FOC|nWord=8|RX=[NOMPRT]
+10	misi	misi	NOUN	_	DerPos=ADJ	11	comp:obj	_	AlignBegin=63692|AlignEnd=64056|GE=jaguar|Gloss=jaguar|nWord=9|RX=[N]
+11	gwe	gwe	VERB	_	DerPos=ADJ	12	comp:aux/m	_	AlignBegin=64056|AlignEnd=64177|GE=kill|Gloss=sleep|nWord=10|RX=[V]
+12	-da		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=64177|AlignEnd=64420|GE=[0]|Gloss=-ASP|nWord=10|RX=[VERB]
+13	,		PUNCT	_	DerPos=ADJ	_	_	_	AlignBegin=64420|AlignEnd=64784|nWord=11
+14	misi	misi	NOUN	_	DerPos=ADJ	_	_	_	AlignBegin=64784|AlignEnd=65148|GE=jaguar|Gloss=jaguar|nWord=12|RX=[N]
+15	here	here	ADJ	_	DerPos=ADJ	16	comp:aux/m	_	AlignBegin=65148|AlignEnd=65330|GE=black|Gloss=black|nWord=13|RX=[ADJ]
+16	-re		AUX	_	_	14	mod	_	AlignBegin=65330|AlignEnd=65512|GE=[ADJZ]|Gloss=-ADJZ|nWord=13|RX=[N>ADJ]
+17	y	y	X	_	DerPos=ADJ|Foreign=Yes	_	_	_	AlignBegin=65512|AlignEnd=65876|GE=and|Gloss=and|Lang=es|nWord=14|RX=[COORDCONN]
+18	misi	misi	NOUN	_	DerPos=ADJ	_	_	_	AlignBegin=65876|AlignEnd=66240|GE=jaguar|Gloss=jaguar|nWord=15|RX=[N]
+19	dabe	dabe	ADJ	_	DerPos=ADJ	20	comp:aux/m	_	AlignBegin=66240|AlignEnd=66422|GE=red|Gloss=red|nWord=16|RX=[ADJ]
+20	-re		AUX	_	_	18	mod	_	AlignBegin=66422|AlignEnd=66604|GE=[ADJZ]|Gloss=-ADJZ|nWord=16|RX=[N>ADJ]
 21	.		PUNCT	_	_	_	_	_	AlignBegin=66604|AlignEnd=66970|Gloss=.|nWord=17
 
 # sent_id = SAB-TXT-OS-00001-01_11-11
@@ -406,13 +406,13 @@
 # text_en = (He) stayed sick,
 # text_ortho = okadu okadu okadu .
 1	oka	oka	VERB	_	_	2	comp:aux/m	_	AlignBegin=122250|AlignEnd=122363|GE=ill|Gloss=ill|nWord=1|RX=[V]
-2	-d-		AUX	_	_	_	_	_	AlignBegin=122363|AlignEnd=122476|GE=[0]|Gloss=-0-|nWord=1|RX=[VERB]
+2	-d		AUX	_	_	_	_	_	AlignBegin=122363|AlignEnd=122476|GE=[0]|Gloss=-0-|nWord=1|RX=[VERB]|wordform=-d-
 3	u	u	NOUN	_	_	_	_	_	AlignBegin=122476|AlignEnd=122588|GE=house|Gloss=house|nWord=1|RX=[N]
 4	oka	oka	VERB	_	_	5	comp:aux/m	_	AlignBegin=122588|AlignEnd=122701|GE=ill|Gloss=ill|nWord=2|RX=[V]
-5	-d-		AUX	_	_	_	_	_	AlignBegin=122701|AlignEnd=122814|GE=[0]|Gloss=-0-|nWord=2|RX=[VERB]
+5	-d		AUX	_	_	_	_	_	AlignBegin=122701|AlignEnd=122814|GE=[0]|Gloss=-0-|nWord=2|RX=[VERB]|wordform=-d-
 6	u	u	NOUN	_	_	_	_	_	AlignBegin=122814|AlignEnd=122926|GE=house|Gloss=house|nWord=2|RX=[N]
 7	oka	oka	VERB	_	_	8	comp:aux/m	_	AlignBegin=122926|AlignEnd=123039|GE=ill|Gloss=ill|nWord=3|RX=[V]
-8	-d-		AUX	_	_	_	_	_	AlignBegin=123039|AlignEnd=123152|GE=[0]|Gloss=-0-|nWord=3|RX=[VERB]
+8	-d		AUX	_	_	_	_	_	AlignBegin=123039|AlignEnd=123152|GE=[0]|Gloss=-0-|nWord=3|RX=[VERB]|wordform=-d-
 9	u	u	NOUN	_	_	_	_	_	AlignBegin=123152|AlignEnd=123264|GE=house|Gloss=house|nWord=3|RX=[N]
 10	.		PUNCT	_	_	_	_	_	AlignBegin=123264|AlignEnd=123600|Gloss=.|nWord=4
 
@@ -538,7 +538,7 @@
 # text_en = (He) was waiting.
 # text_ortho = gwakedu .
 1	gwake	gwake	VERB	_	_	2	comp:aux/m	_	AlignBegin=145015|AlignEnd=145106|GE=wait|Gloss=wait|nWord=1|RX=[V]
-2	-d-		AUX	_	_	3	comp:aux/m	_	AlignBegin=145106|AlignEnd=145197|GE=[0]|Gloss=-0-|nWord=1|RX=[VERB]
+2	-d		AUX	_	_	3	comp:aux/m	_	AlignBegin=145106|AlignEnd=145197|GE=[0]|Gloss=-0-|nWord=1|RX=[VERB]|wordform=-d-
 3	-u		AUX	_	_	0	root	_	AlignBegin=145197|AlignEnd=145287|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]
 4	.		PUNCT	_	_	3	punct	_	AlignBegin=145287|AlignEnd=145560|Gloss=.|nWord=2
 
@@ -688,21 +688,21 @@
 # text = misi chugao na kweri chringa puso chke beke , ne misi chadale .
 # text_en = (He) put the other, bigger, jaguar's head. The colored jaguar's one.
 # text_ortho = misi chugao na kweri chringa puso chke beke , ne misi chadale .
-1	misi	misi	NOUN	_	_	2	udep:poss	_	AlignBegin=169200|AlignEnd=169492|GE=jaguar|Gloss=jaguar|nWord=1|RX=[N]
-2	chugao	chugao	NOUN	_	_	_	_	_	AlignBegin=169492|AlignEnd=169784|GE=head|Gloss=head|nWord=2|RX=[N]
-3	na	na	ADJ	_	_	2	mod	_	AlignBegin=169784|AlignEnd=170076|GE=other|Gloss=other|nWord=3|RX=[DET]
-4	kweri	kweri	ADJ	_	_	_	_	_	AlignBegin=170076|AlignEnd=170368|GE=big|Gloss=big|nWord=4|RX=[ADJ]
-5	chringa	chringa	ADJ	_	_	_	_	_	AlignBegin=170368|AlignEnd=170660|GE=big|Gloss=big|nWord=5|RX=[ADJ]
-6	puso	puso	VERB	_	_	_	_	_	AlignBegin=170660|AlignEnd=170952|GE=put|Gloss=put|nWord=6|RX=[V]
-7	chk	chk	VERB	_	_	8	comp:aux/m	_	AlignBegin=170952|AlignEnd=171098|GE=arrive|Gloss=arrive|nWord=7|RX=[VI]
-8	-e		AUX	_	_	_	_	_	AlignBegin=171098|AlignEnd=171244|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
-9	bek	bek	VERB	_	_	10	comp:aux/m	_	AlignBegin=171244|AlignEnd=171390|GE=put|Gloss=put|nWord=8|RX=[V]
-10	-e		AUX	_	_	_	_	_	AlignBegin=171390|AlignEnd=171536|GE=[THM]|Gloss=-THM|nWord=8|RX=[V:ANY]
-11	,		PUNCT	_	_	_	_	_	AlignBegin=171536|AlignEnd=171830|nWord=9
-12	ne	ne	DET	_	_	_	_	_	AlignBegin=171865|AlignEnd=172463|GE=that|Gloss=that|nWord=10|RX=[DET]
-13	misi	misi	NOUN	_	_	14	udep:poss	_	AlignBegin=172463|AlignEnd=173061|GE=jaguar|Gloss=jaguar|nWord=11|RX=[N]
-14	chada	chada	NOUN	_	_	15	comp:aux/m	_	AlignBegin=173061|AlignEnd=173360|GE=color|Gloss=color|nWord=12|RX=[N]
-15	-le		AUX	_	DerPos=ADJ	13	mod	_	AlignBegin=173360|AlignEnd=173659|GE=[ADJZ]|Gloss=-ADJZ|nWord=12|RX=[N>ADJ]
+1	misi	misi	NOUN	_	DerPos=ADJ	2	udep:poss	_	AlignBegin=169200|AlignEnd=169492|GE=jaguar|Gloss=jaguar|nWord=1|RX=[N]
+2	chugao	chugao	NOUN	_	DerPos=ADJ	_	_	_	AlignBegin=169492|AlignEnd=169784|GE=head|Gloss=head|nWord=2|RX=[N]
+3	na	na	ADJ	_	DerPos=ADJ	2	mod	_	AlignBegin=169784|AlignEnd=170076|GE=other|Gloss=other|nWord=3|RX=[DET]
+4	kweri	kweri	ADJ	_	DerPos=ADJ	_	_	_	AlignBegin=170076|AlignEnd=170368|GE=big|Gloss=big|nWord=4|RX=[ADJ]
+5	chringa	chringa	ADJ	_	DerPos=ADJ	_	_	_	AlignBegin=170368|AlignEnd=170660|GE=big|Gloss=big|nWord=5|RX=[ADJ]
+6	puso	puso	VERB	_	DerPos=ADJ	_	_	_	AlignBegin=170660|AlignEnd=170952|GE=put|Gloss=put|nWord=6|RX=[V]
+7	chk	chk	VERB	_	DerPos=ADJ	8	comp:aux/m	_	AlignBegin=170952|AlignEnd=171098|GE=arrive|Gloss=arrive|nWord=7|RX=[VI]
+8	-e		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=171098|AlignEnd=171244|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
+9	bek	bek	VERB	_	DerPos=ADJ	10	comp:aux/m	_	AlignBegin=171244|AlignEnd=171390|GE=put|Gloss=put|nWord=8|RX=[V]
+10	-e		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=171390|AlignEnd=171536|GE=[THM]|Gloss=-THM|nWord=8|RX=[V:ANY]
+11	,		PUNCT	_	DerPos=ADJ	_	_	_	AlignBegin=171536|AlignEnd=171830|nWord=9
+12	ne	ne	DET	_	DerPos=ADJ	_	_	_	AlignBegin=171865|AlignEnd=172463|GE=that|Gloss=that|nWord=10|RX=[DET]
+13	misi	misi	NOUN	_	DerPos=ADJ	14	udep:poss	_	AlignBegin=172463|AlignEnd=173061|GE=jaguar|Gloss=jaguar|nWord=11|RX=[N]
+14	chada	chada	NOUN	_	DerPos=ADJ	15	comp:aux/m	_	AlignBegin=173061|AlignEnd=173360|GE=color|Gloss=color|nWord=12|RX=[N]
+15	-le		AUX	_	_	13	mod	_	AlignBegin=173360|AlignEnd=173659|GE=[ADJZ]|Gloss=-ADJZ|nWord=12|RX=[N>ADJ]
 16	.		PUNCT	_	_	_	_	_	AlignBegin=173659|AlignEnd=174255|Gloss=.|nWord=13
 
 # sent_id = SAB-TXT-OS-00001-01_47-47
@@ -713,17 +713,17 @@
 # text = che aini cha Chere cha kle kade misi chadale .
 # text_en = Us, in Bokota, I call it colored jaguar.
 # text_ortho = che aini cha Chere cha kle kade misi chadale .
-1	che	che	PRON	_	_	_	_	_	AlignBegin=174255|AlignEnd=174559|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
-2	aini	aini	ADV	_	_	_	_	_	AlignBegin=174559|AlignEnd=174863|GE=here|Gloss=here|nWord=2|RX=[ADV]
-3	cha	cha	PRON	_	_	_	_	_	AlignBegin=174863|AlignEnd=175167|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
-4	Chere	Chere	PROPN	_	_	_	_	_	AlignBegin=175167|AlignEnd=175471|GE=[Chere]|Gloss=Chere|nWord=4|RX=[NPROP]
-5	cha	cha	PRON	_	_	7	subj	_	AlignBegin=175471|AlignEnd=175775|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
-6	kle	kle	AUX	_	_	0	root	_	AlignBegin=175775|AlignEnd=176079|GE=be|Gloss=be|nWord=6|RX=[V]
-7	kad	kad	VERB	_	_	8	comp:aux/m	_	AlignBegin=176079|AlignEnd=176231|GE=call|Gloss=call|nWord=7|RX=[V]
-8	-e		AUX	_	_	6	comp:aux	_	AlignBegin=176231|AlignEnd=176383|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
-9	misi	misi	NOUN	_	_	_	_	_	AlignBegin=176383|AlignEnd=176687|GE=jaguar|Gloss=jaguar|nWord=8|RX=[N]
-10	chada	chada	NOUN	_	_	11	comp:aux/m	_	AlignBegin=176687|AlignEnd=176839|GE=color|Gloss=color|nWord=9|RX=[N]
-11	-le		AUX	_	DerPos=ADJ	9	mod	_	AlignBegin=176839|AlignEnd=176991|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
+1	che	che	PRON	_	DerPos=ADJ	_	_	_	AlignBegin=174255|AlignEnd=174559|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	aini	aini	ADV	_	DerPos=ADJ	_	_	_	AlignBegin=174559|AlignEnd=174863|GE=here|Gloss=here|nWord=2|RX=[ADV]
+3	cha	cha	PRON	_	DerPos=ADJ	_	_	_	AlignBegin=174863|AlignEnd=175167|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
+4	Chere	Chere	PROPN	_	DerPos=ADJ	_	_	_	AlignBegin=175167|AlignEnd=175471|GE=[Chere]|Gloss=Chere|nWord=4|RX=[NPROP]
+5	cha	cha	PRON	_	DerPos=ADJ	7	subj	_	AlignBegin=175471|AlignEnd=175775|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
+6	kle	kle	AUX	_	DerPos=ADJ	0	root	_	AlignBegin=175775|AlignEnd=176079|GE=be|Gloss=be|nWord=6|RX=[V]
+7	kad	kad	VERB	_	DerPos=ADJ	8	comp:aux/m	_	AlignBegin=176079|AlignEnd=176231|GE=call|Gloss=call|nWord=7|RX=[V]
+8	-e		AUX	_	DerPos=ADJ	6	comp:aux	_	AlignBegin=176231|AlignEnd=176383|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
+9	misi	misi	NOUN	_	DerPos=ADJ	_	_	_	AlignBegin=176383|AlignEnd=176687|GE=jaguar|Gloss=jaguar|nWord=8|RX=[N]
+10	chada	chada	NOUN	_	DerPos=ADJ	11	comp:aux/m	_	AlignBegin=176687|AlignEnd=176839|GE=color|Gloss=color|nWord=9|RX=[N]
+11	-le		AUX	_	_	9	mod	_	AlignBegin=176839|AlignEnd=176991|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
 12	.		PUNCT	_	_	6	punct	_	AlignBegin=176991|AlignEnd=177295|Gloss=.|nWord=10
 
 # sent_id = SAB-TXT-OS-00001-01_48-48

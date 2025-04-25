@@ -30,7 +30,7 @@
 7	dui	dui	NOUN	_	_	8	comp	_	AlignBegin=10610|AlignEnd=10860|GE=dirt|Gloss=dirt|nWord=6|RX=[N]
 8	ke	ke	ADP	_	_	5	comp:obl	_	AlignBegin=10860|AlignEnd=11110|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
 9	,		PUNCT	_	_	2	punct	_	AlignBegin=11110|AlignEnd=11360|nWord=8
-10	para	para	SCONJ	_	Foreign=Yes	2	mod:purpose	_	AlignBegin=11360|AlignEnd=11670|GE=to|Gloss=to|Lang=es|nWord=9|RX=[ADP]
+10	para	para	SCONJ	_	Foreign=Yes	2	mod:purp	_	AlignBegin=11360|AlignEnd=11670|GE=to|Gloss=to|Lang=es|nWord=9|RX=[ADP]
 11	u	u	NOUN	_	_	12	comp:obj	_	AlignBegin=11670|AlignEnd=11980|GE=house|Gloss=house|nWord=10|RX=[N]
 12	dodad	dodad	VERB	_	_	13	comp:aux/m	_	AlignBegin=11980|AlignEnd=12135|GE=make|Gloss=make|nWord=11|RX=[VT]
 13	-e		AUX	_	_	10	comp	_	AlignBegin=12135|AlignEnd=12290|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]

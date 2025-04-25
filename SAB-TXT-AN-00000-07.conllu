@@ -42,9 +42,9 @@
 # text = geru hulale mil quiniento y dos llego Cristobald Colon en che ngania giti que significa Panama , hula chku , che batenga alla unaske .
 # text_en = The white men story came in 1502, Cristobald Colon arrived in my country and in the place we call Panama, The white men came, To kill my people there in the city.
 # text_ortho = geru hulale mil quiniento y dos llego Cristobald Colon en che ngania giti que significa Panama , hula chku , che batenga alla unaske .
-1	geru	geru	NOUN	_	_	_	_	_	AlignBegin=19670|AlignEnd=20069|GE=story|Gloss=story|nWord=1|RX=[N]
-2	hula	hula	NOUN	_	_	3	comp:aux/m	_	AlignBegin=20069|AlignEnd=20269|GE=white_man|Gloss=white_man|nWord=2|RX=[N]
-3	-le		AUX	_	DerPos=ADJ	1	mod	_	AlignBegin=20269|AlignEnd=20468|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
+1	geru	geru	NOUN	_	DerPos=ADJ	_	_	_	AlignBegin=19670|AlignEnd=20069|GE=story|Gloss=story|nWord=1|RX=[N]
+2	hula	hula	NOUN	_	DerPos=ADJ	3	comp:aux/m	_	AlignBegin=20069|AlignEnd=20269|GE=white_man|Gloss=white_man|nWord=2|RX=[N]
+3	-le		AUX	_	_	1	mod	_	AlignBegin=20269|AlignEnd=20468|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
 4	mil	mil	NUM	_	_	_	_	_	AlignBegin=20468|AlignEnd=20867|GE=thousand|Gloss=thousand|nWord=3|RX=[NUM]
 5	quiniento	quiniento	NUM	_	_	_	_	_	AlignBegin=20867|AlignEnd=21266|GE=five_hundred|Gloss=five_hundred|nWord=4|RX=[NUM]
 6	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=21266|AlignEnd=21665|GE=and|Gloss=and|Lang=es|nWord=5|RX=[COORDCONN]
@@ -148,14 +148,14 @@
 # text = pero che ngliare me , ho toi daba ole , entonces enusuli chku aini nante .
 # text_en = But there were no chief. They went to live with their brothers. So the ancestor came further here.
 # text_ortho = pero che ngliare me , ho toi daba ole , entonces enusuli chku aini nante .
-1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=44122|AlignEnd=44722|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
-2	che	che	PRON	_	_	3	udep:poss	_	AlignBegin=44722|AlignEnd=45322|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
-3	nglia	nglia	NOUN	_	_	4	comp:aux/m	_	AlignBegin=45322|AlignEnd=45622|GE=king|Gloss=king|nWord=3|RX=[N]
-4	-re		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=45622|AlignEnd=45922|GE=[ADJZ]|Gloss=-ADJZ|nWord=3|RX=[N>ADJ]
+1	pero	pero	X	_	DerPos=ADJ|Foreign=Yes	_	_	_	AlignBegin=44122|AlignEnd=44722|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
+2	che	che	PRON	_	DerPos=ADJ	3	udep:poss	_	AlignBegin=44722|AlignEnd=45322|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
+3	nglia	nglia	NOUN	_	DerPos=ADJ	4	comp:aux/m	_	AlignBegin=45322|AlignEnd=45622|GE=king|Gloss=king|nWord=3|RX=[N]
+4	-re		AUX	_	_	_	_	_	AlignBegin=45622|AlignEnd=45922|GE=[ADJZ]|Gloss=-ADJZ|nWord=3|RX=[N>ADJ]
 5	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=45922|AlignEnd=46522|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
 6	,		PUNCT	_	_	_	_	_	AlignBegin=46522|AlignEnd=47122|nWord=5
 7	ho	hoke	VERB	_	_	_	_	_	AlignBegin=47750|AlignEnd=47954|GE=[go].[PST]|Gloss=go.PST|nWord=6|RX=[VI]
-8	toi	toi	VERB	_	_	7	mod:purpose	_	AlignBegin=47954|AlignEnd=48158|GE=live|Gloss=live|nWord=7|RX=[VI]
+8	toi	toi	VERB	_	_	7	mod:purp	_	AlignBegin=47954|AlignEnd=48158|GE=live|Gloss=live|nWord=7|RX=[VI]
 9	daba	daba	NOUN	_	_	10	comp	_	AlignBegin=48158|AlignEnd=48362|GE=brother|Gloss=brother|nWord=8|RX=[N]
 10	ole	ole	ADP	_	_	8	comp:obl	_	AlignBegin=48362|AlignEnd=48566|GE=[COM]|Gloss=COM|nWord=9|RX=[ADP]
 11	,		PUNCT	_	_	_	_	_	AlignBegin=48566|AlignEnd=48770|nWord=10

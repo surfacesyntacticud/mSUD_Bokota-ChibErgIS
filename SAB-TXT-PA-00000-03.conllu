@@ -6,17 +6,17 @@
 # text = kwia ho chage , hong ngania que ho skwendu bateare .
 # text_en = People went to walk, The path up there that I think is long.
 # text_ortho = kwia ho chage , hong ngania que ho skwendu bateare .
-1	kwia	kwia	NOUN	_	_	_	_	_	AlignBegin=8780|AlignEnd=9198|GE=people|Gloss=people|nWord=1|RX=[N]
-2	ho	hoke	AUX	_	_	_	_	_	AlignBegin=9198|AlignEnd=9616|GE=[go].[PST]|Gloss=go.PST|nWord=2|RX=[VI]
-3	chage	chage	VERB	_	_	2	comp:aux	_	AlignBegin=9616|AlignEnd=10034|GE=walk|Gloss=walk|nWord=3|RX=[VI]
-4	,		PUNCT	_	_	_	_	_	AlignBegin=10034|AlignEnd=10450|nWord=4
-5	hong	hong	NOUN	_	_	_	_	_	AlignBegin=10700|AlignEnd=11091|GE=path|Gloss=path|nWord=5|RX=[N]
-6	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=11091|AlignEnd=11482|GE=up|Gloss=up|nWord=6|RX=[ADV]
-7	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=11482|AlignEnd=11873|GE=that|Gloss=that|Lang=es|nWord=7|RX=[PRO]
-8	ho	hoke	AUX	_	_	_	_	_	AlignBegin=11873|AlignEnd=12264|GE=[go].[PST]|Gloss=go.PST|nWord=8|RX=[VI]
-9	skwendu	skwendu	VERB	_	_	8	comp:aux	_	AlignBegin=12264|AlignEnd=12655|GE=appear.pst|Gloss=appear.pst|nWord=9|RX=[V]
-10	bate	bate	ADV	_	_	11	comp:aux/m	_	AlignBegin=12655|AlignEnd=12851|GE=away|Gloss=away|nWord=10|RX=[ADV]
-11	-are		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=12851|AlignEnd=13046|GE=[ADJZ]|Gloss=-ADJZ|nWord=10|RX=[N>ADJ]
+1	kwia	kwia	NOUN	_	DerPos=ADJ	_	_	_	AlignBegin=8780|AlignEnd=9198|GE=people|Gloss=people|nWord=1|RX=[N]
+2	ho	hoke	AUX	_	DerPos=ADJ	_	_	_	AlignBegin=9198|AlignEnd=9616|GE=[go].[PST]|Gloss=go.PST|nWord=2|RX=[VI]
+3	chage	chage	VERB	_	DerPos=ADJ	2	comp:aux	_	AlignBegin=9616|AlignEnd=10034|GE=walk|Gloss=walk|nWord=3|RX=[VI]
+4	,		PUNCT	_	DerPos=ADJ	_	_	_	AlignBegin=10034|AlignEnd=10450|nWord=4
+5	hong	hong	NOUN	_	DerPos=ADJ	_	_	_	AlignBegin=10700|AlignEnd=11091|GE=path|Gloss=path|nWord=5|RX=[N]
+6	ngania	ngania	ADV	_	DerPos=ADJ	_	_	_	AlignBegin=11091|AlignEnd=11482|GE=up|Gloss=up|nWord=6|RX=[ADV]
+7	que	que	PRON	_	DerPos=ADJ|Foreign=Yes	_	_	_	AlignBegin=11482|AlignEnd=11873|GE=that|Gloss=that|Lang=es|nWord=7|RX=[PRO]
+8	ho	hoke	AUX	_	DerPos=ADJ	_	_	_	AlignBegin=11873|AlignEnd=12264|GE=[go].[PST]|Gloss=go.PST|nWord=8|RX=[VI]
+9	skwendu	skwendu	VERB	_	DerPos=ADJ	8	comp:aux	_	AlignBegin=12264|AlignEnd=12655|GE=appear.pst|Gloss=appear.pst|nWord=9|RX=[V]
+10	bate	bate	ADV	_	DerPos=ADJ	11	comp:aux/m	_	AlignBegin=12655|AlignEnd=12851|GE=away|Gloss=away|nWord=10|RX=[ADV]
+11	-are		AUX	_	_	_	_	_	AlignBegin=12851|AlignEnd=13046|GE=[ADJZ]|Gloss=-ADJZ|nWord=10|RX=[N>ADJ]
 12	.		PUNCT	_	_	_	_	_	AlignBegin=13046|AlignEnd=13440|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-PA-00000-03_03-03
@@ -148,7 +148,7 @@
 4	me	me	AUX	_	Polarity=Neg	2	comp	_	AlignBegin=37128|AlignEnd=37344|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
 5	ho	hoke	VERB	_	_	4	comp:aux	_	AlignBegin=37344|AlignEnd=37560|GE=go.PST|Gloss=go.PST|nWord=5|RX=[V]
 6	hong	hong	NOUN	_	_	7	comp:obj	_	AlignBegin=37560|AlignEnd=37776|GE=path|Gloss=path|nWord=6|RX=[N]
-7	tkenga	tkenga	VERB	_	_	5	mod:purpose	_	AlignBegin=37776|AlignEnd=37992|GE=[cut].[NPST]|Gloss=cut.NPST|nWord=7|RX=[VT]
+7	tkenga	tkenga	VERB	_	_	5	mod:purp	_	AlignBegin=37776|AlignEnd=37992|GE=[cut].[NPST]|Gloss=cut.NPST|nWord=7|RX=[VT]
 8	,		PUNCT	_	_	_	_	_	AlignBegin=37992|AlignEnd=38210|nWord=8
 9	hong	hong	NOUN	_	_	_	_	_	AlignBegin=38570|AlignEnd=38840|GE=path|Gloss=path|nWord=9|RX=[N]
 10	mendale	mendale	PART	_	_	_	_	_	AlignBegin=38840|AlignEnd=39110|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]

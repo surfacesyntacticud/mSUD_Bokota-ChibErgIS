@@ -30,7 +30,7 @@
 9	,		PUNCT	_	_	3	punct	_	AlignBegin=12066|AlignEnd=12330|nWord=7
 10	cha	cha	PRON	_	_	11	subj	_	AlignBegin=12385|AlignEnd=12629|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
 11	toi	toi	VERB	_	_	12	comp:aux/m	_	AlignBegin=12629|AlignEnd=12710|GE=live|Gloss=live|nWord=9|RX=[VI]
-12	-d-		AUX	_	_	13	comp:aux/m	_	AlignBegin=12710|AlignEnd=12791|GE=[0]|Gloss=-0-|nWord=9|RX=[VERB]
+12	-d		AUX	_	_	13	comp:aux/m	_	AlignBegin=12710|AlignEnd=12791|GE=[0]|Gloss=-0-|nWord=9|RX=[VERB]|wordform=-d-
 13	-u		AUX	_	_	7	mod	_	AlignBegin=12791|AlignEnd=12873|GE=[PST]|Gloss=-PST|nWord=9|RX=[V:ANY]
 14	mine	mine	PART	_	_	11	mod	_	AlignBegin=12873|AlignEnd=13117|GE=[Q]|Gloss=Q|nWord=10|RX=[Q]
 15	aini	aini	ADV	_	_	11	mod:lmod	_	AlignBegin=13117|AlignEnd=13361|GE=here|Gloss=here|nWord=11|RX=[ADV]
@@ -297,7 +297,7 @@
 12	cha	cha	PRON	_	_	13	comp	_	AlignBegin=74589|AlignEnd=75070|GE=[1SG]|Gloss=1SG|nWord=10|RX=[PRO]
 13	ke	ke	ADP	_	_	10	comp:obl	_	AlignBegin=75070|AlignEnd=75551|GE=[DAT]|Gloss=DAT|nWord=11|RX=[ADP]
 14	,		PUNCT	_	_	_	_	_	AlignBegin=75551|AlignEnd=76030|nWord=12
-15	para	para	SCONJ	_	Foreign=Yes	10	mod:purpose	_	AlignBegin=76060|AlignEnd=76485|GE=for|Gloss=for|Lang=es|nWord=13|RX=[ADP]
+15	para	para	SCONJ	_	Foreign=Yes	10	mod:purp	_	AlignBegin=76060|AlignEnd=76485|GE=for|Gloss=for|Lang=es|nWord=13|RX=[ADP]
 16	geru	geru	NOUN	_	_	17	comp:obj	_	AlignBegin=76485|AlignEnd=76910|GE=story|Gloss=story|nWord=14|RX=[N]
 17	dodad	dodad	VERB	_	_	18	comp:aux/m	_	AlignBegin=76910|AlignEnd=77122|GE=make|Gloss=make|nWord=15|RX=[VT]
 18	-e		AUX	_	_	15	comp	_	AlignBegin=77122|AlignEnd=77335|GE=[THM]|Gloss=-THM|nWord=15|RX=[V:ANY]

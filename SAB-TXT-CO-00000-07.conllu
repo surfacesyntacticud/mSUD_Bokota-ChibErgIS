@@ -112,7 +112,7 @@
 4	mlie	mli	VERB	_	_	2	comp:aux	_	AlignBegin=37876|AlignEnd=38308|GE=throw|Gloss=throw|nWord=4|RX=[VT]
 5	ung	ung	NOUN	_	_	6	comp	_	AlignBegin=38308|AlignEnd=38740|GE=pan|Gloss=pan|nWord=5|RX=[N]
 6	ke	ke	ADP	_	_	4	comp:obl	_	AlignBegin=38740|AlignEnd=39172|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
-7	para	para	SCONJ	_	Foreign=Yes	4	mod:purpose	_	AlignBegin=39172|AlignEnd=39604|GE=for|Gloss=for|Lang=es|nWord=7|RX=[ADP]
+7	para	para	SCONJ	_	Foreign=Yes	4	mod:purp	_	AlignBegin=39172|AlignEnd=39604|GE=for|Gloss=for|Lang=es|nWord=7|RX=[ADP]
 8	koi	koi	NOUN	_	_	9	comp:obj	_	AlignBegin=39604|AlignEnd=40036|GE=chicken|Gloss=chicken|nWord=8|RX=[N]
 9	huk	huk	VERB	_	_	10	comp:aux/m	_	AlignBegin=40036|AlignEnd=40252|GE=pluck|Gloss=pluck|nWord=9|RX=[V]
 10	-e		AUX	_	_	7	comp	_	AlignBegin=40252|AlignEnd=40468|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]

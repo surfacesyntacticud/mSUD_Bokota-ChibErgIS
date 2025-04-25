@@ -45,14 +45,14 @@
 # text = ama gitire che kle gwichuke samlale , che kle gwichuke die gute , ama gitire che kle gwichuke ese .
 # text_en = So then he dreams about meat. He dreams about the things to eat. So then he dreams about this.
 # text_ortho = ama gitire che kle gwichuke samlale , che kle gwichuke die gute , ama gitire che kle gwichuke ese .
-1	ama	ama	ADV	_	_	5	discourse	_	AlignBegin=23700|AlignEnd=24177|GE=so|Gloss=so|nWord=1|RX=[ADV]
-2	gitire	gitire	ADV	_	_	5	mod	_	AlignBegin=24177|AlignEnd=24654|GE=then|Gloss=then|nWord=2|RX=[ADV]
-3	che	che	PRON	_	_	5	subj	_	AlignBegin=24654|AlignEnd=25131|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
-4	kle	kle	AUX	_	_	0	root	_	AlignBegin=25131|AlignEnd=25608|GE=be|Gloss=be|nWord=4|RX=[V]
-5	gwichuk	gwichuk	VERB	_	_	6	comp:aux/m	_	AlignBegin=25608|AlignEnd=25846|GE=dream|Gloss=dream|nWord=5|RX=[V]
-6	-e		AUX	_	_	4	comp:aux	_	AlignBegin=25846|AlignEnd=26085|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
-7	samla	samla	NOUN	_	_	8	comp:aux/m	_	AlignBegin=26085|AlignEnd=26323|GE=meat|Gloss=meat|nWord=6|RX=[N]
-8	-le		AUX	_	DerPos=ADJ	5	mod	_	AlignBegin=26323|AlignEnd=26562|GE=[ADJZ]|Gloss=-ADJZ|nWord=6|RX=[N>ADJ]
+1	ama	ama	ADV	_	DerPos=ADJ	5	discourse	_	AlignBegin=23700|AlignEnd=24177|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	gitire	gitire	ADV	_	DerPos=ADJ	5	mod	_	AlignBegin=24177|AlignEnd=24654|GE=then|Gloss=then|nWord=2|RX=[ADV]
+3	che	che	PRON	_	DerPos=ADJ	5	subj	_	AlignBegin=24654|AlignEnd=25131|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
+4	kle	kle	AUX	_	DerPos=ADJ	0	root	_	AlignBegin=25131|AlignEnd=25608|GE=be|Gloss=be|nWord=4|RX=[V]
+5	gwichuk	gwichuk	VERB	_	DerPos=ADJ	6	comp:aux/m	_	AlignBegin=25608|AlignEnd=25846|GE=dream|Gloss=dream|nWord=5|RX=[V]
+6	-e		AUX	_	DerPos=ADJ	4	comp:aux	_	AlignBegin=25846|AlignEnd=26085|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	samla	samla	NOUN	_	DerPos=ADJ	8	comp:aux/m	_	AlignBegin=26085|AlignEnd=26323|GE=meat|Gloss=meat|nWord=6|RX=[N]
+8	-le		AUX	_	_	5	mod	_	AlignBegin=26323|AlignEnd=26562|GE=[ADJZ]|Gloss=-ADJZ|nWord=6|RX=[N>ADJ]
 9	,		PUNCT	_	_	4	punct	_	AlignBegin=26562|AlignEnd=27040|nWord=7
 10	che	che	PRON	_	_	12	subj	_	AlignBegin=27180|AlignEnd=27660|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=8|RX=[PRO]
 11	kle	kle	AUX	_	_	4	conj:coord	_	AlignBegin=27660|AlignEnd=28140|GE=be|Gloss=be|nWord=9|RX=[V]
@@ -172,7 +172,7 @@
 15	gut	gut	VERB	_	_	16	comp:aux/m	_	AlignBegin=57064|AlignEnd=57285|GE=eat|Gloss=eat|nWord=13|RX=[VT]
 16	-e		AUX	_	_	11	conj:coord	_	AlignBegin=57285|AlignEnd=57506|GE=[THM]|Gloss=-THM|nWord=13|RX=[V:ANY]
 17	,		PUNCT	_	_	_	_	_	AlignBegin=57506|AlignEnd=57950|nWord=14
-18	para	para	SCONJ	_	Foreign=Yes	7	mod:purpose	_	AlignBegin=58130|AlignEnd=58668|GE=to|Gloss=to|Lang=es|nWord=15|RX=[ADP]
+18	para	para	SCONJ	_	Foreign=Yes	7	mod:purp	_	AlignBegin=58130|AlignEnd=58668|GE=to|Gloss=to|Lang=es|nWord=15|RX=[ADP]
 19	que	que	X	_	Foreign=Yes	18	compound	_	AlignBegin=58668|AlignEnd=59206|GE=that|Gloss=that|Lang=es|nWord=16|RX=[PRO]
 20	che	che	PRON	_	_	21	udep:poss	_	AlignBegin=59206|AlignEnd=59744|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=17|RX=[PRO]
 21	onia	onia	NOUN	_	_	26	subj	_	AlignBegin=59744|AlignEnd=60282|GE=soul|Gloss=soul|nWord=18|RX=[N]

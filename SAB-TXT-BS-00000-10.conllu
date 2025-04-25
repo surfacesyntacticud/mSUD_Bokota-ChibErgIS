@@ -65,7 +65,7 @@
 26	,		PUNCT	_	_	_	_	_	AlignBegin=34842|AlignEnd=35760|nWord=22
 27	kle	kle	AUX	_	_	_	_	_	AlignBegin=35780|AlignEnd=36124|GE=be|Gloss=be|nWord=23|RX=[V]
 28	mana	mana	VERB	_	_	29	comp:aux/m	_	AlignBegin=36124|AlignEnd=36239|GE=take_care|Gloss=take_care|nWord=24|RX=[V]
-29	-d-		AUX	_	_	30	comp:aux/m	_	AlignBegin=36239|AlignEnd=36354|GE=[0]|Gloss=-0-|nWord=24|RX=[VERB]
+29	-d		AUX	_	_	30	comp:aux/m	_	AlignBegin=36239|AlignEnd=36354|GE=[0]|Gloss=-0-|nWord=24|RX=[VERB]|wordform=-d-
 30	-e		AUX	_	_	27	comp:aux	_	AlignBegin=36354|AlignEnd=36468|GE=[THM]|Gloss=-THM|nWord=24|RX=[V:ANY]
 31	dike	dike	ADP	_	_	_	_	_	AlignBegin=36468|AlignEnd=36812|GE=[INST]|Gloss=INST|nWord=25|RX=[ADP]
 32	.		PUNCT	_	_	_	_	_	AlignBegin=36812|AlignEnd=37155|Gloss=.|nWord=26
@@ -118,7 +118,7 @@
 1	ama	ama	ADV	_	_	_	_	_	AlignBegin=48655|AlignEnd=49421|GE=so|Gloss=so|nWord=1|RX=[ADV]
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=49421|AlignEnd=50187|GE=be|Gloss=be|nWord=2|RX=[V]
 3	mana	mana	VERB	_	_	4	comp:aux/m	_	AlignBegin=50187|AlignEnd=50442|GE=take_care|Gloss=take_care|nWord=3|RX=[V]
-4	-d-		AUX	_	_	5	comp:aux/m	_	AlignBegin=50442|AlignEnd=50697|GE=[0]|Gloss=-0-|nWord=3|RX=[VERB]
+4	-d		AUX	_	_	5	comp:aux/m	_	AlignBegin=50442|AlignEnd=50697|GE=[0]|Gloss=-0-|nWord=3|RX=[VERB]|wordform=-d-
 5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=50697|AlignEnd=50953|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 6	,		PUNCT	_	_	_	_	_	AlignBegin=50953|AlignEnd=51720|nWord=4
 7	hasta	hasta	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=51720|AlignEnd=52038|GE=to|Gloss=to|Lang=es|nWord=5|RX=[ADP]

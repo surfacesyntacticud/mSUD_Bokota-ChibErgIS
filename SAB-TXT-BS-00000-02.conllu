@@ -160,7 +160,7 @@
 9	gna	gna	AUX	_	_	_	_	_	AlignBegin=59708|AlignEnd=60082|GE=can|Gloss=can|nWord=7|RX=[V]
 10	hoke	hoke	VERB	_	_	9	comp:aux	_	AlignBegin=60082|AlignEnd=60456|GE=go|Gloss=go|nWord=8|RX=[VI]
 11	tieng	tieng	VERB	_	_	12	comp:aux/m	_	AlignBegin=60456|AlignEnd=60643|GE=[see].[NPST]|Gloss=see.NPST|nWord=9|RX=[V]
-12	-da		AUX	_	_	10	mod:purpose	_	AlignBegin=60643|AlignEnd=60830|GE=emph|Gloss=emph|nWord=9|RX=[VERB]
+12	-da		AUX	_	_	10	mod:purp	_	AlignBegin=60643|AlignEnd=60830|GE=emph|Gloss=emph|nWord=9|RX=[VERB]
 13	dike	dike	ADP	_	_	11	compound	_	AlignBegin=60830|AlignEnd=61204|GE=[INST]|Gloss=INST|nWord=10|RX=[ADP]
 14	,		PUNCT	_	_	_	_	_	AlignBegin=61204|AlignEnd=61580|nWord=11
 15	geru	geru	NOUN	_	_	16	comp:obj	_	AlignBegin=61765|AlignEnd=62631|GE=story|Gloss=story|nWord=12|RX=[N]
@@ -173,7 +173,7 @@
 22	gna	gna	AUX	_	_	17	conj:coord	_	AlignBegin=66145|AlignEnd=66575|GE=can|Gloss=can|nWord=17|RX=[V]
 23	bli	bli	NOUN	_	_	24	comp:obj	_	AlignBegin=66575|AlignEnd=67005|GE=food|Gloss=food|nWord=18|RX=[N]
 24	hinan	hinan	VERB	_	_	25	comp:aux/m	_	AlignBegin=67005|AlignEnd=67148|GE=cook|Gloss=cook|nWord=19|RX=[VT]
-25	-d-		AUX	_	_	26	comp:aux/m	_	AlignBegin=67148|AlignEnd=67291|GE=[0]|Gloss=-0-|nWord=19|RX=[VERB]
+25	-d		AUX	_	_	26	comp:aux/m	_	AlignBegin=67148|AlignEnd=67291|GE=[0]|Gloss=-0-|nWord=19|RX=[VERB]|wordform=-d-
 26	-e		AUX	_	_	22	comp:aux	_	AlignBegin=67291|AlignEnd=67435|GE=[THM]|Gloss=-THM|nWord=19|RX=[V:ANY]
 27	,		PUNCT	_	_	_	_	_	AlignBegin=67435|AlignEnd=67865|nWord=20
 28	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=68050|AlignEnd=68390|GE=now|Gloss=now|Lang=es|nWord=21|RX=[ADV]

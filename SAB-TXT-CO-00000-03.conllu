@@ -77,7 +77,7 @@
 18	koi	koi	NOUN	_	_	19	comp:obj	_	AlignBegin=37589|AlignEnd=37886|GE=chicken|Gloss=chicken|nWord=17|RX=[N]
 19	luk	luk	VERB	_	_	20	comp:aux/m	_	AlignBegin=37886|AlignEnd=37960|GE=link|Gloss=link|nWord=18|RX=[VT]
 20	-e		AUX	_	_	21	comp:aux/m	_	AlignBegin=37960|AlignEnd=38034|GE=[THM]|Gloss=-THM|nWord=18|RX=[V:ANY]
-21	-d-		AUX	_	_	22	comp:aux/m	_	AlignBegin=38034|AlignEnd=38108|GE=[0]|Gloss=-0-|nWord=18|RX=[VERB]
+21	-d		AUX	_	_	22	comp:aux/m	_	AlignBegin=38034|AlignEnd=38108|GE=[0]|Gloss=-0-|nWord=18|RX=[VERB]|wordform=-d-
 22	-a		AUX	_	_	_	_	_	AlignBegin=38108|AlignEnd=38183|GE=[PASS]|Gloss=-PASS|nWord=18|RX=[V:ANY]
 23	sukekre	sukekre	ADV	_	_	_	_	_	AlignBegin=38183|AlignEnd=38480|GE=elsewere|Gloss=elsewere|nWord=19|RX=[ADV]
 24	.		PUNCT	_	_	_	_	_	AlignBegin=38480|AlignEnd=38775|Gloss=.|nWord=20
@@ -97,7 +97,7 @@
 5	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=41518|AlignEnd=42025|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
 6	gna	gna	AUX	_	_	5	comp:aux	_	AlignBegin=42025|AlignEnd=42532|GE=can|Gloss=can|nWord=6|RX=[V]
 7	hoke	hoke	VERB	_	_	6	comp:aux	_	AlignBegin=42532|AlignEnd=43039|GE=go|Gloss=go|nWord=7|RX=[VI]
-8	swente	swente	VERB	_	_	7	mod:purpose	_	AlignBegin=43039|AlignEnd=43546|GE=see|Gloss=see|nWord=8|RX=[V]
+8	swente	swente	VERB	_	_	7	mod:purp	_	AlignBegin=43039|AlignEnd=43546|GE=see|Gloss=see|nWord=8|RX=[V]
 9	koi	koi	NOUN	_	_	10	comp	_	AlignBegin=43546|AlignEnd=44053|GE=chicken|Gloss=chicken|nWord=9|RX=[N]
 10	dike	dike	ADP	_	_	8	comp:obl	_	AlignBegin=44053|AlignEnd=44560|GE=[INST]|Gloss=INST|nWord=10|RX=[ADP]
 11	.		PUNCT	_	_	5	punct	_	AlignBegin=44560|AlignEnd=45065|Gloss=.|nWord=11

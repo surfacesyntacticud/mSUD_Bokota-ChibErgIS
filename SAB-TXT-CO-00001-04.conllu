@@ -173,13 +173,13 @@
 # text = koi lie skeke , chi le .
 # text_en = (I) cook the chicken cold. With water.
 # text_ortho = koi lie skeke , chi le .
-1	koi	koi	NOUN	_	_	2	comp:obj	_	AlignBegin=54205|AlignEnd=54507|GE=chicken|Gloss=chicken|nWord=1|RX=[N]
-2	li	li	VERB	_	_	3	comp:aux/m	_	AlignBegin=54507|AlignEnd=54658|GE=cook|Gloss=cook|nWord=2|RX=[VT]
-3	-e		AUX	_	_	_	_	_	AlignBegin=54658|AlignEnd=54809|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
-4	skeke	skeke	ADJ	_	_	_	_	_	AlignBegin=54809|AlignEnd=55111|GE=cold|Gloss=cold|nWord=3|RX=[ADJ]
-5	,		PUNCT	_	_	_	_	_	AlignBegin=55111|AlignEnd=55415|nWord=4
-6	chi	chi	NOUN	_	_	7	comp:aux/m	_	AlignBegin=55585|AlignEnd=55915|GE=water|Gloss=water|nWord=5|RX=[N]
-7	-le		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=55915|AlignEnd=56245|GE=[ADJZ]|Gloss=-ADJZ|nWord=6|RX=[N>ADJ]
+1	koi	koi	NOUN	_	DerPos=ADJ	2	comp:obj	_	AlignBegin=54205|AlignEnd=54507|GE=chicken|Gloss=chicken|nWord=1|RX=[N]
+2	li	li	VERB	_	DerPos=ADJ	3	comp:aux/m	_	AlignBegin=54507|AlignEnd=54658|GE=cook|Gloss=cook|nWord=2|RX=[VT]
+3	-e		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=54658|AlignEnd=54809|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	skeke	skeke	ADJ	_	DerPos=ADJ	_	_	_	AlignBegin=54809|AlignEnd=55111|GE=cold|Gloss=cold|nWord=3|RX=[ADJ]
+5	,		PUNCT	_	DerPos=ADJ	_	_	_	AlignBegin=55111|AlignEnd=55415|nWord=4
+6	chi	chi	NOUN	_	DerPos=ADJ	7	comp:aux/m	_	AlignBegin=55585|AlignEnd=55915|GE=water|Gloss=water|nWord=5|RX=[N]
+7	-le		AUX	_	_	_	_	_	AlignBegin=55915|AlignEnd=56245|GE=[ADJZ]|Gloss=-ADJZ|nWord=6|RX=[N>ADJ]
 8	.		PUNCT	_	_	_	_	_	AlignBegin=56245|AlignEnd=56575|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-CO-00001-04_17-17

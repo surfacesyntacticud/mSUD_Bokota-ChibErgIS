@@ -121,7 +121,7 @@
 3	hoke	hoke	VERB	_	_	0	root	_	AlignBegin=26500|AlignEnd=26725|GE=go|Gloss=go|nWord=3|RX=[VI]
 4	bli	bli	NOUN	_	_	5	comp:obj	_	AlignBegin=26725|AlignEnd=26950|GE=food|Gloss=food|nWord=4|RX=[N]
 5	hinan	hinan	VERB	_	_	6	comp:aux/m	_	AlignBegin=26950|AlignEnd=27062|GE=cook|Gloss=cook|nWord=5|RX=[VT]
-6	-e		AUX	_	_	3	mod:purpose	_	AlignBegin=27062|AlignEnd=27175|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+6	-e		AUX	_	_	3	mod:purp	_	AlignBegin=27062|AlignEnd=27175|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	.		PUNCT	_	_	3	punct	_	AlignBegin=27175|AlignEnd=27400|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-AN-00002-03_09-09
@@ -307,7 +307,7 @@
 3	hoke	hoke	VERB	_	_	2	comp:aux	_	AlignBegin=51391|AlignEnd=51829|GE=go|Gloss=go|nWord=3|RX=[VI]
 4	hagna	hagna	NOUN	_	_	5	comp:obj	_	AlignBegin=51829|AlignEnd=52267|GE=plant_type|Gloss=plant_type|nWord=4|RX=[N]
 5	ski	ski	VERB	_	_	6	comp:aux/m	_	AlignBegin=52267|AlignEnd=52486|GE=plant|Gloss=plant|nWord=5|RX=[VT]
-6	-e		AUX	_	_	3	mod:purpose	_	AlignBegin=52486|AlignEnd=52705|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+6	-e		AUX	_	_	3	mod:purp	_	AlignBegin=52486|AlignEnd=52705|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	bla	bla	NOUN	_	_	8	comp:obj	_	AlignBegin=52705|AlignEnd=53143|GE=banana|Gloss=banana|nWord=6|RX=[N]
 8	ski	ski	VERB	_	_	9	comp:aux/m	_	AlignBegin=53143|AlignEnd=53362|GE=plant|Gloss=plant|nWord=7|RX=[VT]
 9	-e		AUX	_	_	6	conj:coord	_	AlignBegin=53362|AlignEnd=53581|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
@@ -756,7 +756,7 @@
 # text_en = At night we will eat.
 # text_ortho = naheredu ya che be blide .
 1	nahere	nahere	NOUN	_	_	2	comp:aux/m	_	AlignBegin=122170|AlignEnd=122283|GE=night|Gloss=night|nWord=1|RX=[N]
-2	-d-		AUX	_	_	3	comp:aux/m	_	AlignBegin=122283|AlignEnd=122396|GE=[0]|Gloss=-0-|nWord=1|RX=[VERB]
+2	-d		AUX	_	_	3	comp:aux/m	_	AlignBegin=122283|AlignEnd=122396|GE=[0]|Gloss=-0-|nWord=1|RX=[VERB]|wordform=-d-
 3	-u		AUX	_	_	7	mod	_	AlignBegin=122396|AlignEnd=122510|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]
 4	ya	ya	ADV	_	Foreign=Yes	7	mod	_	AlignBegin=122510|AlignEnd=122850|GE=now|Gloss=now|Lang=es|nWord=2|RX=[ADV]
 5	che	che	PRON	_	_	7	subj	_	AlignBegin=122850|AlignEnd=123190|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
@@ -776,7 +776,7 @@
 1	ya	ya	ADV	_	Foreign=Yes	3	mod	_	AlignBegin=124225|AlignEnd=124477|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	chui	chui	NOUN	_	_	3	subj	_	AlignBegin=124477|AlignEnd=124729|GE=sun|Gloss=sun|nWord=2|RX=[N]
 3	gwe	gwe	VERB	_	_	4	comp:aux/m	_	AlignBegin=124729|AlignEnd=124813|GE=sleep|Gloss=sleep|nWord=3|RX=[VI]
-4	-d-		AUX	_	_	5	comp:aux/m	_	AlignBegin=124813|AlignEnd=124897|GE=[0]|Gloss=-0-|nWord=3|RX=[VERB]
+4	-d		AUX	_	_	5	comp:aux/m	_	AlignBegin=124813|AlignEnd=124897|GE=[0]|Gloss=-0-|nWord=3|RX=[VERB]|wordform=-d-
 5	-u		AUX	_	_	0	root	_	AlignBegin=124897|AlignEnd=124981|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
 6	.		PUNCT	_	_	5	punct	_	AlignBegin=124981|AlignEnd=125235|Gloss=.|nWord=4
 
@@ -1088,23 +1088,23 @@
 # text = si gnome ta miaska , gnome ta miaska duile , che tiene hoke gnome glike , pa kiro agere .
 # text_en = If the clothes are dirty, (If) the clothes are dirty with dirt, We have to go wash the clothes. For the young kids.
 # text_ortho = si gnome ta miaska , gnome ta miaska duile , che tiene hoke gnome glike , pa kiro agere .
-1	si	si	SCONJ	_	Foreign=Yes	16	mod	_	AlignBegin=178080|AlignEnd=178476|GE=if|Gloss=if|Lang=es|nWord=1|RX=[CONN]
-2	gnome	gnome	NOUN	_	_	3	subj	_	AlignBegin=178476|AlignEnd=178872|GE=clothes|Gloss=clothes|nWord=2|RX=[N]
-3	esta	esta	VERB	_	Foreign=Yes	1	comp	_	AlignBegin=178872|AlignEnd=179268|GE=be|Gloss=be|Lang=es|nWord=3|RX=[V]
-4	miaska	miaska	ADJ	_	_	3	comp:pred	_	AlignBegin=179268|AlignEnd=179664|GE=dirty|Gloss=dirty|nWord=4|RX=[ADJ]
-5	,		PUNCT	_	_	13	punct	_	AlignBegin=179664|AlignEnd=180060|nWord=5
-6	gnome	gnome	NOUN	_	_	7	subj	_	AlignBegin=180585|AlignEnd=181003|GE=clothes|Gloss=clothes|nWord=6|RX=[N]
-7	esta	esta	VERB	_	Foreign=Yes	3	conj:coord	_	AlignBegin=181003|AlignEnd=181421|GE=be|Gloss=be|Lang=es|nWord=7|RX=[V]
-8	miaska	miaska	ADJ	_	_	7	comp:pred	_	AlignBegin=181421|AlignEnd=181839|GE=dirty|Gloss=dirty|nWord=8|RX=[ADJ]
-9	dui	dui	NOUN	_	_	10	comp:aux/m	_	AlignBegin=181839|AlignEnd=182048|GE=dirt|Gloss=dirt|nWord=9|RX=[N]
-10	-le		AUX	_	DerPos=ADJ	8	mod	_	AlignBegin=182048|AlignEnd=182257|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
+1	si	si	SCONJ	_	DerPos=ADJ|Foreign=Yes	16	mod	_	AlignBegin=178080|AlignEnd=178476|GE=if|Gloss=if|Lang=es|nWord=1|RX=[CONN]
+2	gnome	gnome	NOUN	_	DerPos=ADJ	3	subj	_	AlignBegin=178476|AlignEnd=178872|GE=clothes|Gloss=clothes|nWord=2|RX=[N]
+3	esta	esta	VERB	_	DerPos=ADJ|Foreign=Yes	1	comp	_	AlignBegin=178872|AlignEnd=179268|GE=be|Gloss=be|Lang=es|nWord=3|RX=[V]
+4	miaska	miaska	ADJ	_	DerPos=ADJ	3	comp:pred	_	AlignBegin=179268|AlignEnd=179664|GE=dirty|Gloss=dirty|nWord=4|RX=[ADJ]
+5	,		PUNCT	_	DerPos=ADJ	13	punct	_	AlignBegin=179664|AlignEnd=180060|nWord=5
+6	gnome	gnome	NOUN	_	DerPos=ADJ	7	subj	_	AlignBegin=180585|AlignEnd=181003|GE=clothes|Gloss=clothes|nWord=6|RX=[N]
+7	esta	esta	VERB	_	DerPos=ADJ|Foreign=Yes	3	conj:coord	_	AlignBegin=181003|AlignEnd=181421|GE=be|Gloss=be|Lang=es|nWord=7|RX=[V]
+8	miaska	miaska	ADJ	_	DerPos=ADJ	7	comp:pred	_	AlignBegin=181421|AlignEnd=181839|GE=dirty|Gloss=dirty|nWord=8|RX=[ADJ]
+9	dui	dui	NOUN	_	DerPos=ADJ	10	comp:aux/m	_	AlignBegin=181839|AlignEnd=182048|GE=dirt|Gloss=dirt|nWord=9|RX=[N]
+10	-le		AUX	_	_	8	mod	_	AlignBegin=182048|AlignEnd=182257|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
 11	,		PUNCT	_	_	13	punct	_	AlignBegin=182257|AlignEnd=182675|nWord=10
 12	che	che	PRON	_	_	16	subj	_	AlignBegin=182695|AlignEnd=183022|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=11|RX=[PRO]
 13	tiene	tiene	AUX	_	Foreign=Yes	0	root	_	AlignBegin=183022|AlignEnd=183349|GE=have|Gloss=have|Lang=es|nWord=12|RX=[V]
 14	hoke	hoke	VERB	_	_	13	comp:aux	_	AlignBegin=183349|AlignEnd=183676|GE=go|Gloss=go|nWord=13|RX=[VI]
 15	gnome	gnome	NOUN	_	_	16	comp:obj	_	AlignBegin=183676|AlignEnd=184003|GE=clothes|Gloss=clothes|nWord=14|RX=[N]
 16	glik	glik	VERB	_	_	17	comp:aux/m	_	AlignBegin=184003|AlignEnd=184167|GE=clean|Gloss=clean|nWord=15|RX=[VT]
-17	-e		AUX	_	_	14	mod:purpose	_	AlignBegin=184167|AlignEnd=184330|GE=[THM]|Gloss=-THM|nWord=15|RX=[V:ANY]
+17	-e		AUX	_	_	14	mod:purp	_	AlignBegin=184167|AlignEnd=184330|GE=[THM]|Gloss=-THM|nWord=15|RX=[V:ANY]
 18	,		PUNCT	_	_	13	punct	_	AlignBegin=184330|AlignEnd=184655|nWord=16
 19	para	para	ADP	_	Foreign=Yes	16	comp:obl	_	AlignBegin=184950|AlignEnd=185338|GE=to|Gloss=to|Lang=es|nWord=17|RX=[ADP]
 20	kiro	kiro	NOUN	_	_	19	comp	_	AlignBegin=185338|AlignEnd=185726|GE=child|Gloss=child|nWord=18|RX=[N]

@@ -47,7 +47,7 @@
 4	-bale		AUX	_	_	_	_	_	AlignBegin=16790|AlignEnd=16894|GE=[PART]|Gloss=-PART|nWord=2|RX=[V:ANY]
 5	ru	ru	NOUN	_	_	6	comp:obj	_	AlignBegin=16894|AlignEnd=17206|GE=aligator|Gloss=aligator|nWord=3|RX=[N]
 6	gwe	gwe	VERB	_	_	7	comp:aux/m	_	AlignBegin=17206|AlignEnd=17310|GE=kill|Gloss=sleep|nWord=4|RX=[V]
-7	-da		AUX	_	_	4	mod:purpose	_	AlignBegin=17310|AlignEnd=17518|GE=[0]|Gloss=-ASP|nWord=4|RX=[VERB]
+7	-da		AUX	_	_	4	mod:purp	_	AlignBegin=17310|AlignEnd=17518|GE=[0]|Gloss=-ASP|nWord=4|RX=[VERB]
 8	,		PUNCT	_	_	_	_	_	AlignBegin=17518|AlignEnd=17830|nWord=5
 9	ru	ru	NOUN	_	_	_	_	_	AlignBegin=17860|AlignEnd=18193|GE=aligator|Gloss=aligator|nWord=6|RX=[N]
 10	chi	chi	NOUN	_	_	_	_	_	AlignBegin=18193|AlignEnd=18526|GE=water|Gloss=water|nWord=7|RX=[N]
@@ -78,17 +78,17 @@
 # text = cha ai me ni cha nienu me ru ngleare chi ai ke .
 # text_en = When I was not there, nor my father, there were more aligators in the river here.
 # text_ortho = cha ai me ni cha nienu me ru ngleare chi ai ke .
-1	cha	cha	PRON	_	_	_	_	_	AlignBegin=23380|AlignEnd=23601|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	ai	ai	ADV	_	_	1	mod	_	AlignBegin=23601|AlignEnd=23822|GE=here|Gloss=here|nWord=2|RX=[ADV]
-3	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=23822|AlignEnd=24043|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
-4	ni	ni	CCONJ	_	_	_	_	_	AlignBegin=24043|AlignEnd=24264|GE=nor|Gloss=nor|nWord=4|RX=[CONN]
-5	cha	cha	PRON	_	_	6	udep:poss	_	AlignBegin=24264|AlignEnd=24485|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
-6	nienu	nienu	NOUN	_	_	_	_	_	AlignBegin=24485|AlignEnd=24706|GE=father|Gloss=father|nWord=6|RX=[N]
-7	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=24706|AlignEnd=24927|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
-8	ru	ru	NOUN	_	_	_	_	_	AlignBegin=24927|AlignEnd=25148|GE=aligator|Gloss=aligator|nWord=8|RX=[N]
-9	ngle	ngle	ADV	_	_	10	comp:aux/m	_	AlignBegin=25148|AlignEnd=25222|GE=more|Gloss=more|nWord=9|RX=[ADV]
-10	-a		AUX	_	_	11	comp:aux/m	_	AlignBegin=25222|AlignEnd=25296|GE=[0]|Gloss=-0|nWord=9|RX=[NOUN]
-11	-re		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=25296|AlignEnd=25369|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
+1	cha	cha	PRON	_	DerPos=ADJ	_	_	_	AlignBegin=23380|AlignEnd=23601|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	ai	ai	ADV	_	DerPos=ADJ	1	mod	_	AlignBegin=23601|AlignEnd=23822|GE=here|Gloss=here|nWord=2|RX=[ADV]
+3	me	me	AUX	_	DerPos=ADJ|Polarity=Neg	_	_	_	AlignBegin=23822|AlignEnd=24043|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+4	ni	ni	CCONJ	_	DerPos=ADJ	_	_	_	AlignBegin=24043|AlignEnd=24264|GE=nor|Gloss=nor|nWord=4|RX=[CONN]
+5	cha	cha	PRON	_	DerPos=ADJ	6	udep:poss	_	AlignBegin=24264|AlignEnd=24485|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
+6	nienu	nienu	NOUN	_	DerPos=ADJ	_	_	_	AlignBegin=24485|AlignEnd=24706|GE=father|Gloss=father|nWord=6|RX=[N]
+7	me	me	AUX	_	DerPos=ADJ|Polarity=Neg	_	_	_	AlignBegin=24706|AlignEnd=24927|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
+8	ru	ru	NOUN	_	DerPos=ADJ	_	_	_	AlignBegin=24927|AlignEnd=25148|GE=aligator|Gloss=aligator|nWord=8|RX=[N]
+9	ngle	ngle	ADV	_	DerPos=ADJ	10	comp:aux/m	_	AlignBegin=25148|AlignEnd=25222|GE=more|Gloss=more|nWord=9|RX=[ADV]
+10	-a		AUX	_	DerPos=ADJ	11	comp:aux/m	_	AlignBegin=25222|AlignEnd=25296|GE=[0]|Gloss=-0|nWord=9|RX=[NOUN]
+11	-re		AUX	_	_	_	_	_	AlignBegin=25296|AlignEnd=25369|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
 12	chi	chi	NOUN	_	_	14	comp	_	AlignBegin=25369|AlignEnd=25590|GE=water|Gloss=water|nWord=10|RX=[N]
 13	ai	ai	ADV	_	_	12	det	_	AlignBegin=25590|AlignEnd=25811|GE=here|Gloss=here|nWord=11|RX=[ADV]
 14	ke	ke	ADP	_	_	_	_	_	AlignBegin=25811|AlignEnd=26032|GE=[LOC]|Gloss=LOC|nWord=12|RX=[ADP]
@@ -244,7 +244,7 @@
 6	-le		AUX	_	_	0	root	_	AlignBegin=52595|AlignEnd=52715|GE=[ADJZ]|Gloss=-ADJZ|nWord=4|RX=[N>ADJ]
 7	gli	gli	NOUN	_	_	8	comp	_	AlignBegin=52715|AlignEnd=53075|GE=tree|Gloss=tree|nWord=5|RX=[N]
 8	hegwale	hegwale	ADP	_	_	4	comp:obl	_	AlignBegin=53075|AlignEnd=53435|GE=next_to|Gloss=next_to|nWord=6|RX=[ADP]
-9	para	para	ADP	_	Foreign=Yes	4	mod:purpose	_	AlignBegin=53435|AlignEnd=53795|GE=to|Gloss=to|Lang=es|nWord=7|RX=[ADP]
+9	para	para	ADP	_	Foreign=Yes	4	mod:purp	_	AlignBegin=53435|AlignEnd=53795|GE=to|Gloss=to|Lang=es|nWord=7|RX=[ADP]
 10	gli	gli	NOUN	_	_	12	udep:poss	_	AlignBegin=53795|AlignEnd=54155|GE=tree|Gloss=tree|nWord=8|RX=[N]
 11	ese	ese	DET	_	_	10	mod	_	AlignBegin=54155|AlignEnd=54515|GE=that|Gloss=that|nWord=9|RX=[DET]
 12	ki	ki	NOUN	_	_	9	comp	_	AlignBegin=54515|AlignEnd=54875|GE=sap|Gloss=sap|nWord=10|RX=[N]
@@ -789,7 +789,7 @@
 6	ole	ole	ADP	_	_	4	comp:obl	_	AlignBegin=146685|AlignEnd=146919|GE=[COM]|Gloss=COM|nWord=6|RX=[ADP]
 7	,		PUNCT	_	_	9	punct	_	AlignBegin=146919|AlignEnd=147155|nWord=7
 8	cha	cha	PRON	_	_	12	subj	_	AlignBegin=147475|AlignEnd=147643|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
-9	mim	mim	AUX	_	_	0	root	_	AlignBegin=147643|AlignEnd=147811|GE=[NEG]|Gloss=NEG|nWord=9|RX=[VERBPRT]
+9	mim	me	AUX	_	_	0	root	_	AlignBegin=147643|AlignEnd=147811|GE=[NEG]|Gloss=NEG|nWord=9|RX=[VERBPRT]
 10	be	be	AUX	_	_	9	comp:aux	_	AlignBegin=147811|AlignEnd=147979|GE=[FUT]|Gloss=FUT|nWord=10|RX=[VERBPRT]
 11	ba	ba	PRON	_	_	12	comp:obj	_	AlignBegin=147979|AlignEnd=148147|GE=[2SG]|Gloss=2SG|nWord=11|RX=[PRO]
 12	gwe	gwe	VERB	_	_	13	comp:aux/m	_	AlignBegin=148147|AlignEnd=148203|GE=kill|Gloss=sleep|nWord=12|RX=[V]
@@ -807,7 +807,7 @@
 1	pero	pero	X	_	Foreign=Yes	10	cc	_	AlignBegin=148520|AlignEnd=148689|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
 2	si	si	SCONJ	_	Foreign=Yes	12	mod	_	AlignBegin=148689|AlignEnd=148858|GE=if|Gloss=if|Lang=es|nWord=2|RX=[CONN]
 3	ba	ba	PRON	_	_	5	subj	_	AlignBegin=148858|AlignEnd=149027|GE=[2SG]|Gloss=2SG|nWord=3|RX=[PRO]
-4	mim	mim	AUX	_	_	2	comp	_	AlignBegin=149027|AlignEnd=149196|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
+4	mim	me	AUX	_	_	2	comp	_	AlignBegin=149027|AlignEnd=149196|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
 5	hoke	hoke	VERB	_	_	4	comp:aux	_	AlignBegin=149196|AlignEnd=149365|GE=go|Gloss=go|nWord=5|RX=[VI]
 6	cha	cha	PRON	_	_	7	comp	_	AlignBegin=149365|AlignEnd=149534|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
 7	ole	ole	ADP	_	_	5	comp:obl	_	AlignBegin=149534|AlignEnd=149703|GE=[COM]|Gloss=COM|nWord=7|RX=[ADP]
@@ -986,7 +986,7 @@
 # text_en = (He) escaped in the night.
 # text_ortho = kikedu nahere ke .
 1	kike	kike	VERB	_	_	2	comp:aux/m	_	AlignBegin=181710|AlignEnd=181816|GE=escape|Gloss=escape|nWord=1|RX=[VI]
-2	-d-		AUX	_	_	3	comp:aux/m	_	AlignBegin=181816|AlignEnd=181922|GE=[0]|Gloss=-0-|nWord=1|RX=[VERB]
+2	-d		AUX	_	_	3	comp:aux/m	_	AlignBegin=181816|AlignEnd=181922|GE=[0]|Gloss=-0-|nWord=1|RX=[VERB]|wordform=-d-
 3	-u		AUX	_	_	0	root	_	AlignBegin=181922|AlignEnd=182028|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]
 4	nahere	nahere	NOUN	_	_	5	comp	_	AlignBegin=182028|AlignEnd=182346|GE=night|Gloss=night|nWord=2|RX=[N]
 5	ke	ke	ADP	_	_	1	comp:obl	_	AlignBegin=182346|AlignEnd=182664|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
@@ -1001,14 +1001,14 @@
 # text_en = (He) escaped in the night until (he) goes to sleep in a tree.
 # text_ortho = kikedu nahere ke ata que ho gwe gli ske .
 1	kike	kike	VERB	_	_	2	comp:aux/m	_	AlignBegin=183175|AlignEnd=183278|GE=escape|Gloss=escape|nWord=1|RX=[VI]
-2	-d-		AUX	_	_	3	comp:aux/m	_	AlignBegin=183278|AlignEnd=183381|GE=[0]|Gloss=-0-|nWord=1|RX=[VERB]
+2	-d		AUX	_	_	3	comp:aux/m	_	AlignBegin=183278|AlignEnd=183381|GE=[0]|Gloss=-0-|nWord=1|RX=[VERB]|wordform=-d-
 3	-u		AUX	_	_	_	_	_	AlignBegin=183381|AlignEnd=183483|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]
 4	nahere	nahere	NOUN	_	_	5	comp	_	AlignBegin=183483|AlignEnd=183791|GE=night|Gloss=night|nWord=2|RX=[N]
 5	ke	ke	ADP	_	_	1	comp:obl	_	AlignBegin=183791|AlignEnd=184099|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
 6	hasta	hasta	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=184099|AlignEnd=184407|GE=to|Gloss=to|Lang=es|nWord=4|RX=[ADP]
 7	que	que	X	_	Foreign=Yes	6	compound	_	AlignBegin=184407|AlignEnd=184715|GE=that|Gloss=that|Lang=es|nWord=5|RX=[PRO]
 8	ho	hoke	VERB	_	_	_	_	_	AlignBegin=184715|AlignEnd=185023|GE=[go].[PST]|Gloss=go.PST|nWord=6|RX=[VI]
-9	gwe	gwe	VERB	_	_	8	mod:purpose	_	AlignBegin=185023|AlignEnd=185331|GE=sleep|Gloss=sleep|nWord=7|RX=[VI]
+9	gwe	gwe	VERB	_	_	8	mod:purp	_	AlignBegin=185023|AlignEnd=185331|GE=sleep|Gloss=sleep|nWord=7|RX=[VI]
 10	gli	gli	NOUN	_	_	11	comp	_	AlignBegin=185331|AlignEnd=185639|GE=tree|Gloss=tree|nWord=8|RX=[N]
 11	ske	ske	ADP	_	_	9	comp:obl	_	AlignBegin=185639|AlignEnd=185947|GE=with|Gloss=with|nWord=9|RX=[ADP]
 12	.		PUNCT	_	_	_	_	_	AlignBegin=185947|AlignEnd=186255|Gloss=.|nWord=10

@@ -45,16 +45,16 @@
 # text = entonces gliga ne dakale cha kle hinane pa ko glika .
 # text_en = So that powdered plant, I cook it so my hands are washed.
 # text_ortho = entonces gliga ne dakale cha kle hinane pa ko glika .
-1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=16430|AlignEnd=16783|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
-2	gliga	gliga	NOUN	_	_	_	_	_	AlignBegin=16783|AlignEnd=17136|GE=plant_type|Gloss=plant_type|nWord=2|RX=[N]
-3	ne	ne	DET	_	_	2	mod	_	AlignBegin=17136|AlignEnd=17489|GE=that|Gloss=that|nWord=3|RX=[DET]
-4	daka	daka	VERB	_	_	5	comp:aux/m	_	AlignBegin=17489|AlignEnd=17665|GE=pound|Gloss=pound|nWord=4|RX=[V]
-5	-le		AUX	_	DerPos=ADJ	2	mod	_	AlignBegin=17665|AlignEnd=17842|GE=[ADJZ]|Gloss=-ADJZ|nWord=4|RX=[N>ADJ]
+1	entonces	entonces	ADV	_	DerPos=ADJ|Foreign=Yes	_	_	_	AlignBegin=16430|AlignEnd=16783|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
+2	gliga	gliga	NOUN	_	DerPos=ADJ	_	_	_	AlignBegin=16783|AlignEnd=17136|GE=plant_type|Gloss=plant_type|nWord=2|RX=[N]
+3	ne	ne	DET	_	DerPos=ADJ	2	mod	_	AlignBegin=17136|AlignEnd=17489|GE=that|Gloss=that|nWord=3|RX=[DET]
+4	daka	daka	VERB	_	DerPos=ADJ	5	comp:aux/m	_	AlignBegin=17489|AlignEnd=17665|GE=pound|Gloss=pound|nWord=4|RX=[V]
+5	-le		AUX	_	_	2	mod	_	AlignBegin=17665|AlignEnd=17842|GE=[ADJZ]|Gloss=-ADJZ|nWord=4|RX=[N>ADJ]
 6	cha	cha	PRON	_	_	8	subj	_	AlignBegin=17842|AlignEnd=18195|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
 7	kle	kle	AUX	_	_	0	root	_	AlignBegin=18195|AlignEnd=18548|GE=be|Gloss=be|nWord=6|RX=[V]
 8	hinan	hinan	VERB	_	_	9	comp:aux/m	_	AlignBegin=18548|AlignEnd=18724|GE=cook|Gloss=cook|nWord=7|RX=[VT]
 9	-e		AUX	_	_	7	comp:aux	_	AlignBegin=18724|AlignEnd=18901|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
-10	para	para	SCONJ	_	Foreign=Yes	8	mod:purpose	_	AlignBegin=18901|AlignEnd=19254|GE=to|Gloss=to|Lang=es|nWord=8|RX=[ADP]
+10	para	para	SCONJ	_	Foreign=Yes	8	mod:purp	_	AlignBegin=18901|AlignEnd=19254|GE=to|Gloss=to|Lang=es|nWord=8|RX=[ADP]
 11	ko	ko	NOUN	_	_	12	subj@pass	_	AlignBegin=19254|AlignEnd=19607|GE=hand|Gloss=hand|nWord=9|RX=[N]
 12	glik	glik	VERB	_	_	13	comp:aux/m	_	AlignBegin=19607|AlignEnd=19783|GE=clean|Gloss=clean|nWord=10|RX=[VT]
 13	-a		AUX	_	_	10	comp	_	AlignBegin=19783|AlignEnd=19960|GE=[PASS]|Gloss=-PASS|nWord=10|RX=[V:ANY]

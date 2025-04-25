@@ -236,7 +236,7 @@
 5	tk	tk	VERB	_	_	6	comp:aux/m	_	AlignBegin=47467|AlignEnd=47693|GE=put|Gloss=put|nWord=5|RX=[VT]
 6	-e		AUX	_	_	2	comp:aux	_	AlignBegin=47693|AlignEnd=47920|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	,		PUNCT	_	_	2	punct	_	AlignBegin=47920|AlignEnd=48375|nWord=6
-8	para	para	SCONJ	_	Foreign=Yes	5	mod:purpose	_	AlignBegin=48520|AlignEnd=48793|GE=to|Gloss=to|Lang=es|nWord=7|RX=[ADP]
+8	para	para	SCONJ	_	Foreign=Yes	5	mod:purp	_	AlignBegin=48520|AlignEnd=48793|GE=to|Gloss=to|Lang=es|nWord=7|RX=[ADP]
 9	que	que	X	_	Foreign=Yes	8	compound	_	AlignBegin=48793|AlignEnd=49066|GE=that|Gloss=that|Lang=es|nWord=8|RX=[PRO]
 10	bligda	bligda	NOUN	_	_	11	subj	_	AlignBegin=49066|AlignEnd=49339|GE=food|Gloss=food|nWord=9|RX=[N]
 11	gnanchk	gnanchk	VERB	_	_	12	comp:aux/m	_	AlignBegin=49339|AlignEnd=49475|GE=taste|Gloss=taste|nWord=10|RX=[V]

@@ -125,7 +125,7 @@
 # text_en = I was living at the other side (of the valley).
 # text_ortho = toidu chkaku .
 1	toi	toi	VERB	_	_	2	comp:aux/m	_	AlignBegin=39850|AlignEnd=39994|GE=live|Gloss=live|nWord=1|RX=[VI]
-2	-d-		AUX	_	_	3	comp:aux/m	_	AlignBegin=39994|AlignEnd=40138|GE=[0]|Gloss=-0-|nWord=1|RX=[VERB]
+2	-d		AUX	_	_	3	comp:aux/m	_	AlignBegin=39994|AlignEnd=40138|GE=[0]|Gloss=-0-|nWord=1|RX=[VERB]|wordform=-d-
 3	-u		AUX	_	_	_	_	_	AlignBegin=40138|AlignEnd=40283|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]
 4	chkaku	chkaku	ADV	_	_	_	_	_	AlignBegin=40283|AlignEnd=40716|GE=offshore|Gloss=offshore|nWord=2|RX=[ADV]
 5	.		PUNCT	_	_	_	_	_	AlignBegin=40716|AlignEnd=41150|Gloss=.|nWord=3
@@ -417,7 +417,7 @@
 # text_ortho = cha toidu .
 1	cha	cha	PRON	_	_	2	subj	_	AlignBegin=92300|AlignEnd=92703|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	toi	toi	VERB	_	_	3	comp:aux/m	_	AlignBegin=92703|AlignEnd=92837|GE=live|Gloss=live|nWord=2|RX=[VI]
-3	-d-		AUX	_	_	4	comp:aux/m	_	AlignBegin=92837|AlignEnd=92971|GE=[0]|Gloss=-0-|nWord=2|RX=[VERB]
+3	-d		AUX	_	_	4	comp:aux/m	_	AlignBegin=92837|AlignEnd=92971|GE=[0]|Gloss=-0-|nWord=2|RX=[VERB]|wordform=-d-
 4	-u		AUX	_	_	0	root	_	AlignBegin=92971|AlignEnd=93106|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 5	.		PUNCT	_	_	4	punct	_	AlignBegin=93106|AlignEnd=93510|Gloss=.|nWord=3
 
@@ -536,7 +536,7 @@
 4	cha	cha	PRON	_	_	5	comp	_	AlignBegin=123114|AlignEnd=123842|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
 5	ole	ole	ADP	_	_	3	comp:obl	_	AlignBegin=123842|AlignEnd=124570|GE=[COM]|Gloss=COM|nWord=5|RX=[ADP]
 6	geru	geru	NOUN	_	_	7	comp:obj	_	AlignBegin=124570|AlignEnd=125298|GE=story|Gloss=story|nWord=6|RX=[N]
-7	batenga	batenga	VERB	_	_	3	mod:purpose	_	AlignBegin=125298|AlignEnd=126026|GE=explain|Gloss=explain|nWord=7|RX=[V]
+7	batenga	batenga	VERB	_	_	3	mod:purp	_	AlignBegin=125298|AlignEnd=126026|GE=explain|Gloss=explain|nWord=7|RX=[V]
 8	.		PUNCT	_	_	3	punct	_	AlignBegin=126026|AlignEnd=126750|Gloss=.|nWord=8
 
 # sent_id = SAB-TXT-LS-00000-01_036-039
@@ -550,7 +550,7 @@
 1	cha	cha	PRON	_	_	_	_	_	AlignBegin=127450|AlignEnd=127682|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=127682|AlignEnd=127914|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
 3	gna	gna	AUX	_	_	4	comp:aux/m	_	AlignBegin=127914|AlignEnd=127991|GE=can|Gloss=can|nWord=3|RX=[V]
-4	-d-		AUX	_	_	5	comp:aux/m	_	AlignBegin=127991|AlignEnd=128068|GE=[0]|Gloss=-0-|nWord=3|RX=[VERB]
+4	-d		AUX	_	_	5	comp:aux/m	_	AlignBegin=127991|AlignEnd=128068|GE=[0]|Gloss=-0-|nWord=3|RX=[VERB]|wordform=-d-
 5	-u		AUX	_	_	_	_	_	AlignBegin=128068|AlignEnd=128146|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
 6	,		PUNCT	_	_	_	_	_	AlignBegin=128146|AlignEnd=128380|nWord=4
 7	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=128490|AlignEnd=129070|GE=because|Gloss=because|Lang=es|nWord=5|RX=[CONN]
@@ -589,7 +589,7 @@
 # text_ortho = cha skliedu waninke .
 1	cha	cha	PRON	_	_	2	subj	_	AlignBegin=139415|AlignEnd=139805|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	sklie	sklie	VERB	_	_	3	comp:aux/m	_	AlignBegin=139805|AlignEnd=139935|GE=hide|Gloss=hide|nWord=2|RX=[V]
-3	-d-		AUX	_	_	4	comp:aux/m	_	AlignBegin=139935|AlignEnd=140065|GE=[0]|Gloss=-0-|nWord=2|RX=[VERB]
+3	-d		AUX	_	_	4	comp:aux/m	_	AlignBegin=139935|AlignEnd=140065|GE=[0]|Gloss=-0-|nWord=2|RX=[VERB]|wordform=-d-
 4	-u		AUX	_	_	0	root	_	AlignBegin=140065|AlignEnd=140195|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 5	waninke	waninke	ADV	_	_	_	_	_	AlignBegin=140195|AlignEnd=140585|GE=place_of|Gloss=place_of|nWord=3|RX=[ADV]
 6	.		PUNCT	_	_	4	punct	_	AlignBegin=140585|AlignEnd=140975|Gloss=.|nWord=4
@@ -627,7 +627,7 @@
 # text_ortho = cha gwaedu geru nware .
 1	cha	cha	PRON	_	_	2	subj	_	AlignBegin=149040|AlignEnd=149334|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	gwae	gwae	VERB	_	_	3	comp:aux/m	_	AlignBegin=149334|AlignEnd=149432|GE=see|Gloss=see|nWord=2|RX=[V]
-3	-d-		AUX	_	_	4	comp:aux/m	_	AlignBegin=149432|AlignEnd=149530|GE=[0]|Gloss=-0-|nWord=2|RX=[VERB]
+3	-d		AUX	_	_	4	comp:aux/m	_	AlignBegin=149432|AlignEnd=149530|GE=[0]|Gloss=-0-|nWord=2|RX=[VERB]|wordform=-d-
 4	-u		AUX	_	_	0	root	_	AlignBegin=149530|AlignEnd=149628|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 5	geru	geru	NOUN	_	_	_	_	_	AlignBegin=149628|AlignEnd=149922|GE=story|Gloss=story|nWord=3|RX=[N]
 6	nware	nware	ADJ	_	_	5	mod	_	AlignBegin=149922|AlignEnd=150216|GE=good|Gloss=good|nWord=4|RX=[ADJ]
@@ -664,7 +664,7 @@
 7	cha	cha	PRON	_	_	8	subj	_	AlignBegin=153513|AlignEnd=153886|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
 8	ho	hoke	VERB	_	_	_	_	_	AlignBegin=153886|AlignEnd=154259|GE=[go].[PST]|Gloss=go.PST|nWord=7|RX=[VI]
 9	geru	geru	NOUN	_	_	10	comp:obj	_	AlignBegin=154259|AlignEnd=154632|GE=story|Gloss=story|nWord=8|RX=[N]
-10	hue	hue	VERB	_	_	8	mod:purpose	_	AlignBegin=154632|AlignEnd=155005|GE=[learn].[NPST]|Gloss=learn.NPST|nWord=9|RX=[VT]
+10	hue	hue	VERB	_	_	8	mod:purp	_	AlignBegin=154632|AlignEnd=155005|GE=[learn].[NPST]|Gloss=learn.NPST|nWord=9|RX=[VT]
 11	,		PUNCT	_	_	_	_	_	AlignBegin=155005|AlignEnd=155380|nWord=10
 12	gligachada	gligachada	NOUN	_	_	_	_	_	AlignBegin=155595|AlignEnd=156066|GE=school|Gloss=school|nWord=11|RX=[N]
 13	na	na	ADJ	_	_	12	mod	_	AlignBegin=156066|AlignEnd=156537|GE=other|Gloss=other|nWord=12|RX=[DET]
@@ -805,7 +805,7 @@
 1	cha	cha	PRON	_	_	3	subj	_	AlignBegin=181475|AlignEnd=181870|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	koi	koi	NOUN	_	_	3	comp:obj	_	AlignBegin=181870|AlignEnd=182265|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
 3	manan	manan	VERB	_	_	4	comp:aux/m	_	AlignBegin=182265|AlignEnd=182397|GE=take_care|Gloss=take_care|nWord=3|RX=[V]
-4	-d-		AUX	_	_	5	comp:aux/m	_	AlignBegin=182397|AlignEnd=182529|GE=[0]|Gloss=-0-|nWord=3|RX=[VERB]
+4	-d		AUX	_	_	5	comp:aux/m	_	AlignBegin=182397|AlignEnd=182529|GE=[0]|Gloss=-0-|nWord=3|RX=[VERB]|wordform=-d-
 5	-u		AUX	_	_	0	root	_	AlignBegin=182529|AlignEnd=182660|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
 6	.		PUNCT	_	_	5	punct	_	AlignBegin=182660|AlignEnd=183055|Gloss=.|nWord=4
 
@@ -1746,7 +1746,7 @@
 9	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=395320|AlignEnd=395568|GE=that|Gloss=that|Lang=es|nWord=8|RX=[PRO]
 10	cha	cha	PRON	_	_	11	subj	_	AlignBegin=395568|AlignEnd=395816|GE=[1SG]|Gloss=1SG|nWord=9|RX=[PRO]
 11	gwae	gwae	VERB	_	_	12	comp:aux/m	_	AlignBegin=395816|AlignEnd=395899|GE=see|Gloss=see|nWord=10|RX=[V]
-12	-d-		AUX	_	_	13	comp:aux/m	_	AlignBegin=395899|AlignEnd=395982|GE=[0]|Gloss=-0-|nWord=10|RX=[VERB]
+12	-d		AUX	_	_	13	comp:aux/m	_	AlignBegin=395899|AlignEnd=395982|GE=[0]|Gloss=-0-|nWord=10|RX=[VERB]|wordform=-d-
 13	-u		AUX	_	_	_	_	_	AlignBegin=395982|AlignEnd=396064|GE=[PST]|Gloss=-PST|nWord=10|RX=[V:ANY]
 14	ru	ru	NOUN	_	_	15	comp	_	AlignBegin=396064|AlignEnd=396312|GE=aligator|Gloss=aligator|nWord=11|RX=[N]
 15	dike	dike	ADP	_	_	11	comp:obl	_	AlignBegin=396312|AlignEnd=396560|GE=[INST]|Gloss=INST|nWord=12|RX=[ADP]
@@ -1766,7 +1766,7 @@
 29	agere	agere	ADJ	_	_	28	mod	_	AlignBegin=399838|AlignEnd=400159|GE=new|Gloss=new|nWord=25|RX=[ADJ]
 30	cha	cha	PRON	_	_	31	subj	_	AlignBegin=400159|AlignEnd=400480|GE=[1SG]|Gloss=1SG|nWord=26|RX=[PRO]
 31	gwae	gwae	VERB	_	_	32	comp:aux/m	_	AlignBegin=400480|AlignEnd=400587|GE=see|Gloss=see|nWord=27|RX=[V]
-32	-d-		AUX	_	_	33	comp:aux/m	_	AlignBegin=400587|AlignEnd=400694|GE=[0]|Gloss=-0-|nWord=27|RX=[VERB]
+32	-d		AUX	_	_	33	comp:aux/m	_	AlignBegin=400587|AlignEnd=400694|GE=[0]|Gloss=-0-|nWord=27|RX=[VERB]|wordform=-d-
 33	-u		AUX	_	_	_	_	_	AlignBegin=400694|AlignEnd=400801|GE=[PST]|Gloss=-PST|nWord=27|RX=[V:ANY]
 34	chunchi	chunchi	NOUN	_	_	36	comp	_	AlignBegin=400801|AlignEnd=401122|GE=porc|Gloss=porc|nWord=28|RX=[N]
 35	here	here	ADJ	_	_	34	mod	_	AlignBegin=401122|AlignEnd=401443|GE=black|Gloss=black|nWord=29|RX=[ADJ]
@@ -1774,7 +1774,7 @@
 37	,		PUNCT	_	_	_	_	_	AlignBegin=401764|AlignEnd=402085|nWord=31
 38	cha	cha	PRON	_	_	39	subj	_	AlignBegin=402095|AlignEnd=402545|GE=[1SG]|Gloss=1SG|nWord=32|RX=[PRO]
 39	gwae	gwae	VERB	_	_	40	comp:aux/m	_	AlignBegin=402545|AlignEnd=402695|GE=see|Gloss=see|nWord=33|RX=[V]
-40	-d-		AUX	_	_	41	comp:aux/m	_	AlignBegin=402695|AlignEnd=402845|GE=[0]|Gloss=-0-|nWord=33|RX=[VERB]
+40	-d		AUX	_	_	41	comp:aux/m	_	AlignBegin=402695|AlignEnd=402845|GE=[0]|Gloss=-0-|nWord=33|RX=[VERB]|wordform=-d-
 41	-u		AUX	_	_	_	_	_	AlignBegin=402845|AlignEnd=402995|GE=[PST]|Gloss=-PST|nWord=33|RX=[V:ANY]
 42	chunchi	chunchi	NOUN	_	_	44	comp	_	AlignBegin=402995|AlignEnd=403445|GE=porc|Gloss=porc|nWord=34|RX=[N]
 43	blegda	blegda	NOUN	_	_	42	mod	_	AlignBegin=403445|AlignEnd=403895|GE=porc|Gloss=porc|nWord=35|RX=[N]
@@ -1831,10 +1831,10 @@
 # text = die ngleare aini .
 # text_en = The thing were here a lot (before).
 # text_ortho = die ngleare aini .
-1	die	die	NOUN	_	_	_	_	_	AlignBegin=410920|AlignEnd=411218|GE=thing|Gloss=thing|nWord=1|RX=[N]
-2	ngle	ngle	ADV	_	_	3	comp:aux/m	_	AlignBegin=411218|AlignEnd=411317|GE=more|Gloss=more|nWord=2|RX=[ADV]
-3	-a		AUX	_	_	4	comp:aux/m	_	AlignBegin=411317|AlignEnd=411416|GE=[0]|Gloss=-0|nWord=2|RX=[NOUN]
-4	-re		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=411416|AlignEnd=411516|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
+1	die	die	NOUN	_	DerPos=ADJ	_	_	_	AlignBegin=410920|AlignEnd=411218|GE=thing|Gloss=thing|nWord=1|RX=[N]
+2	ngle	ngle	ADV	_	DerPos=ADJ	3	comp:aux/m	_	AlignBegin=411218|AlignEnd=411317|GE=more|Gloss=more|nWord=2|RX=[ADV]
+3	-a		AUX	_	DerPos=ADJ	4	comp:aux/m	_	AlignBegin=411317|AlignEnd=411416|GE=[0]|Gloss=-0|nWord=2|RX=[NOUN]
+4	-re		AUX	_	_	_	_	_	AlignBegin=411416|AlignEnd=411516|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
 5	aini	aini	ADV	_	_	_	_	_	AlignBegin=411516|AlignEnd=411814|GE=here|Gloss=here|nWord=3|RX=[ADV]
 6	.		PUNCT	_	_	_	_	_	AlignBegin=411814|AlignEnd=412110|Gloss=.|nWord=4
 
@@ -1850,14 +1850,14 @@
 2	cha	cha	PRON	_	_	4	subj	_	AlignBegin=412487|AlignEnd=412864|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	si	si	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=412864|AlignEnd=413241|GE=if|Gloss=if|Lang=es|nWord=3|RX=[CONN]
 4	gwae	gwae	VERB	_	_	5	comp:aux/m	_	AlignBegin=413241|AlignEnd=413367|GE=see|Gloss=see|nWord=4|RX=[V]
-5	-d-		AUX	_	_	6	comp:aux/m	_	AlignBegin=413367|AlignEnd=413493|GE=[0]|Gloss=-0-|nWord=4|RX=[VERB]
+5	-d		AUX	_	_	6	comp:aux/m	_	AlignBegin=413367|AlignEnd=413493|GE=[0]|Gloss=-0-|nWord=4|RX=[VERB]|wordform=-d-
 6	-u		AUX	_	_	_	_	_	AlignBegin=413493|AlignEnd=413618|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
 7	gwo	gwo	NOUN	_	_	9	comp	_	AlignBegin=413618|AlignEnd=413995|GE=eye|Gloss=eye|nWord=5|RX=[N]
 8	ai	ai	ADV	_	_	7	mod	_	AlignBegin=413995|AlignEnd=414372|GE=here|Gloss=here|nWord=6|RX=[ADV]
 9	dike	dike	ADP	_	_	4	comp:obl	_	AlignBegin=414372|AlignEnd=414749|GE=[INST]|Gloss=INST|nWord=7|RX=[ADP]
 10	cha	cha	PRON	_	_	11	subj	_	AlignBegin=414749|AlignEnd=415126|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
 11	gwae	gwae	VERB	_	_	12	comp:aux/m	_	AlignBegin=415126|AlignEnd=415252|GE=see|Gloss=see|nWord=9|RX=[V]
-12	-d-		AUX	_	_	13	comp:aux/m	_	AlignBegin=415252|AlignEnd=415378|GE=[0]|Gloss=-0-|nWord=9|RX=[VERB]
+12	-d		AUX	_	_	13	comp:aux/m	_	AlignBegin=415252|AlignEnd=415378|GE=[0]|Gloss=-0-|nWord=9|RX=[VERB]|wordform=-d-
 13	-u		AUX	_	_	_	_	_	AlignBegin=415378|AlignEnd=415503|GE=[PST]|Gloss=-PST|nWord=9|RX=[V:ANY]
 14	mue	mue	NOUN	_	_	15	comp	_	AlignBegin=415503|AlignEnd=415880|GE=fish|Gloss=fish|nWord=10|RX=[N]
 15	dike	dike	ADP	_	_	11	comp:obl	_	AlignBegin=415880|AlignEnd=416257|GE=[INST]|Gloss=INST|nWord=11|RX=[ADP]

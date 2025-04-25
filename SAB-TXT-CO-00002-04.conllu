@@ -126,11 +126,11 @@
 # text = aro lie chole .
 # text_en = (We) cook the rice salty.
 # text_ortho = aro lie chole .
-1	arroz	arroz	NOUN	_	Foreign=Yes	2	comp:obj	_	AlignBegin=31800|AlignEnd=32298|GE=rice|Gloss=rice|Lang=es|nWord=1|RX=[N]
-2	li	li	VERB	_	_	3	comp:aux/m	_	AlignBegin=32298|AlignEnd=32547|GE=cook|Gloss=cook|nWord=2|RX=[VT]
-3	-e		AUX	_	_	_	_	_	AlignBegin=32547|AlignEnd=32796|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
-4	cho	cho	NOUN	_	_	5	comp:aux/m	_	AlignBegin=32796|AlignEnd=33045|GE=salt|Gloss=salt|nWord=3|RX=[N]
-5	-le		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=33045|AlignEnd=33294|GE=[ADJZ]|Gloss=-ADJZ|nWord=3|RX=[N>ADJ]
+1	arroz	arroz	NOUN	_	DerPos=ADJ|Foreign=Yes	2	comp:obj	_	AlignBegin=31800|AlignEnd=32298|GE=rice|Gloss=rice|Lang=es|nWord=1|RX=[N]
+2	li	li	VERB	_	DerPos=ADJ	3	comp:aux/m	_	AlignBegin=32298|AlignEnd=32547|GE=cook|Gloss=cook|nWord=2|RX=[VT]
+3	-e		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=32547|AlignEnd=32796|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	cho	cho	NOUN	_	DerPos=ADJ	5	comp:aux/m	_	AlignBegin=32796|AlignEnd=33045|GE=salt|Gloss=salt|nWord=3|RX=[N]
+5	-le		AUX	_	_	_	_	_	AlignBegin=33045|AlignEnd=33294|GE=[ADJZ]|Gloss=-ADJZ|nWord=3|RX=[N>ADJ]
 6	.		PUNCT	_	_	_	_	_	AlignBegin=33294|AlignEnd=33790|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-CO-00002-04_10-10
@@ -141,13 +141,13 @@
 # text = aro si hay que lie chole .
 # text_en = The rice yes, one have to cook it salty.
 # text_ortho = aro si hay que lie chole .
-1	arroz	arroz	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=34080|AlignEnd=34490|GE=rice|Gloss=rice|Lang=es|nWord=1|RX=[N]
-2	si	si	PART	_	Foreign=Yes	_	_	_	AlignBegin=34490|AlignEnd=34900|GE=yes|Gloss=yes|Lang=es|nWord=2|RX=[VERBPRT]
-3	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=34900|AlignEnd=35310|GE=there_is|Gloss=there_is|Lang=es|nWord=3|RX=[V]
-4	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=35310|AlignEnd=35720|GE=that|Gloss=that|Lang=es|nWord=4|RX=[PRO]
-5	li	li	VERB	_	_	6	comp:aux/m	_	AlignBegin=35720|AlignEnd=35925|GE=cook|Gloss=cook|nWord=5|RX=[VT]
-6	-e		AUX	_	_	_	_	_	AlignBegin=35925|AlignEnd=36130|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
-7	cho	cho	NOUN	_	_	8	comp:aux/m	_	AlignBegin=36130|AlignEnd=36335|GE=salt|Gloss=salt|nWord=6|RX=[N]
-8	-le		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=36335|AlignEnd=36540|GE=[ADJZ]|Gloss=-ADJZ|nWord=6|RX=[N>ADJ]
+1	arroz	arroz	NOUN	_	DerPos=ADJ|Foreign=Yes	_	_	_	AlignBegin=34080|AlignEnd=34490|GE=rice|Gloss=rice|Lang=es|nWord=1|RX=[N]
+2	si	si	PART	_	DerPos=ADJ|Foreign=Yes	_	_	_	AlignBegin=34490|AlignEnd=34900|GE=yes|Gloss=yes|Lang=es|nWord=2|RX=[VERBPRT]
+3	hay	hay	VERB	_	DerPos=ADJ|Foreign=Yes	_	_	_	AlignBegin=34900|AlignEnd=35310|GE=there_is|Gloss=there_is|Lang=es|nWord=3|RX=[V]
+4	que	que	PRON	_	DerPos=ADJ|Foreign=Yes	_	_	_	AlignBegin=35310|AlignEnd=35720|GE=that|Gloss=that|Lang=es|nWord=4|RX=[PRO]
+5	li	li	VERB	_	DerPos=ADJ	6	comp:aux/m	_	AlignBegin=35720|AlignEnd=35925|GE=cook|Gloss=cook|nWord=5|RX=[VT]
+6	-e		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=35925|AlignEnd=36130|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	cho	cho	NOUN	_	DerPos=ADJ	8	comp:aux/m	_	AlignBegin=36130|AlignEnd=36335|GE=salt|Gloss=salt|nWord=6|RX=[N]
+8	-le		AUX	_	_	_	_	_	AlignBegin=36335|AlignEnd=36540|GE=[ADJZ]|Gloss=-ADJZ|nWord=6|RX=[N>ADJ]
 9	.		PUNCT	_	_	_	_	_	AlignBegin=36540|AlignEnd=36950|Gloss=.|nWord=7
 

@@ -15,7 +15,7 @@
 7	dwa	dwa	ADV	_	_	_	_	_	AlignBegin=9108|AlignEnd=9514|GE=down|Gloss=down|nWord=4|RX=[ADV]
 8	gnachuka	gnachuka	VERB	_	_	9	comp:aux@pass	_	AlignBegin=9514|AlignEnd=9920|GE=mesure|Gloss=mesure|nWord=5|RX=[V]
 9	kle	kle	AUX	_	_	10	comp:aux/m	_	AlignBegin=9920|AlignEnd=10055|GE=be|Gloss=be|nWord=6|RX=[V]
-10	-d-		AUX	_	_	11	comp:aux/m	_	AlignBegin=10055|AlignEnd=10190|GE=[0]|Gloss=-0-|nWord=6|RX=[VERB]
+10	-d		AUX	_	_	11	comp:aux/m	_	AlignBegin=10055|AlignEnd=10190|GE=[0]|Gloss=-0-|nWord=6|RX=[VERB]|wordform=-d-
 11	-a		AUX	_	_	_	_	_	AlignBegin=10190|AlignEnd=10326|GE=[PASS]|Gloss=-PASS|nWord=6|RX=[V:ANY]
 12	u	u	NOUN	_	_	_	_	_	AlignBegin=10326|AlignEnd=10732|GE=house|Gloss=house|nWord=7|RX=[N]
 13	kweri	kweri	ADJ	_	_	12	mod	_	AlignBegin=10732|AlignEnd=11138|GE=big|Gloss=big|nWord=8|RX=[ADJ]

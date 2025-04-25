@@ -159,7 +159,7 @@
 12	-e		AUX	_	_	10	comp:aux	_	AlignBegin=37225|AlignEnd=37372|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
 13	no	no	ADV	_	_	12	mod	_	AlignBegin=37372|AlignEnd=37665|GE=well|Gloss=well|nWord=11|RX=[ADV]
 14	,		PUNCT	_	_	_	_	_	AlignBegin=37665|AlignEnd=37960|nWord=12
-15	para	para	SCONJ	_	Foreign=Yes	11	mod:purpose	_	AlignBegin=37980|AlignEnd=38253|GE=for|Gloss=for|Lang=es|nWord=13|RX=[ADP]
+15	para	para	SCONJ	_	Foreign=Yes	11	mod:purp	_	AlignBegin=37980|AlignEnd=38253|GE=for|Gloss=for|Lang=es|nWord=13|RX=[ADP]
 16	que	que	X	_	Foreign=Yes	15	compound	_	AlignBegin=38253|AlignEnd=38526|GE=that|Gloss=that|Lang=es|nWord=14|RX=[PRO]
 17	no	no	PART	_	_	18	det	_	AlignBegin=38526|AlignEnd=38799|GE=[NEG]|Gloss=NEG|nWord=15|RX=[VERBPRT]
 18	chi	chi	NOUN	_	_	19	subj	_	AlignBegin=38799|AlignEnd=39072|GE=water|Gloss=water|nWord=16|RX=[N]
@@ -193,7 +193,7 @@
 1	correa	correa	NOUN	_	_	_	_	_	AlignBegin=44770|AlignEnd=45072|GE=correa|Gloss=correa|nWord=1|RX=[N]
 2	luk	luk	VERB	_	_	3	comp:aux/m	_	AlignBegin=45072|AlignEnd=45148|GE=link|Gloss=link|nWord=2|RX=[VT]
 3	-e		AUX	_	_	4	comp:aux/m	_	AlignBegin=45148|AlignEnd=45224|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
-4	-d-		AUX	_	_	5	comp:aux/m	_	AlignBegin=45224|AlignEnd=45300|GE=[0]|Gloss=-0-|nWord=2|RX=[VERB]
+4	-d		AUX	_	_	5	comp:aux/m	_	AlignBegin=45224|AlignEnd=45300|GE=[0]|Gloss=-0-|nWord=2|RX=[VERB]|wordform=-d-
 5	-a		AUX	_	_	6	comp:aux@pass	_	AlignBegin=45300|AlignEnd=45374|GE=[PASS]|Gloss=-PASS|nWord=2|RX=[V:ANY]
 6	kle	kle	AUX	_	_	_	_	_	AlignBegin=45374|AlignEnd=45676|GE=be|Gloss=be|nWord=3|RX=[V]
 7	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=45676|AlignEnd=45978|GE=all|Gloss=all|nWord=4|RX=[ADV]

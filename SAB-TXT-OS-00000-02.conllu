@@ -562,7 +562,7 @@
 11	kle	kle	AUX	_	_	_	_	_	AlignBegin=138372|AlignEnd=138569|GE=be|Gloss=be|nWord=8|RX=[V]
 12	mung	mung	PRON	_	_	_	_	_	AlignBegin=138569|AlignEnd=138766|GE=[REFL]|Gloss=REFL|nWord=9|RX=[VERBPRT]
 13	gai	gai	VERB	_	_	14	comp:aux/m	_	AlignBegin=138766|AlignEnd=138832|GE=pick_up|Gloss=pick_up|nWord=10|RX=[VT]
-14	-d-		AUX	_	_	15	comp:aux/m	_	AlignBegin=138832|AlignEnd=138898|GE=[0]|Gloss=-0-|nWord=10|RX=[VERB]
+14	-d		AUX	_	_	15	comp:aux/m	_	AlignBegin=138832|AlignEnd=138898|GE=[0]|Gloss=-0-|nWord=10|RX=[VERB]|wordform=-d-
 15	-a		AUX	_	_	11	comp:aux	_	AlignBegin=138898|AlignEnd=138963|GE=[0]|Gloss=-0|nWord=10|RX=[VERB]
 16	ole	ole	ADP	_	_	_	_	_	AlignBegin=138963|AlignEnd=139160|GE=[COM]|Gloss=COM|nWord=11|RX=[ADP]
 17	.		PUNCT	_	_	_	_	_	AlignBegin=139160|AlignEnd=139355|Gloss=.|nWord=12
@@ -742,7 +742,7 @@
 13	ba	ba	PRON	_	_	15	subj	_	AlignBegin=170920|AlignEnd=171138|GE=[2SG]|Gloss=2SG|nWord=8|RX=[PRO]
 14	mung	mung	PRON	_	_	_	_	_	AlignBegin=171138|AlignEnd=171356|GE=[REFL]|Gloss=REFL|nWord=9|RX=[VERBPRT]
 15	gai	gai	VERB	_	_	16	comp:aux/m	_	AlignBegin=171356|AlignEnd=171429|GE=pick_up|Gloss=pick_up|nWord=10|RX=[VT]
-16	-d-		AUX	_	_	17	comp:aux/m	_	AlignBegin=171429|AlignEnd=171502|GE=[0]|Gloss=-0-|nWord=10|RX=[VERB]
+16	-d		AUX	_	_	17	comp:aux/m	_	AlignBegin=171429|AlignEnd=171502|GE=[0]|Gloss=-0-|nWord=10|RX=[VERB]|wordform=-d-
 17	-a		AUX	_	_	_	_	_	AlignBegin=171502|AlignEnd=171574|GE=[PASS]|Gloss=-PASS|nWord=10|RX=[V:ANY]
 18	ole	ole	ADP	_	_	_	_	_	AlignBegin=171574|AlignEnd=171792|GE=[COM]|Gloss=COM|nWord=11|RX=[ADP]
 19	.		PUNCT	_	_	_	_	_	AlignBegin=171792|AlignEnd=172010|Gloss=.|nWord=12
@@ -858,9 +858,9 @@
 # text = ski bitale honi .
 # text_en = (They) went with a lot (of dry pieces) in the motete.
 # text_ortho = ski bitale honi .
-1	ski	ski	NOUN	_	_	_	_	_	AlignBegin=193215|AlignEnd=193637|GE=motete|Gloss=motete|nWord=1|RX=[N]
-2	bita	bita	NOUN	_	_	3	comp:aux/m	_	AlignBegin=193637|AlignEnd=193848|GE=piece|Gloss=piece|nWord=2|RX=[N]
-3	-le		AUX	_	DerPos=ADJ	1	mod	_	AlignBegin=193848|AlignEnd=194059|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
+1	ski	ski	NOUN	_	DerPos=ADJ	_	_	_	AlignBegin=193215|AlignEnd=193637|GE=motete|Gloss=motete|nWord=1|RX=[N]
+2	bita	bita	NOUN	_	DerPos=ADJ	3	comp:aux/m	_	AlignBegin=193637|AlignEnd=193848|GE=piece|Gloss=piece|nWord=2|RX=[N]
+3	-le		AUX	_	_	1	mod	_	AlignBegin=193848|AlignEnd=194059|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
 4	ho	hoke	VERB	_	_	5	comp:aux/m	_	AlignBegin=194059|AlignEnd=194270|GE=[go].[PST]|Gloss=go.PST|nWord=3|RX=[VI]
 5	-ni		AUX	_	_	_	_	_	AlignBegin=194270|AlignEnd=194481|GE=[IT]|Gloss=-IT|nWord=3|RX=[V:ANY]
 6	.		PUNCT	_	_	_	_	_	AlignBegin=194481|AlignEnd=194905|Gloss=.|nWord=4
@@ -909,7 +909,7 @@
 # text_en = (They) went to sleep on the side of the path.
 # text_ortho = ho gwe hong hegwale .
 1	ho	hoke	VERB	_	_	0	root	_	AlignBegin=200545|AlignEnd=200773|GE=[go].[PST]|Gloss=go.PST|nWord=1|RX=[VI]
-2	gwe	gwe	VERB	_	_	1	mod:purpose	_	AlignBegin=200773|AlignEnd=201001|GE=sleep|Gloss=sleep|nWord=2|RX=[VI]
+2	gwe	gwe	VERB	_	_	1	mod:purp	_	AlignBegin=200773|AlignEnd=201001|GE=sleep|Gloss=sleep|nWord=2|RX=[VI]
 3	hong	hong	NOUN	_	_	4	comp	_	AlignBegin=201001|AlignEnd=201229|GE=path|Gloss=path|nWord=3|RX=[N]
 4	hegwale	hegwale	ADP	_	_	2	comp:obl	_	AlignBegin=201229|AlignEnd=201457|GE=next_to|Gloss=next_to|nWord=4|RX=[ADP]
 5	.		PUNCT	_	_	1	punct	_	AlignBegin=201457|AlignEnd=201685|Gloss=.|nWord=5
@@ -1034,14 +1034,14 @@
 # text_en = (Boisiri) sleeped for a minute, Then (he) saw,
 # text_ortho = gwedu gwaite , ya tiengdu .
 1	gwe	gwe	VERB	_	_	2	comp:aux/m	_	AlignBegin=213915|AlignEnd=214056|GE=sleep|Gloss=sleep|nWord=1|RX=[VI]
-2	-d-		AUX	_	_	3	comp:aux/m	_	AlignBegin=214056|AlignEnd=214197|GE=[0]|Gloss=-0-|nWord=1|RX=[VERB]
+2	-d		AUX	_	_	3	comp:aux/m	_	AlignBegin=214056|AlignEnd=214197|GE=[0]|Gloss=-0-|nWord=1|RX=[VERB]|wordform=-d-
 3	-u		AUX	_	_	_	_	_	AlignBegin=214197|AlignEnd=214338|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]
 4	gwa	gwa	NUM	_	_	5	clf	_	AlignBegin=214338|AlignEnd=214550|GE=cl|Gloss=cl|nWord=2|RX=[NUM]
 5	ite	ite	NUM	_	_	_	_	_	AlignBegin=214550|AlignEnd=214761|GE=one|Gloss=one|nWord=2|RX=[NUM]
 6	,		PUNCT	_	_	_	_	_	AlignBegin=214761|AlignEnd=215185|nWord=3
 7	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=215185|AlignEnd=215868|GE=now|Gloss=now|Lang=es|nWord=4|RX=[ADV]
 8	tieng	tieng	VERB	_	_	9	comp:aux/m	_	AlignBegin=215868|AlignEnd=216096|GE=[see].[NPST]|Gloss=see.NPST|nWord=5|RX=[V]
-9	-d-		AUX	_	_	10	comp:aux/m	_	AlignBegin=216096|AlignEnd=216324|GE=[0]|Gloss=-0-|nWord=5|RX=[VERB]
+9	-d		AUX	_	_	10	comp:aux/m	_	AlignBegin=216096|AlignEnd=216324|GE=[0]|Gloss=-0-|nWord=5|RX=[VERB]|wordform=-d-
 10	-u		AUX	_	_	_	_	_	AlignBegin=216324|AlignEnd=216551|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]
 11	.		PUNCT	_	_	_	_	_	AlignBegin=216551|AlignEnd=217235|Gloss=.|nWord=6
 

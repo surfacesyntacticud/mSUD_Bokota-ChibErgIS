@@ -217,9 +217,9 @@
 # text = hami kedale .
 # text_en = Men go away.
 # text_ortho = hami kedale .
-1	hami	hami	NOUN	_	_	_	_	_	AlignBegin=53470|AlignEnd=54087|GE=man|Gloss=man|nWord=1|RX=[N]
-2	keda	keda	NOUN	_	_	3	comp:aux/m	_	AlignBegin=54087|AlignEnd=54395|GE=valley|Gloss=valley|nWord=2|RX=[N]
-3	-le		AUX	_	DerPos=ADJ	1	mod	_	AlignBegin=54395|AlignEnd=54704|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
+1	hami	hami	NOUN	_	DerPos=ADJ	_	_	_	AlignBegin=53470|AlignEnd=54087|GE=man|Gloss=man|nWord=1|RX=[N]
+2	keda	keda	NOUN	_	DerPos=ADJ	3	comp:aux/m	_	AlignBegin=54087|AlignEnd=54395|GE=valley|Gloss=valley|nWord=2|RX=[N]
+3	-le		AUX	_	_	1	mod	_	AlignBegin=54395|AlignEnd=54704|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
 4	.		PUNCT	_	_	_	_	_	AlignBegin=54704|AlignEnd=55320|Gloss=.|nWord=3
 
 # sent_id = SAB-TXT-BS-00000-09_20-20
@@ -230,9 +230,9 @@
 # text = hami kedale .
 # text_en = Men go away.
 # text_ortho = hami kedale .
-1	hami	hami	NOUN	_	_	_	_	_	AlignBegin=55360|AlignEnd=55840|GE=man|Gloss=man|nWord=1|RX=[N]
-2	keda	keda	NOUN	_	_	3	comp:aux/m	_	AlignBegin=55840|AlignEnd=56080|GE=valley|Gloss=valley|nWord=2|RX=[N]
-3	-le		AUX	_	DerPos=ADJ	1	mod	_	AlignBegin=56080|AlignEnd=56320|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
+1	hami	hami	NOUN	_	DerPos=ADJ	_	_	_	AlignBegin=55360|AlignEnd=55840|GE=man|Gloss=man|nWord=1|RX=[N]
+2	keda	keda	NOUN	_	DerPos=ADJ	3	comp:aux/m	_	AlignBegin=55840|AlignEnd=56080|GE=valley|Gloss=valley|nWord=2|RX=[N]
+3	-le		AUX	_	_	1	mod	_	AlignBegin=56080|AlignEnd=56320|GE=[ADJZ]|Gloss=-ADJZ|nWord=2|RX=[N>ADJ]
 4	.		PUNCT	_	_	_	_	_	AlignBegin=56320|AlignEnd=56800|Gloss=.|nWord=3
 
 # sent_id = SAB-TXT-BS-00000-09_21-22

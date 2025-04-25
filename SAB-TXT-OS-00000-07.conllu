@@ -56,7 +56,7 @@
 35	bitaia	bitaia	NOUN	_	_	36	comp:obj	_	AlignBegin=24183|AlignEnd=24561|GE=family|Gloss=family|nWord=31|RX=[N]
 36	gai	gai	VERB	_	_	_	_	_	AlignBegin=24561|AlignEnd=24939|GE=pick_up|Gloss=pick_up|nWord=32|RX=[VT]
 37	,		PUNCT	_	_	_	_	_	AlignBegin=24939|AlignEnd=25315|nWord=33
-38	para	para	SCONJ	_	Foreign=Yes	36	mod:purpose	_	AlignBegin=25335|AlignEnd=25783|GE=for|Gloss=for|Lang=es|nWord=34|RX=[ADP]
+38	para	para	SCONJ	_	Foreign=Yes	36	mod:purp	_	AlignBegin=25335|AlignEnd=25783|GE=for|Gloss=for|Lang=es|nWord=34|RX=[ADP]
 39	giska	giska	NOUN	_	_	40	comp:obj	_	AlignBegin=25783|AlignEnd=26231|GE=rope|Gloss=rope|nWord=35|RX=[N]
 40	hue	hue	VERB	_	_	41	comp:aux/m	_	AlignBegin=26231|AlignEnd=26455|GE=[find].[NPST]|Gloss=find.NPST|nWord=36|RX=[VT]
 41	-nga		AUX	_	_	38	comp	_	AlignBegin=26455|AlignEnd=26679|GE=[SUB]|Gloss=-SUB|nWord=36|RX=[V:ANY]
@@ -94,17 +94,17 @@
 # text = ( hoke ) che ho ko kete kwia hulale ke , entonces ya me cheku che ske .
 # text_en = Now we give a hand to the white men. So (the culture) does not stay with us.
 # text_ortho = ( hoke ) che ho ko kete kwia hulale ke , entonces ya me cheku che ske .
-1	(		PUNCT	_	_	_	_	_	AlignBegin=32315|AlignEnd=32507|nWord=1
-2	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=32507|AlignEnd=32699|GE=go|Gloss=go|nWord=2|RX=[VI]
-3	)		PUNCT	_	_	_	_	_	AlignBegin=32699|AlignEnd=32891|nWord=3
-4	che	che	PRON	_	_	7	subj	_	AlignBegin=32891|AlignEnd=33083|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=4|RX=[PRO]
-5	ho	hoke	AUX	_	_	_	_	_	AlignBegin=33083|AlignEnd=33275|GE=[go].[PST]|Gloss=go.PST|nWord=5|RX=[VI]
-6	ko	ko	NOUN	_	_	7	comp:obj	_	AlignBegin=33275|AlignEnd=33467|GE=hand|Gloss=hand|nWord=6|RX=[N]
-7	ket	ket	VERB	_	_	8	comp:aux/m	_	AlignBegin=33467|AlignEnd=33563|GE=give|Gloss=give|nWord=7|RX=[V]
-8	-e		AUX	_	_	5	comp:aux	_	AlignBegin=33563|AlignEnd=33659|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
-9	kwia	kwia	NOUN	_	_	_	_	_	AlignBegin=33659|AlignEnd=33851|GE=people|Gloss=people|nWord=8|RX=[N]
-10	hula	hula	NOUN	_	_	11	comp:aux/m	_	AlignBegin=33851|AlignEnd=33947|GE=white_man|Gloss=white_man|nWord=9|RX=[N]
-11	-le		AUX	_	DerPos=ADJ	12	comp	_	AlignBegin=33947|AlignEnd=34043|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
+1	(		PUNCT	_	DerPos=ADJ	_	_	_	AlignBegin=32315|AlignEnd=32507|nWord=1
+2	hoke	hoke	VERB	_	DerPos=ADJ	_	_	_	AlignBegin=32507|AlignEnd=32699|GE=go|Gloss=go|nWord=2|RX=[VI]
+3	)		PUNCT	_	DerPos=ADJ	_	_	_	AlignBegin=32699|AlignEnd=32891|nWord=3
+4	che	che	PRON	_	DerPos=ADJ	7	subj	_	AlignBegin=32891|AlignEnd=33083|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=4|RX=[PRO]
+5	ho	hoke	AUX	_	DerPos=ADJ	_	_	_	AlignBegin=33083|AlignEnd=33275|GE=[go].[PST]|Gloss=go.PST|nWord=5|RX=[VI]
+6	ko	ko	NOUN	_	DerPos=ADJ	7	comp:obj	_	AlignBegin=33275|AlignEnd=33467|GE=hand|Gloss=hand|nWord=6|RX=[N]
+7	ket	ket	VERB	_	DerPos=ADJ	8	comp:aux/m	_	AlignBegin=33467|AlignEnd=33563|GE=give|Gloss=give|nWord=7|RX=[V]
+8	-e		AUX	_	DerPos=ADJ	5	comp:aux	_	AlignBegin=33563|AlignEnd=33659|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
+9	kwia	kwia	NOUN	_	DerPos=ADJ	_	_	_	AlignBegin=33659|AlignEnd=33851|GE=people|Gloss=people|nWord=8|RX=[N]
+10	hula	hula	NOUN	_	DerPos=ADJ	11	comp:aux/m	_	AlignBegin=33851|AlignEnd=33947|GE=white_man|Gloss=white_man|nWord=9|RX=[N]
+11	-le		AUX	_	_	12	comp	_	AlignBegin=33947|AlignEnd=34043|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
 12	ke	ke	ADP	_	_	_	_	_	AlignBegin=34043|AlignEnd=34235|GE=[DAT]|Gloss=DAT|nWord=10|RX=[ADP]
 13	,		PUNCT	_	_	_	_	_	AlignBegin=34235|AlignEnd=34430|nWord=11
 14	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=34430|AlignEnd=34770|GE=so|Gloss=so|Lang=es|nWord=12|RX=[ADV]

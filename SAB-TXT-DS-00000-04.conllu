@@ -6,26 +6,26 @@
 # text = kwia oli aini kle , cheke oli nienu ke chebi ke kwia kle , beke bagere .
 # text_en = Some people here are orphans. The people are orphan from father and mother (They) do rituals.
 # text_ortho = kwia oli aini kle , cheke oli nienu ke chebi ke kwia kle , beke bagere .
-1	kwia	kwia	NOUN	_	_	4	subj	_	AlignBegin=8890|AlignEnd=9358|GE=people|Gloss=people|nWord=1|RX=[N]
-2	oli	oli	NOUN	_	_	1	mod	_	AlignBegin=9358|AlignEnd=9826|GE=orphan|Gloss=orphan|nWord=2|RX=[N]
-3	aini	aini	ADV	_	_	4	mod:lmod	_	AlignBegin=9826|AlignEnd=10294|GE=here|Gloss=here|nWord=3|RX=[ADV]
-4	kle	kle	AUX	_	_	_	_	_	AlignBegin=10294|AlignEnd=10762|GE=be|Gloss=be|nWord=4|RX=[V]
-5	,		PUNCT	_	_	_	_	_	AlignBegin=10762|AlignEnd=11230|nWord=5
-6	chek	chek	VERB	_	_	7	comp:aux/m	_	AlignBegin=11580|AlignEnd=11744|GE=stay|Gloss=stay|nWord=6|RX=[VI]
-7	-e		AUX	_	_	_	_	_	AlignBegin=11744|AlignEnd=11909|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
-8	oli	oli	NOUN	_	_	_	_	_	AlignBegin=11909|AlignEnd=12238|GE=orphan|Gloss=orphan|nWord=7|RX=[N]
-9	nienu	nienu	NOUN	_	_	10	comp	_	AlignBegin=12238|AlignEnd=12567|GE=father|Gloss=father|nWord=8|RX=[N]
-10	ke	ke	ADP	_	_	6	comp:obl	_	AlignBegin=12567|AlignEnd=12896|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
-11	chebi	chebi	NOUN	_	_	12	comp	_	AlignBegin=12896|AlignEnd=13225|GE=mother|Gloss=mother|nWord=10|RX=[N]
-12	ke	ke	ADP	_	_	6	comp:obl	_	AlignBegin=13225|AlignEnd=13554|GE=[LOC]|Gloss=LOC|nWord=11|RX=[ADP]
-13	kwia	kwia	NOUN	_	_	_	_	_	AlignBegin=13554|AlignEnd=13883|GE=people|Gloss=people|nWord=12|RX=[N]
-14	kle	kle	AUX	_	_	_	_	_	AlignBegin=13883|AlignEnd=14212|GE=be|Gloss=be|nWord=13|RX=[V]
-15	,		PUNCT	_	_	_	_	_	AlignBegin=14212|AlignEnd=14540|nWord=14
-16	bek	bek	VERB	_	_	17	comp:aux/m	_	AlignBegin=14600|AlignEnd=14848|GE=put|Gloss=put|nWord=15|RX=[V]
-17	-e		AUX	_	_	_	_	_	AlignBegin=14848|AlignEnd=15097|GE=[THM]|Gloss=-THM|nWord=15|RX=[V:ANY]
-18	bag	bag	VERB	_	_	19	comp:aux/m	_	AlignBegin=15097|AlignEnd=15263|GE=ceremoniate|Gloss=ceremoniate|nWord=16|RX=[VI]
-19	-e		AUX	_	_	20	comp:aux/m	_	AlignBegin=15263|AlignEnd=15429|GE=[THM]|Gloss=-THM|nWord=16|RX=[V:ANY]
-20	-re		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=15429|AlignEnd=15594|GE=[ADJZ]|Gloss=-ADJZ|nWord=16|RX=[N>ADJ]
+1	kwia	kwia	NOUN	_	DerPos=ADJ	4	subj	_	AlignBegin=8890|AlignEnd=9358|GE=people|Gloss=people|nWord=1|RX=[N]
+2	oli	oli	NOUN	_	DerPos=ADJ	1	mod	_	AlignBegin=9358|AlignEnd=9826|GE=orphan|Gloss=orphan|nWord=2|RX=[N]
+3	aini	aini	ADV	_	DerPos=ADJ	4	mod:lmod	_	AlignBegin=9826|AlignEnd=10294|GE=here|Gloss=here|nWord=3|RX=[ADV]
+4	kle	kle	AUX	_	DerPos=ADJ	_	_	_	AlignBegin=10294|AlignEnd=10762|GE=be|Gloss=be|nWord=4|RX=[V]
+5	,		PUNCT	_	DerPos=ADJ	_	_	_	AlignBegin=10762|AlignEnd=11230|nWord=5
+6	chek	chek	VERB	_	DerPos=ADJ	7	comp:aux/m	_	AlignBegin=11580|AlignEnd=11744|GE=stay|Gloss=stay|nWord=6|RX=[VI]
+7	-e		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=11744|AlignEnd=11909|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
+8	oli	oli	NOUN	_	DerPos=ADJ	_	_	_	AlignBegin=11909|AlignEnd=12238|GE=orphan|Gloss=orphan|nWord=7|RX=[N]
+9	nienu	nienu	NOUN	_	DerPos=ADJ	10	comp	_	AlignBegin=12238|AlignEnd=12567|GE=father|Gloss=father|nWord=8|RX=[N]
+10	ke	ke	ADP	_	DerPos=ADJ	6	comp:obl	_	AlignBegin=12567|AlignEnd=12896|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
+11	chebi	chebi	NOUN	_	DerPos=ADJ	12	comp	_	AlignBegin=12896|AlignEnd=13225|GE=mother|Gloss=mother|nWord=10|RX=[N]
+12	ke	ke	ADP	_	DerPos=ADJ	6	comp:obl	_	AlignBegin=13225|AlignEnd=13554|GE=[LOC]|Gloss=LOC|nWord=11|RX=[ADP]
+13	kwia	kwia	NOUN	_	DerPos=ADJ	_	_	_	AlignBegin=13554|AlignEnd=13883|GE=people|Gloss=people|nWord=12|RX=[N]
+14	kle	kle	AUX	_	DerPos=ADJ	_	_	_	AlignBegin=13883|AlignEnd=14212|GE=be|Gloss=be|nWord=13|RX=[V]
+15	,		PUNCT	_	DerPos=ADJ	_	_	_	AlignBegin=14212|AlignEnd=14540|nWord=14
+16	bek	bek	VERB	_	DerPos=ADJ	17	comp:aux/m	_	AlignBegin=14600|AlignEnd=14848|GE=put|Gloss=put|nWord=15|RX=[V]
+17	-e		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=14848|AlignEnd=15097|GE=[THM]|Gloss=-THM|nWord=15|RX=[V:ANY]
+18	bag	bag	VERB	_	DerPos=ADJ	19	comp:aux/m	_	AlignBegin=15097|AlignEnd=15263|GE=ceremoniate|Gloss=ceremoniate|nWord=16|RX=[VI]
+19	-e		AUX	_	DerPos=ADJ	20	comp:aux/m	_	AlignBegin=15263|AlignEnd=15429|GE=[THM]|Gloss=-THM|nWord=16|RX=[V:ANY]
+20	-re		AUX	_	_	_	_	_	AlignBegin=15429|AlignEnd=15594|GE=[ADJZ]|Gloss=-ADJZ|nWord=16|RX=[N>ADJ]
 21	.		PUNCT	_	_	_	_	_	AlignBegin=15594|AlignEnd=16090|Gloss=.|nWord=17
 
 # sent_id = SAB-TXT-DS-00000-04_04-04
@@ -180,7 +180,7 @@
 8	hoke	hoke	VERB	_	_	0	root	_	AlignBegin=44118|AlignEnd=44388|GE=go|Gloss=go|nWord=7|RX=[VI]
 9	chi	chi	NOUN	_	_	10	comp	_	AlignBegin=44388|AlignEnd=44658|GE=water|Gloss=water|nWord=8|RX=[N]
 10	ke	ke	ADP	_	_	8	comp:obl	_	AlignBegin=44658|AlignEnd=44928|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
-11	obe	obe	VERB	_	_	8	mod:purpose	_	AlignBegin=44928|AlignEnd=45198|GE=bath|Gloss=bath|nWord=10|RX=[VI]
+11	obe	obe	VERB	_	_	8	mod:purp	_	AlignBegin=44928|AlignEnd=45198|GE=bath|Gloss=bath|nWord=10|RX=[VI]
 12	,		PUNCT	_	_	8	punct	_	AlignBegin=45198|AlignEnd=45468|nWord=11
 13	bligda	bligda	NOUN	_	_	17	comp:obj	_	AlignBegin=45858|AlignEnd=46366|GE=food|Gloss=food|nWord=12|RX=[N]
 14	gda	gda	NUM	_	_	15	clf	_	AlignBegin=46366|AlignEnd=46620|GE=cl|Gloss=cl|nWord=13|RX=[NUM]

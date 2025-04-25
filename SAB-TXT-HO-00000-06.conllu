@@ -502,7 +502,7 @@
 5	hu	hue	VERB	_	_	6	comp:aux/m	_	AlignBegin=129022|AlignEnd=129168|GE=[find].[PST]|Gloss=find.PST|nWord=5|RX=[VT]
 6	-a		AUX	_	_	7	comp:aux@pass	_	AlignBegin=129168|AlignEnd=129315|GE=[PASS]|Gloss=-PASS|nWord=5|RX=[V:ANY]
 7	kle	kle	AUX	_	_	0	root	_	AlignBegin=129315|AlignEnd=129608|GE=be|Gloss=be|nWord=6|RX=[V]
-8	para	para	SCONJ	_	Foreign=Yes	5	mod:purpose	_	AlignBegin=129608|AlignEnd=129901|GE=to|Gloss=to|Lang=es|nWord=7|RX=[ADP]
+8	para	para	SCONJ	_	Foreign=Yes	5	mod:purp	_	AlignBegin=129608|AlignEnd=129901|GE=to|Gloss=to|Lang=es|nWord=7|RX=[ADP]
 9	bu	bu	NOUN	_	_	10	subj@pass	_	AlignBegin=129901|AlignEnd=130194|GE=post|Gloss=post|nWord=8|RX=[N]
 10	luk	luk	VERB	_	_	11	comp:aux/m	_	AlignBegin=130194|AlignEnd=130292|GE=link|Gloss=link|nWord=9|RX=[VT]
 11	-a		AUX	_	_	12	comp:aux/m	_	AlignBegin=130292|AlignEnd=130390|GE=[PASS]|Gloss=-PASS|nWord=9|RX=[V:ANY]

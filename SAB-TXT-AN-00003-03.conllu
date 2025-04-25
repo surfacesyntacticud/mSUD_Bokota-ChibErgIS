@@ -357,7 +357,7 @@
 3	kle	kle	AUX	_	_	0	root	_	AlignBegin=98431|AlignEnd=98977|GE=be|Gloss=be|nWord=2|RX=[V]
 4	kak	kak	VERB	_	_	5	comp:aux/m	_	AlignBegin=98977|AlignEnd=99250|GE=send|Gloss=send|nWord=3|RX=[V]
 5	-e		AUX	_	_	3	comp:aux	_	AlignBegin=99250|AlignEnd=99523|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
-6	dieboi	dieboi	VERB	_	_	4	mod:purpose	_	AlignBegin=99523|AlignEnd=100069|GE=work|Gloss=work|nWord=4|RX=[V]
+6	dieboi	dieboi	VERB	_	_	4	mod:purp	_	AlignBegin=99523|AlignEnd=100069|GE=work|Gloss=work|nWord=4|RX=[V]
 7	...		PUNCT	_	_	3	punct	_	AlignBegin=100069|AlignEnd=100615|nWord=5
 
 # sent_id = SAB-TXT-AN-00003-03_23-23
@@ -889,8 +889,8 @@
 # text = bleitale kecho kle huenga .
 # text_en = The mud is taken out with the rock.
 # text_ortho = bleitale kecho kle huenga .
-1	bleita	bleita	NOUN	_	_	2	comp:aux/m	_	AlignBegin=201010|AlignEnd=201248|GE=mud|Gloss=mud|nWord=1|RX=[N]
-2	-le		AUX	_	DerPos=ADJ	_	_	_	AlignBegin=201248|AlignEnd=201486|GE=[ADJZ]|Gloss=-ADJZ|nWord=1|RX=[N>ADJ]
+1	bleita	bleita	NOUN	_	DerPos=ADJ	2	comp:aux/m	_	AlignBegin=201010|AlignEnd=201248|GE=mud|Gloss=mud|nWord=1|RX=[N]
+2	-le		AUX	_	_	_	_	_	AlignBegin=201248|AlignEnd=201486|GE=[ADJZ]|Gloss=-ADJZ|nWord=1|RX=[N>ADJ]
 3	kecho	kecho	NOUN	_	_	_	_	_	AlignBegin=201486|AlignEnd=201962|GE=rock|Gloss=rock|nWord=2|RX=[N]
 4	kle	kle	AUX	_	_	_	_	_	AlignBegin=201962|AlignEnd=202438|GE=be|Gloss=be|nWord=3|RX=[V]
 5	hue	hue	VERB	_	_	6	comp:aux/m	_	AlignBegin=202438|AlignEnd=202676|GE=[find].[NPST]|Gloss=find.NPST|nWord=4|RX=[VT]
@@ -1005,13 +1005,13 @@
 # text = cha me kle ete die dakale usale .
 # text_en = I don't use the pounded thing (the washing powder).
 # text_ortho = cha me kle ete die dakale usale .
-1	cha	cha	PRON	_	_	8	subj	_	AlignBegin=220710|AlignEnd=221371|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
-2	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=221371|AlignEnd=222032|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
-3	kle	kle	AUX	_	_	2	comp:aux	_	AlignBegin=222032|AlignEnd=222693|GE=be|Gloss=be|nWord=3|RX=[V]
-4	este	este	DET	_	_	5	det	_	AlignBegin=222693|AlignEnd=223354|GE=that|Gloss=that|nWord=4|RX=[DET]
-5	die	die	NOUN	_	_	8	comp:obj	_	AlignBegin=223354|AlignEnd=224015|GE=thing|Gloss=thing|nWord=5|RX=[N]
-6	daka	daka	VERB	_	_	7	comp:aux/m	_	AlignBegin=224015|AlignEnd=224345|GE=pound|Gloss=pound|nWord=6|RX=[V]
-7	-le		AUX	_	DerPos=ADJ	5	mod	_	AlignBegin=224345|AlignEnd=224676|GE=[ADJZ]|Gloss=-ADJZ|nWord=6|RX=[N>ADJ]
+1	cha	cha	PRON	_	DerPos=ADJ	8	subj	_	AlignBegin=220710|AlignEnd=221371|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	me	me	AUX	_	DerPos=ADJ|Polarity=Neg	0	root	_	AlignBegin=221371|AlignEnd=222032|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+3	kle	kle	AUX	_	DerPos=ADJ	2	comp:aux	_	AlignBegin=222032|AlignEnd=222693|GE=be|Gloss=be|nWord=3|RX=[V]
+4	este	este	DET	_	DerPos=ADJ	5	det	_	AlignBegin=222693|AlignEnd=223354|GE=that|Gloss=that|nWord=4|RX=[DET]
+5	die	die	NOUN	_	DerPos=ADJ	8	comp:obj	_	AlignBegin=223354|AlignEnd=224015|GE=thing|Gloss=thing|nWord=5|RX=[N]
+6	daka	daka	VERB	_	DerPos=ADJ	7	comp:aux/m	_	AlignBegin=224015|AlignEnd=224345|GE=pound|Gloss=pound|nWord=6|RX=[V]
+7	-le		AUX	_	_	5	mod	_	AlignBegin=224345|AlignEnd=224676|GE=[ADJZ]|Gloss=-ADJZ|nWord=6|RX=[N>ADJ]
 8	usale	usale	VERB	_	Foreign=Yes	3	comp:aux	_	AlignBegin=224676|AlignEnd=225337|GE=use|Gloss=use|Lang=es|nWord=7|RX=[V]
 9	.		PUNCT	_	_	2	punct	_	AlignBegin=225337|AlignEnd=226000|Gloss=.|nWord=8
 
