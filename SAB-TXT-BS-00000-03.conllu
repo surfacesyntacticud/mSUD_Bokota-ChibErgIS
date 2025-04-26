@@ -10,8 +10,8 @@
 2	kle	kle	AUX	_	_	0	root	_	AlignBegin=26452|AlignEnd=27714|GE=be|Gloss=be|nWord=2|RX=[V]
 3	kiro	kiro	NOUN	_	_	4	comp:obj	_	AlignBegin=27714|AlignEnd=28976|GE=child|Gloss=child|nWord=3|RX=[N]
 4	manan	manan	VERB	_	_	5	comp:aux/m	_	AlignBegin=28976|AlignEnd=29607|GE=give_birth|Gloss=give_birth|nWord=4|RX=[V]
-5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=29607|AlignEnd=30238|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	.		PUNCT	_	_	2	punct	_	AlignBegin=30238|AlignEnd=31500|Gloss=.|nWord=5
+5	-e	_	AUX	_	_	2	comp:aux	_	AlignBegin=29607|AlignEnd=30238|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+6	.	_	PUNCT	_	_	2	punct	_	AlignBegin=30238|AlignEnd=31500|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-BS-00000-03_02-02
 # speaker_id = @03
@@ -21,18 +21,18 @@
 # text = ( goka kle hoke gokaia goka ) kle hoke goka .
 # text_en = (She) gets pregnant.
 # text_ortho = ( goka kle hoke gokaia goka ) kle hoke goka .
-1	(		PUNCT	_	_	_	_	_	AlignBegin=31610|AlignEnd=32050|nWord=1
+1	(	_	PUNCT	_	_	_	_	_	AlignBegin=31610|AlignEnd=32050|nWord=1
 2	goka	goka	ADJ	_	_	_	_	_	AlignBegin=32050|AlignEnd=32490|GE=pregnant|Gloss=pregnant|nWord=2|RX=[ADJ]
 3	kle	kle	AUX	_	_	_	_	_	AlignBegin=32490|AlignEnd=32930|GE=be|Gloss=be|nWord=3|RX=[V]
 4	hoke	hoke	VERB	_	_	3	comp:aux	_	AlignBegin=32930|AlignEnd=33370|GE=go|Gloss=go|nWord=4|RX=[VI]
 5	goka	goka	ADJ	_	_	6	comp:aux/m	_	AlignBegin=33370|AlignEnd=33590|GE=pregnant|Gloss=pregnant|nWord=5|RX=[ADJ]
-6	-ia		AUX	_	_	_	_	_	AlignBegin=33590|AlignEnd=33810|GE=[0]|Gloss=-0|nWord=5|RX=[NOUN]
+6	-ia	_	AUX	_	_	_	_	_	AlignBegin=33590|AlignEnd=33810|GE=[0]|Gloss=-0|nWord=5|RX=[NOUN]
 7	goka	goka	ADJ	_	_	6	mod	_	AlignBegin=33810|AlignEnd=34250|GE=pregnant|Gloss=pregnant|nWord=6|RX=[ADJ]
-8	)		PUNCT	_	_	_	_	_	AlignBegin=34250|AlignEnd=34690|nWord=7
+8	)	_	PUNCT	_	_	_	_	_	AlignBegin=34250|AlignEnd=34690|nWord=7
 9	kle	kle	AUX	_	_	0	root	_	AlignBegin=34690|AlignEnd=35130|GE=be|Gloss=be|nWord=8|RX=[V]
 10	hoke	hoke	VERB	_	_	9	comp:aux	_	AlignBegin=35130|AlignEnd=35570|GE=go|Gloss=go|nWord=9|RX=[VI]
 11	goka	goka	ADJ	_	_	10	comp:pred	_	AlignBegin=35570|AlignEnd=36010|GE=pregnant|Gloss=pregnant|nWord=10|RX=[ADJ]
-12	.		PUNCT	_	_	_	_	_	AlignBegin=36010|AlignEnd=36450|Gloss=.|nWord=11
+12	.	_	PUNCT	_	_	_	_	_	AlignBegin=36010|AlignEnd=36450|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-BS-00000-03_03-05
 # speaker_id = @03
@@ -45,21 +45,21 @@
 1	kle	kle	AUX	_	_	_	_	_	AlignBegin=36990|AlignEnd=37545|GE=be|Gloss=be|nWord=1|RX=[V]
 2	kiro	kiro	NOUN	_	_	3	comp:obj	_	AlignBegin=37545|AlignEnd=38100|GE=child|Gloss=child|nWord=2|RX=[N]
 3	manan	manan	VERB	_	_	4	comp:aux/m	_	AlignBegin=38100|AlignEnd=38378|GE=take_care|Gloss=take_care|nWord=3|RX=[V]
-4	-e		AUX	_	_	1	comp:aux	_	AlignBegin=38378|AlignEnd=38655|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+4	-e	_	AUX	_	_	1	comp:aux	_	AlignBegin=38378|AlignEnd=38655|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=38655|AlignEnd=39210|GE=to|Gloss=to|Lang=es|nWord=4|RX=[ADP]
 6	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=39210|AlignEnd=39765|GE=that|Gloss=that|Lang=es|nWord=5|RX=[PRO]
 7	ocho	ocho	NUM	_	_	_	_	_	AlignBegin=39765|AlignEnd=40320|GE=eight|Gloss=eight|nWord=6|RX=[NUM]
 8	dia	dia	NOUN	_	_	_	_	_	AlignBegin=40320|AlignEnd=40875|GE=day|Gloss=day|nWord=7|RX=[N]
-9	,		PUNCT	_	_	_	_	_	AlignBegin=40875|AlignEnd=41430|nWord=8
+9	,	_	PUNCT	_	_	_	_	_	AlignBegin=40875|AlignEnd=41430|nWord=8
 10	apa	apa	NUM	_	_	_	_	_	AlignBegin=51780|AlignEnd=52180|GE=eight|Gloss=eight|nWord=9|RX=[NUM]
-11	,		PUNCT	_	_	_	_	_	AlignBegin=52180|AlignEnd=52580|nWord=10
+11	,	_	PUNCT	_	_	_	_	_	AlignBegin=52180|AlignEnd=52580|nWord=10
 12	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=53540|AlignEnd=54090|GE=so|Gloss=so|Lang=es|nWord=11|RX=[ADV]
 13	kle	kle	AUX	_	_	14	comp:aux/m	_	AlignBegin=54090|AlignEnd=54365|GE=be|Gloss=be|nWord=12|RX=[V]
-14	-ni		AUX	_	_	_	_	_	AlignBegin=54365|AlignEnd=54640|GE=[IT]|Gloss=-IT|nWord=12|RX=[V:ANY]
+14	-ni	_	AUX	_	_	_	_	_	AlignBegin=54365|AlignEnd=54640|GE=[IT]|Gloss=-IT|nWord=12|RX=[V:ANY]
 15	chi	chi	VERB	_	_	16	comp:aux/m	_	AlignBegin=54640|AlignEnd=54823|GE=come|Gloss=come|nWord=13|RX=[VI]
-16	-e		AUX	_	_	17	comp:aux/m	_	AlignBegin=54823|AlignEnd=55006|GE=[THM]|Gloss=-THM|nWord=13|RX=[V:ANY]
-17	-ni		AUX	_	_	13	comp:aux	_	AlignBegin=55006|AlignEnd=55190|GE=[IT]|Gloss=-IT|nWord=13|RX=[V:ANY]
-18	.		PUNCT	_	_	_	_	_	AlignBegin=55190|AlignEnd=55740|Gloss=.|nWord=14
+16	-e	_	AUX	_	_	17	comp:aux/m	_	AlignBegin=54823|AlignEnd=55006|GE=[THM]|Gloss=-THM|nWord=13|RX=[V:ANY]
+17	-ni	_	AUX	_	_	13	comp:aux	_	AlignBegin=55006|AlignEnd=55190|GE=[IT]|Gloss=-IT|nWord=13|RX=[V:ANY]
+18	.	_	PUNCT	_	_	_	_	_	AlignBegin=55190|AlignEnd=55740|Gloss=.|nWord=14
 
 # sent_id = SAB-TXT-BS-00000-03_06-06
 # speaker_id = @03
@@ -71,9 +71,9 @@
 # text_ortho = kle chke toi .
 1	kle	kle	AUX	_	_	0	root	_	AlignBegin=56210|AlignEnd=56500|GE=be|Gloss=be|nWord=1|RX=[V]
 2	chk	chk	VERB	_	_	3	comp:aux/m	_	AlignBegin=56500|AlignEnd=56645|GE=arrive|Gloss=arrive|nWord=2|RX=[VI]
-3	-e		AUX	_	_	1	comp:aux	_	AlignBegin=56645|AlignEnd=56790|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+3	-e	_	AUX	_	_	1	comp:aux	_	AlignBegin=56645|AlignEnd=56790|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
 4	toi	toi	VERB	_	_	2	mod:purp	_	AlignBegin=56790|AlignEnd=57080|GE=live|Gloss=live|nWord=3|RX=[VI]
-5	.		PUNCT	_	_	1	punct	_	AlignBegin=57080|AlignEnd=57370|Gloss=.|nWord=4
+5	.	_	PUNCT	_	_	1	punct	_	AlignBegin=57080|AlignEnd=57370|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-BS-00000-03_07-10
 # speaker_id = @03
@@ -83,9 +83,9 @@
 # text = ( kiro ) muinga ta goka muinga me gna cho gute , me gna samla gute , me gna die gute , porque kle kiro trenkwali ole .
 # text_en = When the woman is pregnant she can't eat salt. (She) can't eat meat. (She) can't eat things. Because she is with an unborn child.
 # text_ortho = ( kiro ) muinga ta goka muinga me gna cho gute , me gna samla gute , me gna die gute , porque kle kiro trenkwali ole .
-1	(		PUNCT	_	_	_	_	_	AlignBegin=57610|AlignEnd=57912|nWord=1
+1	(	_	PUNCT	_	_	_	_	_	AlignBegin=57610|AlignEnd=57912|nWord=1
 2	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=57912|AlignEnd=58214|GE=child|Gloss=child|nWord=2|RX=[N]
-3	)		PUNCT	_	_	_	_	_	AlignBegin=58214|AlignEnd=58516|nWord=3
+3	)	_	PUNCT	_	_	_	_	_	AlignBegin=58214|AlignEnd=58516|nWord=3
 4	muinga	muinga	NOUN	_	_	5	subj	_	AlignBegin=58516|AlignEnd=58818|GE=woman|Gloss=woman|nWord=4|RX=[N]
 5	esta	esta	VERB	_	Foreign=Yes	11	mod:tmod	_	AlignBegin=58818|AlignEnd=59120|GE=be|Gloss=be|Lang=es|nWord=5|RX=[V]
 6	goka	goka	ADJ	_	_	5	comp:pred	_	AlignBegin=59120|AlignEnd=59422|GE=pregnant|Gloss=pregnant|nWord=6|RX=[ADJ]
@@ -94,26 +94,26 @@
 9	gna	gna	AUX	_	_	8	comp:aux	_	AlignBegin=60026|AlignEnd=60328|GE=can|Gloss=can|nWord=9|RX=[V]
 10	cho	cho	NOUN	_	_	11	comp:obj	_	AlignBegin=60328|AlignEnd=60630|GE=salt|Gloss=salt|nWord=10|RX=[N]
 11	gut	gut	VERB	_	_	12	comp:aux/m	_	AlignBegin=60630|AlignEnd=60781|GE=eat|Gloss=eat|nWord=11|RX=[VT]
-12	-e		AUX	_	_	9	comp:aux	_	AlignBegin=60781|AlignEnd=60932|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
-13	,		PUNCT	_	_	8	punct	_	AlignBegin=60932|AlignEnd=61240|nWord=12
+12	-e	_	AUX	_	_	9	comp:aux	_	AlignBegin=60781|AlignEnd=60932|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
+13	,	_	PUNCT	_	_	8	punct	_	AlignBegin=60932|AlignEnd=61240|nWord=12
 14	me	me	AUX	_	Polarity=Neg	8	conj:coord	_	AlignBegin=61530|AlignEnd=61950|GE=[NEG]|Gloss=NEG|nWord=13|RX=[VERBPRT]
 15	gna	gna	AUX	_	_	14	comp:aux	_	AlignBegin=61950|AlignEnd=62370|GE=can|Gloss=can|nWord=14|RX=[V]
 16	samla	samla	NOUN	_	_	17	comp:obj	_	AlignBegin=62370|AlignEnd=62790|GE=meat|Gloss=meat|nWord=15|RX=[N]
 17	gut	gut	VERB	_	_	18	comp:aux/m	_	AlignBegin=62790|AlignEnd=63000|GE=eat|Gloss=eat|nWord=16|RX=[VT]
-18	-e		AUX	_	_	15	comp:aux	_	AlignBegin=63000|AlignEnd=63210|GE=[THM]|Gloss=-THM|nWord=16|RX=[V:ANY]
-19	,		PUNCT	_	_	8	punct	_	AlignBegin=63210|AlignEnd=63630|nWord=17
+18	-e	_	AUX	_	_	15	comp:aux	_	AlignBegin=63000|AlignEnd=63210|GE=[THM]|Gloss=-THM|nWord=16|RX=[V:ANY]
+19	,	_	PUNCT	_	_	8	punct	_	AlignBegin=63210|AlignEnd=63630|nWord=17
 20	me	me	AUX	_	Polarity=Neg	14	conj:coord	_	AlignBegin=63950|AlignEnd=64208|GE=[NEG]|Gloss=NEG|nWord=18|RX=[VERBPRT]
 21	gna	gna	AUX	_	_	20	comp:aux	_	AlignBegin=64208|AlignEnd=64466|GE=can|Gloss=can|nWord=19|RX=[V]
 22	die	die	NOUN	_	_	23	comp:obj	_	AlignBegin=64466|AlignEnd=64724|GE=thing|Gloss=thing|nWord=20|RX=[N]
 23	gut	gut	VERB	_	_	24	comp:aux/m	_	AlignBegin=64724|AlignEnd=64853|GE=eat|Gloss=eat|nWord=21|RX=[VT]
-24	-e		AUX	_	_	21	comp:aux	_	AlignBegin=64853|AlignEnd=64982|GE=[THM]|Gloss=-THM|nWord=21|RX=[V:ANY]
-25	,		PUNCT	_	_	8	punct	_	AlignBegin=64982|AlignEnd=65240|nWord=22
+24	-e	_	AUX	_	_	21	comp:aux	_	AlignBegin=64853|AlignEnd=64982|GE=[THM]|Gloss=-THM|nWord=21|RX=[V:ANY]
+25	,	_	PUNCT	_	_	8	punct	_	AlignBegin=64982|AlignEnd=65240|nWord=22
 26	porque	porque	X	_	Foreign=Yes	11	mod	_	AlignBegin=65260|AlignEnd=65545|GE=because|Gloss=because|Lang=es|nWord=23|RX=[CONN]
 27	kle	kle	AUX	_	_	26	comp	_	AlignBegin=65545|AlignEnd=65830|GE=be|Gloss=be|nWord=24|RX=[V]
 28	kiro	kiro	NOUN	_	_	30	comp	_	AlignBegin=65830|AlignEnd=66115|GE=child|Gloss=child|nWord=25|RX=[N]
 29	trenkwali	trenkwali	NOUN	_	_	28	mod	_	AlignBegin=66115|AlignEnd=66400|GE=foetus|Gloss=foetus|nWord=26|RX=[N]
 30	ole	ole	ADP	_	_	27	comp:pred	_	AlignBegin=66400|AlignEnd=66685|GE=[COM]|Gloss=COM|nWord=27|RX=[ADP]
-31	.		PUNCT	_	_	30	punct	_	AlignBegin=66685|AlignEnd=66970|Gloss=.|nWord=28
+31	.	_	PUNCT	_	_	30	punct	_	AlignBegin=66685|AlignEnd=66970|Gloss=.|nWord=28
 
 # sent_id = SAB-TXT-BS-00000-03_11-17
 # speaker_id = @03
@@ -125,45 +125,45 @@
 # text_ortho = kle chieni , despues kle chke gude naskoni , kle chieni , kle chke gude , entonces kle bage sukekre tambien alla iani , kle chi ai sukekre , kle blide sukekre .
 1	kle	kle	AUX	_	_	0	root	_	AlignBegin=66980|AlignEnd=67407|GE=be|Gloss=be|nWord=1|RX=[V]
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=67407|AlignEnd=67549|GE=come|Gloss=come|nWord=2|RX=[VI]
-3	-e		AUX	_	_	4	comp:aux/m	_	AlignBegin=67549|AlignEnd=67691|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
-4	-ni		AUX	_	_	1	comp:aux	_	AlignBegin=67691|AlignEnd=67834|GE=[IT]|Gloss=-IT|nWord=2|RX=[V:ANY]
-5	,		PUNCT	_	_	1	punct	_	AlignBegin=67834|AlignEnd=68260|nWord=3
+3	-e	_	AUX	_	_	4	comp:aux/m	_	AlignBegin=67549|AlignEnd=67691|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	-ni	_	AUX	_	_	1	comp:aux	_	AlignBegin=67691|AlignEnd=67834|GE=[IT]|Gloss=-IT|nWord=2|RX=[V:ANY]
+5	,	_	PUNCT	_	_	1	punct	_	AlignBegin=67834|AlignEnd=68260|nWord=3
 6	despues	despues	ADV	_	_	8	mod	_	AlignBegin=68620|AlignEnd=68983|GE=then|Gloss=then|nWord=4|RX=[ADV]
 7	kle	kle	AUX	_	_	1	conj:coord	_	AlignBegin=68983|AlignEnd=69346|GE=be|Gloss=be|nWord=5|RX=[V]
 8	chk	chk	VERB	_	_	9	comp:aux/m	_	AlignBegin=69346|AlignEnd=69528|GE=arrive|Gloss=arrive|nWord=6|RX=[VI]
-9	-e		AUX	_	_	7	comp:aux	_	AlignBegin=69528|AlignEnd=69709|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
+9	-e	_	AUX	_	_	7	comp:aux	_	AlignBegin=69528|AlignEnd=69709|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 10	gude	gude	ADV	_	_	8	mod:lmod	_	AlignBegin=69709|AlignEnd=70072|GE=inside_the_house|Gloss=inside_the_house|nWord=7|RX=[ADV]
 11	naskoni	naskoni	ADV	_	_	8	mod	_	AlignBegin=70072|AlignEnd=70435|GE=back|Gloss=back|nWord=8|RX=[ADV]
-12	,		PUNCT	_	_	1	punct	_	AlignBegin=70435|AlignEnd=70800|nWord=9
+12	,	_	PUNCT	_	_	1	punct	_	AlignBegin=70435|AlignEnd=70800|nWord=9
 13	kle	kle	AUX	_	_	7	conj:coord	_	AlignBegin=70870|AlignEnd=71100|GE=be|Gloss=be|nWord=10|RX=[V]
 14	chi	chi	VERB	_	_	15	comp:aux/m	_	AlignBegin=71100|AlignEnd=71177|GE=come|Gloss=come|nWord=11|RX=[VI]
-15	-e		AUX	_	_	16	comp:aux/m	_	AlignBegin=71177|AlignEnd=71254|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
-16	-ni		AUX	_	_	13	comp:aux	_	AlignBegin=71254|AlignEnd=71330|GE=[IT]|Gloss=-IT|nWord=11|RX=[V:ANY]
-17	,		PUNCT	_	_	1	punct	_	AlignBegin=71330|AlignEnd=71560|nWord=12
+15	-e	_	AUX	_	_	16	comp:aux/m	_	AlignBegin=71177|AlignEnd=71254|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
+16	-ni	_	AUX	_	_	13	comp:aux	_	AlignBegin=71254|AlignEnd=71330|GE=[IT]|Gloss=-IT|nWord=11|RX=[V:ANY]
+17	,	_	PUNCT	_	_	1	punct	_	AlignBegin=71330|AlignEnd=71560|nWord=12
 18	kle	kle	AUX	_	_	13	conj:coord	_	AlignBegin=71560|AlignEnd=71948|GE=be|Gloss=be|nWord=13|RX=[V]
 19	chk	chk	VERB	_	_	20	comp:aux/m	_	AlignBegin=71948|AlignEnd=72142|GE=arrive|Gloss=arrive|nWord=14|RX=[VI]
-20	-e		AUX	_	_	18	comp:aux	_	AlignBegin=72142|AlignEnd=72336|GE=[THM]|Gloss=-THM|nWord=14|RX=[V:ANY]
+20	-e	_	AUX	_	_	18	comp:aux	_	AlignBegin=72142|AlignEnd=72336|GE=[THM]|Gloss=-THM|nWord=14|RX=[V:ANY]
 21	gude	gude	ADV	_	_	19	mod:lmod	_	AlignBegin=72336|AlignEnd=72724|GE=inside_the_house|Gloss=inside_the_house|nWord=15|RX=[ADV]
-22	,		PUNCT	_	_	1	punct	_	AlignBegin=72724|AlignEnd=73110|nWord=16
+22	,	_	PUNCT	_	_	1	punct	_	AlignBegin=72724|AlignEnd=73110|nWord=16
 23	entonces	entonces	ADV	_	Foreign=Yes	24	mod	_	AlignBegin=73440|AlignEnd=73824|GE=so|Gloss=so|Lang=es|nWord=17|RX=[ADV]
 24	kle	kle	AUX	_	_	18	conj:coord	_	AlignBegin=73824|AlignEnd=74208|GE=be|Gloss=be|nWord=18|RX=[V]
 25	bag	bag	VERB	_	_	26	comp:aux/m	_	AlignBegin=74208|AlignEnd=74400|GE=ceremoniate|Gloss=ceremoniate|nWord=19|RX=[VI]
-26	-e		AUX	_	_	24	comp:aux	_	AlignBegin=74400|AlignEnd=74592|GE=[THM]|Gloss=-THM|nWord=19|RX=[V:ANY]
+26	-e	_	AUX	_	_	24	comp:aux	_	AlignBegin=74400|AlignEnd=74592|GE=[THM]|Gloss=-THM|nWord=19|RX=[V:ANY]
 27	sukekre	sukekre	ADV	_	_	25	mod:lmod	_	AlignBegin=74592|AlignEnd=74976|GE=elsewere|Gloss=elsewere|nWord=20|RX=[ADV]
 28	tambien	tambien	ADV	_	_	27	mod	_	AlignBegin=74976|AlignEnd=75360|GE=also|Gloss=also|nWord=21|RX=[ADV]
 29	alla	alla	ADV	_	_	30	conj:dicto	_	AlignBegin=75360|AlignEnd=75744|GE=there|Gloss=there|nWord=22|RX=[ADV]
 30	iani	iani	ADV	_	_	25	mod:lmod	_	AlignBegin=75744|AlignEnd=76128|GE=there|Gloss=there|nWord=23|RX=[ADV]
-31	,		PUNCT	_	_	1	punct	_	AlignBegin=76128|AlignEnd=76510|nWord=24
+31	,	_	PUNCT	_	_	1	punct	_	AlignBegin=76128|AlignEnd=76510|nWord=24
 32	kle	kle	AUX	_	_	24	conj:coord	_	AlignBegin=76540|AlignEnd=77032|GE=be|Gloss=be|nWord=25|RX=[V]
 33	chi	chi	NOUN	_	_	32	comp:pred	_	AlignBegin=77032|AlignEnd=77524|GE=water|Gloss=water|nWord=26|RX=[N]
 34	ai	ai	ADV	_	_	33	mod	_	AlignBegin=77524|AlignEnd=78016|GE=here|Gloss=here|nWord=27|RX=[ADV]
 35	sukekre	sukekre	ADV	_	_	33	mod	_	AlignBegin=78016|AlignEnd=78508|GE=elsewere|Gloss=elsewere|nWord=28|RX=[ADV]
-36	,		PUNCT	_	_	1	punct	_	AlignBegin=78508|AlignEnd=79000|nWord=29
+36	,	_	PUNCT	_	_	1	punct	_	AlignBegin=78508|AlignEnd=79000|nWord=29
 37	kle	kle	AUX	_	_	32	conj:coord	_	AlignBegin=79150|AlignEnd=79690|GE=be|Gloss=be|nWord=30|RX=[V]
 38	blid	blid	VERB	_	_	39	comp:aux/m	_	AlignBegin=79690|AlignEnd=79960|GE=eat|Gloss=eat|nWord=31|RX=[VI]
-39	-e		AUX	_	_	37	comp:aux	_	AlignBegin=79960|AlignEnd=80230|GE=[THM]|Gloss=-THM|nWord=31|RX=[V:ANY]
+39	-e	_	AUX	_	_	37	comp:aux	_	AlignBegin=79960|AlignEnd=80230|GE=[THM]|Gloss=-THM|nWord=31|RX=[V:ANY]
 40	sukekre	sukekre	ADV	_	_	38	mod:lmod	_	AlignBegin=80230|AlignEnd=80770|GE=elsewere|Gloss=elsewere|nWord=32|RX=[ADV]
-41	.		PUNCT	_	_	1	punct	_	AlignBegin=80770|AlignEnd=81310|Gloss=.|nWord=33
+41	.	_	PUNCT	_	_	1	punct	_	AlignBegin=80770|AlignEnd=81310|Gloss=.|nWord=33
 
 # sent_id = SAB-TXT-BS-00000-03_18-20
 # speaker_id = @03
@@ -177,21 +177,21 @@
 2	kle	kle	AUX	_	_	1	comp:aux	_	AlignBegin=82719|AlignEnd=83128|GE=be|Gloss=be|nWord=2|RX=[V]
 3	cho	cho	NOUN	_	_	4	comp:obj	_	AlignBegin=83128|AlignEnd=83537|GE=salt|Gloss=salt|nWord=3|RX=[N]
 4	gut	gut	VERB	_	_	5	comp:aux/m	_	AlignBegin=83537|AlignEnd=83673|GE=eat|Gloss=eat|nWord=4|RX=[VT]
-5	-e		AUX	_	_	6	comp:aux/m	_	AlignBegin=83673|AlignEnd=83809|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	-dale		AUX	_	_	2	comp:aux	_	AlignBegin=83809|AlignEnd=83946|GE=[IRR]|Gloss=-IRR|nWord=4|RX=[V:ANY]
+5	-e	_	AUX	_	_	6	comp:aux/m	_	AlignBegin=83673|AlignEnd=83809|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+6	-dale	_	AUX	_	_	2	comp:aux	_	AlignBegin=83809|AlignEnd=83946|GE=[IRR]|Gloss=-IRR|nWord=4|RX=[V:ANY]
 7	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=83946|AlignEnd=84355|GE=to|Gloss=to|Lang=es|nWord=5|RX=[ADP]
 8	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=84355|AlignEnd=84764|GE=that|Gloss=that|Lang=es|nWord=6|RX=[PRO]
 9	un	un	DET	_	_	_	_	_	AlignBegin=84764|AlignEnd=85173|GE=[INDEF].[M]|Gloss=INDEF.M|nWord=7|RX=[DET]
 10	mes	mes	NOUN	_	_	_	_	_	AlignBegin=85173|AlignEnd=85582|GE=month|Gloss=month|nWord=8|RX=[N]
-11	,		PUNCT	_	_	_	_	_	AlignBegin=85582|AlignEnd=85990|nWord=9
+11	,	_	PUNCT	_	_	_	_	_	AlignBegin=85582|AlignEnd=85990|nWord=9
 12	chui	chui	NOUN	_	_	_	_	_	AlignBegin=86550|AlignEnd=87100|GE=sun|Gloss=sun|nWord=10|RX=[N]
 13	gda	gda	NUM	_	_	14	clf	_	AlignBegin=87100|AlignEnd=87375|GE=cl|Gloss=cl|nWord=11|RX=[NUM]
 14	ite	ite	NUM	_	_	12	mod	_	AlignBegin=87375|AlignEnd=87650|GE=one|Gloss=one|nWord=11|RX=[NUM]
-15	,		PUNCT	_	_	_	_	_	AlignBegin=87650|AlignEnd=88200|nWord=12
+15	,	_	PUNCT	_	_	_	_	_	AlignBegin=87650|AlignEnd=88200|nWord=12
 16	chui	chui	NOUN	_	_	_	_	_	AlignBegin=88780|AlignEnd=89177|GE=sun|Gloss=sun|nWord=13|RX=[N]
 17	gda	gda	NUM	_	_	18	clf	_	AlignBegin=89177|AlignEnd=89375|GE=cl|Gloss=cl|nWord=14|RX=[NUM]
 18	ite	ite	NUM	_	_	16	mod	_	AlignBegin=89375|AlignEnd=89574|GE=one|Gloss=one|nWord=14|RX=[NUM]
-19	.		PUNCT	_	_	_	_	_	AlignBegin=89574|AlignEnd=89970|Gloss=.|nWord=15
+19	.	_	PUNCT	_	_	_	_	_	AlignBegin=89574|AlignEnd=89970|Gloss=.|nWord=15
 
 # sent_id = SAB-TXT-BS-00000-03_21-22
 # speaker_id = @03
@@ -206,10 +206,10 @@
 3	kle	kle	AUX	_	_	0	root	_	AlignBegin=92046|AlignEnd=92609|GE=be|Gloss=be|nWord=3|RX=[V]
 4	kiro	kiro	NOUN	_	_	5	comp:obj	_	AlignBegin=92609|AlignEnd=93172|GE=child|Gloss=child|nWord=4|RX=[N]
 5	manan	manan	VERB	_	_	6	comp:aux/m	_	AlignBegin=93172|AlignEnd=93454|GE=give_birth|Gloss=give_birth|nWord=5|RX=[V]
-6	-e		AUX	_	_	3	comp:aux	_	AlignBegin=93454|AlignEnd=93735|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
-7	,		PUNCT	_	_	3	punct	_	AlignBegin=93735|AlignEnd=94300|nWord=6
+6	-e	_	AUX	_	_	3	comp:aux	_	AlignBegin=93454|AlignEnd=93735|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	,	_	PUNCT	_	_	3	punct	_	AlignBegin=93735|AlignEnd=94300|nWord=6
 8	chui	chui	NOUN	_	_	5	mod	_	AlignBegin=94450|AlignEnd=94880|GE=sun|Gloss=sun|nWord=7|RX=[N]
 9	gda	gda	NUM	_	_	10	clf	_	AlignBegin=94880|AlignEnd=95095|GE=cl|Gloss=cl|nWord=8|RX=[NUM]
 10	ite	ite	NUM	_	_	8	mod	_	AlignBegin=95095|AlignEnd=95310|GE=one|Gloss=one|nWord=8|RX=[NUM]
-11	.		PUNCT	_	_	3	punct	_	AlignBegin=95310|AlignEnd=95740|Gloss=.|nWord=9
+11	.	_	PUNCT	_	_	3	punct	_	AlignBegin=95310|AlignEnd=95740|Gloss=.|nWord=9
 

@@ -53,10 +53,10 @@
 # text_ortho = cha kiroia cha mananu , ata ho kweri .
 1	cha	cha	PRON	_	_	2	udep:poss	_	AlignBegin=26265|AlignEnd=26843|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	kiro	kiro	NOUN	_	_	3	comp:aux/m	_	AlignBegin=26843|AlignEnd=27132|GE=child|Gloss=child|nWord=2|RX=[N]
-3	-ia		AUX	_	_	5	comp:obj	_	AlignBegin=27132|AlignEnd=27421|GE=[POSS]|Gloss=-POSS|nWord=2|RX=[N:ANY]
+3	-ia	_	AUX	_	_	5	comp:obj	_	AlignBegin=27132|AlignEnd=27421|GE=[POSS]|Gloss=-POSS|nWord=2|RX=[N:ANY]
 4	cha	cha	PRON	_	_	5	subj	_	AlignBegin=27421|AlignEnd=27999|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
 5	manan	manan	VERB	_	_	6	comp:aux/m	_	AlignBegin=27999|AlignEnd=28288|GE=take_care|Gloss=take_care|nWord=4|RX=[V]
-6	-u		AUX	_	_	_	_	_	AlignBegin=28288|AlignEnd=28577|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
+6	-u	_	AUX	_	_	_	_	_	AlignBegin=28288|AlignEnd=28577|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
 7	hasta	hasta	SCONJ	_	Foreign=Yes	5	mod:tmod	_	AlignBegin=29215|AlignEnd=29585|GE=to|Gloss=to|Lang=es|nWord=6|RX=[ADP]
 8	ho	hoke	VERB	_	_	7	comp	_	AlignBegin=29585|AlignEnd=29955|GE=[go].[PST]|Gloss=go.PST|nWord=7|RX=[VI]
 9	kweri	kweri	ADJ	_	_	8	comp:pred	_	AlignBegin=29955|AlignEnd=30325|GE=big|Gloss=big|nWord=8|RX=[ADJ]
@@ -74,7 +74,7 @@
 3	tambien	tambien	ADV	_	_	_	_	_	AlignBegin=32546|AlignEnd=33044|GE=also|Gloss=also|nWord=3|RX=[ADV]
 4	kiro	kiro	NOUN	_	_	5	comp:obj	_	AlignBegin=33044|AlignEnd=33542|GE=child|Gloss=child|nWord=4|RX=[N]
 5	manan	manan	VERB	_	_	6	comp:aux/m	_	AlignBegin=33542|AlignEnd=33791|GE=take_care|Gloss=take_care|nWord=5|RX=[V]
-6	-u		AUX	_	_	_	_	_	AlignBegin=33791|AlignEnd=34040|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]
+6	-u	_	AUX	_	_	_	_	_	AlignBegin=33791|AlignEnd=34040|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]
 7	hasta	hasta	SCONJ	_	Foreign=Yes	5	mod:tmod	_	AlignBegin=34550|AlignEnd=34852|GE=to|Gloss=to|Lang=es|nWord=7|RX=[ADP]
 8	hoke	hoke	VERB	_	_	7	comp	_	AlignBegin=34852|AlignEnd=35154|GE=go|Gloss=go|nWord=8|RX=[VI]
 9	kweri	kweri	ADJ	_	_	8	comp:pred	_	AlignBegin=35154|AlignEnd=35456|GE=big|Gloss=big|nWord=9|RX=[ADJ]
@@ -94,9 +94,9 @@
 5	nware	nware	ADJ	_	_	_	_	_	AlignBegin=40810|AlignEnd=41419|GE=good|Gloss=good|nWord=6|RX=[ADJ]
 6	cha	cha	PRON	_	_	7	udep:poss	_	AlignBegin=42028|AlignEnd=42637|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
 7	vida	vida	NOUN	_	_	_	_	_	AlignBegin=42637|AlignEnd=43246|GE=life|Gloss=life|nWord=9|RX=[N]
-8	wa-		_	_	_	_	_	_	AlignBegin=43855|AlignEnd=44058|nWord=11
+8	wa-	_	_	_	_	_	_	_	AlignBegin=43855|AlignEnd=44058|nWord=11
 9	nerku	nerku	ADV	_	_	10	comp:aux/m	_	AlignBegin=44058|AlignEnd=44261|GE=ahead|Gloss=ahead|nWord=11|RX=[ADV]
-10	-da		AUX	_	_	_	_	_	AlignBegin=44261|AlignEnd=44464|GE=emph|Gloss=emph|nWord=11|RX=[VERB]
+10	-da	_	AUX	_	_	_	_	_	AlignBegin=44261|AlignEnd=44464|GE=emph|Gloss=emph|nWord=11|RX=[VERB]
 11	chube	chube	NOUN	_	_	_	_	_	AlignBegin=44464|AlignEnd=45073|GE=chief|Gloss=chief|nWord=12|RX=[N]
 12	dwa	dwa	ADV	_	_	_	_	_	AlignBegin=45073|AlignEnd=45682|GE=down|Gloss=down|nWord=13|RX=[ADV]
 13	giti	giti	ADP	_	_	_	_	_	AlignBegin=45682|AlignEnd=46291|GE=[LOC]|Gloss=LOC|nWord=14|RX=[ADP]

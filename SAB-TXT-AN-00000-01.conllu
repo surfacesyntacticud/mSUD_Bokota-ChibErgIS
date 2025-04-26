@@ -8,11 +8,11 @@
 # text_ortho = cha enusulia fuia Panama .
 1	cha	cha	PRON	_	_	2	udep:poss	_	AlignBegin=9920|AlignEnd=11266|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	enusuli	enusuli	NOUN	_	_	3	comp:aux/m	_	AlignBegin=11266|AlignEnd=11939|GE=grandfather|Gloss=grandfather|nWord=2|RX=[N]
-3	-a		AUX	_	_	_	_	_	AlignBegin=11939|AlignEnd=12612|GE=[POSS]|Gloss=-POSS|nWord=2|RX=[N:ANY]
+3	-a	_	AUX	_	_	_	_	_	AlignBegin=11939|AlignEnd=12612|GE=[POSS]|Gloss=-POSS|nWord=2|RX=[N:ANY]
 4	fui	fui	PART	_	_	5	comp:aux/m	_	AlignBegin=12612|AlignEnd=13285|GE=loc.origin|Gloss=loc.origin|nWord=3|RX=[VERBPRT]
-5	-a		AUX	_	_	_	_	_	AlignBegin=13285|AlignEnd=13958|GE=[0]|Gloss=-0|nWord=3|RX=[VERB]
+5	-a	_	AUX	_	_	_	_	_	AlignBegin=13285|AlignEnd=13958|GE=[0]|Gloss=-0|nWord=3|RX=[VERB]
 6	Panama	Panama	PROPN	_	_	_	_	_	AlignBegin=13958|AlignEnd=15304|GE=[Panama]|Gloss=Panama|nWord=4|RX=[NPROP]
-7	.		PUNCT	_	_	_	_	_	AlignBegin=15304|AlignEnd=16650|Gloss=.|nWord=5
+7	.	_	PUNCT	_	_	_	_	_	AlignBegin=15304|AlignEnd=16650|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-AN-00000-01_02-02
 # speaker_id = @01
@@ -25,8 +25,8 @@
 1	ama	ama	ADV	_	_	3	discourse	_	AlignBegin=27470|AlignEnd=28382|GE=so|Gloss=so|nWord=1|RX=[ADV]
 2	hula	hula	NOUN	_	_	3	subj	_	AlignBegin=28382|AlignEnd=29294|GE=white_man|Gloss=white_man|nWord=2|RX=[N]
 3	chi	chi	VERB	_	_	4	comp:aux/m	_	AlignBegin=29294|AlignEnd=29750|GE=come|Gloss=come|nWord=3|RX=[VI]
-4	-u		AUX	_	_	0	root	_	AlignBegin=29750|AlignEnd=30206|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
-5	.		PUNCT	_	_	4	punct	_	AlignBegin=30206|AlignEnd=31120|Gloss=.|nWord=4
+4	-u	_	AUX	_	_	0	root	_	AlignBegin=29750|AlignEnd=30206|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
+5	.	_	PUNCT	_	_	4	punct	_	AlignBegin=30206|AlignEnd=31120|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-AN-00000-01_03-03
 # speaker_id = @01
@@ -38,9 +38,9 @@
 # text_ortho = hula chiunga .
 1	hula	hula	NOUN	_	_	2	subj	_	AlignBegin=32430|AlignEnd=33980|GE=white_man|Gloss=white_man|nWord=1|RX=[N]
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=33980|AlignEnd=34497|GE=come|Gloss=come|nWord=2|RX=[VI]
-3	-u		AUX	_	_	4	comp:aux/m	_	AlignBegin=34497|AlignEnd=35014|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-4	-nga		AUX	_	_	0	root	_	AlignBegin=35014|AlignEnd=35530|GE=[SUB]|Gloss=-SUB|nWord=2|RX=[V:ANY]
-5	.		PUNCT	_	_	4	punct	_	AlignBegin=35530|AlignEnd=37080|Gloss=.|nWord=3
+3	-u	_	AUX	_	_	4	comp:aux/m	_	AlignBegin=34497|AlignEnd=35014|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
+4	-nga	_	AUX	_	_	0	root	_	AlignBegin=35014|AlignEnd=35530|GE=[SUB]|Gloss=-SUB|nWord=2|RX=[V:ANY]
+5	.	_	PUNCT	_	_	4	punct	_	AlignBegin=35530|AlignEnd=37080|Gloss=.|nWord=3
 
 # sent_id = SAB-TXT-AN-00000-01_04-04
 # speaker_id = @01
@@ -52,9 +52,9 @@
 # text_ortho = oli chiu Veragua .
 1	oli	oli	NOUN	_	_	2	subj	_	AlignBegin=40400|AlignEnd=41678|GE=orphan|Gloss=orphan|nWord=1|RX=[N]
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=41678|AlignEnd=42317|GE=come|Gloss=come|nWord=2|RX=[VI]
-3	-u		AUX	_	_	0	root	_	AlignBegin=42317|AlignEnd=42956|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
+3	-u	_	AUX	_	_	0	root	_	AlignBegin=42317|AlignEnd=42956|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	Veragua	Veragua	PROPN	_	_	2	mod:lmod	_	AlignBegin=42956|AlignEnd=44234|GE=[Veraguas]|Gloss=Veraguas|nWord=3|RX=[N]
-5	.		PUNCT	_	_	3	punct	_	AlignBegin=44234|AlignEnd=45510|Gloss=.|nWord=4
+5	.	_	PUNCT	_	_	3	punct	_	AlignBegin=44234|AlignEnd=45510|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-AN-00000-01_05-05
 # speaker_id = @01
@@ -65,7 +65,7 @@
 # text_en = (To) escape.
 # text_ortho = kike .
 1	kike	kike	VERB	_	_	0	root	_	AlignBegin=45730|AlignEnd=46125|GE=escape|Gloss=escape|nWord=1|RX=[VI]
-2	.		PUNCT	_	_	1	punct	_	AlignBegin=46125|AlignEnd=46520|Gloss=.|nWord=2
+2	.	_	PUNCT	_	_	1	punct	_	AlignBegin=46125|AlignEnd=46520|Gloss=.|nWord=2
 
 # sent_id = SAB-TXT-AN-00000-01_06-06
 # speaker_id = @01
@@ -77,7 +77,7 @@
 # text_ortho = toi Veragua .
 1	toi	toi	VERB	_	_	0	root	_	AlignBegin=48230|AlignEnd=48967|GE=live|Gloss=live|nWord=1|RX=[VI]
 2	Veragua	Veragua	PROPN	_	_	1	mod:lmod	_	AlignBegin=48967|AlignEnd=49704|GE=[Veraguas]|Gloss=Veraguas|nWord=2|RX=[N]
-3	.		PUNCT	_	_	1	punct	_	AlignBegin=49704|AlignEnd=50440|Gloss=.|nWord=3
+3	.	_	PUNCT	_	_	1	punct	_	AlignBegin=49704|AlignEnd=50440|Gloss=.|nWord=3
 
 # sent_id = SAB-TXT-AN-00000-01_07-07
 # speaker_id = @01
@@ -90,8 +90,8 @@
 1	Veragua	Veragua	PROPN	_	_	2	udep:poss	_	AlignBegin=51170|AlignEnd=52445|GE=[Veraguas]|Gloss=Veraguas|nWord=1|RX=[N]
 2	Skwanangka	Skwanangka	PROPN	_	_	3	subj	_	AlignBegin=52445|AlignEnd=53720|GE=[Skwanangka]|Gloss=Skwanangka|nWord=2|RX=[NPROP]
 3	dod	dod	VERB	_	_	4	comp:aux/m	_	AlignBegin=53720|AlignEnd=54358|GE=fight|Gloss=fight|nWord=3|RX=[VI]
-4	-u		AUX	_	_	0	root	_	AlignBegin=54358|AlignEnd=54995|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
-5	.		PUNCT	_	_	4	punct	_	AlignBegin=54995|AlignEnd=56270|Gloss=.|nWord=4
+4	-u	_	AUX	_	_	0	root	_	AlignBegin=54358|AlignEnd=54995|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
+5	.	_	PUNCT	_	_	4	punct	_	AlignBegin=54995|AlignEnd=56270|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-AN-00000-01_08-08
 # speaker_id = @01
@@ -105,7 +105,7 @@
 2	ai	ai	PART	_	_	1	mod	_	AlignBegin=59782|AlignEnd=60224|GE=local|Gloss=local|nWord=2|RX=[PRO]
 3	Skwanangka	Skwanangka	PROPN	_	_	4	comp:obj	_	AlignBegin=60224|AlignEnd=60666|GE=[Skwanangka]|Gloss=Skwanangka|nWord=3|RX=[NPROP]
 4	batunga	batenga	VERB	_	_	0	root	_	AlignBegin=60666|AlignEnd=61108|GE=[end].[PST]|Gloss=end.PST|nWord=4|RX=[V]
-5	.		PUNCT	_	_	4	punct	_	AlignBegin=61108|AlignEnd=61550|Gloss=.|nWord=5
+5	.	_	PUNCT	_	_	4	punct	_	AlignBegin=61108|AlignEnd=61550|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-AN-00000-01_09-09
 # speaker_id = @01
@@ -117,8 +117,8 @@
 # text_ortho = che chiu .
 1	che	che	PRON	_	_	2	subj	_	AlignBegin=64320|AlignEnd=64547|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=64547|AlignEnd=64661|GE=come|Gloss=come|nWord=2|RX=[VI]
-3	-u		AUX	_	_	0	root	_	AlignBegin=64661|AlignEnd=64774|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-4	.		PUNCT	_	_	3	punct	_	AlignBegin=64774|AlignEnd=65000|Gloss=.|nWord=3
+3	-u	_	AUX	_	_	0	root	_	AlignBegin=64661|AlignEnd=64774|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
+4	.	_	PUNCT	_	_	3	punct	_	AlignBegin=64774|AlignEnd=65000|Gloss=.|nWord=3
 
 # sent_id = SAB-TXT-AN-00000-01_10-10
 # speaker_id = @01
@@ -130,9 +130,9 @@
 # text_ortho = che chku Kobre .
 1	che	che	PRON	_	_	2	subj	_	AlignBegin=68820|AlignEnd=69625|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	chk	chk	VERB	_	_	3	comp:aux/m	_	AlignBegin=69625|AlignEnd=70027|GE=arrive|Gloss=arrive|nWord=2|RX=[VI]
-3	-u		AUX	_	_	0	root	_	AlignBegin=70027|AlignEnd=70430|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
+3	-u	_	AUX	_	_	0	root	_	AlignBegin=70027|AlignEnd=70430|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	Kobre	Kobre	PROPN	_	_	2	mod:lmod	_	AlignBegin=70430|AlignEnd=71235|GE=[Kobre]|Gloss=Kobre|nWord=3|RX=[NPROP]
-5	.		PUNCT	_	_	3	punct	_	AlignBegin=71235|AlignEnd=72040|Gloss=.|nWord=4
+5	.	_	PUNCT	_	_	3	punct	_	AlignBegin=71235|AlignEnd=72040|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-AN-00000-01_11-11
 # speaker_id = @01
@@ -144,8 +144,8 @@
 # text_ortho = wami dodu .
 1	Wami	Wami	NOUN	_	_	2	subj	_	AlignBegin=75130|AlignEnd=76147|GE=[Guaymi]|Gloss=Guaymi|nWord=1|RX=[N]
 2	dod	dod	VERB	_	_	3	comp:aux/m	_	AlignBegin=76147|AlignEnd=76655|GE=fight|Gloss=fight|nWord=2|RX=[VI]
-3	-u		AUX	_	_	0	root	_	AlignBegin=76655|AlignEnd=77164|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-4	.		PUNCT	_	_	3	punct	_	AlignBegin=77164|AlignEnd=78180|Gloss=.|nWord=3
+3	-u	_	AUX	_	_	0	root	_	AlignBegin=76655|AlignEnd=77164|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
+4	.	_	PUNCT	_	_	3	punct	_	AlignBegin=77164|AlignEnd=78180|Gloss=.|nWord=3
 
 # sent_id = SAB-TXT-AN-00000-01_12-12
 # speaker_id = @01
@@ -156,11 +156,11 @@
 # text_en = (They) fought with us.
 # text_ortho = dodu che ai ole .
 1	dod	dod	VERB	_	_	2	comp:aux/m	_	AlignBegin=79160|AlignEnd=79395|GE=fight|Gloss=fight|nWord=1|RX=[VI]
-2	-u		AUX	_	_	0	root	_	AlignBegin=79395|AlignEnd=79630|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]
+2	-u	_	AUX	_	_	0	root	_	AlignBegin=79395|AlignEnd=79630|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]
 3	che	che	PRON	_	_	5	comp	_	AlignBegin=79630|AlignEnd=80100|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
 4	ai	ai	PART	_	_	3	mod	_	AlignBegin=80100|AlignEnd=80570|GE=local|Gloss=local|nWord=3|RX=[PRO]
 5	ole	ole	ADP	_	_	1	comp:obl	_	AlignBegin=80570|AlignEnd=81040|GE=[COM]|Gloss=COM|nWord=4|RX=[ADP]
-6	.		PUNCT	_	_	2	punct	_	AlignBegin=81040|AlignEnd=81510|Gloss=.|nWord=5
+6	.	_	PUNCT	_	_	2	punct	_	AlignBegin=81040|AlignEnd=81510|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-AN-00000-01_13-13
 # speaker_id = @01
@@ -172,8 +172,8 @@
 # text_ortho = che chiu .
 1	che	che	PRON	_	_	2	subj	_	AlignBegin=82690|AlignEnd=82930|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=82930|AlignEnd=83050|GE=come|Gloss=come|nWord=2|RX=[VI]
-3	-u		AUX	_	_	0	root	_	AlignBegin=83050|AlignEnd=83170|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-4	.		PUNCT	_	_	3	punct	_	AlignBegin=83170|AlignEnd=83410|Gloss=.|nWord=3
+3	-u	_	AUX	_	_	0	root	_	AlignBegin=83050|AlignEnd=83170|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
+4	.	_	PUNCT	_	_	3	punct	_	AlignBegin=83170|AlignEnd=83410|Gloss=.|nWord=3
 
 # sent_id = SAB-TXT-AN-00000-01_14-15
 # speaker_id = @01
@@ -185,14 +185,14 @@
 # text_ortho = oli kikedu , gliske iake .
 1	oli	oli	NOUN	_	_	2	subj	_	AlignBegin=83955|AlignEnd=84745|GE=orphan|Gloss=orphan|nWord=1|RX=[N]
 2	kike	kike	VERB	_	_	3	comp:aux/m	_	AlignBegin=84745|AlignEnd=85008|GE=escape|Gloss=escape|nWord=2|RX=[VI]
-3	-d		AUX	_	_	4	comp:aux/m	_	AlignBegin=85008|AlignEnd=85271|GE=[0]|Gloss=-0-|nWord=2|RX=[VERB]|wordform=-d-
-4	-u		AUX	_	_	0	root	_	AlignBegin=85271|AlignEnd=85535|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-5	,		PUNCT	_	_	4	punct	_	AlignBegin=85535|AlignEnd=86325|nWord=3
+3	-d	_	AUX	_	_	4	comp:aux/m	_	AlignBegin=85008|AlignEnd=85271|GE=[0]|Gloss=-0-|nWord=2|RX=[VERB]|wordform=-d-
+4	-u	_	AUX	_	_	0	root	_	AlignBegin=85271|AlignEnd=85535|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
+5	,	_	PUNCT	_	_	4	punct	_	AlignBegin=85535|AlignEnd=86325|nWord=3
 6	gli	gli	NOUN	_	_	_	_	_	AlignBegin=86925|AlignEnd=87140|GE=tree|Gloss=tree|nWord=4|RX=[N]
 7	ske	ske	ADP	_	_	_	_	_	AlignBegin=87140|AlignEnd=87355|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
 8	ia	ia	_	_	_	_	_	_	AlignBegin=87355|AlignEnd=87570|nWord=5
 9	ke	ke	NOUN	_	_	_	_	_	AlignBegin=87570|AlignEnd=87785|GE=stone|Gloss=stone|nWord=5|RX=[N]
-10	.		PUNCT	_	_	4	punct	_	AlignBegin=87785|AlignEnd=88215|Gloss=.|nWord=6
+10	.	_	PUNCT	_	_	4	punct	_	AlignBegin=87785|AlignEnd=88215|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-AN-00000-01_16-16
 # speaker_id = @01
@@ -204,11 +204,11 @@
 # text_ortho = che chku Blagdagwada kweria .
 1	che	che	PRON	_	_	2	subj	_	AlignBegin=90320|AlignEnd=91628|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	chk	chk	VERB	_	_	3	comp:aux/m	_	AlignBegin=91628|AlignEnd=92282|GE=arrive|Gloss=arrive|nWord=2|RX=[VI]
-3	-u		AUX	_	_	0	root	_	AlignBegin=92282|AlignEnd=92936|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
+3	-u	_	AUX	_	_	0	root	_	AlignBegin=92282|AlignEnd=92936|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	Blagdagwada	Blagdagwada	NOUN	_	_	2	mod:lmod	_	AlignBegin=92936|AlignEnd=94244|GE=[Blagdagwada]|Gloss=Blagdagwada|nWord=3|RX=[N]
 5	kweri	kweri	ADJ	_	_	6	comp:aux/m	_	AlignBegin=94244|AlignEnd=94898|GE=big|Gloss=big|nWord=4|RX=[ADJ]
-6	-a		AUX	_	_	4	mod	_	AlignBegin=94898|AlignEnd=95552|GE=[0]|Gloss=-0|nWord=4|RX=[NOUN]
-7	.		PUNCT	_	_	3	punct	_	AlignBegin=95552|AlignEnd=96860|Gloss=.|nWord=5
+6	-a	_	AUX	_	_	4	mod	_	AlignBegin=94898|AlignEnd=95552|GE=[0]|Gloss=-0|nWord=4|RX=[NOUN]
+7	.	_	PUNCT	_	_	3	punct	_	AlignBegin=95552|AlignEnd=96860|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-AN-00000-01_17-17
 # speaker_id = @01
@@ -220,10 +220,10 @@
 # text_ortho = che chiu ne waninke .
 1	che	che	PRON	_	_	2	subj	_	AlignBegin=100610|AlignEnd=100942|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=100942|AlignEnd=101108|GE=come|Gloss=come|nWord=2|RX=[VI]
-3	-u		AUX	_	_	0	root	_	AlignBegin=101108|AlignEnd=101274|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
+3	-u	_	AUX	_	_	0	root	_	AlignBegin=101108|AlignEnd=101274|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	ne	ne	DET	_	_	5	comp	_	AlignBegin=101274|AlignEnd=101606|GE=that|Gloss=that|nWord=3|RX=[DET]
 5	waninke	waninke	ADP	_	_	2	mod:lmod	_	AlignBegin=101606|AlignEnd=101938|GE=place_of|Gloss=place_of|nWord=4|RX=[ADV]
-6	.		PUNCT	_	_	3	punct	_	AlignBegin=101938|AlignEnd=102270|Gloss=.|nWord=5
+6	.	_	PUNCT	_	_	3	punct	_	AlignBegin=101938|AlignEnd=102270|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-AN-00000-01_18-18
 # speaker_id = @01
@@ -235,10 +235,10 @@
 # text_ortho = che chiu Ugachia giti .
 1	che	che	PRON	_	_	2	subj	_	AlignBegin=103275|AlignEnd=103685|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=103685|AlignEnd=103890|GE=come|Gloss=come|nWord=2|RX=[VI]
-3	-u		AUX	_	_	0	root	_	AlignBegin=103890|AlignEnd=104095|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
+3	-u	_	AUX	_	_	0	root	_	AlignBegin=103890|AlignEnd=104095|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	Ugachia	Ugachia	NOUN	_	_	5	comp	_	AlignBegin=104095|AlignEnd=104505|GE=[Ugachia]|Gloss=Ugachia|nWord=3|RX=[N]
 5	giti	giti	ADP	_	_	2	mod:lmod	_	AlignBegin=104505|AlignEnd=104915|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
-6	.		PUNCT	_	_	3	punct	_	AlignBegin=104915|AlignEnd=105325|Gloss=.|nWord=5
+6	.	_	PUNCT	_	_	3	punct	_	AlignBegin=104915|AlignEnd=105325|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-AN-00000-01_19-19
 # speaker_id = @01
@@ -252,7 +252,7 @@
 2	enusuli	enusuli	NOUN	_	_	3	subj	_	AlignBegin=109318|AlignEnd=110026|GE=grandfather|Gloss=grandfather|nWord=2|RX=[N]
 3	toi	toi	VERB	_	_	0	root	_	AlignBegin=110026|AlignEnd=110734|GE=live|Gloss=live|nWord=3|RX=[VI]
 4	Ugachia	Ugachia	NOUN	_	_	3	mod:lmod	_	AlignBegin=110734|AlignEnd=111442|GE=[Ugachia]|Gloss=Ugachia|nWord=4|RX=[N]
-5	.		PUNCT	_	_	3	punct	_	AlignBegin=111442|AlignEnd=112150|Gloss=.|nWord=5
+5	.	_	PUNCT	_	_	3	punct	_	AlignBegin=111442|AlignEnd=112150|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-AN-00000-01_20-25
 # speaker_id = @01
@@ -264,37 +264,37 @@
 # text_ortho = enusuli chiu kanan ke , chiu aini nang gwadia , honi ugachia giti , chiu cha cheisuli cha chebi , chiu dwe aini , chi Klamengda giti .
 1	enusuli	enusuli	NOUN	_	_	2	subj	_	AlignBegin=114700|AlignEnd=115790|GE=grandfather|Gloss=grandfather|nWord=1|RX=[N]
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=115790|AlignEnd=116335|GE=come|Gloss=come|nWord=2|RX=[VI]
-3	-u		AUX	_	_	0	root	_	AlignBegin=116335|AlignEnd=116880|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
+3	-u	_	AUX	_	_	0	root	_	AlignBegin=116335|AlignEnd=116880|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 4	kanan	kanan	NOUN	_	_	5	comp	_	AlignBegin=116880|AlignEnd=117970|GE=hunt|Gloss=hunt|nWord=3|RX=[N]
 5	ke	ke	ADP	_	_	2	comp:obl	_	AlignBegin=117970|AlignEnd=119060|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
-6	,		PUNCT	_	_	3	punct	_	AlignBegin=119060|AlignEnd=120150|nWord=5
+6	,	_	PUNCT	_	_	3	punct	_	AlignBegin=119060|AlignEnd=120150|nWord=5
 7	chi	chi	VERB	_	_	8	comp:aux/m	_	AlignBegin=123320|AlignEnd=123595|GE=come|Gloss=come|nWord=6|RX=[VI]
-8	-u		AUX	_	_	3	conj:coord	_	AlignBegin=123595|AlignEnd=123870|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]
+8	-u	_	AUX	_	_	3	conj:coord	_	AlignBegin=123595|AlignEnd=123870|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]
 9	aini	aini	ADV	_	_	7	mod:lmod	_	AlignBegin=123870|AlignEnd=124420|GE=here|Gloss=here|nWord=7|RX=[ADV]
 10	nang	nang	NOUN	_	_	9	mod:lmod	_	AlignBegin=124420|AlignEnd=124970|GE=village|Gloss=village|nWord=8|RX=[N]
 11	gwadia	gwadia	ADJ	_	_	10	mod	_	AlignBegin=124970|AlignEnd=125520|GE=lonely|Gloss=lonely|nWord=9|RX=[ADJ]
-12	,		PUNCT	_	_	3	punct	_	AlignBegin=125520|AlignEnd=126070|nWord=10
+12	,	_	PUNCT	_	_	3	punct	_	AlignBegin=125520|AlignEnd=126070|nWord=10
 13	ho	hoke	VERB	_	_	14	comp:aux/m	_	AlignBegin=131500|AlignEnd=131775|GE=[go].[PST]|Gloss=go.PST|nWord=11|RX=[VI]
-14	-ni		AUX	_	_	8	conj:coord	_	AlignBegin=131775|AlignEnd=132050|GE=[IT]|Gloss=-IT|nWord=11|RX=[V:ANY]
+14	-ni	_	AUX	_	_	8	conj:coord	_	AlignBegin=131775|AlignEnd=132050|GE=[IT]|Gloss=-IT|nWord=11|RX=[V:ANY]
 15	Ugachia	Ugachia	NOUN	_	_	16	comp	_	AlignBegin=132050|AlignEnd=132600|GE=[Ugachia]|Gloss=Ugachia|nWord=12|RX=[N]
 16	giti	giti	ADP	_	_	13	comp:obl	_	AlignBegin=132600|AlignEnd=133150|GE=[LOC]|Gloss=LOC|nWord=13|RX=[ADP]
-17	,		PUNCT	_	_	3	punct	_	AlignBegin=133150|AlignEnd=133700|nWord=14
+17	,	_	PUNCT	_	_	3	punct	_	AlignBegin=133150|AlignEnd=133700|nWord=14
 18	chi	chi	VERB	_	_	19	comp:aux/m	_	AlignBegin=135220|AlignEnd=135649|GE=come|Gloss=come|nWord=15|RX=[VI]
-19	-u		AUX	_	_	14	conj:coord	_	AlignBegin=135649|AlignEnd=136078|GE=[PST]|Gloss=-PST|nWord=15|RX=[V:ANY]
+19	-u	_	AUX	_	_	14	conj:coord	_	AlignBegin=135649|AlignEnd=136078|GE=[PST]|Gloss=-PST|nWord=15|RX=[V:ANY]
 20	cha	cha	PRON	_	_	21	udep:poss	_	AlignBegin=136078|AlignEnd=136936|GE=[1SG]|Gloss=1SG|nWord=16|RX=[PRO]
 21	cheisuli	cheisuli	NOUN	_	_	18	mod:lmod	_	AlignBegin=136936|AlignEnd=137794|GE=grandmother|Gloss=grandmother|nWord=17|RX=[N]
 22	cha	cha	PRON	_	_	23	udep:poss	_	AlignBegin=137794|AlignEnd=138652|GE=[1SG]|Gloss=1SG|nWord=18|RX=[PRO]
 23	chebi	chebi	NOUN	_	_	21	conj:coord	_	AlignBegin=138652|AlignEnd=139510|GE=mother|Gloss=mother|nWord=19|RX=[N]
-24	,		PUNCT	_	_	3	punct	_	AlignBegin=139510|AlignEnd=140370|nWord=20
+24	,	_	PUNCT	_	_	3	punct	_	AlignBegin=139510|AlignEnd=140370|nWord=20
 25	chi	chi	VERB	_	_	26	comp:aux/m	_	AlignBegin=141060|AlignEnd=141330|GE=come|Gloss=come|nWord=21|RX=[VI]
-26	-u		AUX	_	_	19	conj:coord	_	AlignBegin=141330|AlignEnd=141600|GE=[PST]|Gloss=-PST|nWord=21|RX=[V:ANY]
+26	-u	_	AUX	_	_	19	conj:coord	_	AlignBegin=141330|AlignEnd=141600|GE=[PST]|Gloss=-PST|nWord=21|RX=[V:ANY]
 27	dwe	dwe	VERB	_	_	25	mod:purp	_	AlignBegin=141600|AlignEnd=142140|GE=[carry].[NPST]|Gloss=carry.NPST|nWord=22|RX=[VT]
 28	aini	aini	ADV	_	_	27	mod:lmod	_	AlignBegin=142140|AlignEnd=142680|GE=here|Gloss=here|nWord=23|RX=[ADV]
-29	,		PUNCT	_	_	3	punct	_	AlignBegin=142680|AlignEnd=143220|nWord=24
+29	,	_	PUNCT	_	_	3	punct	_	AlignBegin=142680|AlignEnd=143220|nWord=24
 30	chi	chi	NOUN	_	_	32	comp	_	AlignBegin=145820|AlignEnd=146650|GE=water|Gloss=water|nWord=25|RX=[N]
 31	Klamengda	Klamengda	PROPN	_	_	30	flat	_	AlignBegin=146650|AlignEnd=147480|GE=[Klamengda]|Gloss=Klamengda|nWord=26|RX=[NPROP]
 32	giti	giti	ADP	_	_	27	comp:obl	_	AlignBegin=147480|AlignEnd=148310|GE=[LOC]|Gloss=LOC|nWord=27|RX=[ADP]
-33	.		PUNCT	_	_	3	punct	_	AlignBegin=148310|AlignEnd=149140|Gloss=.|nWord=28
+33	.	_	PUNCT	_	_	3	punct	_	AlignBegin=148310|AlignEnd=149140|Gloss=.|nWord=28
 
 # sent_id = SAB-TXT-AN-00000-01_26-26
 # speaker_id = @01
@@ -307,9 +307,9 @@
 1	ama	ama	ADV	_	_	3	discourse	_	AlignBegin=151440|AlignEnd=152178|GE=so|Gloss=so|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	3	subj	_	AlignBegin=152178|AlignEnd=152916|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	chek	chek	VERB	_	_	4	comp:aux/m	_	AlignBegin=152916|AlignEnd=153162|GE=stay|Gloss=stay|nWord=3|RX=[VI]
-4	-e		AUX	_	_	5	comp:aux/m	_	AlignBegin=153162|AlignEnd=153408|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
-5	-bale		AUX	_	_	0	root	_	AlignBegin=153408|AlignEnd=153654|GE=[PART]|Gloss=-PART|nWord=3|RX=[V:ANY]
-6	.		PUNCT	_	_	5	punct	_	AlignBegin=153654|AlignEnd=154390|Gloss=.|nWord=4
+4	-e	_	AUX	_	_	5	comp:aux/m	_	AlignBegin=153162|AlignEnd=153408|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+5	-bale	_	AUX	_	_	0	root	_	AlignBegin=153408|AlignEnd=153654|GE=[PART]|Gloss=-PART|nWord=3|RX=[V:ANY]
+6	.	_	PUNCT	_	_	5	punct	_	AlignBegin=153654|AlignEnd=154390|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-AN-00000-01_27-27
 # speaker_id = @01
@@ -322,7 +322,7 @@
 1	nengke	nengke	ADV	_	_	2	mod:tmod	_	AlignBegin=154830|AlignEnd=155230|GE=today|Gloss=today|nWord=1|RX=[ADV]
 2	toi	toi	VERB	_	_	0	root	_	AlignBegin=155230|AlignEnd=155630|GE=live|Gloss=live|nWord=2|RX=[VI]
 3	aini	aini	ADV	_	_	2	mod:lmod	_	AlignBegin=155630|AlignEnd=156030|GE=here|Gloss=here|nWord=3|RX=[ADV]
-4	.		PUNCT	_	_	2	punct	_	AlignBegin=156030|AlignEnd=156430|Gloss=.|nWord=4
+4	.	_	PUNCT	_	_	2	punct	_	AlignBegin=156030|AlignEnd=156430|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-AN-00000-01_28-28
 # speaker_id = @01
@@ -338,5 +338,5 @@
 4	geru	geru	NOUN	_	_	6	comp:obj	_	AlignBegin=159363|AlignEnd=160204|GE=story|Gloss=story|nWord=4|RX=[N]
 5	ai	ai	PART	_	_	4	mod	_	AlignBegin=160204|AlignEnd=161045|GE=local|Gloss=local|nWord=5|RX=[PRO]
 6	batenga	batenga	VERB	_	_	3	comp:aux	_	AlignBegin=161045|AlignEnd=161886|GE=explain|Gloss=explain|nWord=6|RX=[V]
-7	.		PUNCT	_	_	3	punct	_	AlignBegin=161886|AlignEnd=162730|Gloss=.|nWord=7
+7	.	_	PUNCT	_	_	3	punct	_	AlignBegin=161886|AlignEnd=162730|Gloss=.|nWord=7
 

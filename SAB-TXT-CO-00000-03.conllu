@@ -6,21 +6,21 @@
 # text = ( cha koi ) cha nienunga cha chebia kle koi gweda .
 # text_en = I... the chicken... My father and my mother kill the chicken.
 # text_ortho = ( cha koi ) cha nienunga cha chebia kle koi gweda .
-1	(		PUNCT	_	_	_	_	_	AlignBegin=17260|AlignEnd=18065|nWord=1
+1	(	_	PUNCT	_	_	_	_	_	AlignBegin=17260|AlignEnd=18065|nWord=1
 2	cha	cha	PRON	_	_	_	_	_	AlignBegin=18065|AlignEnd=18870|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	koi	koi	NOUN	_	_	_	_	_	AlignBegin=18870|AlignEnd=19675|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
-4	)		PUNCT	_	_	_	_	_	AlignBegin=19675|AlignEnd=20480|nWord=4
+4	)	_	PUNCT	_	_	_	_	_	AlignBegin=19675|AlignEnd=20480|nWord=4
 5	cha	cha	PRON	_	_	6	udep:poss	_	AlignBegin=20480|AlignEnd=21285|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
 6	nienu	nienu	NOUN	_	_	7	comp:aux/m	_	AlignBegin=21285|AlignEnd=21687|GE=father|Gloss=father|nWord=6|RX=[N]
-7	-nga		AUX	_	_	13	subj	_	AlignBegin=21687|AlignEnd=22090|GE=[POSS]|Gloss=-POSS|nWord=6|RX=[N:ANY]
+7	-nga	_	AUX	_	_	13	subj	_	AlignBegin=21687|AlignEnd=22090|GE=[POSS]|Gloss=-POSS|nWord=6|RX=[N:ANY]
 8	cha	cha	PRON	_	_	9	udep:poss	_	AlignBegin=22090|AlignEnd=22895|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
 9	chebi	chebi	NOUN	_	_	10	comp:aux/m	_	AlignBegin=22895|AlignEnd=23297|GE=mother|Gloss=mother|nWord=8|RX=[N]
-10	-a		AUX	_	_	7	conj:coord	_	AlignBegin=23297|AlignEnd=23700|GE=[POSS]|Gloss=-POSS|nWord=8|RX=[N:ANY]
+10	-a	_	AUX	_	_	7	conj:coord	_	AlignBegin=23297|AlignEnd=23700|GE=[POSS]|Gloss=-POSS|nWord=8|RX=[N:ANY]
 11	kle	kle	AUX	_	_	0	root	_	AlignBegin=23700|AlignEnd=24505|GE=be|Gloss=be|nWord=9|RX=[V]
 12	koi	koi	NOUN	_	_	13	comp:obj	_	AlignBegin=24505|AlignEnd=25310|GE=chicken|Gloss=chicken|nWord=10|RX=[N]
 13	gwe	gwe	VERB	_	_	14	comp:aux/m	_	AlignBegin=25310|AlignEnd=25578|GE=kill|Gloss=sleep|nWord=11|RX=[V]
-14	-da		AUX	_	_	11	comp:aux	_	AlignBegin=25578|AlignEnd=26115|GE=[0]|Gloss=-ASP|nWord=11|RX=[VERB]
-15	.		PUNCT	_	_	_	_	_	AlignBegin=26115|AlignEnd=26915|Gloss=.|nWord=12
+14	-da	_	AUX	_	_	11	comp:aux	_	AlignBegin=25578|AlignEnd=26115|GE=[0]|Gloss=-ASP|nWord=11|RX=[VERB]
+15	.	_	PUNCT	_	_	_	_	_	AlignBegin=26115|AlignEnd=26915|Gloss=.|nWord=12
 
 # sent_id = SAB-TXT-CO-00000-03_02-03
 # speaker_id = @03
@@ -31,23 +31,23 @@
 # text_en = (They) pick up the chicken. (They) put a rope on the chicken's neck, a small rope.
 # text_ortho = kle ( gis ) koi gai , kle giska tke aini koi siro ke giska soli .
 1	kle	kle	AUX	_	_	_	_	_	AlignBegin=27335|AlignEnd=27595|GE=be|Gloss=be|nWord=1|RX=[V]
-2	(		PUNCT	_	_	_	_	_	AlignBegin=27595|AlignEnd=27855|nWord=2
+2	(	_	PUNCT	_	_	_	_	_	AlignBegin=27595|AlignEnd=27855|nWord=2
 3	gis	gis	_	_	_	_	_	_	AlignBegin=27855|AlignEnd=28115|nWord=3
-4	)		PUNCT	_	_	_	_	_	AlignBegin=28115|AlignEnd=28375|nWord=4
+4	)	_	PUNCT	_	_	_	_	_	AlignBegin=28115|AlignEnd=28375|nWord=4
 5	koi	koi	NOUN	_	_	6	comp:obj	_	AlignBegin=28375|AlignEnd=28635|GE=chicken|Gloss=chicken|nWord=5|RX=[N]
 6	gai	gai	VERB	_	_	1	comp:aux	_	AlignBegin=28635|AlignEnd=28895|GE=pick_up|Gloss=pick_up|nWord=6|RX=[VT]
-7	,		PUNCT	_	_	_	_	_	AlignBegin=28895|AlignEnd=29155|nWord=7
+7	,	_	PUNCT	_	_	_	_	_	AlignBegin=28895|AlignEnd=29155|nWord=7
 8	kle	kle	AUX	_	_	_	_	_	AlignBegin=29530|AlignEnd=29748|GE=be|Gloss=be|nWord=8|RX=[V]
 9	giska	giska	NOUN	_	_	10	comp:obj	_	AlignBegin=29748|AlignEnd=29966|GE=rope|Gloss=rope|nWord=9|RX=[N]
 10	tk	tk	VERB	_	_	11	comp:aux/m	_	AlignBegin=29966|AlignEnd=30075|GE=put|Gloss=put|nWord=10|RX=[VT]
-11	-e		AUX	_	_	8	comp:aux	_	AlignBegin=30075|AlignEnd=30184|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
+11	-e	_	AUX	_	_	8	comp:aux	_	AlignBegin=30075|AlignEnd=30184|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
 12	aini	aini	ADV	_	_	10	mod:lmod	_	AlignBegin=30184|AlignEnd=30402|GE=here|Gloss=here|nWord=11|RX=[ADV]
 13	koi	koi	NOUN	_	_	14	udep:poss	_	AlignBegin=30402|AlignEnd=30620|GE=chicken|Gloss=chicken|nWord=12|RX=[N]
 14	siro	siro	NOUN	_	_	15	comp	_	AlignBegin=30620|AlignEnd=30838|GE=neck|Gloss=neck|nWord=13|RX=[N]
 15	ke	ke	ADP	_	_	10	comp:obl	_	AlignBegin=30838|AlignEnd=31056|GE=[LOC]|Gloss=LOC|nWord=14|RX=[ADP]
 16	giska	giska	NOUN	_	_	_	_	_	AlignBegin=31056|AlignEnd=31274|GE=rope|Gloss=rope|nWord=15|RX=[N]
 17	soli	soli	NOUN	_	_	16	mod	_	AlignBegin=31274|AlignEnd=31492|GE=little|Gloss=little|nWord=16|RX=[N]
-18	.		PUNCT	_	_	_	_	_	AlignBegin=31492|AlignEnd=31710|Gloss=.|nWord=17
+18	.	_	PUNCT	_	_	_	_	_	AlignBegin=31492|AlignEnd=31710|Gloss=.|nWord=17
 
 # sent_id = SAB-TXT-CO-00000-03_04-06
 # speaker_id = @03
@@ -64,23 +64,23 @@
 5	dwe	dwe	VERB	_	_	3	comp:aux	_	AlignBegin=34486|AlignEnd=34790|GE=[carry].[NPST]|Gloss=carry.NPST|nWord=5|RX=[VT]
 6	bate	bate	ADV	_	_	_	_	_	AlignBegin=34790|AlignEnd=35094|GE=away|Gloss=away|nWord=6|RX=[ADV]
 7	iani	iani	ADV	_	_	_	_	_	AlignBegin=35094|AlignEnd=35398|GE=there|Gloss=there|nWord=7|RX=[ADV]
-8	,		PUNCT	_	_	_	_	_	AlignBegin=35398|AlignEnd=35700|nWord=8
+8	,	_	PUNCT	_	_	_	_	_	AlignBegin=35398|AlignEnd=35700|nWord=8
 9	kle	kle	AUX	_	_	_	_	_	AlignBegin=35730|AlignEnd=35937|GE=be|Gloss=be|nWord=9|RX=[V]
 10	koi	koi	NOUN	_	_	11	comp:obj	_	AlignBegin=35937|AlignEnd=36144|GE=chicken|Gloss=chicken|nWord=10|RX=[N]
 11	luk	luk	VERB	_	_	12	comp:aux/m	_	AlignBegin=36144|AlignEnd=36248|GE=link|Gloss=link|nWord=11|RX=[VT]
-12	-e		AUX	_	_	9	comp:aux	_	AlignBegin=36248|AlignEnd=36351|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
+12	-e	_	AUX	_	_	9	comp:aux	_	AlignBegin=36248|AlignEnd=36351|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
 13	gli	gli	NOUN	_	_	14	comp	_	AlignBegin=36351|AlignEnd=36558|GE=tree|Gloss=tree|nWord=12|RX=[N]
 14	ke	ke	ADP	_	_	11	comp:obl	_	AlignBegin=36558|AlignEnd=36765|GE=[LOC]|Gloss=LOC|nWord=13|RX=[ADP]
-15	,		PUNCT	_	_	_	_	_	AlignBegin=36765|AlignEnd=36970|nWord=14
+15	,	_	PUNCT	_	_	_	_	_	AlignBegin=36765|AlignEnd=36970|nWord=14
 16	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=36995|AlignEnd=37292|GE=to|Gloss=to|Lang=es|nWord=15|RX=[ADP]
 17	que	que	X	_	Foreign=Yes	16	compound	_	AlignBegin=37292|AlignEnd=37589|GE=that|Gloss=that|Lang=es|nWord=16|RX=[PRO]
 18	koi	koi	NOUN	_	_	19	comp:obj	_	AlignBegin=37589|AlignEnd=37886|GE=chicken|Gloss=chicken|nWord=17|RX=[N]
 19	luk	luk	VERB	_	_	20	comp:aux/m	_	AlignBegin=37886|AlignEnd=37960|GE=link|Gloss=link|nWord=18|RX=[VT]
-20	-e		AUX	_	_	21	comp:aux/m	_	AlignBegin=37960|AlignEnd=38034|GE=[THM]|Gloss=-THM|nWord=18|RX=[V:ANY]
-21	-d		AUX	_	_	22	comp:aux/m	_	AlignBegin=38034|AlignEnd=38108|GE=[0]|Gloss=-0-|nWord=18|RX=[VERB]|wordform=-d-
-22	-a		AUX	_	_	_	_	_	AlignBegin=38108|AlignEnd=38183|GE=[PASS]|Gloss=-PASS|nWord=18|RX=[V:ANY]
+20	-e	_	AUX	_	_	21	comp:aux/m	_	AlignBegin=37960|AlignEnd=38034|GE=[THM]|Gloss=-THM|nWord=18|RX=[V:ANY]
+21	-d	_	AUX	_	_	22	comp:aux/m	_	AlignBegin=38034|AlignEnd=38108|GE=[0]|Gloss=-0-|nWord=18|RX=[VERB]|wordform=-d-
+22	-a	_	AUX	_	_	_	_	_	AlignBegin=38108|AlignEnd=38183|GE=[PASS]|Gloss=-PASS|nWord=18|RX=[V:ANY]
 23	sukekre	sukekre	ADV	_	_	_	_	_	AlignBegin=38183|AlignEnd=38480|GE=elsewere|Gloss=elsewere|nWord=19|RX=[ADV]
-24	.		PUNCT	_	_	_	_	_	AlignBegin=38480|AlignEnd=38775|Gloss=.|nWord=20
+24	.	_	PUNCT	_	_	_	_	_	AlignBegin=38480|AlignEnd=38775|Gloss=.|nWord=20
 
 # sent_id = SAB-TXT-CO-00000-03_07-07
 # speaker_id = @03
@@ -100,7 +100,7 @@
 8	swente	swente	VERB	_	_	7	mod:purp	_	AlignBegin=43039|AlignEnd=43546|GE=see|Gloss=see|nWord=8|RX=[V]
 9	koi	koi	NOUN	_	_	10	comp	_	AlignBegin=43546|AlignEnd=44053|GE=chicken|Gloss=chicken|nWord=9|RX=[N]
 10	dike	dike	ADP	_	_	8	comp:obl	_	AlignBegin=44053|AlignEnd=44560|GE=[INST]|Gloss=INST|nWord=10|RX=[ADP]
-11	.		PUNCT	_	_	5	punct	_	AlignBegin=44560|AlignEnd=45065|Gloss=.|nWord=11
+11	.	_	PUNCT	_	_	5	punct	_	AlignBegin=44560|AlignEnd=45065|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-CO-00000-03_08-08
 # speaker_id = @03
@@ -118,10 +118,10 @@
 6	be	be	AUX	_	_	_	_	_	AlignBegin=47045|AlignEnd=47432|GE=[FUT]|Gloss=FUT|nWord=6|RX=[VERBPRT]
 7	daba	daba	NOUN	_	_	8	comp:obj	_	AlignBegin=47432|AlignEnd=47819|GE=brother|Gloss=brother|nWord=7|RX=[N]
 8	gwe	gwe	VERB	_	_	9	comp:aux/m	_	AlignBegin=47819|AlignEnd=47948|GE=kill|Gloss=sleep|nWord=8|RX=[V]
-9	-da		AUX	_	_	6	comp:aux	_	AlignBegin=47948|AlignEnd=48206|GE=[0]|Gloss=-ASP|nWord=8|RX=[VERB]
+9	-da	_	AUX	_	_	6	comp:aux	_	AlignBegin=47948|AlignEnd=48206|GE=[0]|Gloss=-ASP|nWord=8|RX=[VERB]
 10	giska	giska	NOUN	_	_	11	comp	_	AlignBegin=48206|AlignEnd=48593|GE=rope|Gloss=rope|nWord=9|RX=[N]
 11	ke	ke	ADP	_	_	8	comp:obl	_	AlignBegin=48593|AlignEnd=48980|GE=[INST]|Gloss=INST|nWord=10|RX=[ADP]
-12	.		PUNCT	_	_	_	_	_	AlignBegin=48980|AlignEnd=49370|Gloss=.|nWord=11
+12	.	_	PUNCT	_	_	_	_	_	AlignBegin=48980|AlignEnd=49370|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-CO-00000-03_09-09
 # speaker_id = @03
@@ -135,9 +135,9 @@
 2	eso	eso	X	_	Foreign=Yes	1	fixed	_	AlignBegin=50383|AlignEnd=50656|GE=this|Gloss=this|Lang=es|nWord=2|RX=[PRO]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=50656|AlignEnd=50929|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
 4	gwe	gwe	VERB	_	_	5	comp:aux/m	_	AlignBegin=50929|AlignEnd=51020|GE=kill|Gloss=sleep|nWord=4|RX=[V]
-5	-da		AUX	_	_	_	_	_	AlignBegin=51020|AlignEnd=51202|GE=[0]|Gloss=-ASP|nWord=4|RX=[VERB]
+5	-da	_	AUX	_	_	_	_	_	AlignBegin=51020|AlignEnd=51202|GE=[0]|Gloss=-ASP|nWord=4|RX=[VERB]
 6	sukekre	sukekre	ADV	_	_	_	_	_	AlignBegin=51202|AlignEnd=51475|GE=elsewere|Gloss=elsewere|nWord=5|RX=[ADV]
-7	.		PUNCT	_	_	_	_	_	AlignBegin=51475|AlignEnd=51750|Gloss=.|nWord=6
+7	.	_	PUNCT	_	_	_	_	_	AlignBegin=51475|AlignEnd=51750|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-CO-00000-03_10-10
 # speaker_id = @03
@@ -152,7 +152,7 @@
 3	koi	koi	NOUN	_	_	_	_	_	AlignBegin=52559|AlignEnd=52861|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
 4	ese	ese	DET	_	_	3	mod	_	AlignBegin=52861|AlignEnd=53163|GE=that|Gloss=that|nWord=4|RX=[DET]
 5	wendike	wendike	ADJ	_	_	_	_	_	AlignBegin=53163|AlignEnd=53465|GE=calm|Gloss=calm|nWord=5|RX=[ADJ]
-6	.		PUNCT	_	_	_	_	_	AlignBegin=53465|AlignEnd=53765|Gloss=.|nWord=6
+6	.	_	PUNCT	_	_	_	_	_	AlignBegin=53465|AlignEnd=53765|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-CO-00000-03_11-11
 # speaker_id = @03
@@ -165,9 +165,9 @@
 1	chi	chi	NOUN	_	_	_	_	_	AlignBegin=54145|AlignEnd=54459|GE=water|Gloss=water|nWord=1|RX=[N]
 2	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=54459|AlignEnd=54773|GE=be|Gloss=be|Lang=es|nWord=2|RX=[V]
 3	hi	hi	NOUN	_	_	4	comp:aux/m	_	AlignBegin=54773|AlignEnd=54930|GE=fire|Gloss=fire|nWord=3|RX=[N]
-4	-a		AUX	_	_	5	comp	_	AlignBegin=54930|AlignEnd=55087|GE=[0]|Gloss=-0|nWord=3|RX=[NOUN]
+4	-a	_	AUX	_	_	5	comp	_	AlignBegin=54930|AlignEnd=55087|GE=[0]|Gloss=-0|nWord=3|RX=[NOUN]
 5	ke	ke	ADP	_	_	_	_	_	AlignBegin=55087|AlignEnd=55401|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
-6	.		PUNCT	_	_	_	_	_	AlignBegin=55401|AlignEnd=55715|Gloss=.|nWord=5
+6	.	_	PUNCT	_	_	_	_	_	AlignBegin=55401|AlignEnd=55715|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-CO-00000-03_12-12
 # speaker_id = @03
@@ -180,11 +180,11 @@
 1	chi	chi	NOUN	_	_	_	_	_	AlignBegin=56505|AlignEnd=56757|GE=water|Gloss=water|nWord=1|RX=[N]
 2	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=56757|AlignEnd=57009|GE=be|Gloss=be|Lang=es|nWord=2|RX=[V]
 3	li	li	VERB	_	_	4	comp:aux/m	_	AlignBegin=57009|AlignEnd=57135|GE=cook|Gloss=cook|nWord=3|RX=[VT]
-4	-e		AUX	_	_	_	_	_	AlignBegin=57135|AlignEnd=57261|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+4	-e	_	AUX	_	_	_	_	_	AlignBegin=57135|AlignEnd=57261|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	hi	hi	NOUN	_	_	6	comp:aux/m	_	AlignBegin=57261|AlignEnd=57387|GE=fire|Gloss=fire|nWord=4|RX=[N]
-6	-a		AUX	_	_	7	comp	_	AlignBegin=57387|AlignEnd=57513|GE=[0]|Gloss=-0|nWord=4|RX=[NOUN]
+6	-a	_	AUX	_	_	7	comp	_	AlignBegin=57387|AlignEnd=57513|GE=[0]|Gloss=-0|nWord=4|RX=[NOUN]
 7	ke	ke	ADP	_	_	_	_	_	AlignBegin=57513|AlignEnd=57765|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
-8	.		PUNCT	_	_	_	_	_	AlignBegin=57765|AlignEnd=58015|Gloss=.|nWord=6
+8	.	_	PUNCT	_	_	_	_	_	AlignBegin=57765|AlignEnd=58015|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-CO-00000-03_13-13
 # speaker_id = @03
@@ -197,11 +197,11 @@
 1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=58195|AlignEnd=58492|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
 2	koi	koi	NOUN	_	_	3	comp:obj	_	AlignBegin=58492|AlignEnd=58789|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
 3	tk	tk	VERB	_	_	4	comp:aux/m	_	AlignBegin=58789|AlignEnd=58937|GE=put|Gloss=put|nWord=3|RX=[VT]
-4	-e		AUX	_	_	_	_	_	AlignBegin=58937|AlignEnd=59086|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+4	-e	_	AUX	_	_	_	_	_	AlignBegin=58937|AlignEnd=59086|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	chi	chi	NOUN	_	_	7	comp	_	AlignBegin=59086|AlignEnd=59383|GE=water|Gloss=water|nWord=4|RX=[N]
 6	ute	ute	ADJ	_	_	5	mod	_	AlignBegin=59383|AlignEnd=59680|GE=hot|Gloss=hot|nWord=5|RX=[ADJ]
 7	ske	ske	ADP	_	_	3	comp:obl	_	AlignBegin=59680|AlignEnd=59977|GE=with|Gloss=with|nWord=6|RX=[ADP]
-8	.		PUNCT	_	_	_	_	_	AlignBegin=59977|AlignEnd=60275|Gloss=.|nWord=7
+8	.	_	PUNCT	_	_	_	_	_	AlignBegin=59977|AlignEnd=60275|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-CO-00000-03_14-14
 # speaker_id = @03
@@ -214,10 +214,10 @@
 1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=60570|AlignEnd=60800|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
 2	koi	koi	NOUN	_	_	3	comp:obj	_	AlignBegin=60800|AlignEnd=61030|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
 3	huk	huk	VERB	_	_	4	comp:aux/m	_	AlignBegin=61030|AlignEnd=61145|GE=pluck|Gloss=pluck|nWord=3|RX=[V]
-4	-e		AUX	_	_	_	_	_	AlignBegin=61145|AlignEnd=61260|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+4	-e	_	AUX	_	_	_	_	_	AlignBegin=61145|AlignEnd=61260|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	trate	trate	ADJ	_	_	3	comp:pred	_	AlignBegin=61260|AlignEnd=61490|GE=clean|Gloss=clean|nWord=4|RX=[ADJ]
 6	hegwale	hegwale	ADV	_	_	3	mod	_	AlignBegin=61490|AlignEnd=61720|GE=next_to|Gloss=next_to|nWord=5|RX=[ADP]
-7	.		PUNCT	_	_	_	_	_	AlignBegin=61720|AlignEnd=61950|Gloss=.|nWord=6
+7	.	_	PUNCT	_	_	_	_	_	AlignBegin=61720|AlignEnd=61950|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-CO-00000-03_15-15
 # speaker_id = @03
@@ -230,17 +230,17 @@
 1	despues	despues	ADV	_	_	_	_	_	AlignBegin=64242|AlignEnd=64607|GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	koi	koi	NOUN	_	_	3	subj	_	AlignBegin=64607|AlignEnd=64972|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
 3	chi	chi	VERB	_	_	4	comp:aux/m	_	AlignBegin=64972|AlignEnd=65154|GE=come|Gloss=come|nWord=3|RX=[VI]
-4	-e		AUX	_	_	_	_	_	AlignBegin=65154|AlignEnd=65337|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+4	-e	_	AUX	_	_	_	_	_	AlignBegin=65154|AlignEnd=65337|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	do	do	NOUN	_	_	6	comp:aux/m	_	AlignBegin=65337|AlignEnd=65519|GE=coco|Gloss=coco|nWord=4|RX=[N]
-6	-ia		AUX	_	_	_	_	_	AlignBegin=65519|AlignEnd=65702|GE=[0]|Gloss=-0|nWord=4|RX=[NOUN]
+6	-ia	_	AUX	_	_	_	_	_	AlignBegin=65519|AlignEnd=65702|GE=[0]|Gloss=-0|nWord=4|RX=[NOUN]
 7	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=65702|AlignEnd=66067|GE=so|Gloss=so|Lang=es|nWord=5|RX=[ADV]
 8	koi	koi	NOUN	_	_	9	comp:obj	_	AlignBegin=66067|AlignEnd=66432|GE=chicken|Gloss=chicken|nWord=6|RX=[N]
 9	bek	bek	VERB	_	_	10	comp:aux/m	_	AlignBegin=66432|AlignEnd=66614|GE=put|Gloss=put|nWord=7|RX=[V]
-10	-e		AUX	_	_	_	_	_	AlignBegin=66614|AlignEnd=66797|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
+10	-e	_	AUX	_	_	_	_	_	AlignBegin=66614|AlignEnd=66797|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
 11	hita	hita	NOUN	_	_	12	comp	_	AlignBegin=66797|AlignEnd=67162|GE=fire|Gloss=fire|nWord=8|RX=[N]
 12	giti	giti	ADP	_	_	9	comp:obl	_	AlignBegin=67162|AlignEnd=67527|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
 13	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=67527|AlignEnd=67892|GE=like_that|Gloss=like_that|Lang=es|nWord=10|RX=[ADV]
-14	.		PUNCT	_	_	_	_	_	AlignBegin=67892|AlignEnd=68252|Gloss=.|nWord=11
+14	.	_	PUNCT	_	_	_	_	_	AlignBegin=67892|AlignEnd=68252|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-CO-00000-03_16-16
 # speaker_id = @03
@@ -254,7 +254,7 @@
 2	ese	ese	DET	_	_	1	mod	_	AlignBegin=68968|AlignEnd=69404|GE=that|Gloss=that|nWord=2|RX=[DET]
 3	uda	uda	NOUN	_	_	_	_	_	AlignBegin=69404|AlignEnd=69840|GE=flesh|Gloss=flesh|nWord=3|RX=[N]
 4	soli	soli	NOUN	_	_	3	mod	_	AlignBegin=69840|AlignEnd=70276|GE=little|Gloss=little|nWord=4|RX=[N]
-5	.		PUNCT	_	_	_	_	_	AlignBegin=70276|AlignEnd=70712|Gloss=.|nWord=5
+5	.	_	PUNCT	_	_	_	_	_	AlignBegin=70276|AlignEnd=70712|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-CO-00000-03_17-17
 # speaker_id = @03
@@ -265,9 +265,9 @@
 # text_en = Few plums.
 # text_ortho = huke gire .
 1	huk	huk	VERB	_	_	2	comp:aux/m	_	AlignBegin=73410|AlignEnd=73696|GE=pluck|Gloss=pluck|nWord=1|RX=[V]
-2	-e		AUX	_	_	_	_	_	AlignBegin=73696|AlignEnd=73983|GE=[THM]|Gloss=-THM|nWord=1|RX=[V:ANY]
+2	-e	_	AUX	_	_	_	_	_	AlignBegin=73696|AlignEnd=73983|GE=[THM]|Gloss=-THM|nWord=1|RX=[V:ANY]
 3	gire	gire	ADJ	_	_	_	_	_	AlignBegin=73983|AlignEnd=74556|GE=small|Gloss=small|nWord=2|RX=[ADJ]
-4	.		PUNCT	_	_	_	_	_	AlignBegin=74556|AlignEnd=75130|Gloss=.|nWord=3
+4	.	_	PUNCT	_	_	_	_	_	AlignBegin=74556|AlignEnd=75130|Gloss=.|nWord=3
 
 # sent_id = SAB-TXT-CO-00000-03_18-18
 # speaker_id = @03
@@ -281,8 +281,8 @@
 2	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=75731|AlignEnd=76107|GE=go|Gloss=go|nWord=2|RX=[VI]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=76107|AlignEnd=76483|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
 4	dodad	dodad	VERB	_	_	5	comp:aux/m	_	AlignBegin=76483|AlignEnd=76671|GE=make|Gloss=make|nWord=4|RX=[VT]
-5	-e		AUX	_	_	_	_	_	AlignBegin=76671|AlignEnd=76859|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	.		PUNCT	_	_	_	_	_	AlignBegin=76859|AlignEnd=77235|Gloss=.|nWord=5
+5	-e	_	AUX	_	_	_	_	_	AlignBegin=76671|AlignEnd=76859|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+6	.	_	PUNCT	_	_	_	_	_	AlignBegin=76859|AlignEnd=77235|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-CO-00000-03_19-19
 # speaker_id = @03
@@ -295,8 +295,8 @@
 1	koi	koi	NOUN	_	_	2	udep:poss	_	AlignBegin=77435|AlignEnd=77713|GE=chicken|Gloss=chicken|nWord=1|RX=[N]
 2	era	era	NOUN	_	_	3	comp:obj	_	AlignBegin=77713|AlignEnd=77991|GE=gut|Gloss=gut|nWord=2|RX=[N]
 3	hue	hue	VERB	_	_	4	comp:aux/m	_	AlignBegin=77991|AlignEnd=78130|GE=[find].[NPST]|Gloss=find.NPST|nWord=3|RX=[VT]
-4	-nga		AUX	_	_	_	_	_	AlignBegin=78130|AlignEnd=78269|GE=[SUB]|Gloss=-SUB|nWord=3|RX=[V:ANY]
-5	.		PUNCT	_	_	_	_	_	AlignBegin=78269|AlignEnd=78545|Gloss=.|nWord=4
+4	-nga	_	AUX	_	_	_	_	_	AlignBegin=78130|AlignEnd=78269|GE=[SUB]|Gloss=-SUB|nWord=3|RX=[V:ANY]
+5	.	_	PUNCT	_	_	_	_	_	AlignBegin=78269|AlignEnd=78545|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-CO-00000-03_20-20
 # speaker_id = @03
@@ -309,8 +309,8 @@
 1	koi	koi	NOUN	_	_	_	_	_	AlignBegin=78640|AlignEnd=78965|GE=chicken|Gloss=chicken|nWord=1|RX=[N]
 2	u	u	NOUN	_	_	_	_	_	AlignBegin=78965|AlignEnd=79290|GE=house|Gloss=house|nWord=2|RX=[N]
 3	dodad	dodad	VERB	_	_	4	comp:aux/m	_	AlignBegin=79290|AlignEnd=79452|GE=make|Gloss=make|nWord=3|RX=[VT]
-4	-e		AUX	_	_	_	_	_	AlignBegin=79452|AlignEnd=79615|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
-5	.		PUNCT	_	_	_	_	_	AlignBegin=79615|AlignEnd=79940|Gloss=.|nWord=4
+4	-e	_	AUX	_	_	_	_	_	AlignBegin=79452|AlignEnd=79615|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+5	.	_	PUNCT	_	_	_	_	_	AlignBegin=79615|AlignEnd=79940|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-CO-00000-03_21-21
 # speaker_id = @03
@@ -323,8 +323,8 @@
 1	despues	despues	ADV	_	_	_	_	_	AlignBegin=80115|AlignEnd=80447|GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	koi	koi	NOUN	_	_	3	comp:obj	_	AlignBegin=80447|AlignEnd=80779|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
 3	li	li	VERB	_	_	4	comp:aux/m	_	AlignBegin=80779|AlignEnd=80945|GE=cook|Gloss=cook|nWord=3|RX=[VT]
-4	-e		AUX	_	_	0	root	_	AlignBegin=80945|AlignEnd=81111|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
-5	.		PUNCT	_	_	4	punct	_	AlignBegin=81111|AlignEnd=81445|Gloss=.|nWord=4
+4	-e	_	AUX	_	_	0	root	_	AlignBegin=80945|AlignEnd=81111|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+5	.	_	PUNCT	_	_	4	punct	_	AlignBegin=81111|AlignEnd=81445|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-CO-00000-03_22-22
 # speaker_id = @03
@@ -336,10 +336,10 @@
 # text_ortho = bla tke koi ske .
 1	bla	bla	NOUN	_	_	2	comp:obj	_	AlignBegin=82515|AlignEnd=82885|GE=banana|Gloss=banana|nWord=1|RX=[N]
 2	tk	tk	VERB	_	_	3	comp:aux/m	_	AlignBegin=82885|AlignEnd=83070|GE=put|Gloss=put|nWord=2|RX=[VT]
-3	-e		AUX	_	_	0	root	_	AlignBegin=83070|AlignEnd=83255|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+3	-e	_	AUX	_	_	0	root	_	AlignBegin=83070|AlignEnd=83255|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
 4	koi	koi	NOUN	_	_	5	comp	_	AlignBegin=83255|AlignEnd=83625|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
 5	ske	ske	ADP	_	_	2	comp:obl	_	AlignBegin=83625|AlignEnd=83995|GE=with|Gloss=with|nWord=4|RX=[ADP]
-6	.		PUNCT	_	_	3	punct	_	AlignBegin=83995|AlignEnd=84365|Gloss=.|nWord=5
+6	.	_	PUNCT	_	_	3	punct	_	AlignBegin=83995|AlignEnd=84365|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-CO-00000-03_23-23
 # speaker_id = @03
@@ -351,10 +351,10 @@
 # text_ortho = hirong tke koi ske .
 1	hirong	hirong	NOUN	_	_	2	comp:obj	_	AlignBegin=85785|AlignEnd=86243|GE=plant_type|Gloss=plant_type|nWord=1|RX=[N]
 2	tk	tk	VERB	_	_	3	comp:aux/m	_	AlignBegin=86243|AlignEnd=86472|GE=put|Gloss=put|nWord=2|RX=[VT]
-3	-e		AUX	_	_	0	root	_	AlignBegin=86472|AlignEnd=86701|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+3	-e	_	AUX	_	_	0	root	_	AlignBegin=86472|AlignEnd=86701|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
 4	koi	koi	NOUN	_	_	5	comp	_	AlignBegin=86701|AlignEnd=87159|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
 5	ske	ske	ADP	_	_	2	comp:obl	_	AlignBegin=87159|AlignEnd=87617|GE=with|Gloss=with|nWord=4|RX=[ADP]
-6	.		PUNCT	_	_	3	punct	_	AlignBegin=87617|AlignEnd=88075|Gloss=.|nWord=5
+6	.	_	PUNCT	_	_	3	punct	_	AlignBegin=87617|AlignEnd=88075|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-CO-00000-03_24-24
 # speaker_id = @03
@@ -366,8 +366,8 @@
 # text_ortho = hagna tke koi ske .
 1	hagna	hagna	NOUN	_	_	2	comp:obj	_	AlignBegin=90170|AlignEnd=90502|GE=plant_type|Gloss=plant_type|nWord=1|RX=[N]
 2	tk	tk	VERB	_	_	3	comp:aux/m	_	AlignBegin=90502|AlignEnd=90668|GE=put|Gloss=put|nWord=2|RX=[VT]
-3	-e		AUX	_	_	0	root	_	AlignBegin=90668|AlignEnd=90834|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+3	-e	_	AUX	_	_	0	root	_	AlignBegin=90668|AlignEnd=90834|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
 4	koi	koi	NOUN	_	_	5	comp	_	AlignBegin=90834|AlignEnd=91166|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
 5	ske	ske	ADP	_	_	2	comp:obl	_	AlignBegin=91166|AlignEnd=91498|GE=with|Gloss=with|nWord=4|RX=[ADP]
-6	.		PUNCT	_	_	3	punct	_	AlignBegin=91498|AlignEnd=91830|Gloss=.|nWord=5
+6	.	_	PUNCT	_	_	3	punct	_	AlignBegin=91498|AlignEnd=91830|Gloss=.|nWord=5
 

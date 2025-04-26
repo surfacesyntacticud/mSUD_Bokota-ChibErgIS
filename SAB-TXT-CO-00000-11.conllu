@@ -10,51 +10,51 @@
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=12079|AlignEnd=12498|GE=be|Gloss=be|nWord=2|RX=[V]
 3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=12498|AlignEnd=12917|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
 4	gwe	gwe	VERB	_	_	5	comp:aux/m	_	AlignBegin=12917|AlignEnd=13057|GE=kill|Gloss=sleep|nWord=4|RX=[V]
-5	-da		AUX	_	_	2	comp:aux	_	AlignBegin=13057|AlignEnd=13336|GE=[0]|Gloss=-ASP|nWord=4|RX=[VERB]
+5	-da	_	AUX	_	_	2	comp:aux	_	AlignBegin=13057|AlignEnd=13336|GE=[0]|Gloss=-ASP|nWord=4|RX=[VERB]
 6	giska	giska	NOUN	_	_	7	comp	_	AlignBegin=13336|AlignEnd=13755|GE=rope|Gloss=rope|nWord=5|RX=[N]
 7	ke	ke	ADP	_	_	4	comp:obl	_	AlignBegin=13755|AlignEnd=14174|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
-8	,		PUNCT	_	_	_	_	_	AlignBegin=14174|AlignEnd=14590|nWord=7
+8	,	_	PUNCT	_	_	_	_	_	AlignBegin=14174|AlignEnd=14590|nWord=7
 9	koi	koi	NOUN	_	_	10	comp:obj	_	AlignBegin=15160|AlignEnd=15530|GE=chicken|Gloss=chicken|nWord=8|RX=[N]
 10	dodad	dodad	VERB	_	_	11	comp:aux/m	_	AlignBegin=15530|AlignEnd=15715|GE=make|Gloss=make|nWord=9|RX=[VT]
-11	-e		AUX	_	_	2	conj:coord	_	AlignBegin=15715|AlignEnd=15900|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
-12	,		PUNCT	_	_	_	_	_	AlignBegin=15900|AlignEnd=16270|nWord=10
+11	-e	_	AUX	_	_	2	conj:coord	_	AlignBegin=15715|AlignEnd=15900|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
+12	,	_	PUNCT	_	_	_	_	_	AlignBegin=15900|AlignEnd=16270|nWord=10
 13	chi	chi	NOUN	_	_	14	comp:obj	_	AlignBegin=16280|AlignEnd=16578|GE=water|Gloss=water|nWord=11|RX=[N]
 14	bek	bek	VERB	_	_	15	comp:aux/m	_	AlignBegin=16578|AlignEnd=16727|GE=put|Gloss=put|nWord=12|RX=[V]
-15	-e		AUX	_	_	11	conj:coord	_	AlignBegin=16727|AlignEnd=16876|GE=[THM]|Gloss=-THM|nWord=12|RX=[V:ANY]
+15	-e	_	AUX	_	_	11	conj:coord	_	AlignBegin=16727|AlignEnd=16876|GE=[THM]|Gloss=-THM|nWord=12|RX=[V:ANY]
 16	ute	ute	ADJ	_	_	_	_	_	AlignBegin=16876|AlignEnd=17174|GE=hot|Gloss=hot|nWord=13|RX=[ADJ]
 17	hi	hi	NOUN	_	_	18	comp:aux/m	_	AlignBegin=17174|AlignEnd=17323|GE=fire|Gloss=fire|nWord=14|RX=[N]
-18	-a		AUX	_	_	19	comp	_	AlignBegin=17323|AlignEnd=17472|GE=[0]|Gloss=-0|nWord=14|RX=[NOUN]
+18	-a	_	AUX	_	_	19	comp	_	AlignBegin=17323|AlignEnd=17472|GE=[0]|Gloss=-0|nWord=14|RX=[NOUN]
 19	ke	ke	ADP	_	_	14	comp:obl	_	AlignBegin=17472|AlignEnd=17770|GE=[LOC]|Gloss=LOC|nWord=15|RX=[ADP]
-20	,		PUNCT	_	_	_	_	_	AlignBegin=17770|AlignEnd=18070|nWord=16
+20	,	_	PUNCT	_	_	_	_	_	AlignBegin=17770|AlignEnd=18070|nWord=16
 21	y	y	X	_	Foreign=Yes	24	cc	_	AlignBegin=18350|AlignEnd=18946|GE=and|Gloss=and|Lang=es|nWord=17|RX=[COORDCONN]
 22	koi	koi	NOUN	_	_	23	comp:obj	_	AlignBegin=18946|AlignEnd=19542|GE=chicken|Gloss=chicken|nWord=18|RX=[N]
 23	dek	dek	VERB	_	_	24	comp:aux/m	_	AlignBegin=19542|AlignEnd=19840|GE=peel|Gloss=peel|nWord=19|RX=[V]
-24	-e		AUX	_	_	15	conj:coord	_	AlignBegin=19840|AlignEnd=20138|GE=[THM]|Gloss=-THM|nWord=19|RX=[V:ANY]
+24	-e	_	AUX	_	_	15	conj:coord	_	AlignBegin=19840|AlignEnd=20138|GE=[THM]|Gloss=-THM|nWord=19|RX=[V:ANY]
 25	hi	hi	NOUN	_	_	26	comp:aux/m	_	AlignBegin=20138|AlignEnd=20436|GE=fire|Gloss=fire|nWord=20|RX=[N]
-26	-a		AUX	_	_	27	comp	_	AlignBegin=20436|AlignEnd=20734|GE=[0]|Gloss=-0|nWord=20|RX=[NOUN]
+26	-a	_	AUX	_	_	27	comp	_	AlignBegin=20436|AlignEnd=20734|GE=[0]|Gloss=-0|nWord=20|RX=[NOUN]
 27	ke	ke	ADP	_	_	23	comp:obl	_	AlignBegin=20734|AlignEnd=21330|GE=[LOC]|Gloss=LOC|nWord=21|RX=[ADP]
 28	huk	huk	VERB	_	_	29	comp:aux/m	_	AlignBegin=21330|AlignEnd=21628|GE=pluck|Gloss=pluck|nWord=22|RX=[V]
-29	-e		AUX	_	_	23	mod:purp	_	AlignBegin=21628|AlignEnd=21926|GE=[THM]|Gloss=-THM|nWord=22|RX=[V:ANY]
-30	,		PUNCT	_	_	_	_	_	AlignBegin=21926|AlignEnd=22520|nWord=23
+29	-e	_	AUX	_	_	23	mod:purp	_	AlignBegin=21628|AlignEnd=21926|GE=[THM]|Gloss=-THM|nWord=22|RX=[V:ANY]
+30	,	_	PUNCT	_	_	_	_	_	AlignBegin=21926|AlignEnd=22520|nWord=23
 31	y	y	X	_	Foreign=Yes	37	cc	_	AlignBegin=23090|AlignEnd=23493|GE=and|Gloss=and|Lang=es|nWord=24|RX=[COORDCONN]
-32	(		PUNCT	_	_	_	_	_	AlignBegin=23493|AlignEnd=23896|nWord=25
+32	(	_	PUNCT	_	_	_	_	_	AlignBegin=23493|AlignEnd=23896|nWord=25
 33	dodad	dodad	VERB	_	_	34	comp:aux/m	_	AlignBegin=23896|AlignEnd=24098|GE=make|Gloss=make|nWord=26|RX=[VT]
-34	-e		AUX	_	_	_	_	_	AlignBegin=24098|AlignEnd=24299|GE=[THM]|Gloss=-THM|nWord=26|RX=[V:ANY]
-35	)		PUNCT	_	_	_	_	_	AlignBegin=24299|AlignEnd=24702|nWord=27
+34	-e	_	AUX	_	_	_	_	_	AlignBegin=24098|AlignEnd=24299|GE=[THM]|Gloss=-THM|nWord=26|RX=[V:ANY]
+35	)	_	PUNCT	_	_	_	_	_	AlignBegin=24299|AlignEnd=24702|nWord=27
 36	li	li	VERB	_	_	37	comp:aux/m	_	AlignBegin=24702|AlignEnd=24904|GE=cook|Gloss=cook|nWord=28|RX=[VT]
-37	-e		AUX	_	_	24	conj:coord	_	AlignBegin=24904|AlignEnd=25105|GE=[THM]|Gloss=-THM|nWord=28|RX=[V:ANY]
+37	-e	_	AUX	_	_	24	conj:coord	_	AlignBegin=24904|AlignEnd=25105|GE=[THM]|Gloss=-THM|nWord=28|RX=[V:ANY]
 38	hi	hi	NOUN	_	_	39	comp:aux/m	_	AlignBegin=25105|AlignEnd=25307|GE=fire|Gloss=fire|nWord=29|RX=[N]
-39	-a		AUX	_	_	40	comp	_	AlignBegin=25307|AlignEnd=25508|GE=[0]|Gloss=-0|nWord=29|RX=[NOUN]
+39	-a	_	AUX	_	_	40	comp	_	AlignBegin=25307|AlignEnd=25508|GE=[0]|Gloss=-0|nWord=29|RX=[NOUN]
 40	ke	ke	ADP	_	_	36	comp:obl	_	AlignBegin=25508|AlignEnd=25911|GE=[LOC]|Gloss=LOC|nWord=30|RX=[ADP]
 41	uda	uda	NOUN	_	_	_	_	_	AlignBegin=25911|AlignEnd=26314|GE=flesh|Gloss=flesh|nWord=31|RX=[N]
 42	bla	bla	NOUN	_	_	43	comp	_	AlignBegin=26314|AlignEnd=26717|GE=banana|Gloss=banana|nWord=32|RX=[N]
 43	ske	ske	ADP	_	_	36	comp:obl	_	AlignBegin=26717|AlignEnd=27120|GE=with|Gloss=with|nWord=33|RX=[ADP]
-44	,		PUNCT	_	_	_	_	_	AlignBegin=27120|AlignEnd=27520|nWord=34
+44	,	_	PUNCT	_	_	_	_	_	AlignBegin=27120|AlignEnd=27520|nWord=34
 45	bla	bla	NOUN	_	_	46	comp:obj	_	AlignBegin=27655|AlignEnd=27943|GE=banana|Gloss=banana|nWord=35|RX=[N]
 46	tk	tk	VERB	_	_	47	comp:aux/m	_	AlignBegin=27943|AlignEnd=28087|GE=put|Gloss=put|nWord=36|RX=[VT]
-47	-e		AUX	_	_	37	conj:coord	_	AlignBegin=28087|AlignEnd=28231|GE=[THM]|Gloss=-THM|nWord=36|RX=[V:ANY]
+47	-e	_	AUX	_	_	37	conj:coord	_	AlignBegin=28087|AlignEnd=28231|GE=[THM]|Gloss=-THM|nWord=36|RX=[V:ANY]
 48	ske	ske	ADP	_	_	46	comp:obl	_	AlignBegin=28231|AlignEnd=28519|GE=with|Gloss=with|nWord=37|RX=[ADP]
-49	.		PUNCT	_	_	_	_	_	AlignBegin=28519|AlignEnd=28805|Gloss=.|nWord=38
+49	.	_	PUNCT	_	_	_	_	_	AlignBegin=28519|AlignEnd=28805|Gloss=.|nWord=38
 
 # sent_id = SAB-TXT-CO-00000-11_7-7
 # speaker_id = @11
@@ -65,6 +65,6 @@
 # text_en = (I) eat (it).
 # text_ortho = gute .
 1	gut	gut	VERB	_	_	2	comp:aux/m	_	AlignBegin=28825|AlignEnd=29053|GE=eat|Gloss=eat|nWord=1|RX=[VT]
-2	-e		AUX	_	_	0	root	_	AlignBegin=29053|AlignEnd=29280|GE=[THM]|Gloss=-THM|nWord=1|RX=[V:ANY]
-3	.		PUNCT	_	_	2	punct	_	AlignBegin=29280|AlignEnd=29735|Gloss=.|nWord=2
+2	-e	_	AUX	_	_	0	root	_	AlignBegin=29053|AlignEnd=29280|GE=[THM]|Gloss=-THM|nWord=1|RX=[V:ANY]
+3	.	_	PUNCT	_	_	2	punct	_	AlignBegin=29280|AlignEnd=29735|Gloss=.|nWord=2
 

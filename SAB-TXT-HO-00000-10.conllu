@@ -8,13 +8,13 @@
 # text_ortho = cha nienua me kle u dodade .
 1	cha	cha	PRON	_	_	2	udep:poss	_	AlignBegin=5600|AlignEnd=6153|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	nienu	nienu	NOUN	_	_	3	comp:aux/m	_	AlignBegin=6153|AlignEnd=6429|GE=father|Gloss=father|nWord=2|RX=[N]
-3	-a		AUX	_	_	7	subj	_	AlignBegin=6429|AlignEnd=6706|GE=[POSS]|Gloss=-POSS|nWord=2|RX=[N:ANY]
+3	-a	_	AUX	_	_	7	subj	_	AlignBegin=6429|AlignEnd=6706|GE=[POSS]|Gloss=-POSS|nWord=2|RX=[N:ANY]
 4	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=6706|AlignEnd=7259|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 5	kle	kle	AUX	_	_	4	comp:aux	_	AlignBegin=7259|AlignEnd=7812|GE=be|Gloss=be|nWord=4|RX=[V]
 6	u	u	NOUN	_	_	7	comp:obj	_	AlignBegin=7812|AlignEnd=8365|GE=house|Gloss=house|nWord=5|RX=[N]
 7	dodad	dodad	VERB	_	_	8	comp:aux/m	_	AlignBegin=8365|AlignEnd=8641|GE=make|Gloss=make|nWord=6|RX=[VT]
-8	-e		AUX	_	_	5	comp:aux	_	AlignBegin=8641|AlignEnd=8918|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
-9	.		PUNCT	_	_	4	punct	_	AlignBegin=8918|AlignEnd=9470|Gloss=.|nWord=7
+8	-e	_	AUX	_	_	5	comp:aux	_	AlignBegin=8641|AlignEnd=8918|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
+9	.	_	PUNCT	_	_	4	punct	_	AlignBegin=8918|AlignEnd=9470|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-HO-00000-10_02-02
 # speaker_id = @10
@@ -30,7 +30,7 @@
 4	tengkle	tengkle	ADV	_	_	_	_	_	AlignBegin=11078|AlignEnd=11554|GE=through|Gloss=through|nWord=4|RX=[ADV]
 5	tiung	tieng	VERB	_	_	_	_	_	AlignBegin=11554|AlignEnd=12030|GE=[see].[PST]|Gloss=see.PST|nWord=5|RX=[V]
 6	nante	nante	ADP	_	_	_	_	_	AlignBegin=12030|AlignEnd=12506|GE=directional|Gloss=directional|nWord=6|RX=[ADP]
-7	.		PUNCT	_	_	_	_	_	AlignBegin=12506|AlignEnd=12980|Gloss=.|nWord=7
+7	.	_	PUNCT	_	_	_	_	_	AlignBegin=12506|AlignEnd=12980|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-HO-00000-10_03-03
 # speaker_id = @10
@@ -44,8 +44,8 @@
 2	kle	kle	AUX	_	_	0	root	_	AlignBegin=13522|AlignEnd=13854|GE=be|Gloss=be|nWord=2|RX=[V]
 3	u	u	NOUN	_	_	4	comp:obj	_	AlignBegin=13854|AlignEnd=14186|GE=house|Gloss=house|nWord=3|RX=[N]
 4	dodad	dodad	VERB	_	_	5	comp:aux/m	_	AlignBegin=14186|AlignEnd=14352|GE=make|Gloss=make|nWord=4|RX=[VT]
-5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=14352|AlignEnd=14518|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
-6	.		PUNCT	_	_	2	punct	_	AlignBegin=14518|AlignEnd=14850|Gloss=.|nWord=5
+5	-e	_	AUX	_	_	2	comp:aux	_	AlignBegin=14352|AlignEnd=14518|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+6	.	_	PUNCT	_	_	2	punct	_	AlignBegin=14518|AlignEnd=14850|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-HO-00000-10_04-04
 # speaker_id = @10
@@ -59,9 +59,9 @@
 2	kle	kle	AUX	_	_	0	root	_	AlignBegin=15672|AlignEnd=16034|GE=be|Gloss=be|nWord=2|RX=[V]
 3	skira	skira	NOUN	_	_	4	comp:obj	_	AlignBegin=16034|AlignEnd=16396|GE=tree_type|Gloss=tree_type|nWord=3|RX=[N]
 4	bek	bek	VERB	_	_	5	comp:aux/m	_	AlignBegin=16396|AlignEnd=16577|GE=put|Gloss=put|nWord=4|RX=[V]
-5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=16577|AlignEnd=16758|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+5	-e	_	AUX	_	_	2	comp:aux	_	AlignBegin=16577|AlignEnd=16758|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 6	honinke	honinke	ADV	_	_	_	_	_	AlignBegin=16758|AlignEnd=17120|GE=first|Gloss=first|nWord=5|RX=[ADV]
-7	.		PUNCT	_	_	2	punct	_	AlignBegin=17120|AlignEnd=17480|Gloss=.|nWord=6
+7	.	_	PUNCT	_	_	2	punct	_	AlignBegin=17120|AlignEnd=17480|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-HO-00000-10_05-05
 # speaker_id = @10
@@ -76,11 +76,11 @@
 3	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=18256|AlignEnd=18629|GE=up|Gloss=up|nWord=3|RX=[ADV]
 4	sing	sing	NOUN	_	_	_	_	_	AlignBegin=18629|AlignEnd=19002|GE=nose|Gloss=nose|nWord=4|RX=[N]
 5	luk	luk	VERB	_	_	6	comp:aux/m	_	AlignBegin=19002|AlignEnd=19188|GE=link|Gloss=link|nWord=5|RX=[VT]
-6	-a		AUX	_	_	7	comp:aux@pass	_	AlignBegin=19188|AlignEnd=19375|GE=[PASS]|Gloss=-PASS|nWord=5|RX=[V:ANY]
+6	-a	_	AUX	_	_	7	comp:aux@pass	_	AlignBegin=19188|AlignEnd=19375|GE=[PASS]|Gloss=-PASS|nWord=5|RX=[V:ANY]
 7	be	be	AUX	_	_	0	root	_	AlignBegin=19375|AlignEnd=19748|GE=[FUT]|Gloss=FUT|nWord=6|RX=[VERBPRT]
 8	daba	daba	NOUN	_	_	9	comp	_	AlignBegin=19748|AlignEnd=20121|GE=brother|Gloss=brother|nWord=7|RX=[N]
 9	dike	dike	ADP	_	_	5	comp:obl	_	AlignBegin=20121|AlignEnd=20494|GE=[INST]|Gloss=INST|nWord=8|RX=[ADP]
-10	.		PUNCT	_	_	7	punct	_	AlignBegin=20494|AlignEnd=20870|Gloss=.|nWord=9
+10	.	_	PUNCT	_	_	7	punct	_	AlignBegin=20494|AlignEnd=20870|Gloss=.|nWord=9
 
 # sent_id = SAB-TXT-HO-00000-10_06-06
 # speaker_id = @10
@@ -95,7 +95,7 @@
 3	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=22560|AlignEnd=23100|GE=so|Gloss=so|Lang=es|nWord=3|RX=[ADV]
 4	gigata	gigata	NOUN	_	_	_	_	_	AlignBegin=23100|AlignEnd=23640|GE=tree_type|Gloss=tree_type|nWord=4|RX=[N]
 5	kle	kle	AUX	_	_	_	_	_	AlignBegin=23640|AlignEnd=24180|GE=be|Gloss=be|nWord=5|RX=[V]
-6	.		PUNCT	_	_	_	_	_	AlignBegin=24180|AlignEnd=24720|Gloss=.|nWord=6
+6	.	_	PUNCT	_	_	_	_	_	AlignBegin=24180|AlignEnd=24720|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-HO-00000-10_07-07
 # speaker_id = @10
@@ -113,7 +113,7 @@
 6	haling	haling	ADJ	_	_	_	_	_	AlignBegin=26555|AlignEnd=26898|GE=small|Gloss=small|nWord=6|RX=[ADJ]
 7	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=26898|AlignEnd=27241|GE=up|Gloss=up|nWord=7|RX=[ADV]
 8	ole	ole	ADP	_	_	_	_	_	AlignBegin=27241|AlignEnd=27584|GE=[COM]|Gloss=COM|nWord=8|RX=[ADP]
-9	.		PUNCT	_	_	_	_	_	AlignBegin=27584|AlignEnd=27930|Gloss=.|nWord=9
+9	.	_	PUNCT	_	_	_	_	_	AlignBegin=27584|AlignEnd=27930|Gloss=.|nWord=9
 
 # sent_id = SAB-TXT-HO-00000-10_08-09
 # speaker_id = @10
@@ -128,14 +128,14 @@
 3	be	be	AUX	_	_	0	root	_	AlignBegin=28946|AlignEnd=29409|GE=[FUT]|Gloss=FUT|nWord=3|RX=[VERBPRT]
 4	ugaga	ugaga	NOUN	_	_	5	comp:obj	_	AlignBegin=29409|AlignEnd=29872|GE=plant_type|Gloss=plant_type|nWord=4|RX=[N]
 5	lahing	lahing	VERB	_	_	3	comp:aux	_	AlignBegin=29872|AlignEnd=30335|GE=stack|Gloss=stack|nWord=5|RX=[V]
-6	,		PUNCT	_	_	3	punct	_	AlignBegin=30335|AlignEnd=30800|nWord=6
+6	,	_	PUNCT	_	_	3	punct	_	AlignBegin=30335|AlignEnd=30800|nWord=6
 7	hasta	hasta	SCONJ	_	Foreign=Yes	5	mod:tmod	_	AlignBegin=30825|AlignEnd=31119|GE=to|Gloss=to|Lang=es|nWord=7|RX=[ADP]
 8	ugaga	ugaga	NOUN	_	_	10	subj	_	AlignBegin=31119|AlignEnd=31413|GE=plant_type|Gloss=plant_type|nWord=8|RX=[N]
 9	be	be	AUX	_	_	7	comp	_	AlignBegin=31413|AlignEnd=31707|GE=[FUT]|Gloss=FUT|nWord=9|RX=[VERBPRT]
 10	hoke	hoke	VERB	_	_	9	comp:aux	_	AlignBegin=31707|AlignEnd=32001|GE=go|Gloss=go|nWord=10|RX=[VI]
 11	hebatre	hebatre	ADV	_	_	_	_	_	AlignBegin=32001|AlignEnd=32295|GE=height|Gloss=height|nWord=11|RX=[<NOT_SURE>]
 12	bduk	bduk	VERB	_	_	_	_	_	AlignBegin=32295|AlignEnd=32589|GE=go_up|Gloss=go_up|nWord=12|RX=[V]
-13	.		PUNCT	_	_	3	punct	_	AlignBegin=32589|AlignEnd=32885|Gloss=.|nWord=13
+13	.	_	PUNCT	_	_	3	punct	_	AlignBegin=32589|AlignEnd=32885|Gloss=.|nWord=13
 
 # sent_id = SAB-TXT-HO-00000-10_10-14
 # speaker_id = @10
@@ -149,38 +149,38 @@
 2	be	be	AUX	_	_	_	_	_	AlignBegin=33293|AlignEnd=33696|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
 3	gira	gira	NOUN	_	_	4	comp:obj	_	AlignBegin=33696|AlignEnd=34099|GE=race|Gloss=race|nWord=3|RX=[N]
 4	bek	bek	VERB	_	_	5	comp:aux/m	_	AlignBegin=34099|AlignEnd=34301|GE=put|Gloss=put|nWord=4|RX=[V]
-5	-e		AUX	_	_	2	comp:aux	_	AlignBegin=34301|AlignEnd=34502|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+5	-e	_	AUX	_	_	2	comp:aux	_	AlignBegin=34301|AlignEnd=34502|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
 6	ngania	ngania	ADV	_	_	4	mod:lmod	_	AlignBegin=34502|AlignEnd=34905|GE=up|Gloss=up|nWord=5|RX=[ADV]
-7	,		PUNCT	_	_	_	_	_	AlignBegin=34905|AlignEnd=35310|nWord=6
+7	,	_	PUNCT	_	_	_	_	_	AlignBegin=34905|AlignEnd=35310|nWord=6
 8	y	y	X	_	Foreign=Yes	11	cc	_	AlignBegin=36200|AlignEnd=36493|GE=and|Gloss=and|Lang=es|nWord=7|RX=[COORDCONN]
 9	cha	cha	PRON	_	_	11	subj	_	AlignBegin=36493|AlignEnd=36786|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
 10	kle	kle	AUX	_	_	2	conj:coord	_	AlignBegin=36786|AlignEnd=37079|GE=be|Gloss=be|nWord=9|RX=[V]
 11	gwagat	gwagat	VERB	_	_	12	comp:aux/m	_	AlignBegin=37079|AlignEnd=37225|GE=prepare|Gloss=prepare|nWord=10|RX=[VT]
-12	-e		AUX	_	_	10	comp:aux	_	AlignBegin=37225|AlignEnd=37372|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
+12	-e	_	AUX	_	_	10	comp:aux	_	AlignBegin=37225|AlignEnd=37372|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
 13	no	no	ADV	_	_	12	mod	_	AlignBegin=37372|AlignEnd=37665|GE=well|Gloss=well|nWord=11|RX=[ADV]
-14	,		PUNCT	_	_	_	_	_	AlignBegin=37665|AlignEnd=37960|nWord=12
+14	,	_	PUNCT	_	_	_	_	_	AlignBegin=37665|AlignEnd=37960|nWord=12
 15	para	para	SCONJ	_	Foreign=Yes	11	mod:purp	_	AlignBegin=37980|AlignEnd=38253|GE=for|Gloss=for|Lang=es|nWord=13|RX=[ADP]
 16	que	que	X	_	Foreign=Yes	15	compound	_	AlignBegin=38253|AlignEnd=38526|GE=that|Gloss=that|Lang=es|nWord=14|RX=[PRO]
 17	no	no	PART	_	_	18	det	_	AlignBegin=38526|AlignEnd=38799|GE=[NEG]|Gloss=NEG|nWord=15|RX=[VERBPRT]
 18	chi	chi	NOUN	_	_	19	subj	_	AlignBegin=38799|AlignEnd=39072|GE=water|Gloss=water|nWord=16|RX=[N]
 19	chek	chek	VERB	_	_	20	comp:aux/m	_	AlignBegin=39072|AlignEnd=39208|GE=stay|Gloss=stay|nWord=17|RX=[VI]
-20	-e		AUX	_	_	15	comp	_	AlignBegin=39208|AlignEnd=39345|GE=[THM]|Gloss=-THM|nWord=17|RX=[V:ANY]
-21	,		PUNCT	_	_	_	_	_	AlignBegin=39345|AlignEnd=39620|nWord=18
+20	-e	_	AUX	_	_	15	comp	_	AlignBegin=39208|AlignEnd=39345|GE=[THM]|Gloss=-THM|nWord=17|RX=[V:ANY]
+21	,	_	PUNCT	_	_	_	_	_	AlignBegin=39345|AlignEnd=39620|nWord=18
 22	sino	sino	X	_	_	24	cc	_	AlignBegin=39620|AlignEnd=39974|GE=otherwise|Gloss=otherwise|nWord=19|RX=[CONN]
 23	kle	kle	AUX	_	_	20	conj:coord	_	AlignBegin=39974|AlignEnd=40328|GE=be|Gloss=be|nWord=20|RX=[V]
 24	chek	chek	VERB	_	_	25	comp:aux/m	_	AlignBegin=40328|AlignEnd=40505|GE=stay|Gloss=stay|nWord=21|RX=[VI]
-25	-e		AUX	_	_	23	comp:aux	_	AlignBegin=40505|AlignEnd=40682|GE=[THM]|Gloss=-THM|nWord=21|RX=[V:ANY]
+25	-e	_	AUX	_	_	23	comp:aux	_	AlignBegin=40505|AlignEnd=40682|GE=[THM]|Gloss=-THM|nWord=21|RX=[V:ANY]
 26	trate	trate	ADJ	_	_	24	comp:pred	_	AlignBegin=40682|AlignEnd=41036|GE=clean|Gloss=clean|nWord=22|RX=[ADJ]
-27	,		PUNCT	_	_	_	_	_	AlignBegin=41036|AlignEnd=41390|nWord=23
+27	,	_	PUNCT	_	_	_	_	_	AlignBegin=41036|AlignEnd=41390|nWord=23
 28	hasta	hasta	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=41810|AlignEnd=42146|GE=to|Gloss=to|Lang=es|nWord=24|RX=[ADP]
 29	kle	kle	AUX	_	_	28	comp	_	AlignBegin=42146|AlignEnd=42482|GE=be|Gloss=be|nWord=25|RX=[V]
 30	hoke	hoke	VERB	_	_	29	comp:aux	_	AlignBegin=42482|AlignEnd=42818|GE=go|Gloss=go|nWord=26|RX=[VI]
 31	chek	chek	VERB	_	_	32	comp:aux/m	_	AlignBegin=42818|AlignEnd=42986|GE=stay|Gloss=stay|nWord=27|RX=[VI]
-32	-e		AUX	_	_	30	compound:svc	_	AlignBegin=42986|AlignEnd=43154|GE=[THM]|Gloss=-THM|nWord=27|RX=[V:ANY]
+32	-e	_	AUX	_	_	30	compound:svc	_	AlignBegin=42986|AlignEnd=43154|GE=[THM]|Gloss=-THM|nWord=27|RX=[V:ANY]
 33	ngania	ngania	ADV	_	_	31	mod:lmod	_	AlignBegin=43154|AlignEnd=43490|GE=up|Gloss=up|nWord=28|RX=[ADV]
 34	sing	sing	NOUN	_	_	35	comp	_	AlignBegin=43490|AlignEnd=43826|GE=nose|Gloss=nose|nWord=29|RX=[N]
 35	giti	giti	ADP	_	_	31	comp:obl	_	AlignBegin=43826|AlignEnd=44162|GE=[LOC]|Gloss=LOC|nWord=30|RX=[ADP]
-36	.		PUNCT	_	_	_	_	_	AlignBegin=44162|AlignEnd=44500|Gloss=.|nWord=31
+36	.	_	PUNCT	_	_	_	_	_	AlignBegin=44162|AlignEnd=44500|Gloss=.|nWord=31
 
 # sent_id = SAB-TXT-HO-00000-10_15-15
 # speaker_id = @10
@@ -192,12 +192,12 @@
 # text_ortho = correa lukeda kle ulita .
 1	correa	correa	NOUN	_	_	_	_	_	AlignBegin=44770|AlignEnd=45072|GE=correa|Gloss=correa|nWord=1|RX=[N]
 2	luk	luk	VERB	_	_	3	comp:aux/m	_	AlignBegin=45072|AlignEnd=45148|GE=link|Gloss=link|nWord=2|RX=[VT]
-3	-e		AUX	_	_	4	comp:aux/m	_	AlignBegin=45148|AlignEnd=45224|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
-4	-d		AUX	_	_	5	comp:aux/m	_	AlignBegin=45224|AlignEnd=45300|GE=[0]|Gloss=-0-|nWord=2|RX=[VERB]|wordform=-d-
-5	-a		AUX	_	_	6	comp:aux@pass	_	AlignBegin=45300|AlignEnd=45374|GE=[PASS]|Gloss=-PASS|nWord=2|RX=[V:ANY]
+3	-e	_	AUX	_	_	4	comp:aux/m	_	AlignBegin=45148|AlignEnd=45224|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	-d	_	AUX	_	_	5	comp:aux/m	_	AlignBegin=45224|AlignEnd=45300|GE=[0]|Gloss=-0-|nWord=2|RX=[VERB]|wordform=-d-
+5	-a	_	AUX	_	_	6	comp:aux@pass	_	AlignBegin=45300|AlignEnd=45374|GE=[PASS]|Gloss=-PASS|nWord=2|RX=[V:ANY]
 6	kle	kle	AUX	_	_	_	_	_	AlignBegin=45374|AlignEnd=45676|GE=be|Gloss=be|nWord=3|RX=[V]
 7	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=45676|AlignEnd=45978|GE=all|Gloss=all|nWord=4|RX=[ADV]
-8	.		PUNCT	_	_	_	_	_	AlignBegin=45978|AlignEnd=46280|Gloss=.|nWord=5
+8	.	_	PUNCT	_	_	_	_	_	AlignBegin=45978|AlignEnd=46280|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-HO-00000-10_16-17
 # speaker_id = @10
@@ -214,15 +214,15 @@
 5	gira	gira	NOUN	_	_	7	comp:obj	_	AlignBegin=48202|AlignEnd=48655|GE=plant_type|Gloss=plant_type|nWord=5|RX=[N]
 6	na	na	ADJ	_	_	5	mod	_	AlignBegin=48655|AlignEnd=49108|GE=other|Gloss=other|nWord=6|RX=[DET]
 7	bat	bat	VERB	_	_	8	comp:aux/m	_	AlignBegin=49108|AlignEnd=49334|GE=hit|Gloss=hit|nWord=7|RX=[VT]
-8	-e		AUX	_	_	_	_	_	AlignBegin=49334|AlignEnd=49561|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
+8	-e	_	AUX	_	_	_	_	_	AlignBegin=49334|AlignEnd=49561|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
 9	tengkle	tengkle	ADV	_	_	_	_	_	AlignBegin=49561|AlignEnd=50014|GE=through|Gloss=through|nWord=8|RX=[ADV]
-10	,		PUNCT	_	_	_	_	_	AlignBegin=50014|AlignEnd=50470|nWord=9
+10	,	_	PUNCT	_	_	_	_	_	AlignBegin=50014|AlignEnd=50470|nWord=9
 11	hasta	hasta	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=50500|AlignEnd=50752|GE=to|Gloss=to|Lang=es|nWord=10|RX=[ADP]
 12	kle	kle	AUX	_	_	11	comp	_	AlignBegin=50752|AlignEnd=51004|GE=be|Gloss=be|nWord=11|RX=[V]
 13	hoke	hoke	VERB	_	_	12	comp:aux	_	AlignBegin=51004|AlignEnd=51256|GE=go|Gloss=go|nWord=12|RX=[VI]
 14	sing	sing	NOUN	_	_	15	comp	_	AlignBegin=51256|AlignEnd=51508|GE=nose|Gloss=nose|nWord=13|RX=[N]
 15	giti	giti	ADP	_	_	13	comp:obl	_	AlignBegin=51508|AlignEnd=51760|GE=[LOC]|Gloss=LOC|nWord=14|RX=[ADP]
-16	.		PUNCT	_	_	_	_	_	AlignBegin=51760|AlignEnd=52010|Gloss=.|nWord=15
+16	.	_	PUNCT	_	_	_	_	_	AlignBegin=51760|AlignEnd=52010|Gloss=.|nWord=15
 
 # sent_id = SAB-TXT-HO-00000-10_18-19
 # speaker_id = @10
@@ -234,19 +234,19 @@
 # text_ortho = kle cheke no unglesing , sing tke ulita cha kle gwagate .
 1	kle	kle	AUX	_	_	_	_	_	AlignBegin=52110|AlignEnd=52532|GE=be|Gloss=be|nWord=1|RX=[V]
 2	chek	chek	VERB	_	_	3	comp:aux/m	_	AlignBegin=52532|AlignEnd=52743|GE=stay|Gloss=stay|nWord=2|RX=[VI]
-3	-e		AUX	_	_	1	comp:aux	_	AlignBegin=52743|AlignEnd=52954|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+3	-e	_	AUX	_	_	1	comp:aux	_	AlignBegin=52743|AlignEnd=52954|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
 4	no	no	PART	_	_	_	_	_	AlignBegin=52954|AlignEnd=53376|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 5	unglesing	unglesing	ADJ	_	_	_	_	_	AlignBegin=53376|AlignEnd=53798|GE=dry|Gloss=dry|nWord=4|RX=[ADJ]
-6	,		PUNCT	_	_	_	_	_	AlignBegin=53798|AlignEnd=54220|nWord=5
+6	,	_	PUNCT	_	_	_	_	_	AlignBegin=53798|AlignEnd=54220|nWord=5
 7	sing	sing	NOUN	_	_	_	_	_	AlignBegin=54230|AlignEnd=54521|GE=nose|Gloss=nose|nWord=6|RX=[N]
 8	tk	tk	VERB	_	_	9	comp:aux/m	_	AlignBegin=54521|AlignEnd=54667|GE=put|Gloss=put|nWord=7|RX=[VT]
-9	-e		AUX	_	_	_	_	_	AlignBegin=54667|AlignEnd=54812|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
+9	-e	_	AUX	_	_	_	_	_	AlignBegin=54667|AlignEnd=54812|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
 10	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=54812|AlignEnd=55103|GE=all|Gloss=all|nWord=8|RX=[ADV]
 11	cha	cha	PRON	_	_	13	subj	_	AlignBegin=55103|AlignEnd=55394|GE=[1SG]|Gloss=1SG|nWord=9|RX=[PRO]
 12	kle	kle	AUX	_	_	_	_	_	AlignBegin=55394|AlignEnd=55685|GE=be|Gloss=be|nWord=10|RX=[V]
 13	gwagat	gwagat	VERB	_	_	14	comp:aux/m	_	AlignBegin=55685|AlignEnd=55831|GE=prepare|Gloss=prepare|nWord=11|RX=[VT]
-14	-e		AUX	_	_	12	comp:aux	_	AlignBegin=55831|AlignEnd=55976|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
-15	.		PUNCT	_	_	_	_	_	AlignBegin=55976|AlignEnd=56270|Gloss=.|nWord=12
+14	-e	_	AUX	_	_	12	comp:aux	_	AlignBegin=55831|AlignEnd=55976|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
+15	.	_	PUNCT	_	_	_	_	_	AlignBegin=55976|AlignEnd=56270|Gloss=.|nWord=12
 
 # sent_id = SAB-TXT-HO-00000-10_20-20
 # speaker_id = @10
@@ -259,12 +259,12 @@
 1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=56450|AlignEnd=56653|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
 2	cha	cha	PRON	_	_	3	udep:poss	_	AlignBegin=56653|AlignEnd=56856|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	nienu	nienu	NOUN	_	_	4	comp:aux/m	_	AlignBegin=56856|AlignEnd=56958|GE=father|Gloss=father|nWord=3|RX=[N]
-4	-a		AUX	_	_	7	subj	_	AlignBegin=56958|AlignEnd=57059|GE=[POSS]|Gloss=-POSS|nWord=3|RX=[N:ANY]
+4	-a	_	AUX	_	_	7	subj	_	AlignBegin=56958|AlignEnd=57059|GE=[POSS]|Gloss=-POSS|nWord=3|RX=[N:ANY]
 5	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=57059|AlignEnd=57262|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
 6	kle	kle	AUX	_	_	5	comp:aux	_	AlignBegin=57262|AlignEnd=57465|GE=be|Gloss=be|nWord=5|RX=[V]
 7	gwagat	gwagat	VERB	_	_	8	comp:aux/m	_	AlignBegin=57465|AlignEnd=57567|GE=prepare|Gloss=prepare|nWord=6|RX=[VT]
-8	-e		AUX	_	_	6	comp:aux	_	AlignBegin=57567|AlignEnd=57668|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
-9	.		PUNCT	_	_	5	punct	_	AlignBegin=57668|AlignEnd=57870|Gloss=.|nWord=7
+8	-e	_	AUX	_	_	6	comp:aux	_	AlignBegin=57567|AlignEnd=57668|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
+9	.	_	PUNCT	_	_	5	punct	_	AlignBegin=57668|AlignEnd=57870|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-HO-00000-10_21-21
 # speaker_id = @10
@@ -279,8 +279,8 @@
 3	tieng	tieng	VERB	_	_	_	_	_	AlignBegin=58405|AlignEnd=58670|GE=[see].[NPST]|Gloss=see.NPST|nWord=3|RX=[V]
 4	tengkle	tengkle	ADV	_	_	_	_	_	AlignBegin=58670|AlignEnd=58935|GE=through|Gloss=through|nWord=4|RX=[ADV]
 5	gwagat	gwagat	VERB	_	_	6	comp:aux/m	_	AlignBegin=58935|AlignEnd=59067|GE=prepare|Gloss=prepare|nWord=5|RX=[VT]
-6	-e		AUX	_	_	_	_	_	AlignBegin=59067|AlignEnd=59200|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
-7	.		PUNCT	_	_	_	_	_	AlignBegin=59200|AlignEnd=59465|Gloss=.|nWord=6
+6	-e	_	AUX	_	_	_	_	_	AlignBegin=59067|AlignEnd=59200|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	.	_	PUNCT	_	_	_	_	_	AlignBegin=59200|AlignEnd=59465|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-HO-00000-10_22-22
 # speaker_id = @10
@@ -292,10 +292,10 @@
 # text_ortho = kle cheke no ulita .
 1	kle	kle	AUX	_	_	0	root	_	AlignBegin=60120|AlignEnd=60466|GE=be|Gloss=be|nWord=1|RX=[V]
 2	chek	chek	VERB	_	_	3	comp:aux/m	_	AlignBegin=60466|AlignEnd=60639|GE=end|Gloss=end|nWord=2|RX=[VI]
-3	-e		AUX	_	_	1	comp:aux	_	AlignBegin=60639|AlignEnd=60812|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+3	-e	_	AUX	_	_	1	comp:aux	_	AlignBegin=60639|AlignEnd=60812|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
 4	no	no	ADJ	_	_	2	comp:pred	_	AlignBegin=60812|AlignEnd=61158|GE=good|Gloss=good|nWord=3|RX=[ADJ]
 5	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=61158|AlignEnd=61504|GE=all|Gloss=all|nWord=4|RX=[ADV]
-6	.		PUNCT	_	_	1	punct	_	AlignBegin=61504|AlignEnd=61850|Gloss=.|nWord=5
+6	.	_	PUNCT	_	_	1	punct	_	AlignBegin=61504|AlignEnd=61850|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-HO-00000-10_23-23
 # speaker_id = @10
@@ -308,7 +308,7 @@
 1	cha	cha	PRON	_	_	_	_	_	AlignBegin=62320|AlignEnd=62710|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	haling	haling	ADJ	_	_	1	mod	_	AlignBegin=62710|AlignEnd=63100|GE=small|Gloss=small|nWord=2|RX=[ADJ]
 3	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=63100|AlignEnd=63490|GE=all|Gloss=all|nWord=3|RX=[ADV]
-4	.		PUNCT	_	_	_	_	_	AlignBegin=63490|AlignEnd=63880|Gloss=.|nWord=4
+4	.	_	PUNCT	_	_	_	_	_	AlignBegin=63490|AlignEnd=63880|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-HO-00000-10_24-24
 # speaker_id = @10
@@ -324,7 +324,7 @@
 4	cha	cha	PRON	_	_	_	_	_	AlignBegin=68296|AlignEnd=68583|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
 5	kle	kle	AUX	_	_	_	_	_	AlignBegin=68583|AlignEnd=68870|GE=be|Gloss=be|nWord=5|RX=[V]
 6	giti	giti	ADV	_	_	_	_	_	AlignBegin=68870|AlignEnd=69157|GE=here|Gloss=here|nWord=6|RX=[ADV]
-7	.		PUNCT	_	_	_	_	_	AlignBegin=69157|AlignEnd=69445|Gloss=.|nWord=7
+7	.	_	PUNCT	_	_	_	_	_	AlignBegin=69157|AlignEnd=69445|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-HO-00000-10_25-26
 # speaker_id = @10
@@ -337,11 +337,11 @@
 1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=69445|AlignEnd=69689|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
 2	cha	cha	PRON	_	_	_	_	_	AlignBegin=69689|AlignEnd=69933|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	costumrado	costumrado	ADJ	_	_	_	_	_	AlignBegin=69933|AlignEnd=70177|GE=accustomed|Gloss=accustomed|nWord=3|RX=[ADJ]
-4	,		PUNCT	_	_	_	_	_	AlignBegin=70177|AlignEnd=70420|nWord=4
+4	,	_	PUNCT	_	_	_	_	_	AlignBegin=70177|AlignEnd=70420|nWord=4
 5	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=70420|AlignEnd=70710|GE=so|Gloss=so|Lang=es|nWord=5|RX=[ADV]
 6	dodad	dodad	VERB	_	_	7	comp:aux/m	_	AlignBegin=70710|AlignEnd=70855|GE=make|Gloss=make|nWord=6|RX=[VT]
-7	-e		AUX	_	_	_	_	_	AlignBegin=70855|AlignEnd=71000|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
-8	.		PUNCT	_	_	_	_	_	AlignBegin=71000|AlignEnd=71290|Gloss=.|nWord=7
+7	-e	_	AUX	_	_	_	_	_	AlignBegin=70855|AlignEnd=71000|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
+8	.	_	PUNCT	_	_	_	_	_	AlignBegin=71000|AlignEnd=71290|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-HO-00000-10_27-27
 # speaker_id = @10
@@ -356,9 +356,9 @@
 3	kle	kle	AUX	_	_	0	root	_	AlignBegin=71830|AlignEnd=72090|GE=be|Gloss=be|nWord=3|RX=[V]
 4	kiro	kiro	NOUN	_	_	5	comp:obj	_	AlignBegin=72090|AlignEnd=72350|GE=child|Gloss=child|nWord=4|RX=[N]
 5	tk	tk	VERB	_	_	6	comp:aux/m	_	AlignBegin=72350|AlignEnd=72480|GE=put|Gloss=put|nWord=5|RX=[VT]
-6	-e		AUX	_	_	3	comp:aux	_	AlignBegin=72480|AlignEnd=72610|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+6	-e	_	AUX	_	_	3	comp:aux	_	AlignBegin=72480|AlignEnd=72610|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
 7	tengkle	tengkle	ADV	_	_	_	_	_	AlignBegin=72610|AlignEnd=72870|GE=through|Gloss=through|nWord=6|RX=[ADV]
 8	dodad	dodad	VERB	_	_	9	comp:aux/m	_	AlignBegin=72870|AlignEnd=73000|GE=make|Gloss=make|nWord=7|RX=[VT]
-9	-e		AUX	_	_	_	_	_	AlignBegin=73000|AlignEnd=73130|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
-10	.		PUNCT	_	_	3	punct	_	AlignBegin=73130|AlignEnd=73390|Gloss=.|nWord=8
+9	-e	_	AUX	_	_	_	_	_	AlignBegin=73000|AlignEnd=73130|GE=[THM]|Gloss=-THM|nWord=7|RX=[V:ANY]
+10	.	_	PUNCT	_	_	3	punct	_	AlignBegin=73130|AlignEnd=73390|Gloss=.|nWord=8
 

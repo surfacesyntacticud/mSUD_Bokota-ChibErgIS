@@ -8,7 +8,7 @@
 # text_ortho = hong gadale aini gwa iani ba be hong gai de eni .
 1	hong	hong	NOUN	_	_	2	subj@pass	_	AlignBegin=19000|AlignEnd=19233|GE=path|Gloss=path|nWord=1|RX=[N]
 2	ga	gai	VERB	_	_	3	comp:aux/m	_	AlignBegin=19233|AlignEnd=19349|GE=pick_up|Gloss=pick_up|nWord=2|RX=[VT]
-3	-dale		AUX	_	_	_	_	_	AlignBegin=19349|AlignEnd=19466|GE=[IRR]|Gloss=-IRR|nWord=2|RX=[V:ANY]
+3	-dale	_	AUX	_	_	_	_	_	AlignBegin=19349|AlignEnd=19466|GE=[IRR]|Gloss=-IRR|nWord=2|RX=[V:ANY]
 4	aini	aini	ADV	_	_	_	_	_	AlignBegin=19466|AlignEnd=19699|GE=here|Gloss=here|nWord=3|RX=[ADV]
 5	gwa	gwa	NOUN	_	_	_	_	_	AlignBegin=19699|AlignEnd=19932|GE=hill|Gloss=hill|nWord=4|RX=[N]
 6	iani	iani	ADV	_	_	_	_	_	AlignBegin=19932|AlignEnd=20165|GE=there|Gloss=there|nWord=5|RX=[ADV]
@@ -18,7 +18,7 @@
 10	gai	gai	VERB	_	_	8	comp:aux	_	AlignBegin=20864|AlignEnd=21097|GE=pick_up|Gloss=pick_up|nWord=9|RX=[VT]
 11	de	de	ADP	_	_	_	_	_	AlignBegin=21097|AlignEnd=21330|GE=from|Gloss=from|nWord=10|RX=[ADP]
 12	eni	eni	ADV	_	_	_	_	_	AlignBegin=21330|AlignEnd=21563|GE=there|Gloss=there|nWord=11|RX=[ADV]
-13	.		PUNCT	_	_	_	_	_	AlignBegin=21563|AlignEnd=21800|Gloss=.|nWord=12
+13	.	_	PUNCT	_	_	_	_	_	AlignBegin=21563|AlignEnd=21800|Gloss=.|nWord=12
 
 # sent_id = SAB-TXT-PA-00000-06_02-02
 # speaker_id = @06
@@ -40,7 +40,7 @@
 10	kada	kada	NOUN	_	_	11	comp:aux/m	_	AlignBegin=24608|AlignEnd=24885|GE=name|Gloss=name|nWord=10|RX=[N]
 11	kle	kle	AUX	_	_	_	_	_	AlignBegin=24885|AlignEnd=25162|GE=be|Gloss=be|nWord=11|RX=[V]
 12	Limon	Limon	PROPN	_	_	_	_	_	AlignBegin=25162|AlignEnd=25439|GE=[Limon]|Gloss=Limon|nWord=12|RX=[NPROP]
-13	.		PUNCT	_	_	_	_	_	AlignBegin=25439|AlignEnd=25715|Gloss=.|nWord=13
+13	.	_	PUNCT	_	_	_	_	_	AlignBegin=25439|AlignEnd=25715|Gloss=.|nWord=13
 
 # sent_id = SAB-TXT-PA-00000-06_03-03
 # speaker_id = @06
@@ -55,8 +55,8 @@
 3	ho	hoke	VERB	_	_	2	comp:aux	_	AlignBegin=26344|AlignEnd=26506|GE=[go].[PST]|Gloss=go.PST|nWord=3|RX=[VI]
 4	Mongoloso	Mongoloso	PROPN	_	_	5	comp:obj	_	AlignBegin=26506|AlignEnd=26668|GE=[Mongoloso]|Gloss=Mongoloso|nWord=4|RX=[NPROP]
 5	tk	tk	VERB	_	_	6	comp:aux/m	_	AlignBegin=26668|AlignEnd=26749|GE=cross|Gloss=cross|nWord=5|RX=[VT]
-6	-e		AUX	_	_	3	mod:purp	_	AlignBegin=26749|AlignEnd=26830|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
-7	.		PUNCT	_	_	2	punct	_	AlignBegin=26830|AlignEnd=26990|Gloss=.|nWord=6
+6	-e	_	AUX	_	_	3	mod:purp	_	AlignBegin=26749|AlignEnd=26830|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	.	_	PUNCT	_	_	2	punct	_	AlignBegin=26830|AlignEnd=26990|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-PA-00000-06_04-04
 # speaker_id = @06
@@ -70,7 +70,7 @@
 2	be	be	AUX	_	_	0	root	_	AlignBegin=27268|AlignEnd=27466|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
 3	hoke	hoke	VERB	_	_	2	comp:aux	_	AlignBegin=27466|AlignEnd=27664|GE=go|Gloss=go|nWord=3|RX=[VI]
 4	eni	eni	ADV	_	_	3	mod:lmod	_	AlignBegin=27664|AlignEnd=27862|GE=there|Gloss=there|nWord=4|RX=[ADV]
-5	.		PUNCT	_	_	2	punct	_	AlignBegin=27862|AlignEnd=28060|Gloss=.|nWord=5
+5	.	_	PUNCT	_	_	2	punct	_	AlignBegin=27862|AlignEnd=28060|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-PA-00000-06_05-05
 # speaker_id = @06
@@ -84,7 +84,7 @@
 2	ske	ske	ADP	_	_	_	_	_	AlignBegin=28905|AlignEnd=29107|GE=[LOC]|Gloss=LOC|nWord=2|RX=[ADP]
 3	tengkle	tengkle	ADV	_	_	_	_	_	AlignBegin=29107|AlignEnd=29310|GE=through|Gloss=through|nWord=2|RX=[ADV]
 4	eni	eni	ADV	_	_	_	_	_	AlignBegin=29310|AlignEnd=29715|GE=there|Gloss=there|nWord=3|RX=[ADV]
-5	.		PUNCT	_	_	_	_	_	AlignBegin=29715|AlignEnd=30120|Gloss=.|nWord=4
+5	.	_	PUNCT	_	_	_	_	_	AlignBegin=29715|AlignEnd=30120|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-PA-00000-06_06-06
 # speaker_id = @06
@@ -105,7 +105,7 @@
 9	be	be	AUX	_	_	0	root	_	AlignBegin=32351|AlignEnd=32649|GE=[FUT]|Gloss=FUT|nWord=8|RX=[VERBPRT]
 10	hoke	hoke	VERB	_	_	9	comp:aux	_	AlignBegin=32649|AlignEnd=32947|GE=go|Gloss=go|nWord=9|RX=[VI]
 11	iani	iani	ADV	_	_	10	mod:lmod	_	AlignBegin=32947|AlignEnd=33245|GE=there|Gloss=there|nWord=10|RX=[ADV]
-12	.		PUNCT	_	_	9	punct	_	AlignBegin=33245|AlignEnd=33545|Gloss=.|nWord=11
+12	.	_	PUNCT	_	_	9	punct	_	AlignBegin=33245|AlignEnd=33545|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-PA-00000-06_07-07
 # speaker_id = @06
@@ -121,7 +121,7 @@
 4	ba	ba	PRON	_	_	6	subj	_	AlignBegin=34457|AlignEnd=34636|GE=[2SG]|Gloss=2SG|nWord=4|RX=[PRO]
 5	be	be	AUX	_	_	0	root	_	AlignBegin=34636|AlignEnd=34815|GE=[FUT]|Gloss=FUT|nWord=5|RX=[VERBPRT]
 6	hoke	hoke	VERB	_	_	5	comp:aux	_	AlignBegin=34815|AlignEnd=34994|GE=go|Gloss=go|nWord=6|RX=[VI]
-7	.		PUNCT	_	_	5	punct	_	AlignBegin=34994|AlignEnd=35175|Gloss=.|nWord=7
+7	.	_	PUNCT	_	_	5	punct	_	AlignBegin=34994|AlignEnd=35175|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-PA-00000-06_08-08
 # speaker_id = @06
@@ -137,7 +137,7 @@
 4	ba	ba	PRON	_	_	6	subj	_	AlignBegin=35997|AlignEnd=36271|GE=[2SG]|Gloss=2SG|nWord=4|RX=[PRO]
 5	be	be	AUX	_	_	0	root	_	AlignBegin=36271|AlignEnd=36545|GE=[FUT]|Gloss=FUT|nWord=5|RX=[VERBPRT]
 6	hoke	hoke	VERB	_	_	5	comp:aux	_	AlignBegin=36545|AlignEnd=36819|GE=go|Gloss=go|nWord=6|RX=[VI]
-7	.		PUNCT	_	_	5	punct	_	AlignBegin=36819|AlignEnd=37095|Gloss=.|nWord=7
+7	.	_	PUNCT	_	_	5	punct	_	AlignBegin=36819|AlignEnd=37095|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-PA-00000-06_09-09
 # speaker_id = @06
@@ -157,7 +157,7 @@
 8	kweri	kweri	ADJ	_	_	_	_	_	AlignBegin=40495|AlignEnd=40880|GE=big|Gloss=big|nWord=8|RX=[ADJ]
 9	alla	alla	ADV	_	_	_	_	_	AlignBegin=40880|AlignEnd=41265|GE=there|Gloss=there|nWord=9|RX=[ADV]
 10	Terron	Terron	PROPN	_	_	_	_	_	AlignBegin=41265|AlignEnd=41650|GE=[Terron]|Gloss=Terron|nWord=10|RX=[NPROP]
-11	.		PUNCT	_	_	2	punct	_	AlignBegin=41650|AlignEnd=42040|Gloss=.|nWord=11
+11	.	_	PUNCT	_	_	2	punct	_	AlignBegin=41650|AlignEnd=42040|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-PA-00000-06_10-10
 # speaker_id = @06
@@ -172,7 +172,7 @@
 3	hoke	hoke	VERB	_	_	2	comp:aux	_	AlignBegin=42591|AlignEnd=42739|GE=go|Gloss=go|nWord=3|RX=[VI]
 4	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=42739|AlignEnd=42887|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
 5	honingke	honingke	ADV	_	_	_	_	_	AlignBegin=42887|AlignEnd=43035|GE=first|Gloss=first|nWord=5|RX=[ADV]
-6	.		PUNCT	_	_	2	punct	_	AlignBegin=43035|AlignEnd=43185|Gloss=.|nWord=6
+6	.	_	PUNCT	_	_	2	punct	_	AlignBegin=43035|AlignEnd=43185|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-PA-00000-06_11-11
 # speaker_id = @06
@@ -187,7 +187,7 @@
 3	hoke	hoke	VERB	_	_	2	comp:aux	_	AlignBegin=43499|AlignEnd=43656|GE=go|Gloss=go|nWord=3|RX=[VI]
 4	ngeru	ngeru	ADV	_	_	5	comp	_	AlignBegin=43656|AlignEnd=43813|GE=first|Gloss=first|nWord=4|RX=[ADJ]
 5	ke	ke	ADP	_	_	3	mod	_	AlignBegin=43813|AlignEnd=43970|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
-6	.		PUNCT	_	_	2	punct	_	AlignBegin=43970|AlignEnd=44125|Gloss=.|nWord=6
+6	.	_	PUNCT	_	_	2	punct	_	AlignBegin=43970|AlignEnd=44125|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-PA-00000-06_12-12
 # speaker_id = @06
@@ -201,7 +201,7 @@
 2	be	be	AUX	_	_	0	root	_	AlignBegin=44786|AlignEnd=45152|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
 3	irongchia	irongchia	PROPN	_	_	4	comp:obj	_	AlignBegin=45152|AlignEnd=45518|GE=[Irongchia]|Gloss=Irongchia|nWord=3|RX=[NPROP]
 4	tkenga	tkenga	VERB	_	_	2	comp:aux	_	AlignBegin=45518|AlignEnd=45884|GE=[cut].[NPST]|Gloss=cut.NPST|nWord=4|RX=[VT]
-5	.		PUNCT	_	_	2	punct	_	AlignBegin=45884|AlignEnd=46250|Gloss=.|nWord=5
+5	.	_	PUNCT	_	_	2	punct	_	AlignBegin=45884|AlignEnd=46250|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-PA-00000-06_13-13
 # speaker_id = @06
@@ -216,7 +216,7 @@
 3	nga	nga	NOUN	_	_	5	comp:obj	_	AlignBegin=48654|AlignEnd=49321|GE=village|Gloss=village|nWord=3|RX=[N]
 4	giudale	giudale	PROPN	_	_	3	mod	_	AlignBegin=49321|AlignEnd=49988|GE=giudale|Gloss=giudale|nWord=4|RX=[NPROP]
 5	tkenga	tkenga	VERB	_	_	2	comp:aux	_	AlignBegin=49988|AlignEnd=50655|GE=[cut].[NPST]|Gloss=cut.NPST|nWord=5|RX=[VT]
-6	.		PUNCT	_	_	2	punct	_	AlignBegin=50655|AlignEnd=51320|Gloss=.|nWord=6
+6	.	_	PUNCT	_	_	2	punct	_	AlignBegin=50655|AlignEnd=51320|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-PA-00000-06_14-14
 # speaker_id = @06
@@ -229,7 +229,7 @@
 1	ba	ba	PRON	_	_	3	subj	_	AlignBegin=52225|AlignEnd=52395|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
 2	be	be	AUX	_	_	0	root	_	AlignBegin=52395|AlignEnd=52565|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
 3	hoke	hoke	VERB	_	_	2	comp:aux	_	AlignBegin=52565|AlignEnd=52735|GE=go|Gloss=go|nWord=3|RX=[VI]
-4	.		PUNCT	_	_	2	punct	_	AlignBegin=52735|AlignEnd=52905|Gloss=.|nWord=4
+4	.	_	PUNCT	_	_	2	punct	_	AlignBegin=52735|AlignEnd=52905|Gloss=.|nWord=4
 
 # sent_id = SAB-TXT-PA-00000-06_15-15
 # speaker_id = @06
@@ -242,11 +242,11 @@
 1	ba	ba	PRON	_	_	3	subj	_	AlignBegin=52940|AlignEnd=53373|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
 2	be	be	AUX	_	_	0	root	_	AlignBegin=53373|AlignEnd=53806|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
 3	ho	hoke	VERB	_	_	4	comp:aux/m	_	AlignBegin=53806|AlignEnd=54022|GE=[go].[PST]|Gloss=go.PST|nWord=3|RX=[VI]
-4	-ni		AUX	_	_	2	comp:aux	_	AlignBegin=54022|AlignEnd=54239|GE=[IT]|Gloss=-IT|nWord=3|RX=[V:ANY]
+4	-ni	_	AUX	_	_	2	comp:aux	_	AlignBegin=54022|AlignEnd=54239|GE=[IT]|Gloss=-IT|nWord=3|RX=[V:ANY]
 5	gda	gda	NUM	_	_	6	clf	_	AlignBegin=54239|AlignEnd=54455|GE=cl|Gloss=cl|nWord=4|RX=[NUM]
 6	ite	ite	NUM	_	_	3	mod	_	AlignBegin=54455|AlignEnd=54672|GE=one|Gloss=one|nWord=4|RX=[NUM]
 7	iani	iani	ADV	_	_	3	mod:lmod	_	AlignBegin=54672|AlignEnd=55105|GE=there|Gloss=there|nWord=5|RX=[ADV]
-8	.		PUNCT	_	_	2	punct	_	AlignBegin=55105|AlignEnd=55540|Gloss=.|nWord=6
+8	.	_	PUNCT	_	_	2	punct	_	AlignBegin=55105|AlignEnd=55540|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-PA-00000-06_16-16
 # speaker_id = @06
@@ -262,7 +262,7 @@
 4	be	be	AUX	_	_	0	root	_	AlignBegin=57454|AlignEnd=57717|GE=[FUT]|Gloss=FUT|nWord=4|RX=[VERBPRT]
 5	budachia	budachia	PROPN	_	_	6	comp:obj	_	AlignBegin=57717|AlignEnd=57980|GE=budachia|Gloss=budachia|nWord=5|RX=[NPROP]
 6	tkenga	tkenga	VERB	_	_	4	comp:aux	_	AlignBegin=57980|AlignEnd=58243|GE=[cut].[NPST]|Gloss=cut.NPST|nWord=6|RX=[VT]
-7	.		PUNCT	_	_	4	punct	_	AlignBegin=58243|AlignEnd=58505|Gloss=.|nWord=7
+7	.	_	PUNCT	_	_	4	punct	_	AlignBegin=58243|AlignEnd=58505|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-PA-00000-06_17-17
 # speaker_id = @06
@@ -278,7 +278,7 @@
 4	gda	gda	NUM	_	_	5	clf	_	AlignBegin=59502|AlignEnd=59624|GE=cl|Gloss=cl|nWord=4|RX=[NUM]
 5	ite	ite	NUM	_	_	3	mod:num	_	AlignBegin=59624|AlignEnd=59746|GE=one|Gloss=one|nWord=4|RX=[NUM]
 6	tkenga	tkenga	VERB	_	_	2	comp:aux	_	AlignBegin=59746|AlignEnd=59990|GE=[cut].[NPST]|Gloss=cut.NPST|nWord=5|RX=[VT]
-7	.		PUNCT	_	_	2	punct	_	AlignBegin=59990|AlignEnd=60235|Gloss=.|nWord=6
+7	.	_	PUNCT	_	_	2	punct	_	AlignBegin=59990|AlignEnd=60235|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-PA-00000-06_18-18
 # speaker_id = @06
@@ -294,10 +294,10 @@
 4	ta	ta	ADP	_	_	3	mod	_	AlignBegin=60997|AlignEnd=61251|GE=to|Gloss=to|nWord=4|RX=[ADP]
 5	be	be	AUX	_	_	4	comp	_	AlignBegin=61251|AlignEnd=61505|GE=[FUT]|Gloss=FUT|nWord=5|RX=[VERBPRT]
 6	chk	chk	VERB	_	_	7	comp:aux/m	_	AlignBegin=61505|AlignEnd=61632|GE=arrive|Gloss=arrive|nWord=6|RX=[VI]
-7	-e		AUX	_	_	5	comp:aux	_	AlignBegin=61632|AlignEnd=61759|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
+7	-e	_	AUX	_	_	5	comp:aux	_	AlignBegin=61632|AlignEnd=61759|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 8	Hatogwada	Hatogwada	PROPN	_	_	9	comp	_	AlignBegin=61759|AlignEnd=62013|GE=[Hatogwada]|Gloss=Hatogwada|nWord=7|RX=[NPROP]
 9	giti	giti	ADP	_	_	6	comp:obl	_	AlignBegin=62013|AlignEnd=62267|GE=[LOC]|Gloss=LOC|nWord=8|RX=[ADP]
-10	.		PUNCT	_	_	2	punct	_	AlignBegin=62267|AlignEnd=62525|Gloss=.|nWord=9
+10	.	_	PUNCT	_	_	2	punct	_	AlignBegin=62267|AlignEnd=62525|Gloss=.|nWord=9
 
 # sent_id = SAB-TXT-PA-00000-06_19-19
 # speaker_id = @06
@@ -312,7 +312,7 @@
 3	nga	nga	NOUN	_	_	_	_	_	AlignBegin=63220|AlignEnd=63560|GE=village|Gloss=village|nWord=3|RX=[N]
 4	fuicho	fuicho	NOUN	_	_	_	_	_	AlignBegin=63560|AlignEnd=63900|GE=hill|Gloss=hill|nWord=4|RX=[N]
 5	gwagdale	gwagdale	_	_	_	_	_	_	AlignBegin=63900|AlignEnd=64240|nWord=5
-6	.		PUNCT	_	_	_	_	_	AlignBegin=64240|AlignEnd=64580|Gloss=.|nWord=6
+6	.	_	PUNCT	_	_	_	_	_	AlignBegin=64240|AlignEnd=64580|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-PA-00000-06_20-20
 # speaker_id = @06
@@ -328,7 +328,7 @@
 4	fuicho	fuicho	NOUN	_	_	6	comp	_	AlignBegin=65123|AlignEnd=65294|GE=hill|Gloss=hill|nWord=4|RX=[N]
 5	ese	ese	DET	_	_	4	det	_	AlignBegin=65294|AlignEnd=65465|GE=that|Gloss=that|nWord=5|RX=[DET]
 6	hegwale	hegwale	ADP	_	_	3	comp:obl	_	AlignBegin=65465|AlignEnd=65636|GE=next_to|Gloss=next_to|nWord=6|RX=[ADP]
-7	.		PUNCT	_	_	2	punct	_	AlignBegin=65636|AlignEnd=65810|Gloss=.|nWord=7
+7	.	_	PUNCT	_	_	2	punct	_	AlignBegin=65636|AlignEnd=65810|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-PA-00000-06_21-21
 # speaker_id = @06
@@ -339,7 +339,7 @@
 # text_en = Down there.
 # text_ortho = hiongku .
 1	hiongku	hiongku	ADV	_	_	_	_	_	AlignBegin=65850|AlignEnd=66155|GE=far.prox.down|Gloss=far.prox.down|nWord=1|RX=[ADV]
-2	.		PUNCT	_	_	_	_	_	AlignBegin=66155|AlignEnd=66460|Gloss=.|nWord=2
+2	.	_	PUNCT	_	_	_	_	_	AlignBegin=66155|AlignEnd=66460|Gloss=.|nWord=2
 
 # sent_id = SAB-TXT-PA-00000-06_22-22
 # speaker_id = @06
@@ -352,11 +352,11 @@
 1	hasta	hasta	ADP	_	Foreign=Yes	0	root	_	AlignBegin=67230|AlignEnd=67590|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
 2	hoke	hoke	VERB	_	_	1	comp	_	AlignBegin=67590|AlignEnd=67950|GE=go|Gloss=go|nWord=2|RX=[VI]
 3	chk	chk	VERB	_	_	4	comp:aux/m	_	AlignBegin=67950|AlignEnd=68130|GE=arrive|Gloss=arrive|nWord=3|RX=[VI]
-4	-e		AUX	_	_	2	compound:svc	_	AlignBegin=68130|AlignEnd=68310|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+4	-e	_	AUX	_	_	2	compound:svc	_	AlignBegin=68130|AlignEnd=68310|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
 5	himong	himong	ADV	_	_	3	mod:lmod	_	AlignBegin=68310|AlignEnd=68670|GE=down|Gloss=down|nWord=4|RX=[ADV]
 6	Olechia	Olechia	PROPN	_	_	7	comp	_	AlignBegin=68670|AlignEnd=69030|GE=[Olechia]|Gloss=Olechia|nWord=5|RX=[NPROP]
 7	ke	ke	ADP	_	_	3	comp:obl	_	AlignBegin=69030|AlignEnd=69390|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
-8	.		PUNCT	_	_	1	punct	_	AlignBegin=69390|AlignEnd=69750|Gloss=.|nWord=7
+8	.	_	PUNCT	_	_	1	punct	_	AlignBegin=69390|AlignEnd=69750|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-PA-00000-06_23-23
 # speaker_id = @06
@@ -377,12 +377,12 @@
 9	be	be	AUX	_	_	5	conj:coord	_	AlignBegin=71648|AlignEnd=71849|GE=[FUT]|Gloss=FUT|nWord=9|RX=[VERBPRT]
 10	hoke	hoke	VERB	_	_	9	comp:aux	_	AlignBegin=71849|AlignEnd=72050|GE=go|Gloss=go|nWord=10|RX=[VI]
 11	chk	chk	VERB	_	_	12	comp:aux/m	_	AlignBegin=72050|AlignEnd=72150|GE=arrive|Gloss=arrive|nWord=11|RX=[VI]
-12	-e		AUX	_	_	10	compound:svc	_	AlignBegin=72150|AlignEnd=72251|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
+12	-e	_	AUX	_	_	10	compound:svc	_	AlignBegin=72150|AlignEnd=72251|GE=[THM]|Gloss=-THM|nWord=11|RX=[V:ANY]
 13	a	a	ADP	_	_	11	mod:lmod	_	AlignBegin=72251|AlignEnd=72452|GE=to|Gloss=to|nWord=12|RX=[ADP]
 14	la	la	DET	_	_	15	det	_	AlignBegin=72452|AlignEnd=72653|GE=the|Gloss=the|nWord=13|RX=[ART]
 15	escuela	escuela	NOUN	_	Foreign=Yes	13	comp	_	AlignBegin=72653|AlignEnd=72854|GE=school|Gloss=school|Lang=es|nWord=14|RX=[N]
 16	Guacamaya	Guacamaya	PROPN	_	_	15	mod	_	AlignBegin=72854|AlignEnd=73055|GE=[Guacamaya]|Gloss=Guacamaya|nWord=15|RX=[NPROP]
-17	.		PUNCT	_	_	5	punct	_	AlignBegin=73055|AlignEnd=73250|Gloss=.|nWord=16
+17	.	_	PUNCT	_	_	5	punct	_	AlignBegin=73055|AlignEnd=73250|Gloss=.|nWord=16
 
 # sent_id = SAB-TXT-PA-00000-06_24-24
 # speaker_id = @06
@@ -399,7 +399,7 @@
 5	la	la	DET	_	_	6	det	_	AlignBegin=74836|AlignEnd=75155|GE=the|Gloss=the|nWord=5|RX=[ART]
 6	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=75155|AlignEnd=75474|GE=school|Gloss=school|Lang=es|nWord=6|RX=[N]
 7	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=75474|AlignEnd=75793|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
-8	.		PUNCT	_	_	_	_	_	AlignBegin=75793|AlignEnd=76110|Gloss=.|nWord=8
+8	.	_	PUNCT	_	_	_	_	_	AlignBegin=75793|AlignEnd=76110|Gloss=.|nWord=8
 
 # sent_id = SAB-TXT-PA-00000-06_25-25
 # speaker_id = @06
@@ -414,10 +414,10 @@
 3	escuela	escuela	NOUN	_	Foreign=Yes	5	subj	_	AlignBegin=76872|AlignEnd=77173|GE=school|Gloss=school|Lang=es|nWord=3|RX=[N]
 4	es	es	VERB	_	Foreign=Yes	_	_	_	AlignBegin=77173|AlignEnd=77474|GE=be|Gloss=be|Lang=es|nWord=4|RX=[V]
 5	chk	chk	VERB	_	_	6	comp:aux/m	_	AlignBegin=77474|AlignEnd=77574|GE=arrive|Gloss=arrive|nWord=5|RX=[VI]
-6	-e		AUX	_	_	7	comp:aux/m	_	AlignBegin=77574|AlignEnd=77674|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
-7	-bale		AUX	_	_	_	_	_	AlignBegin=77674|AlignEnd=77775|GE=[PART]|Gloss=-PART|nWord=5|RX=[V:ANY]
+6	-e	_	AUX	_	_	7	comp:aux/m	_	AlignBegin=77574|AlignEnd=77674|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	-bale	_	AUX	_	_	_	_	_	AlignBegin=77674|AlignEnd=77775|GE=[PART]|Gloss=-PART|nWord=5|RX=[V:ANY]
 8	nengke	nengke	ADV	_	_	5	mod:tmod	_	AlignBegin=77775|AlignEnd=78076|GE=today|Gloss=today|nWord=6|RX=[ADV]
-9	.		PUNCT	_	_	_	_	_	AlignBegin=78076|AlignEnd=78380|Gloss=.|nWord=7
+9	.	_	PUNCT	_	_	_	_	_	AlignBegin=78076|AlignEnd=78380|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-PA-00000-06_26-26
 # speaker_id = @06
@@ -432,7 +432,7 @@
 3	la	la	DET	_	_	4	det	_	AlignBegin=83256|AlignEnd=83544|GE=the|Gloss=the|nWord=3|RX=[ART]
 4	escuela	escuela	NOUN	_	Foreign=Yes	_	_	_	AlignBegin=83544|AlignEnd=83832|GE=school|Gloss=school|Lang=es|nWord=4|RX=[N]
 5	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=83832|AlignEnd=84120|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
-6	.		PUNCT	_	_	_	_	_	AlignBegin=84120|AlignEnd=84410|Gloss=.|nWord=6
+6	.	_	PUNCT	_	_	_	_	_	AlignBegin=84120|AlignEnd=84410|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-PA-00000-06_27-27
 # speaker_id = @06
@@ -447,7 +447,7 @@
 3	kada	kada	NOUN	_	_	4	comp:aux/m	_	AlignBegin=85214|AlignEnd=85521|GE=name|Gloss=name|nWord=3|RX=[N]
 4	kle	kle	AUX	_	_	2	mod@relcl	_	AlignBegin=85521|AlignEnd=85828|GE=be|Gloss=be|nWord=4|RX=[V]
 5	Olechia	Olechia	PROPN	_	_	3	comp:obj	_	AlignBegin=85828|AlignEnd=86135|GE=[Olechia]|Gloss=Olechia|nWord=5|RX=[NPROP]
-6	.		PUNCT	_	_	_	_	_	AlignBegin=86135|AlignEnd=86440|Gloss=.|nWord=6
+6	.	_	PUNCT	_	_	_	_	_	AlignBegin=86135|AlignEnd=86440|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-PA-00000-06_28-28
 # speaker_id = @06
@@ -466,7 +466,7 @@
 7	kada	kada	NOUN	_	_	8	comp:aux/m	_	AlignBegin=90694|AlignEnd=91223|GE=name|Gloss=name|nWord=7|RX=[N]
 8	kle	kle	AUX	_	_	6	mod@relcl	_	AlignBegin=91223|AlignEnd=91752|GE=be|Gloss=be|nWord=8|RX=[V]
 9	Olechia	Olechia	PROPN	_	_	7	comp:obj	_	AlignBegin=91752|AlignEnd=92281|GE=[Olechia]|Gloss=Olechia|nWord=9|RX=[NPROP]
-10	.		PUNCT	_	_	_	_	_	AlignBegin=92281|AlignEnd=92810|Gloss=.|nWord=10
+10	.	_	PUNCT	_	_	_	_	_	AlignBegin=92281|AlignEnd=92810|Gloss=.|nWord=10
 
 # sent_id = SAB-TXT-PA-00000-06_29-29
 # speaker_id = @06
@@ -480,5 +480,5 @@
 2	chi	chi	NOUN	_	_	_	_	_	AlignBegin=95868|AlignEnd=96236|GE=water|Gloss=water|nWord=2|RX=[N]
 3	gda	gda	NUM	_	_	4	clf	_	AlignBegin=96236|AlignEnd=96420|GE=cl|Gloss=cl|nWord=3|RX=[NUM]
 4	ite	ite	NUM	_	_	2	mod	_	AlignBegin=96420|AlignEnd=96604|GE=one|Gloss=one|nWord=3|RX=[NUM]
-5	.		PUNCT	_	_	_	_	_	AlignBegin=96604|AlignEnd=96970|Gloss=.|nWord=4
+5	.	_	PUNCT	_	_	_	_	_	AlignBegin=96604|AlignEnd=96970|Gloss=.|nWord=4
 
