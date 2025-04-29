@@ -123,9 +123,9 @@
 # text = nga kada Klamengda Che es Olechia giti , alla che enusulia chku toi .
 # text_en = The village has the Bokota name (Klamengda) Olechia, There, our ancestor came to live.
 # text_ortho = nga kada Klamengda Che es Olechia giti , alla che enusulia chku toi .
-1	nga	nga	NOUN	_	_	_	_	_	AlignBegin=36825|AlignEnd=37247|GE=village|Gloss=village|nWord=1|RX=[N]
-2	kada	kada	NOUN	_	_	_	_	_	AlignBegin=37247|AlignEnd=37669|GE=name|Gloss=name|nWord=2|RX=[N]
-3	Klamengda	Klamengda	PROPN	_	_	_	_	_	AlignBegin=37669|AlignEnd=38091|GE=[Klamengda]|Gloss=Klamengda|nWord=3|RX=[NPROP]
+1	nga	nga	NOUN	_	_	2	subj@pass	_	AlignBegin=36825|AlignEnd=37247|GE=village|Gloss=village|nWord=1|RX=[N]
+2	kada	kada	VERB	_	_	_	_	_	AlignBegin=37247|AlignEnd=37669|GE=name|Gloss=name|nWord=2|RX=[N]
+3	Klamengda	Klamengda	PROPN	_	_	2	comp:pred	_	AlignBegin=37669|AlignEnd=38091|GE=[Klamengda]|Gloss=Klamengda|nWord=3|RX=[NPROP]
 4	Che	Che	PROPN	_	_	_	_	_	AlignBegin=38091|AlignEnd=38513|GE=[Che]|Gloss=Che|nWord=4|RX=[NPROP]
 5	es	es	VERB	_	Foreign=Yes	_	_	_	AlignBegin=38513|AlignEnd=38935|GE=be|Gloss=be|Lang=es|nWord=5|RX=[V]
 6	Olechia	Olechia	PROPN	_	_	7	comp	_	AlignBegin=38935|AlignEnd=39357|GE=[Olechia]|Gloss=Olechia|nWord=6|RX=[NPROP]
@@ -175,9 +175,9 @@
 # text = enusuli kada Ruperto Gonzales chku aini .
 # text_en = The ancestor named Ruperto Gonzales came here.
 # text_ortho = enusuli kada Ruperto Gonzales chku aini .
-1	enusuli	enusuli	NOUN	_	_	5	subj	_	AlignBegin=51450|AlignEnd=52167|GE=grandfather|Gloss=grandfather|nWord=1|RX=[N]
-2	kada	kada	NOUN	_	_	_	_	_	AlignBegin=52167|AlignEnd=52884|GE=name|Gloss=name|nWord=2|RX=[N]
-3	Ruperto	Ruperto	PROPN	_	_	_	_	_	AlignBegin=52884|AlignEnd=53601|GE=[Ruperto]|Gloss=Ruperto|nWord=3|RX=[NPROP]
+1	enusuli	enusuli	NOUN	_	_	2	subj@pass	_	AlignBegin=51450|AlignEnd=52167|GE=grandfather|Gloss=grandfather|nWord=1|RX=[N]
+2	kada	kada	VERB	_	_	5	subj	_	AlignBegin=52167|AlignEnd=52884|GE=name|Gloss=name|nWord=2|RX=[N]
+3	Ruperto	Ruperto	PROPN	_	_	2	comp:pred	_	AlignBegin=52884|AlignEnd=53601|GE=[Ruperto]|Gloss=Ruperto|nWord=3|RX=[NPROP]
 4	Gonzales	Gonzales	PROPN	_	_	3	flat	_	AlignBegin=53601|AlignEnd=54318|GE=[Gonzales]|Gloss=Gonzales|nWord=4|RX=[NPROP]
 5	chk	chk	VERB	_	_	6	comp:aux/m	_	AlignBegin=54318|AlignEnd=54676|GE=arrive|Gloss=arrive|nWord=5|RX=[VI]
 6	-u	_	AUX	_	_	0	root	_	AlignBegin=54676|AlignEnd=55035|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]

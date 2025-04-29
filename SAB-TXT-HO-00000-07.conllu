@@ -29,7 +29,7 @@
 # text_ortho = u dodakali gli giti giska giti gli nware gli tengre giska tengre .
 1	u	u	NOUN	_	_	_	_	_	AlignBegin=13230|AlignEnd=14010|GE=house|Gloss=house|nWord=1|RX=[N]
 2	doda	doda	VERB	_	_	_	_	_	AlignBegin=14010|AlignEnd=14400|GE=make|Gloss=make|nWord=2|RX=[V]
-3	kali	kali	PART	_	_	_	_	_	AlignBegin=14400|AlignEnd=14790|GE=want|Gloss=want|nWord=2|RX=[VERBPRT]
+3	-kali	kali	PART	_	_	_	_	_	AlignBegin=14400|AlignEnd=14790|GE=want|Gloss=want|nWord=2|RX=[VERBPRT]|wordform=kali
 4	gli	gli	NOUN	_	_	5	comp	_	AlignBegin=14790|AlignEnd=15570|GE=tree|Gloss=tree|nWord=3|RX=[N]
 5	giti	giti	ADP	_	_	2	comp:obl	_	AlignBegin=15570|AlignEnd=16350|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
 6	giska	giska	NOUN	_	_	7	comp	_	AlignBegin=16350|AlignEnd=17130|GE=rope|Gloss=rope|nWord=5|RX=[N]

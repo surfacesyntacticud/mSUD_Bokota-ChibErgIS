@@ -35,11 +35,11 @@
 5	eni	eni	ADV	_	_	_	_	_	AlignBegin=23223|AlignEnd=23500|GE=there|Gloss=there|nWord=5|RX=[ADV]
 6	chi	chi	NOUN	_	_	_	_	_	AlignBegin=23500|AlignEnd=23777|GE=water|Gloss=water|nWord=6|RX=[N]
 7	nga	nga	NOUN	_	_	_	_	_	AlignBegin=23777|AlignEnd=24054|GE=village|Gloss=village|nWord=7|RX=[N]
-8	kada	kada	NOUN	_	_	_	_	_	AlignBegin=24054|AlignEnd=24331|GE=name|Gloss=name|nWord=8|RX=[N]
-9	chi	chi	NOUN	_	_	_	_	_	AlignBegin=24331|AlignEnd=24608|GE=water|Gloss=water|nWord=9|RX=[N]
-10	kada	kada	NOUN	_	_	11	comp:aux/m	_	AlignBegin=24608|AlignEnd=24885|GE=name|Gloss=name|nWord=10|RX=[N]
+8	kada	kada	VERB	_	_	_	_	_	AlignBegin=24054|AlignEnd=24331|GE=name|Gloss=name|nWord=8|RX=[N]
+9	chi	chi	NOUN	_	_	10	subj@pass	_	AlignBegin=24331|AlignEnd=24608|GE=water|Gloss=water|nWord=9|RX=[N]
+10	kada	kada	VERB	_	_	11	comp:aux@pass	_	AlignBegin=24608|AlignEnd=24885|GE=name|Gloss=name|nWord=10|RX=[N]
 11	kle	kle	AUX	_	_	_	_	_	AlignBegin=24885|AlignEnd=25162|GE=be|Gloss=be|nWord=11|RX=[V]
-12	Limon	Limon	PROPN	_	_	_	_	_	AlignBegin=25162|AlignEnd=25439|GE=[Limon]|Gloss=Limon|nWord=12|RX=[NPROP]
+12	Limon	Limon	PROPN	_	_	10	comp:pred	_	AlignBegin=25162|AlignEnd=25439|GE=[Limon]|Gloss=Limon|nWord=12|RX=[NPROP]
 13	.	_	PUNCT	_	_	_	_	_	AlignBegin=25439|AlignEnd=25715|Gloss=.|nWord=13
 
 # sent_id = SAB-TXT-PA-00000-06_03-03
@@ -150,11 +150,11 @@
 1	ba	ba	PRON	_	_	3	subj	_	AlignBegin=37800|AlignEnd=38185|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
 2	be	be	AUX	_	_	0	root	_	AlignBegin=38185|AlignEnd=38570|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
 3	hoke	hoke	VERB	_	_	2	comp:aux	_	AlignBegin=38570|AlignEnd=38955|GE=go|Gloss=go|nWord=3|RX=[VI]
-4	nga	nga	NOUN	_	_	_	_	_	AlignBegin=38955|AlignEnd=39340|GE=village|Gloss=village|nWord=4|RX=[N]
-5	kada	kada	NOUN	_	_	6	comp:aux/m	_	AlignBegin=39340|AlignEnd=39725|GE=name|Gloss=name|nWord=5|RX=[N]
-6	kle	kle	AUX	_	_	_	_	_	AlignBegin=39725|AlignEnd=40110|GE=be|Gloss=be|nWord=6|RX=[V]
+4	nga	nga	NOUN	_	_	5	subj@pass	_	AlignBegin=38955|AlignEnd=39340|GE=village|Gloss=village|nWord=4|RX=[N]
+5	kada	kada	VERB	_	_	6	comp:aux@pass	_	AlignBegin=39340|AlignEnd=39725|GE=name|Gloss=name|nWord=5|RX=[N]
+6	kle	kle	AUX	_	_	3	mod:lmod	_	AlignBegin=39725|AlignEnd=40110|GE=be|Gloss=be|nWord=6|RX=[V]
 7	chi	chi	NOUN	_	_	_	_	_	AlignBegin=40110|AlignEnd=40495|GE=water|Gloss=water|nWord=7|RX=[N]
-8	kweri	kweri	ADJ	_	_	_	_	_	AlignBegin=40495|AlignEnd=40880|GE=big|Gloss=big|nWord=8|RX=[ADJ]
+8	kweri	kweri	ADJ	_	_	7	mod	_	AlignBegin=40495|AlignEnd=40880|GE=big|Gloss=big|nWord=8|RX=[ADJ]
 9	alla	alla	ADV	_	_	_	_	_	AlignBegin=40880|AlignEnd=41265|GE=there|Gloss=there|nWord=9|RX=[ADV]
 10	Terron	Terron	PROPN	_	_	_	_	_	AlignBegin=41265|AlignEnd=41650|GE=[Terron]|Gloss=Terron|nWord=10|RX=[NPROP]
 11	.	_	PUNCT	_	_	2	punct	_	AlignBegin=41650|AlignEnd=42040|Gloss=.|nWord=11
@@ -443,11 +443,11 @@
 # text_en = This village is called Oletchia.
 # text_ortho = ese nga kada kle Olechia .
 1	ese	ese	DET	_	_	2	det	_	AlignBegin=84600|AlignEnd=84907|GE=that|Gloss=that|nWord=1|RX=[DET]
-2	nga	nga	NOUN	_	_	_	_	_	AlignBegin=84907|AlignEnd=85214|GE=village|Gloss=village|nWord=2|RX=[N]
-3	kada	kada	NOUN	_	_	4	comp:aux/m	_	AlignBegin=85214|AlignEnd=85521|GE=name|Gloss=name|nWord=3|RX=[N]
-4	kle	kle	AUX	_	_	2	mod@relcl	_	AlignBegin=85521|AlignEnd=85828|GE=be|Gloss=be|nWord=4|RX=[V]
-5	Olechia	Olechia	PROPN	_	_	3	comp:obj	_	AlignBegin=85828|AlignEnd=86135|GE=[Olechia]|Gloss=Olechia|nWord=5|RX=[NPROP]
-6	.	_	PUNCT	_	_	_	_	_	AlignBegin=86135|AlignEnd=86440|Gloss=.|nWord=6
+2	nga	nga	NOUN	_	_	3	subj@pass	_	AlignBegin=84907|AlignEnd=85214|GE=village|Gloss=village|nWord=2|RX=[N]
+3	kada	kada	VERB	_	_	4	comp:aux@pass	_	AlignBegin=85214|AlignEnd=85521|GE=name|Gloss=name|nWord=3|RX=[N]
+4	kle	kle	AUX	_	_	0	root	_	AlignBegin=85521|AlignEnd=85828|GE=be|Gloss=be|nWord=4|RX=[V]
+5	Olechia	Olechia	PROPN	_	_	3	comp:pred	_	AlignBegin=85828|AlignEnd=86135|GE=[Olechia]|Gloss=Olechia|nWord=5|RX=[NPROP]
+6	.	_	PUNCT	_	_	4	punct	_	AlignBegin=86135|AlignEnd=86440|Gloss=.|nWord=6
 
 # sent_id = SAB-TXT-PA-00000-06_28-28
 # speaker_id = @06
@@ -462,10 +462,10 @@
 3	dice	dice	VERB	_	_	_	_	_	AlignBegin=88578|AlignEnd=89107|GE=say|Gloss=say|nWord=3|RX=[V]
 4	Guacamaya	Guacamaya	PROPN	_	_	_	_	_	AlignBegin=89107|AlignEnd=89636|GE=[Guacamaya]|Gloss=Guacamaya|nWord=4|RX=[NPROP]
 5	ese	ese	DET	_	_	6	det	_	AlignBegin=89636|AlignEnd=90165|GE=that|Gloss=that|nWord=5|RX=[DET]
-6	nga	nga	NOUN	_	_	_	_	_	AlignBegin=90165|AlignEnd=90694|GE=village|Gloss=village|nWord=6|RX=[N]
-7	kada	kada	NOUN	_	_	8	comp:aux/m	_	AlignBegin=90694|AlignEnd=91223|GE=name|Gloss=name|nWord=7|RX=[N]
-8	kle	kle	AUX	_	_	6	mod@relcl	_	AlignBegin=91223|AlignEnd=91752|GE=be|Gloss=be|nWord=8|RX=[V]
-9	Olechia	Olechia	PROPN	_	_	7	comp:obj	_	AlignBegin=91752|AlignEnd=92281|GE=[Olechia]|Gloss=Olechia|nWord=9|RX=[NPROP]
+6	nga	nga	NOUN	_	_	7	subj@pass	_	AlignBegin=90165|AlignEnd=90694|GE=village|Gloss=village|nWord=6|RX=[N]
+7	kada	kada	VERB	_	_	8	comp:aux@pass	_	AlignBegin=90694|AlignEnd=91223|GE=name|Gloss=name|nWord=7|RX=[N]
+8	kle	kle	AUX	_	_	_	_	_	AlignBegin=91223|AlignEnd=91752|GE=be|Gloss=be|nWord=8|RX=[V]
+9	Olechia	Olechia	PROPN	_	_	7	comp:pred	_	AlignBegin=91752|AlignEnd=92281|GE=[Olechia]|Gloss=Olechia|nWord=9|RX=[NPROP]
 10	.	_	PUNCT	_	_	_	_	_	AlignBegin=92281|AlignEnd=92810|Gloss=.|nWord=10
 
 # sent_id = SAB-TXT-PA-00000-06_29-29

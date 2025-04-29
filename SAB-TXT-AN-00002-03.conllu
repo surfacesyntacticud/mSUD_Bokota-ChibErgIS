@@ -1085,7 +1085,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00002-03.WAV/WAV/SAB-TXT-AN-00002-03.WAV
 # sent_timecode = 178080, 186500
 # morphemic_text = si gnome esta miaska , gnome esta miaska dui -le , che tiene hoke gnome glik -e , para kiro agere .
-# text = si gnome ta miaska , gnome ta miaska duile , che tiene hoke gnome glike , pa kiro agere .
+# text = si gnome esta miaska , gnome esta miaska dui -le , che tiene hoke gnome glik -e , para kiro agere .
 # text_en = If the clothes are dirty, (If) the clothes are dirty with dirt, We have to go wash the clothes. For the young kids.
 # text_ortho = si gnome ta miaska , gnome ta miaska duile , che tiene hoke gnome glike , pa kiro agere .
 1	si	si	SCONJ	_	Foreign=Yes	16	mod	_	AlignBegin=178080|AlignEnd=178476|GE=if|Gloss=if|Lang=es|nWord=1|RX=[CONN]
@@ -1100,7 +1100,7 @@
 10	-le	_	AUX	_	_	8	mod	_	AlignBegin=182048|AlignEnd=182257|GE=[ADJZ]|Gloss=-ADJZ|nWord=9|RX=[N>ADJ]
 11	,	_	PUNCT	_	_	13	punct	_	AlignBegin=182257|AlignEnd=182675|nWord=10
 12	che	che	PRON	_	_	16	subj	_	AlignBegin=182695|AlignEnd=183022|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=11|RX=[PRO]
-13	tiene	tiene	AUX	_	Foreign=Yes	0	root	_	AlignBegin=183022|AlignEnd=183349|GE=have|Gloss=have|Lang=es|nWord=12|RX=[V]
+13	tiene	tiene	AUX	_	_	0	root	_	AlignBegin=183022|AlignEnd=183349|GE=have|Gloss=have|nWord=12|RX=[V]
 14	hoke	hoke	VERB	_	_	13	comp:aux	_	AlignBegin=183349|AlignEnd=183676|GE=go|Gloss=go|nWord=13|RX=[VI]
 15	gnome	gnome	NOUN	_	_	16	comp:obj	_	AlignBegin=183676|AlignEnd=184003|GE=clothes|Gloss=clothes|nWord=14|RX=[N]
 16	glik	glik	VERB	_	_	17	comp:aux/m	_	AlignBegin=184003|AlignEnd=184167|GE=clean|Gloss=clean|nWord=15|RX=[VT]

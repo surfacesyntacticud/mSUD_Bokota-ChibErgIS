@@ -221,7 +221,7 @@
 1	che	che	PRON	_	_	2	subj	_	AlignBegin=100610|AlignEnd=100942|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
 2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=100942|AlignEnd=101108|GE=come|Gloss=come|nWord=2|RX=[VI]
 3	-u	_	AUX	_	_	0	root	_	AlignBegin=101108|AlignEnd=101274|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-4	ne	ne	DET	_	_	5	comp	_	AlignBegin=101274|AlignEnd=101606|GE=that|Gloss=that|nWord=3|RX=[DET]
+4	ne	ne	DET	_	_	5	comp:obj@scrap	_	AlignBegin=101274|AlignEnd=101606|GE=that|Gloss=that|nWord=3|RX=[DET]
 5	waninke	waninke	ADP	_	_	2	mod:lmod	_	AlignBegin=101606|AlignEnd=101938|GE=place_of|Gloss=place_of|nWord=4|RX=[ADV]
 6	.	_	PUNCT	_	_	3	punct	_	AlignBegin=101938|AlignEnd=102270|Gloss=.|nWord=5
 

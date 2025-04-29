@@ -252,9 +252,9 @@
 4	nga	nga	NOUN	_	_	3	mod:lmod	_	AlignBegin=57179|AlignEnd=57592|GE=village|Gloss=village|nWord=4|RX=[N]
 5	iani	iani	ADV	_	_	4	mod	_	AlignBegin=57592|AlignEnd=58005|GE=there|Gloss=there|nWord=5|RX=[ADV]
 6	chi	chi	NOUN	_	_	7	subj@pass	_	AlignBegin=58005|AlignEnd=58418|GE=water|Gloss=water|nWord=6|RX=[N]
-7	kada	kada	NOUN	_	_	8	comp:aux	_	AlignBegin=58418|AlignEnd=58831|GE=name|Gloss=name|nWord=7|RX=[N]
+7	kada	kada	VERB	_	_	8	comp:aux@pass	_	AlignBegin=58418|AlignEnd=58831|GE=name|Gloss=name|nWord=7|RX=[N]
 8	kle	kle	AUX	_	_	10	comp	_	AlignBegin=58831|AlignEnd=59244|GE=be|Gloss=be|nWord=8|RX=[V]
-9	Ugachia	Ugachia	NOUN	_	_	7	comp	_	AlignBegin=59244|AlignEnd=59657|GE=[Ugachia]|Gloss=Ugachia|nWord=9|RX=[N]
+9	Ugachia	Ugachia	NOUN	_	_	7	comp:pred	_	AlignBegin=59244|AlignEnd=59657|GE=[Ugachia]|Gloss=Ugachia|nWord=9|RX=[N]
 10	giti	giti	ADP	_	_	3	mod:lmod	_	AlignBegin=59657|AlignEnd=60070|GE=[LOC]|Gloss=LOC|nWord=10|RX=[ADP]
 11	.	_	PUNCT	_	_	3	punct	_	AlignBegin=60070|AlignEnd=60480|Gloss=.|nWord=11
 
@@ -641,7 +641,7 @@
 3	cha	cha	PRON	_	_	5	subj	_	AlignBegin=114353|AlignEnd=114667|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
 4	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=114667|AlignEnd=114981|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
 5	gwae	gwae	VERB	_	_	4	comp:aux	_	AlignBegin=114981|AlignEnd=115138|GE=see|Gloss=see|nWord=5|RX=[V]
-6	kali	kali	PART	_	_	_	_	_	AlignBegin=115138|AlignEnd=115295|GE=want|Gloss=want|nWord=5|RX=[VERBPRT]
+6	-kali	kali	PART	_	_	_	_	_	AlignBegin=115138|AlignEnd=115295|GE=want|Gloss=want|nWord=5|RX=[VERBPRT]|wordform=kali
 7	Wami	Wami	NOUN	_	_	8	comp	_	AlignBegin=115295|AlignEnd=115609|GE=[Guaymi]|Gloss=Guaymi|nWord=6|RX=[N]
 8	dike	dike	ADP	_	_	5	comp:obl	_	AlignBegin=115609|AlignEnd=115923|GE=[INST]|Gloss=INST|nWord=7|RX=[ADP]
 9	.	_	PUNCT	_	_	4	punct	_	AlignBegin=115923|AlignEnd=116235|Gloss=.|nWord=8
@@ -768,7 +768,7 @@
 2	cha	cha	PRON	_	_	4	subj	_	AlignBegin=133681|AlignEnd=134052|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
 3	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=134052|AlignEnd=134423|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
 4	gwae	gwae	VERB	_	_	3	comp:aux	_	AlignBegin=134423|AlignEnd=134609|GE=see|Gloss=see|nWord=4|RX=[V]
-5	kali	kali	PART	_	_	_	_	_	AlignBegin=134609|AlignEnd=134794|GE=want|Gloss=want|nWord=4|RX=[VERBPRT]
+5	-kali	kali	PART	_	_	_	_	_	AlignBegin=134609|AlignEnd=134794|GE=want|Gloss=want|nWord=4|RX=[VERBPRT]|wordform=kali
 6	Wami	Wami	NOUN	_	_	7	comp	_	AlignBegin=134794|AlignEnd=135165|GE=[Guaymi]|Gloss=Guaymi|nWord=5|RX=[N]
 7	dike	dike	ADP	_	_	4	comp:obl	_	AlignBegin=135165|AlignEnd=135536|GE=[INST]|Gloss=INST|nWord=6|RX=[ADP]
 8	ai	ai	ADV	_	_	_	_	_	AlignBegin=135536|AlignEnd=135907|GE=here|Gloss=here|nWord=7|RX=[ADV]

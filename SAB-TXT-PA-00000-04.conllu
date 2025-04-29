@@ -25,13 +25,13 @@
 # text = chi nangka honinke kada kle Mongoloso .
 # text_en = There is a first river named Mongoloso.
 # text_ortho = chi nangka honinke kada kle Mongoloso .
-1	chi	chi	NOUN	_	_	_	_	_	AlignBegin=19530|AlignEnd=20027|GE=water|Gloss=water|nWord=1|RX=[N]
+1	chi	chi	NOUN	_	_	4	subj@pass	_	AlignBegin=19530|AlignEnd=20027|GE=water|Gloss=water|nWord=1|RX=[N]
 2	nangka	nangka	ADJ	_	_	1	mod	_	AlignBegin=20027|AlignEnd=20524|GE=next|Gloss=next|nWord=2|RX=[ADJ]
-3	honinke	honinke	ADV	_	_	_	_	_	AlignBegin=20524|AlignEnd=21021|GE=first|Gloss=first|nWord=3|RX=[ADV]
-4	kada	kada	NOUN	_	_	5	comp:aux/m	_	AlignBegin=21021|AlignEnd=21518|GE=name|Gloss=name|nWord=4|RX=[N]
-5	kle	kle	AUX	_	_	1	mod@relcl	_	AlignBegin=21518|AlignEnd=22015|GE=be|Gloss=be|nWord=5|RX=[V]
-6	Mongoloso	Mongoloso	PROPN	_	_	4	comp:obj	_	AlignBegin=22015|AlignEnd=22512|GE=[Mongoloso]|Gloss=Mongoloso|nWord=6|RX=[NPROP]
-7	.	_	PUNCT	_	_	_	_	_	AlignBegin=22512|AlignEnd=23010|Gloss=.|nWord=7
+3	honinke	honinke	ADV	_	_	1	mod	_	AlignBegin=20524|AlignEnd=21021|GE=first|Gloss=first|nWord=3|RX=[ADV]
+4	kada	kada	VERB	_	_	5	comp:aux@pass	_	AlignBegin=21021|AlignEnd=21518|GE=name|Gloss=name|nWord=4|RX=[N]
+5	kle	kle	AUX	_	_	0	root	_	AlignBegin=21518|AlignEnd=22015|GE=be|Gloss=be|nWord=5|RX=[V]
+6	Mongoloso	Mongoloso	PROPN	_	_	4	comp:pred	_	AlignBegin=22015|AlignEnd=22512|GE=[Mongoloso]|Gloss=Mongoloso|nWord=6|RX=[NPROP]
+7	.	_	PUNCT	_	_	5	punct	_	AlignBegin=22512|AlignEnd=23010|Gloss=.|nWord=7
 
 # sent_id = SAB-TXT-PA-00000-04_03-03
 # speaker_id = @04
@@ -44,20 +44,20 @@
 1	de	de	ADP	_	_	_	_	_	AlignBegin=23180|AlignEnd=23652|GE=from|Gloss=from|nWord=1|RX=[ADP]
 2	ai	ai	ADV	_	_	_	_	_	AlignBegin=23652|AlignEnd=24124|GE=here|Gloss=here|nWord=2|RX=[ADV]
 3	che	che	PRON	_	_	5	subj	_	AlignBegin=24124|AlignEnd=24596|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
-4	kle	kle	AUX	_	_	_	_	_	AlignBegin=24596|AlignEnd=25068|GE=be|Gloss=be|nWord=4|RX=[V]
+4	kle	kle	AUX	_	_	0	root	_	AlignBegin=24596|AlignEnd=25068|GE=be|Gloss=be|nWord=4|RX=[V]
 5	hoke	hoke	VERB	_	_	4	comp:aux	_	AlignBegin=25068|AlignEnd=25540|GE=go|Gloss=go|nWord=5|RX=[VI]
-6	chi	chi	NOUN	_	_	_	_	_	AlignBegin=25540|AlignEnd=26012|GE=water|Gloss=water|nWord=6|RX=[N]
-7	nangka	nangka	ADJ	_	_	_	_	_	AlignBegin=26012|AlignEnd=26484|GE=next|Gloss=next|nWord=7|RX=[ADJ]
-8	fatenunga	fatenga	VERB	_	_	_	_	_	AlignBegin=26484|AlignEnd=26956|GE=[fall].[PST]|Gloss=fall.PST|nWord=8|RX=[V]
-9	chi	chi	NOUN	_	_	_	_	_	AlignBegin=26956|AlignEnd=27428|GE=water|Gloss=water|nWord=9|RX=[N]
-10	nangka	nangka	ADJ	_	_	_	_	_	AlignBegin=27428|AlignEnd=27900|GE=next|Gloss=next|nWord=10|RX=[ADJ]
+6	chi	chi	NOUN	_	_	8	subj	_	AlignBegin=25540|AlignEnd=26012|GE=water|Gloss=water|nWord=6|RX=[N]
+7	nangka	nangka	ADJ	_	_	6	mod	_	AlignBegin=26012|AlignEnd=26484|GE=next|Gloss=next|nWord=7|RX=[ADJ]
+8	fatenunga	fatenga	VERB	_	_	5	mod:lmod	_	AlignBegin=26484|AlignEnd=26956|GE=[fall].[PST]|Gloss=fall.PST|nWord=8|RX=[V]
+9	chi	chi	NOUN	_	_	13	subj@pass	_	AlignBegin=26956|AlignEnd=27428|GE=water|Gloss=water|nWord=9|RX=[N]
+10	nangka	nangka	ADJ	_	_	9	mod	_	AlignBegin=27428|AlignEnd=27900|GE=next|Gloss=next|nWord=10|RX=[ADJ]
 11	gda	gda	NUM	_	_	12	clf	_	AlignBegin=27900|AlignEnd=28136|GE=cl|Gloss=cl|nWord=11|RX=[NUM]
-12	oke	oke	NUM	_	_	_	_	_	AlignBegin=28136|AlignEnd=28372|GE=two|Gloss=two|nWord=11|RX=[NUM]
-13	kada	kada	NOUN	_	_	14	comp:aux/m	_	AlignBegin=28372|AlignEnd=28844|GE=name|Gloss=name|nWord=12|RX=[N]
-14	kle	kle	AUX	_	_	_	_	_	AlignBegin=28844|AlignEnd=29316|GE=be|Gloss=be|nWord=13|RX=[V]
-15	quebrada	quebrada	NOUN	_	_	_	_	_	AlignBegin=29316|AlignEnd=29788|GE=river|Gloss=river|nWord=14|RX=[N]
-16	Limon	Limon	PROPN	_	_	_	_	_	AlignBegin=29788|AlignEnd=30260|GE=[Limon]|Gloss=Limon|nWord=15|RX=[NPROP]
-17	.	_	PUNCT	_	_	_	_	_	AlignBegin=30260|AlignEnd=30730|Gloss=.|nWord=16
+12	oke	oke	NUM	_	_	9	mod:num	_	AlignBegin=28136|AlignEnd=28372|GE=two|Gloss=two|nWord=11|RX=[NUM]
+13	kada	kada	VERB	_	_	14	comp:aux@pass	_	AlignBegin=28372|AlignEnd=28844|GE=name|Gloss=name|nWord=12|RX=[N]
+14	kle	kle	AUX	_	_	5	mod:lmod	_	AlignBegin=28844|AlignEnd=29316|GE=be|Gloss=be|nWord=13|RX=[V]
+15	quebrada	quebrada	NOUN	_	_	13	comp:pred	_	AlignBegin=29316|AlignEnd=29788|GE=river|Gloss=river|nWord=14|RX=[N]
+16	Limon	Limon	PROPN	_	_	15	mod	_	AlignBegin=29788|AlignEnd=30260|GE=[Limon]|Gloss=Limon|nWord=15|RX=[NPROP]
+17	.	_	PUNCT	_	_	4	punct	_	AlignBegin=30260|AlignEnd=30730|Gloss=.|nWord=16
 
 # sent_id = SAB-TXT-PA-00000-04_04-04
 # speaker_id = @04
@@ -78,7 +78,7 @@
 9	ble	ble	NOUN	_	_	10	comp	_	AlignBegin=34166|AlignEnd=34588|GE=sea|Gloss=sea|nWord=9|RX=[N]
 10	ke	ke	ADP	_	_	8	comp:obl	_	AlignBegin=34588|AlignEnd=35010|GE=[LOC]|Gloss=LOC|nWord=10|RX=[ADP]
 11	ble	ble	NOUN	_	_	_	_	_	AlignBegin=35010|AlignEnd=35432|GE=sea|Gloss=sea|nWord=11|RX=[N]
-12	kada	kada	NOUN	_	_	_	_	_	AlignBegin=35432|AlignEnd=35854|GE=name|Gloss=name|nWord=12|RX=[N]
+12	kada	kada	VERB	_	_	_	_	_	AlignBegin=35432|AlignEnd=35854|GE=name|Gloss=name|nWord=12|RX=[N]
 13	Limon	Limon	PROPN	_	_	_	_	_	AlignBegin=35854|AlignEnd=36276|GE=[Limon]|Gloss=Limon|nWord=13|RX=[NPROP]
 14	punta	punta	NOUN	_	_	_	_	_	AlignBegin=36276|AlignEnd=36698|GE=point|Gloss=point|nWord=14|RX=[N]
 15	Limon	Limon	PROPN	_	_	_	_	_	AlignBegin=36698|AlignEnd=37120|GE=[Limon]|Gloss=Limon|nWord=15|RX=[NPROP]
@@ -118,7 +118,7 @@
 11	geru	geru	NOUN	_	_	_	_	_	AlignBegin=43263|AlignEnd=44136|GE=word|Gloss=word|nWord=11|RX=[N]
 12	kle	kle	AUX	_	_	_	_	_	AlignBegin=44136|AlignEnd=45009|GE=be|Gloss=be|nWord=12|RX=[V]
 13	ngang	ngang	NOUN	_	_	_	_	_	AlignBegin=45009|AlignEnd=45882|GE=village|Gloss=village|nWord=13|RX=[N]
-14	kada	kada	NOUN	_	_	_	_	_	AlignBegin=45882|AlignEnd=46755|GE=name|Gloss=name|nWord=14|RX=[N]
+14	kada	kada	VERB	_	_	_	_	_	AlignBegin=45882|AlignEnd=46755|GE=name|Gloss=name|nWord=14|RX=[N]
 15	Saragosa	Saragosa	PROPN	_	_	_	_	_	AlignBegin=46755|AlignEnd=47628|GE=[Saragosa]|Gloss=Saragosa|nWord=15|RX=[NPROP]
 16	.	_	PUNCT	_	_	_	_	_	AlignBegin=47628|AlignEnd=48500|Gloss=.|nWord=16
 
@@ -160,20 +160,20 @@
 7	,	_	PUNCT	_	_	_	_	_	AlignBegin=59704|AlignEnd=60010|nWord=7
 8	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=60010|AlignEnd=60362|GE=now|Gloss=now|Lang=es|nWord=8|RX=[ADV]
 9	gnanku	gnanku	ADV	_	_	_	_	_	AlignBegin=60362|AlignEnd=60714|GE=far.med|Gloss=far.med|nWord=9|RX=[ADV]
-10	chi	chi	NOUN	_	_	_	_	_	AlignBegin=60714|AlignEnd=61066|GE=water|Gloss=water|nWord=10|RX=[N]
+10	chi	chi	NOUN	_	_	11	udep:poss	_	AlignBegin=60714|AlignEnd=61066|GE=water|Gloss=water|nWord=10|RX=[N]
 11	ka	ka	NOUN	_	_	12	comp	_	AlignBegin=61066|AlignEnd=61418|GE=mouth|Gloss=mouth|nWord=11|RX=[N]
 12	ke	ke	ADP	_	_	5	comp:obl	_	AlignBegin=61418|AlignEnd=61770|GE=[LOC]|Gloss=LOC|nWord=12|RX=[ADP]
 13	,	_	PUNCT	_	_	_	_	_	AlignBegin=61770|AlignEnd=62120|nWord=13
-14	chi	chi	NOUN	_	_	_	_	_	AlignBegin=62150|AlignEnd=62514|GE=water|Gloss=water|nWord=14|RX=[N]
-15	kweri	kweri	ADJ	_	_	_	_	_	AlignBegin=62514|AlignEnd=62878|GE=big|Gloss=big|nWord=15|RX=[ADJ]
-16	ka	ka	NOUN	_	_	_	_	_	AlignBegin=62878|AlignEnd=63242|GE=mouth|Gloss=mouth|nWord=16|RX=[N]
-17	kada	kada	NOUN	_	_	18	comp:aux/m	_	AlignBegin=63242|AlignEnd=63606|GE=name|Gloss=name|nWord=17|RX=[N]
-18	kle	kle	AUX	_	_	_	_	_	AlignBegin=63606|AlignEnd=63970|GE=be|Gloss=be|nWord=18|RX=[V]
-19	Kawita	Kawita	PROPN	_	_	20	comp	_	AlignBegin=63970|AlignEnd=64334|GE=[Kawita]|Gloss=Kawita|nWord=19|RX=[NPROP]
+14	chi	chi	NOUN	_	_	16	udep:poss	_	AlignBegin=62150|AlignEnd=62514|GE=water|Gloss=water|nWord=14|RX=[N]
+15	kweri	kweri	ADJ	_	_	14	mod	_	AlignBegin=62514|AlignEnd=62878|GE=big|Gloss=big|nWord=15|RX=[ADJ]
+16	ka	ka	NOUN	_	_	17	subj@pass	_	AlignBegin=62878|AlignEnd=63242|GE=mouth|Gloss=mouth|nWord=16|RX=[N]
+17	kada	kada	VERB	_	_	18	comp:aux@pass	_	AlignBegin=63242|AlignEnd=63606|GE=name|Gloss=name|nWord=17|RX=[N]
+18	kle	kle	AUX	_	_	20	comp	_	AlignBegin=63606|AlignEnd=63970|GE=be|Gloss=be|nWord=18|RX=[V]
+19	Kawita	Kawita	PROPN	_	_	17	comp:pred	_	AlignBegin=63970|AlignEnd=64334|GE=[Kawita]|Gloss=Kawita|nWord=19|RX=[NPROP]
 20	ke	ke	ADP	_	_	12	conj	_	AlignBegin=64334|AlignEnd=64698|GE=[LOC]|Gloss=LOC|nWord=20|RX=[ADP]
 21	,	_	PUNCT	_	_	_	_	_	AlignBegin=64698|AlignEnd=65060|nWord=21
-22	chi	chi	NOUN	_	_	_	_	_	AlignBegin=65280|AlignEnd=65572|GE=water|Gloss=water|nWord=22|RX=[N]
-23	kweri	kweri	ADJ	_	_	_	_	_	AlignBegin=65572|AlignEnd=65864|GE=big|Gloss=big|nWord=23|RX=[ADJ]
+22	chi	chi	NOUN	_	_	24	udep:poss	_	AlignBegin=65280|AlignEnd=65572|GE=water|Gloss=water|nWord=22|RX=[N]
+23	kweri	kweri	ADJ	_	_	22	mod	_	AlignBegin=65572|AlignEnd=65864|GE=big|Gloss=big|nWord=23|RX=[ADJ]
 24	ka	ka	NOUN	_	_	25	comp	_	AlignBegin=65864|AlignEnd=66156|GE=mouth|Gloss=mouth|nWord=24|RX=[N]
 25	ke	ke	ADP	_	_	20	conj	_	AlignBegin=66156|AlignEnd=66448|GE=[LOC]|Gloss=LOC|nWord=25|RX=[ADP]
 26	.	_	PUNCT	_	_	_	_	_	AlignBegin=66448|AlignEnd=66740|Gloss=.|nWord=26
@@ -212,7 +212,7 @@
 8	tragdate	tragdate	ADJ	_	_	_	_	_	AlignBegin=74740|AlignEnd=75250|GE=straight|Gloss=straight|nWord=7|RX=[ADJ]
 9	ali	ali	ADP	_	_	_	_	_	AlignBegin=75250|AlignEnd=75760|GE=with|Gloss=with|nWord=8|RX=[ADP]
 10	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=75760|AlignEnd=76270|GE=that|Gloss=that|Lang=es|nWord=9|RX=[PRO]
-11	kada	kada	NOUN	_	_	_	_	_	AlignBegin=76270|AlignEnd=76780|GE=name|Gloss=name|nWord=10|RX=[N]
+11	kada	kada	VERB	_	_	_	_	_	AlignBegin=76270|AlignEnd=76780|GE=name|Gloss=name|nWord=10|RX=[N]
 12	Moron	Moron	PROPN	_	_	_	_	_	AlignBegin=76780|AlignEnd=77290|GE=[Moron]|Gloss=Moron|nWord=11|RX=[NPROP]
 13	.	_	PUNCT	_	_	_	_	_	AlignBegin=77290|AlignEnd=77800|Gloss=.|nWord=12
 
@@ -248,7 +248,7 @@
 6	diaku	diaku	ADV	_	_	_	_	_	AlignBegin=82360|AlignEnd=82787|GE=close|Gloss=close|nWord=6|RX=[ADV]
 7	chi	chi	NOUN	_	_	_	_	_	AlignBegin=82787|AlignEnd=83214|GE=water|Gloss=water|nWord=7|RX=[N]
 8	kweri	kweri	ADJ	_	_	_	_	_	AlignBegin=83214|AlignEnd=83641|GE=big|Gloss=big|nWord=8|RX=[ADJ]
-9	kada	kada	NOUN	_	_	_	_	_	AlignBegin=83641|AlignEnd=84068|GE=name|Gloss=name|nWord=9|RX=[N]
+9	kada	kada	VERB	_	_	_	_	_	AlignBegin=83641|AlignEnd=84068|GE=name|Gloss=name|nWord=9|RX=[N]
 10	kebra	kebra	NOUN	_	_	_	_	_	AlignBegin=84068|AlignEnd=84495|GE=river|Gloss=river|nWord=10|RX=[N]
 11	grande	grande	ADJ	_	_	_	_	_	AlignBegin=84495|AlignEnd=84922|GE=big|Gloss=big|nWord=11|RX=[ADJ]
 12	.	_	PUNCT	_	_	4	punct	_	AlignBegin=84922|AlignEnd=85345|Gloss=.|nWord=12
@@ -277,7 +277,7 @@
 14	nangka	nangka	ADJ	_	_	_	_	_	AlignBegin=90445|AlignEnd=90822|GE=next|Gloss=next|nWord=13|RX=[ADJ]
 15	gda	gda	NUM	_	_	16	clf	_	AlignBegin=90822|AlignEnd=91010|GE=cl|Gloss=cl|nWord=14|RX=[NUM]
 16	ite	ite	NUM	_	_	_	_	_	AlignBegin=91010|AlignEnd=91199|GE=one|Gloss=one|nWord=14|RX=[NUM]
-17	kada	kada	NOUN	_	_	_	_	_	AlignBegin=91199|AlignEnd=91576|GE=name|Gloss=name|nWord=15|RX=[N]
+17	kada	kada	VERB	_	_	_	_	_	AlignBegin=91199|AlignEnd=91576|GE=name|Gloss=name|nWord=15|RX=[N]
 18	kebra	kebra	NOUN	_	_	_	_	_	AlignBegin=91576|AlignEnd=91953|GE=river|Gloss=river|nWord=16|RX=[N]
 19	Mamei	Mamei	PROPN	_	_	_	_	_	AlignBegin=91953|AlignEnd=92330|GE=[Mamei]|Gloss=Mamei|nWord=17|RX=[NPROP]
 20	.	_	PUNCT	_	_	_	_	_	AlignBegin=92330|AlignEnd=92710|Gloss=.|nWord=18
@@ -457,10 +457,10 @@
 5	iani	iani	ADV	_	_	3	mod:lmod	_	AlignBegin=122073|AlignEnd=122619|GE=there|Gloss=there|nWord=4|RX=[ADV]
 6	nga	nga	NOUN	_	_	7	comp	_	AlignBegin=122619|AlignEnd=122892|GE=village|Gloss=village|nWord=5|RX=[N]
 7	ske	ske	ADP	_	_	3	comp:obl	_	AlignBegin=122892|AlignEnd=123165|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
-8	pueblo	pueblo	NOUN	_	_	3	mod	_	AlignBegin=123165|AlignEnd=123711|GE=village|Gloss=village|nWord=6|RX=[N]
-9	kada	kada	NOUN	_	_	10	comp:aux/m	_	AlignBegin=123711|AlignEnd=124257|GE=name|Gloss=name|nWord=7|RX=[N]
-10	kle	kle	AUX	_	_	8	mod@relcl	_	AlignBegin=124257|AlignEnd=124803|GE=be|Gloss=be|nWord=8|RX=[V]
-11	Lapista	Lapista	PROPN	_	_	9	comp:obj	_	AlignBegin=124803|AlignEnd=125349|GE=[Lapista]|Gloss=Lapista|nWord=9|RX=[NPROP]
+8	pueblo	pueblo	NOUN	_	_	9	subj@pass	_	AlignBegin=123165|AlignEnd=123711|GE=village|Gloss=village|nWord=6|RX=[N]
+9	kada	kada	VERB	_	_	10	comp:aux@pass	_	AlignBegin=123711|AlignEnd=124257|GE=name|Gloss=name|nWord=7|RX=[N]
+10	kle	kle	AUX	_	_	3	mod:lmod	_	AlignBegin=124257|AlignEnd=124803|GE=be|Gloss=be|nWord=8|RX=[V]
+11	Lapista	Lapista	PROPN	_	_	9	comp:pred	_	AlignBegin=124803|AlignEnd=125349|GE=[Lapista]|Gloss=Lapista|nWord=9|RX=[NPROP]
 12	Kagnu	Kagnu	PROPN	_	_	11	flat	_	AlignBegin=125349|AlignEnd=125895|GE=[Kagnu]|Gloss=Kagnu|nWord=10|RX=[NPROP]
 13	.	_	PUNCT	_	_	2	punct	_	AlignBegin=125895|AlignEnd=126440|Gloss=.|nWord=11
 

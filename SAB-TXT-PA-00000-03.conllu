@@ -69,10 +69,10 @@
 # text = enusuli kada kle inocentio hong tkunga dwa Rio Lui .
 # text_en = The grand father named Inocentio made the path down from Rio Luis.
 # text_ortho = enusuli kada kle inocentio hong tkunga dwa Rio Lui .
-1	enusuli	enusuli	NOUN	_	_	6	subj	_	AlignBegin=19285|AlignEnd=19802|GE=grandfather|Gloss=grandfather|nWord=1|RX=[N]
-2	kada	kada	NOUN	_	_	3	comp:aux/m	_	AlignBegin=19802|AlignEnd=20319|GE=name|Gloss=name|nWord=2|RX=[N]
-3	kle	kle	AUX	_	_	1	mod@relcl	_	AlignBegin=20319|AlignEnd=20836|GE=be|Gloss=be|nWord=3|RX=[V]
-4	Inocentio	Inocentio	PROPN	_	_	2	comp:obj	_	AlignBegin=20836|AlignEnd=21353|GE=[Inocentio]|Gloss=Inocentio|nWord=4|RX=[NPROP]
+1	enusuli	enusuli	NOUN	_	_	2	subj@pass	_	AlignBegin=19285|AlignEnd=19802|GE=grandfather|Gloss=grandfather|nWord=1|RX=[N]
+2	kada	kada	VERB	_	_	3	comp:aux@pass	_	AlignBegin=19802|AlignEnd=20319|GE=name|Gloss=name|nWord=2|RX=[N]
+3	kle	kle	AUX	_	_	6	subj	_	AlignBegin=20319|AlignEnd=20836|GE=be|Gloss=be|nWord=3|RX=[V]
+4	Inocentio	Inocentio	PROPN	_	_	2	comp:pred	_	AlignBegin=20836|AlignEnd=21353|GE=[Inocentio]|Gloss=Inocentio|nWord=4|RX=[NPROP]
 5	hong	hong	NOUN	_	_	6	comp:obj	_	AlignBegin=21353|AlignEnd=21870|GE=path|Gloss=path|nWord=5|RX=[N]
 6	tkunga	tkenga	VERB	_	_	0	root	_	AlignBegin=21870|AlignEnd=22387|GE=[cut].[PST]|Gloss=cut.PST|nWord=6|RX=[VT]
 7	dwa	dwa	ADV	_	_	6	mod:lmod	_	AlignBegin=22387|AlignEnd=22904|GE=down|Gloss=down|nWord=7|RX=[ADV]

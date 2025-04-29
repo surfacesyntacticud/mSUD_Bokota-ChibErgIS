@@ -126,13 +126,13 @@
 # text_ortho = cha kle bla kada Primitivo , bla kada Tinika , cha kle tke koi ske .
 1	cha	cha	PRON	_	_	_	_	_	AlignBegin=34855|AlignEnd=35195|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
 2	kle	kle	AUX	_	_	_	_	_	AlignBegin=35195|AlignEnd=35535|GE=be|Gloss=be|nWord=2|RX=[V]
-3	bla	bla	NOUN	_	_	_	_	_	AlignBegin=35535|AlignEnd=35875|GE=banana|Gloss=banana|nWord=3|RX=[N]
-4	kada	kada	NOUN	_	_	_	_	_	AlignBegin=35875|AlignEnd=36215|GE=name|Gloss=name|nWord=4|RX=[N]
-5	primitivo	primitivo	PROPN	_	_	_	_	_	AlignBegin=36215|AlignEnd=36555|GE=banana_type|Gloss=banana_type|nWord=5|RX=[NPROP]
+3	bla	bla	NOUN	_	_	4	subj@pass	_	AlignBegin=35535|AlignEnd=35875|GE=banana|Gloss=banana|nWord=3|RX=[N]
+4	kada	kada	VERB	_	_	12	comp:obj	_	AlignBegin=35875|AlignEnd=36215|GE=name|Gloss=name|nWord=4|RX=[N]
+5	primitivo	primitivo	PROPN	_	_	4	comp:pred	_	AlignBegin=36215|AlignEnd=36555|GE=banana_type|Gloss=banana_type|nWord=5|RX=[NPROP]
 6	,	_	PUNCT	_	_	14	punct	_	AlignBegin=36555|AlignEnd=36895|nWord=6
-7	bla	bla	NOUN	_	_	_	_	_	AlignBegin=37640|AlignEnd=38332|GE=banana|Gloss=banana|nWord=7|RX=[N]
-8	kada	kada	NOUN	_	_	_	_	_	AlignBegin=38332|AlignEnd=39024|GE=name|Gloss=name|nWord=8|RX=[N]
-9	tinika	tinika	PROPN	_	_	_	_	_	AlignBegin=39024|AlignEnd=39716|GE=banana_type|Gloss=banana_type|nWord=9|RX=[NPROP]
+7	bla	bla	NOUN	_	_	8	subj@pass	_	AlignBegin=37640|AlignEnd=38332|GE=banana|Gloss=banana|nWord=7|RX=[N]
+8	kada	kada	VERB	_	_	4	conj:coord	_	AlignBegin=38332|AlignEnd=39024|GE=name|Gloss=name|nWord=8|RX=[N]
+9	tinika	tinika	PROPN	_	_	8	comp:pred	_	AlignBegin=39024|AlignEnd=39716|GE=banana_type|Gloss=banana_type|nWord=9|RX=[NPROP]
 10	,	_	PUNCT	_	_	14	punct	_	AlignBegin=39716|AlignEnd=40410|nWord=10
 11	cha	cha	PRON	_	_	14	subj	_	AlignBegin=41160|AlignEnd=41368|GE=[1SG]|Gloss=1SG|nWord=11|RX=[PRO]
 12	kle	kle	AUX	_	_	14	comp:aux/m	_	AlignBegin=41368|AlignEnd=41576|GE=be|Gloss=be|nWord=12|RX=[V]

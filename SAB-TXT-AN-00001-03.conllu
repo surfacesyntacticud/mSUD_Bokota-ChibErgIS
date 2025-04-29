@@ -405,12 +405,12 @@
 6	kwia	kwia	NOUN	_	_	5	conj:coord	_	AlignBegin=89036|AlignEnd=90455|GE=people|Gloss=people|nWord=5|RX=[N]
 7	toi	toi	VERB	_	_	0	root	_	AlignBegin=90455|AlignEnd=91874|GE=live|Gloss=live|nWord=6|RX=[VI]
 8	iani	iani	ADV	_	_	7	mod:lmod	_	AlignBegin=91874|AlignEnd=93293|GE=there|Gloss=there|nWord=7|RX=[ADV]
-9	cha	cha	PRON	_	_	_	_	_	AlignBegin=93293|AlignEnd=94712|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
-10	kle	kle	AUX	_	_	_	_	_	AlignBegin=94712|AlignEnd=96131|GE=be|Gloss=be|nWord=9|RX=[V]
-11	nga	nga	NOUN	_	_	_	_	_	AlignBegin=96131|AlignEnd=97550|GE=village|Gloss=village|nWord=10|RX=[N]
-12	kada	kada	NOUN	_	_	13	comp:aux/m	_	AlignBegin=97550|AlignEnd=98969|GE=name|Gloss=name|nWord=11|RX=[N]
-13	kle	kle	AUX	_	_	_	_	_	AlignBegin=98969|AlignEnd=100388|GE=be|Gloss=be|nWord=12|RX=[V]
-14	Ugachia	Ugachia	NOUN	_	_	15	comp	_	AlignBegin=100388|AlignEnd=101807|GE=[Ugachia]|Gloss=Ugachia|nWord=13|RX=[N]
+9	cha	cha	PRON	_	_	10	subj	_	AlignBegin=93293|AlignEnd=94712|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
+10	kle	kle	AUX	_	_	7	mod:lmod	_	AlignBegin=94712|AlignEnd=96131|GE=be|Gloss=be|nWord=9|RX=[V]
+11	nga	nga	NOUN	_	_	12	subj@pass	_	AlignBegin=96131|AlignEnd=97550|GE=village|Gloss=village|nWord=10|RX=[N]
+12	kada	kada	VERB	_	_	13	comp:aux@pass	_	AlignBegin=97550|AlignEnd=98969|GE=name|Gloss=name|nWord=11|RX=[N]
+13	kle	kle	AUX	_	_	15	comp	_	AlignBegin=98969|AlignEnd=100388|GE=be|Gloss=be|nWord=12|RX=[V]
+14	Ugachia	Ugachia	NOUN	_	_	12	comp:pred	_	AlignBegin=100388|AlignEnd=101807|GE=[Ugachia]|Gloss=Ugachia|nWord=13|RX=[N]
 15	giti	giti	ADP	_	_	7	comp:obl	_	AlignBegin=101807|AlignEnd=103226|GE=[LOC]|Gloss=LOC|nWord=14|RX=[ADP]
 16	.	_	PUNCT	_	_	7	punct	_	AlignBegin=103226|AlignEnd=104640|Gloss=.|nWord=15
 
@@ -422,11 +422,11 @@
 # text = kada kle ugachia giti .
 # text_en = ‎‎Named Ugatchia.
 # text_ortho = kada kle ugachia giti .
-1	kada	kada	NOUN	_	_	2	comp:aux/m	_	AlignBegin=105160|AlignEnd=105486|GE=name|Gloss=name|nWord=1|RX=[N]
-2	kle	kle	AUX	_	_	_	_	_	AlignBegin=105486|AlignEnd=105812|GE=be|Gloss=be|nWord=2|RX=[V]
-3	Ugachia	Ugachia	NOUN	_	_	4	comp	_	AlignBegin=105812|AlignEnd=106138|GE=[Ugachia]|Gloss=Ugachia|nWord=3|RX=[N]
-4	giti	giti	ADP	_	_	_	_	_	AlignBegin=106138|AlignEnd=106464|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
-5	.	_	PUNCT	_	_	_	_	_	AlignBegin=106464|AlignEnd=106790|Gloss=.|nWord=5
+1	kada	kada	VERB	_	_	2	comp:aux@pass	_	AlignBegin=105160|AlignEnd=105486|GE=name|Gloss=name|nWord=1|RX=[N]
+2	kle	kle	AUX	_	_	4	comp	_	AlignBegin=105486|AlignEnd=105812|GE=be|Gloss=be|nWord=2|RX=[V]
+3	Ugachia	Ugachia	NOUN	_	_	1	comp:pred	_	AlignBegin=105812|AlignEnd=106138|GE=[Ugachia]|Gloss=Ugachia|nWord=3|RX=[N]
+4	giti	giti	ADP	_	_	0	root	_	AlignBegin=106138|AlignEnd=106464|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
+5	.	_	PUNCT	_	_	4	punct	_	AlignBegin=106464|AlignEnd=106790|Gloss=.|nWord=5
 
 # sent_id = SAB-TXT-AN-00001-03_28-28
 # speaker_id = @03

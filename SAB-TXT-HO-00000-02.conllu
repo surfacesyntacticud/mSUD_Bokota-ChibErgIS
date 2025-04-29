@@ -103,9 +103,9 @@
 4	dike	dike	ADP	_	_	_	_	_	AlignBegin=33127|AlignEnd=33573|GE=[INST]|Gloss=INST|nWord=3|RX=[ADP]
 5	giska	giska	NOUN	_	_	_	_	_	AlignBegin=33573|AlignEnd=34019|GE=rope|Gloss=rope|nWord=4|RX=[N]
 6	,	_	PUNCT	_	_	_	_	_	AlignBegin=34019|AlignEnd=34465|nWord=5
-7	kada	kada	NOUN	_	_	8	comp:aux/m	_	AlignBegin=34885|AlignEnd=35263|GE=name|Gloss=name|nWord=6|RX=[N]
-8	kle	kle	AUX	_	_	_	_	_	AlignBegin=35263|AlignEnd=35641|GE=be|Gloss=be|nWord=7|RX=[V]
-9	blita	blita	NOUN	_	_	_	_	_	AlignBegin=35641|AlignEnd=36019|GE=branch|Gloss=branch|nWord=8|RX=[N]
+7	kada	kada	VERB	_	_	8	comp:aux@pass	_	AlignBegin=34885|AlignEnd=35263|GE=name|Gloss=name|nWord=6|RX=[N]
+8	kle	kle	AUX	_	_	10	comp	_	AlignBegin=35263|AlignEnd=35641|GE=be|Gloss=be|nWord=7|RX=[V]
+9	blita	blita	NOUN	_	_	7	comp:pred	_	AlignBegin=35641|AlignEnd=36019|GE=branch|Gloss=branch|nWord=8|RX=[N]
 10	giti	giti	ADP	_	_	_	_	_	AlignBegin=36019|AlignEnd=36397|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
 11	.	_	PUNCT	_	_	_	_	_	AlignBegin=36397|AlignEnd=36775|Gloss=.|nWord=10
 
@@ -117,18 +117,18 @@
 # text = giska kada kle blita ke luke ngania u sing ke .
 # text_en = (He) link with a rope called blita, at the top in the house's nostril.
 # text_ortho = giska kada kle blita ke luke ngania u sing ke .
-1	giska	giska	NOUN	_	_	_	_	_	AlignBegin=36915|AlignEnd=37201|GE=rope|Gloss=rope|nWord=1|RX=[N]
-2	kada	kada	NOUN	_	_	3	comp:aux/m	_	AlignBegin=37201|AlignEnd=37487|GE=name|Gloss=name|nWord=2|RX=[N]
-3	kle	kle	AUX	_	_	_	_	_	AlignBegin=37487|AlignEnd=37773|GE=be|Gloss=be|nWord=3|RX=[V]
-4	blita	blita	NOUN	_	_	5	comp	_	AlignBegin=37773|AlignEnd=38059|GE=branch|Gloss=branch|nWord=4|RX=[N]
-5	ke	ke	ADP	_	_	_	_	_	AlignBegin=38059|AlignEnd=38345|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
+1	giska	giska	NOUN	_	_	2	subj@pass	_	AlignBegin=36915|AlignEnd=37201|GE=rope|Gloss=rope|nWord=1|RX=[N]
+2	kada	kada	VERB	_	_	3	comp:aux@pass	_	AlignBegin=37201|AlignEnd=37487|GE=name|Gloss=name|nWord=2|RX=[N]
+3	kle	kle	AUX	_	_	5	comp	_	AlignBegin=37487|AlignEnd=37773|GE=be|Gloss=be|nWord=3|RX=[V]
+4	blita	blita	NOUN	_	_	2	comp:pred	_	AlignBegin=37773|AlignEnd=38059|GE=branch|Gloss=branch|nWord=4|RX=[N]
+5	ke	ke	ADP	_	_	6	comp:obl	_	AlignBegin=38059|AlignEnd=38345|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
 6	luk	luk	VERB	_	_	7	comp:aux/m	_	AlignBegin=38345|AlignEnd=38488|GE=link|Gloss=link|nWord=6|RX=[VT]
-7	-e	_	AUX	_	_	_	_	_	AlignBegin=38488|AlignEnd=38631|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
+7	-e	_	AUX	_	_	0	root	_	AlignBegin=38488|AlignEnd=38631|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
 8	ngania	ngania	ADV	_	_	6	mod:lmod	_	AlignBegin=38631|AlignEnd=38917|GE=up|Gloss=up|nWord=7|RX=[ADV]
 9	u	u	NOUN	_	_	10	udep:poss	_	AlignBegin=38917|AlignEnd=39203|GE=house|Gloss=house|nWord=8|RX=[N]
 10	sing	sing	NOUN	_	_	11	comp	_	AlignBegin=39203|AlignEnd=39489|GE=nose|Gloss=nose|nWord=9|RX=[N]
 11	ke	ke	ADP	_	_	6	comp:obl	_	AlignBegin=39489|AlignEnd=39775|GE=[LOC]|Gloss=LOC|nWord=10|RX=[ADP]
-12	.	_	PUNCT	_	_	_	_	_	AlignBegin=39775|AlignEnd=40065|Gloss=.|nWord=11
+12	.	_	PUNCT	_	_	7	punct	_	AlignBegin=39775|AlignEnd=40065|Gloss=.|nWord=11
 
 # sent_id = SAB-TXT-HO-00000-02_10-10
 # speaker_id = @02
