@@ -1,0 +1,270 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = SAB-TXT-BS-00000-09_01-04
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-BS-00000-09.WAV/WAV/SAB-TXT-BS-00000-09.WAV
+# sent_timecode = 7430, 17280
+# morphemic_text = muinga kle chage bolo , muinga me gna bla dabe gut -e , muinga me gna die bale gut -e , porque trenkwali tieng gudiale .
+# text = muinga kle chage bolo , muinga me gna bla dabe gute , muinga me gna die bale gute , porque trenkwali tieng gudiale .
+# text_en = (When) a woman is pregnant, The woman can't eat red bananas. The woman can't eat sweet food. Because (she) will see the newborn in her dreams.
+# text_ortho = muinga kle chage bolo , muinga me gna bla dabe gute , muinga me gna die bale gute , porque trenkwali tieng gudiale .
+1	muinga	muinga	NOUN	_	_	3	subj	_	AlignBegin=7430|AlignEnd=8078|GE=woman|Gloss=woman|nWord=1|RX=[N]
+2	kle	kle	AUX	_	_	_	_	_	AlignBegin=8078|AlignEnd=8726|GE=be|Gloss=be|nWord=2|RX=[V]
+3	chage	chage	VERB	_	_	2	comp:aux	_	AlignBegin=8726|AlignEnd=9374|GE=walk|Gloss=walk|nWord=3|RX=[VI]
+4	bolo	bolo	ADJ	_	_	3	comp:pred	_	AlignBegin=9374|AlignEnd=10022|GE=pregnant|Gloss=pregnant|nWord=4|RX=[ADJ]
+5	,	_	PUNCT	_	_	_	_	_	AlignBegin=10022|AlignEnd=10670|nWord=5
+6	muinga	muinga	NOUN	_	_	11	subj	_	AlignBegin=10770|AlignEnd=11129|GE=woman|Gloss=woman|nWord=6|RX=[N]
+7	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=11129|AlignEnd=11488|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
+8	gna	gna	AUX	_	_	7	comp:aux	_	AlignBegin=11488|AlignEnd=11847|GE=can|Gloss=can|nWord=8|RX=[V]
+9	bla	bla	NOUN	_	_	11	comp:obj	_	AlignBegin=11847|AlignEnd=12206|GE=banana|Gloss=banana|nWord=9|RX=[N]
+10	dabe	dabe	ADJ	_	_	9	mod	_	AlignBegin=12206|AlignEnd=12565|GE=red|Gloss=red|nWord=10|RX=[ADJ]
+11	gute	gut	VERB	_	_	8	comp:aux	_	AlignBegin=12565|AlignEnd=12924|GE=[THM]|Gloss=eat-THM|nWord=11|RX=[V:ANY]
+12	,	_	PUNCT	_	_	_	_	_	AlignBegin=12924|AlignEnd=13280|nWord=12
+13	muinga	muinga	NOUN	_	_	18	subj	_	AlignBegin=13330|AlignEnd=13597|GE=woman|Gloss=woman|nWord=13|RX=[N]
+14	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=13597|AlignEnd=13864|GE=[NEG]|Gloss=NEG|nWord=14|RX=[VERBPRT]
+15	gna	gna	AUX	_	_	14	comp:aux	_	AlignBegin=13864|AlignEnd=14131|GE=can|Gloss=can|nWord=15|RX=[V]
+16	die	die	NOUN	_	_	18	comp:obj	_	AlignBegin=14131|AlignEnd=14398|GE=thing|Gloss=thing|nWord=16|RX=[N]
+17	bale	bale	ADJ	_	_	16	mod	_	AlignBegin=14398|AlignEnd=14665|GE=sweet|Gloss=sweet|nWord=17|RX=[ADJ]
+18	gute	gut	VERB	_	_	15	comp:aux	_	AlignBegin=14665|AlignEnd=14932|GE=[THM]|Gloss=eat-THM|nWord=18|RX=[V:ANY]
+19	,	_	PUNCT	_	_	_	_	_	AlignBegin=14932|AlignEnd=15200|nWord=19
+20	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=15220|AlignEnd=15632|GE=because|Gloss=because|Lang=es|nWord=20|RX=[CONN]
+21	trenkwali	trenkwali	NOUN	_	_	_	_	_	AlignBegin=15632|AlignEnd=16044|GE=foetus|Gloss=foetus|nWord=21|RX=[N]
+22	tieng	tieng	VERB	_	_	_	_	_	AlignBegin=16044|AlignEnd=16456|GE=[see].[NPST]|Gloss=see.NPST|nWord=22|RX=[V]
+23	gudiale	gudiale	VERB	_	_	_	_	_	AlignBegin=16456|AlignEnd=16868|GE=dream|Gloss=dream|nWord=23|RX=[V]
+24	.	_	PUNCT	_	_	_	_	_	AlignBegin=16868|AlignEnd=17280|Gloss=.|nWord=24
+
+# sent_id = SAB-TXT-BS-00000-09_05-06
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-BS-00000-09.WAV/WAV/SAB-TXT-BS-00000-09.WAV
+# sent_timecode = 17560, 21470
+# morphemic_text = entonces trenkwali tieng gudiale , trenkwali tieng gde ko -le .
+# text = entonces trenkwali tieng gudiale , trenkwali tieng gde kole .
+# text_en = So (she) will see the newborn in her dreams. (She) will see the baby with the stomach on its hands.
+# text_ortho = entonces trenkwali tieng gudiale , trenkwali tieng gde kole .
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=17560|AlignEnd=17992|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
+2	trenkwali	trenkwali	NOUN	_	_	_	_	_	AlignBegin=17992|AlignEnd=18424|GE=foetus|Gloss=foetus|nWord=2|RX=[N]
+3	tieng	tieng	VERB	_	_	_	_	_	AlignBegin=18424|AlignEnd=18856|GE=[see].[NPST]|Gloss=see.NPST|nWord=3|RX=[V]
+4	gudiale	gudiale	VERB	_	_	_	_	_	AlignBegin=18856|AlignEnd=19288|GE=dream|Gloss=dream|nWord=4|RX=[V]
+5	,	_	PUNCT	_	_	_	_	_	AlignBegin=19288|AlignEnd=19720|nWord=5
+6	trenkwali	trenkwali	NOUN	_	_	_	_	_	AlignBegin=19720|AlignEnd=20070|GE=foetus|Gloss=foetus|nWord=6|RX=[N]
+7	tieng	tieng	VERB	_	_	_	_	_	AlignBegin=20070|AlignEnd=20420|GE=[see].[NPST]|Gloss=see.NPST|nWord=7|RX=[V]
+8	gde	gde	NOUN	_	_	_	_	_	AlignBegin=20420|AlignEnd=20770|GE=bag|Gloss=bag|nWord=8|RX=[N]
+9	kole	ko	NOUN	_	_	_	_	_	AlignBegin=20770|AlignEnd=21120|GE=[ADJZ]|Gloss=hand-ADJZ|nWord=9|RX=[N>ADJ]
+10	.	_	PUNCT	_	_	_	_	_	AlignBegin=21120|AlignEnd=21470|Gloss=.|nWord=10
+
+# sent_id = SAB-TXT-BS-00000-09_07-07
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-BS-00000-09.WAV/WAV/SAB-TXT-BS-00000-09.WAV
+# sent_timecode = 21820, 22970
+# morphemic_text = mine gde ko -le
+# text = mine gde kole
+# text_en = Why the stomach on its hands ?
+# text_ortho = mine gde kole
+1	mine	mine	PART	_	_	_	_	_	AlignBegin=21820|AlignEnd=22108|GE=[Q]|Gloss=Q|nWord=1|RX=[Q]
+2	gde	gde	NOUN	_	_	_	_	_	AlignBegin=22108|AlignEnd=22396|GE=bag|Gloss=bag|nWord=2|RX=[N]
+3	kole	ko	NOUN	_	_	_	_	_	AlignBegin=22396|AlignEnd=22684|GE=[ADJZ]|Gloss=hand-ADJZ|nWord=3|RX=[N>ADJ]
+
+# sent_id = SAB-TXT-BS-00000-09_08-11
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-BS-00000-09.WAV/WAV/SAB-TXT-BS-00000-09.WAV
+# sent_timecode = 22970, 32330
+# morphemic_text = porque me gna chage blikaia , me gna chage y dui bduk giti blikaia , me gna skwenga blikaia , kle chage sra kwi .
+# text = porque me gna chage blikaia , me gna chage y dui bduke giti blikaia , me gna skwenga blikaia , kle chage sra kwi .
+# text_en = Because she can't walk fast, She can't walk and get up from the ground fast, She can't run fast, She walks with clumsy feet.
+# text_ortho = porque me gna chage blikaia , me gna chage y dui bduke giti blikaia , me gna skwenga blikaia , kle chage sra kwi .
+1	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=22970|AlignEnd=23258|GE=because|Gloss=because|Lang=es|nWord=1|RX=[CONN]
+2	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=23258|AlignEnd=23546|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+3	gna	gna	AUX	_	_	2	comp:aux	_	AlignBegin=23546|AlignEnd=23834|GE=can|Gloss=can|nWord=3|RX=[V]
+4	chage	chage	VERB	_	_	3	comp:aux	_	AlignBegin=23834|AlignEnd=24122|GE=walk|Gloss=walk|nWord=4|RX=[VI]
+5	blikaia	blikaia	ADV	_	_	_	_	_	AlignBegin=24122|AlignEnd=24410|GE=quickly|Gloss=quickly|nWord=5|RX=[ADV]
+6	,	_	PUNCT	_	_	_	_	_	AlignBegin=24410|AlignEnd=24700|nWord=6
+7	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=25160|AlignEnd=25401|GE=[NEG]|Gloss=NEG|nWord=7|RX=[VERBPRT]
+8	gna	gna	AUX	_	_	7	comp:aux	_	AlignBegin=25401|AlignEnd=25642|GE=can|Gloss=can|nWord=8|RX=[V]
+9	chage	chage	VERB	_	_	8	comp:aux	_	AlignBegin=25642|AlignEnd=25883|GE=walk|Gloss=walk|nWord=9|RX=[VI]
+10	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=25883|AlignEnd=26124|GE=and|Gloss=and|Lang=es|nWord=10|RX=[COORDCONN]
+11	dui	dui	NOUN	_	_	_	_	_	AlignBegin=26124|AlignEnd=26365|GE=dirt|Gloss=dirt|nWord=11|RX=[N]
+12	bduk	bduk	VERB	_	_	_	_	_	AlignBegin=26365|AlignEnd=26606|GE=go_up|Gloss=go_up|nWord=12|RX=[V]
+13	giti	giti	ADP	_	_	_	_	_	AlignBegin=26606|AlignEnd=26847|GE=[LOC]|Gloss=LOC|nWord=13|RX=[ADP]
+14	blikaia	blikaia	ADV	_	_	_	_	_	AlignBegin=26847|AlignEnd=27088|GE=quickly|Gloss=quickly|nWord=14|RX=[ADV]
+15	,	_	PUNCT	_	_	_	_	_	AlignBegin=27088|AlignEnd=27330|nWord=15
+16	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=27330|AlignEnd=27576|GE=[NEG]|Gloss=NEG|nWord=16|RX=[VERBPRT]
+17	gna	gna	AUX	_	_	16	comp:aux	_	AlignBegin=27576|AlignEnd=27822|GE=can|Gloss=can|nWord=17|RX=[V]
+18	skwenga	skwenga	VERB	_	_	17	comp:aux	_	AlignBegin=27822|AlignEnd=28068|GE=[run].[NPST]|Gloss=run.NPST|nWord=18|RX=[V]
+19	blikaia	blikaia	ADV	_	_	_	_	_	AlignBegin=28068|AlignEnd=28314|GE=quickly|Gloss=quickly|nWord=19|RX=[ADV]
+20	,	_	PUNCT	_	_	_	_	_	AlignBegin=28314|AlignEnd=28560|nWord=20
+21	kle	kle	AUX	_	_	_	_	_	AlignBegin=29110|AlignEnd=29754|GE=be|Gloss=be|nWord=21|RX=[V]
+22	chage	chage	VERB	_	_	21	comp:aux	_	AlignBegin=29754|AlignEnd=30398|GE=walk|Gloss=walk|nWord=22|RX=[VI]
+23	sra	sra	NOUN	_	_	_	_	_	AlignBegin=30398|AlignEnd=31042|GE=foot|Gloss=foot|nWord=23|RX=[N]
+24	kwi	kwi	ADJ	_	_	23	mod	_	AlignBegin=31042|AlignEnd=31686|GE=idiot|Gloss=idiot|nWord=24|RX=[ADJ]
+25	.	_	PUNCT	_	_	_	_	_	AlignBegin=31686|AlignEnd=32330|Gloss=.|nWord=25
+
+# sent_id = SAB-TXT-BS-00000-09_12-12
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-BS-00000-09.WAV/WAV/SAB-TXT-BS-00000-09.WAV
+# sent_timecode = 32380, 34950
+# morphemic_text = entonces trenkwali soli ne bag -e -dale .
+# text = entonces trenkwali soli ne bagedale .
+# text_en = So she has to follow the rules.
+# text_ortho = entonces trenkwali soli ne bagedale .
+1	entonces	entonces	ADV	_	Foreign=Yes	5	discourse	_	AlignBegin=32380|AlignEnd=32808|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
+2	trenkwali	trenkwali	NOUN	_	_	5	subj	_	AlignBegin=32808|AlignEnd=33236|GE=foetus|Gloss=foetus|nWord=2|RX=[N]
+3	soli	soli	ADJ	_	_	2	mod	_	AlignBegin=33236|AlignEnd=33664|GE=little|Gloss=little|nWord=3|RX=[N]
+4	ne	ne	DET	_	_	2	det	_	AlignBegin=33664|AlignEnd=34092|GE=that|Gloss=that|nWord=4|RX=[DET]
+5	bagedale	bag	VERB	_	_	0	root	_	AlignBegin=34092|AlignEnd=34520|GE=[IRR]|Gloss=ceremoniate-THM-IRR|nWord=5|RX=[V:ANY]
+6	.	_	PUNCT	_	_	5	punct	_	AlignBegin=34520|AlignEnd=34950|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-BS-00000-09_13-13
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-BS-00000-09.WAV/WAV/SAB-TXT-BS-00000-09.WAV
+# sent_timecode = 35080, 37070
+# morphemic_text = chi bale me ha -dale .
+# text = chi bale me hadale .
+# text_en = (She) does not drink sweet water.
+# text_ortho = chi bale me hadale .
+1	chi	chi	NOUN	_	_	4	comp:obj	_	AlignBegin=35080|AlignEnd=35478|GE=water|Gloss=water|nWord=1|RX=[N]
+2	bale	bale	ADJ	_	_	1	mod	_	AlignBegin=35478|AlignEnd=35876|GE=sweet|Gloss=sweet|nWord=2|RX=[ADJ]
+3	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=35876|AlignEnd=36274|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+4	hadale	hai	VERB	_	_	3	comp:aux	_	AlignBegin=36274|AlignEnd=36672|GE=[IRR]|Gloss=drink-IRR|nWord=4|RX=[V:ANY]
+5	.	_	PUNCT	_	_	3	punct	_	AlignBegin=36672|AlignEnd=37070|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-BS-00000-09_14-17
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-BS-00000-09.WAV/WAV/SAB-TXT-BS-00000-09.WAV
+# sent_timecode = 37530, 50040
+# morphemic_text = cuando trenkwali ( be gwame ) be hoke gwame ko dike , kle skwatik -e gde hinwe ole , entonces ( trenkwali , muinga ne ) kiro ne ga -le kiro mli -a -le -nga bate , para que kiro muire be gwame trenkwali be gwame .
+# text = cuando trenkwali ( be gwame ) be hoke gwame ko dike , kle skwatike gde hinwe ole , entonces ( trenkwali , muinga ne ) kiro ne gale kiro mlialenga bate , para que kiro muire be gwame trenkwali be gwame .
+# text_en = When the newborn is born , is in his mother's hand, (She) will be sick in her stomach, So she has to pick up her child and be sent far away, So that the baby will be born.
+# text_ortho = cuando trenkwali ( be gwame ) be hoke gwame ko dike , kle skwatike gde hinwe ole , entonces ( trenkwali , muinga ne ) kiro ne gale kiro mlialenga bate , para que kiro muire be gwame trenkwali be gwame .
+1	cuando	cuando	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=37530|AlignEnd=37804|GE=when|Gloss=when|Lang=es|nWord=1|RX=[Q]
+2	trenkwali	trenkwali	NOUN	_	_	_	_	_	AlignBegin=37804|AlignEnd=38078|GE=foetus|Gloss=foetus|nWord=2|RX=[N]
+3	(	_	PUNCT	_	_	_	_	_	AlignBegin=38078|AlignEnd=38352|nWord=3
+4	be	be	AUX	_	_	_	_	_	AlignBegin=38352|AlignEnd=38626|GE=[FUT]|Gloss=FUT|nWord=4|RX=[VERBPRT]
+5	gwame	gwame	VERB	_	_	4	comp:aux	_	AlignBegin=38626|AlignEnd=38900|GE=be.born|Gloss=be.born|nWord=5|RX=[V]
+6	)	_	PUNCT	_	_	_	_	_	AlignBegin=38900|AlignEnd=39174|nWord=6
+7	be	be	AUX	_	_	_	_	_	AlignBegin=39174|AlignEnd=39448|GE=[FUT]|Gloss=FUT|nWord=7|RX=[VERBPRT]
+8	hoke	hoke	VERB	_	_	7	comp:aux	_	AlignBegin=39448|AlignEnd=39722|GE=go|Gloss=go|nWord=8|RX=[VI]
+9	gwame	gwame	VERB	_	_	_	_	_	AlignBegin=39722|AlignEnd=39996|GE=be.born|Gloss=be.born|nWord=9|RX=[V]
+10	ko	ko	NOUN	_	_	11	comp	_	AlignBegin=39996|AlignEnd=40270|GE=hand|Gloss=hand|nWord=10|RX=[N]
+11	dike	dike	ADP	_	_	9	comp:obl	_	AlignBegin=40270|AlignEnd=40544|GE=[INST]|Gloss=INST|nWord=11|RX=[ADP]
+12	,	_	PUNCT	_	_	_	_	_	AlignBegin=40544|AlignEnd=40820|nWord=12
+13	kle	kle	AUX	_	_	_	_	_	AlignBegin=40860|AlignEnd=41185|GE=be|Gloss=be|nWord=13|RX=[V]
+14	skwatike	skwatik	VERB	_	_	13	comp:aux	_	AlignBegin=41185|AlignEnd=41510|GE=[THM]|Gloss=be_tired-THM|nWord=14|RX=[V:ANY]
+15	gde	gde	NOUN	_	_	_	_	_	AlignBegin=41510|AlignEnd=41835|GE=bag|Gloss=bag|nWord=15|RX=[N]
+16	hinwe	hinwe	NOUN	_	_	17	comp	_	AlignBegin=41835|AlignEnd=42160|GE=illness|Gloss=illness|nWord=16|RX=[N]
+17	ole	ole	ADP	_	_	14	comp:obl	_	AlignBegin=42160|AlignEnd=42485|GE=[COM]|Gloss=COM|nWord=17|RX=[ADP]
+18	,	_	PUNCT	_	_	_	_	_	AlignBegin=42485|AlignEnd=42810|nWord=18
+19	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=42840|AlignEnd=43096|GE=so|Gloss=so|Lang=es|nWord=19|RX=[ADV]
+20	(	_	PUNCT	_	_	_	_	_	AlignBegin=43096|AlignEnd=43352|nWord=20
+21	trenkwali	trenkwali	NOUN	_	_	_	_	_	AlignBegin=43352|AlignEnd=43608|GE=foetus|Gloss=foetus|nWord=21|RX=[N]
+22	,	_	PUNCT	_	_	_	_	_	AlignBegin=43608|AlignEnd=43864|nWord=22
+23	muinga	muinga	NOUN	_	_	_	_	_	AlignBegin=43864|AlignEnd=44120|GE=woman|Gloss=woman|nWord=23|RX=[N]
+24	ne	ne	DET	_	_	23	mod	_	AlignBegin=44120|AlignEnd=44376|GE=that|Gloss=that|nWord=24|RX=[DET]
+25	)	_	PUNCT	_	_	_	_	_	AlignBegin=44376|AlignEnd=44632|nWord=25
+26	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=44632|AlignEnd=44888|GE=child|Gloss=child|nWord=26|RX=[N]
+27	ne	ne	DET	_	_	26	mod	_	AlignBegin=44888|AlignEnd=45144|GE=that|Gloss=that|nWord=27|RX=[DET]
+28	gale	gai	VERB	_	_	_	_	_	AlignBegin=45144|AlignEnd=45400|GE=[ADJZ]|Gloss=pick_up-ADJZ|nWord=28|RX=[N>ADJ]
+29	kiro	kiro	NOUN	_	_	30	subj@pass	_	AlignBegin=45400|AlignEnd=45656|GE=child|Gloss=child|nWord=29|RX=[N]
+30	mlialenga	mli	VERB	_	_	_	_	_	AlignBegin=45656|AlignEnd=45912|GE=[SUB]|Gloss=throw-PASS-ADJZ-SUB|nWord=30|RX=[V:ANY]
+31	bate	bate	ADV	_	_	_	_	_	AlignBegin=45912|AlignEnd=46168|GE=away|Gloss=away|nWord=31|RX=[ADV]
+32	,	_	PUNCT	_	_	_	_	_	AlignBegin=46168|AlignEnd=46430|nWord=32
+33	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=46580|AlignEnd=46926|GE=for|Gloss=for|Lang=es|nWord=33|RX=[ADP]
+34	que	que	X	_	Foreign=Yes	33	compound	_	AlignBegin=46926|AlignEnd=47272|GE=that|Gloss=that|Lang=es|nWord=34|RX=[PRO]
+35	kiro	kiro	NOUN	_	_	38	subj	_	AlignBegin=47272|AlignEnd=47618|GE=child|Gloss=child|nWord=35|RX=[N]
+36	muire	muire	ADJ	_	_	35	mod	_	AlignBegin=47618|AlignEnd=47964|GE=female|Gloss=female|nWord=36|RX=[ADJ]
+37	be	be	AUX	_	_	_	_	_	AlignBegin=47964|AlignEnd=48310|GE=[FUT]|Gloss=FUT|nWord=37|RX=[VERBPRT]
+38	gwame	gwame	VERB	_	_	37	comp:aux	_	AlignBegin=48310|AlignEnd=48656|GE=be.born|Gloss=be.born|nWord=38|RX=[V]
+39	trenkwali	trenkwali	NOUN	_	_	41	subj	_	AlignBegin=48656|AlignEnd=49002|GE=foetus|Gloss=foetus|nWord=39|RX=[N]
+40	be	be	AUX	_	_	_	_	_	AlignBegin=49002|AlignEnd=49348|GE=[FUT]|Gloss=FUT|nWord=40|RX=[VERBPRT]
+41	gwame	gwame	VERB	_	_	40	comp:aux	_	AlignBegin=49348|AlignEnd=49694|GE=be.born|Gloss=be.born|nWord=41|RX=[V]
+42	.	_	PUNCT	_	_	_	_	_	AlignBegin=49694|AlignEnd=50040|Gloss=.|nWord=42
+
+# sent_id = SAB-TXT-BS-00000-09_18-18
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-BS-00000-09.WAV/WAV/SAB-TXT-BS-00000-09.WAV
+# sent_timecode = 50150, 53410
+# morphemic_text = kiro trenkwali y muinga ne me keruchuk -e kiro gwa hombre ke .
+# text = kiro trenkwali y muinga ne me keruchuke kirogwa hombre ke .
+# text_en = The newborn and the woman can't be heard by the kids.
+# text_ortho = kiro trenkwali y muinga ne me keruchuke kirogwa hombre ke .
+1	kiro	kiro	NOUN	_	_	7	comp:obj	_	AlignBegin=50150|AlignEnd=50446|GE=child|Gloss=child|nWord=1|RX=[N]
+2	trenkwali	trenkwali	NOUN	_	_	1	mod	_	AlignBegin=50446|AlignEnd=50742|GE=foetus|Gloss=foetus|nWord=2|RX=[N]
+3	y	y	X	_	Foreign=Yes	1	cc	_	AlignBegin=50742|AlignEnd=51038|GE=and|Gloss=and|Lang=es|nWord=3|RX=[COORDCONN]
+4	muinga	muinga	NOUN	_	_	1	conj:coord	_	AlignBegin=51038|AlignEnd=51334|GE=woman|Gloss=woman|nWord=4|RX=[N]
+5	ne	ne	DET	_	_	4	mod	_	AlignBegin=51334|AlignEnd=51630|GE=that|Gloss=that|nWord=5|RX=[DET]
+6	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=51630|AlignEnd=51926|GE=[NEG]|Gloss=NEG|nWord=6|RX=[VERBPRT]
+7	keruchuke	keruchuk	VERB	_	_	6	comp:aux	_	AlignBegin=51926|AlignEnd=52222|GE=[THM]|Gloss=understand-THM|nWord=7|RX=[V:ANY]
+8	kirogwa	kiro	NOUN	_	_	10	comp	_	AlignBegin=52222|AlignEnd=52518|GE=child|Gloss=child|nWord=8|RX=[N]
+9	hombre	hombre	ADJ	_	_	8	mod	_	AlignBegin=52518|AlignEnd=52814|GE=male|Gloss=male|nWord=9|RX=[ADJ]
+10	ke	ke	ADP	_	_	7	subj	_	AlignBegin=52814|AlignEnd=53110|GE=[LOC]|Gloss=LOC|nWord=10|RX=[ADP]
+11	.	_	PUNCT	_	_	6	punct	_	AlignBegin=53110|AlignEnd=53410|Gloss=.|nWord=11
+
+# sent_id = SAB-TXT-BS-00000-09_19-19
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-BS-00000-09.WAV/WAV/SAB-TXT-BS-00000-09.WAV
+# sent_timecode = 53470, 55320
+# morphemic_text = hami keda -le .
+# text = hami kedale .
+# text_en = Men go away.
+# text_ortho = hami kedale .
+1	hami	hami	NOUN	_	_	_	_	_	AlignBegin=53470|AlignEnd=54087|GE=man|Gloss=man|nWord=1|RX=[N]
+2	kedale	keda	NOUN	_	_	1	mod	_	AlignBegin=54087|AlignEnd=54704|GE=[ADJZ]|Gloss=valley-ADJZ|nWord=2|RX=[N>ADJ]
+3	.	_	PUNCT	_	_	_	_	_	AlignBegin=54704|AlignEnd=55320|Gloss=.|nWord=3
+
+# sent_id = SAB-TXT-BS-00000-09_20-20
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-BS-00000-09.WAV/WAV/SAB-TXT-BS-00000-09.WAV
+# sent_timecode = 55360, 56800
+# morphemic_text = hami keda -le .
+# text = hami kedale .
+# text_en = Men go away.
+# text_ortho = hami kedale .
+1	hami	hami	NOUN	_	_	_	_	_	AlignBegin=55360|AlignEnd=55840|GE=man|Gloss=man|nWord=1|RX=[N]
+2	kedale	keda	NOUN	_	_	1	mod	_	AlignBegin=55840|AlignEnd=56320|GE=[ADJZ]|Gloss=valley-ADJZ|nWord=2|RX=[N>ADJ]
+3	.	_	PUNCT	_	_	_	_	_	AlignBegin=56320|AlignEnd=56800|Gloss=.|nWord=3
+
+# sent_id = SAB-TXT-BS-00000-09_21-22
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-BS-00000-09.WAV/WAV/SAB-TXT-BS-00000-09.WAV
+# sent_timecode = 56825, 63160
+# morphemic_text = entonces trenkwali boca cocinera boca ne be flieda gwa u ke no , sino hoke gaba kwia hombre giti .
+# text = entonces trenkwali boca cocinera boca ne be flieda gwa u ke no , sino hoke gaba kwia hombre giti .
+# text_en = So the mother and the baby will be good in the house, Otherwise the kids will become lazy.
+# text_ortho = entonces trenkwali boca cocinera boca ne be flieda gwa u ke no , sino hoke gaba kwia hombre giti .
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=56825|AlignEnd=57167|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
+2	trenkwali	trenkwali	NOUN	_	_	_	_	_	AlignBegin=57167|AlignEnd=57509|GE=foetus|Gloss=foetus|nWord=2|RX=[N]
+3	boca	boca	_	_	_	_	_	_	AlignBegin=57509|AlignEnd=57851|nWord=3
+4	cocinera	cocinera	NOUN	_	_	_	_	_	AlignBegin=57851|AlignEnd=58193|GE=wife|Gloss=wife|nWord=4|RX=[N]
+5	boca	boca	_	_	_	_	_	_	AlignBegin=58193|AlignEnd=58535|nWord=5
+6	ne	ne	DET	_	_	_	_	_	AlignBegin=58535|AlignEnd=58877|GE=that|Gloss=that|nWord=6|RX=[DET]
+7	be	be	AUX	_	_	_	_	_	AlignBegin=58877|AlignEnd=59219|GE=[FUT]|Gloss=FUT|nWord=7|RX=[VERBPRT]
+8	flieda	flieda	_	_	_	_	_	_	AlignBegin=59219|AlignEnd=59561|nWord=8
+9	gwa	gwa	ADV	_	_	_	_	_	AlignBegin=59561|AlignEnd=59903|GE=inside|Gloss=inside|nWord=9|RX=[ADV]
+10	u	u	NOUN	_	_	11	comp	_	AlignBegin=59903|AlignEnd=60245|GE=house|Gloss=house|nWord=10|RX=[N]
+11	ke	ke	ADP	_	_	_	_	_	AlignBegin=60245|AlignEnd=60587|GE=[LOC]|Gloss=LOC|nWord=11|RX=[ADP]
+12	no	no	ADV	_	_	_	_	_	AlignBegin=60587|AlignEnd=60929|GE=well|Gloss=well|nWord=12|RX=[ADV]
+13	,	_	PUNCT	_	_	_	_	_	AlignBegin=60929|AlignEnd=61275|nWord=13
+14	sino	sino	X	_	_	_	_	_	AlignBegin=61320|AlignEnd=61583|GE=otherwise|Gloss=otherwise|nWord=14|RX=[CONN]
+15	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=61583|AlignEnd=61846|GE=go|Gloss=go|nWord=15|RX=[VI]
+16	gaba	gaba	ADV	_	_	15	comp:pred	_	AlignBegin=61846|AlignEnd=62109|GE=slowly|Gloss=slowly|nWord=16|RX=[ADV]
+17	kwia	kwia	NOUN	_	_	19	comp	_	AlignBegin=62109|AlignEnd=62372|GE=people|Gloss=people|nWord=17|RX=[N]
+18	hombre	hombre	ADJ	_	_	17	mod	_	AlignBegin=62372|AlignEnd=62635|GE=male|Gloss=male|nWord=18|RX=[ADJ]
+19	giti	giti	ADP	_	_	15	mod:tmod	_	AlignBegin=62635|AlignEnd=62898|GE=[LOC]|Gloss=LOC|nWord=19|RX=[ADP]
+20	.	_	PUNCT	_	_	_	_	_	AlignBegin=62898|AlignEnd=63160|Gloss=.|nWord=20
+
+# sent_id = SAB-TXT-BS-00000-09_23-23
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-BS-00000-09.WAV/WAV/SAB-TXT-BS-00000-09.WAV
+# sent_timecode = 63170, 66440
+# morphemic_text = ene giti ama che ne mli -a kle -nga bate .
+# text = ene giti ama che ne mliaklenga bate .
+# text_en = So that is why they are sent far away.
+# text_ortho = ene giti ama che ne mliaklenga bate .
+1	ene	ene	ADV	_	_	_	_	_	AlignBegin=63170|AlignEnd=63579|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	giti	giti	ADV	_	_	_	_	_	AlignBegin=63579|AlignEnd=63988|GE=here|Gloss=here|nWord=2|RX=[ADV]
+3	ama	ama	ADV	_	_	_	_	_	AlignBegin=63988|AlignEnd=64397|GE=so|Gloss=so|nWord=3|RX=[ADV]
+4	che	che	PRON	_	_	_	_	_	AlignBegin=64397|AlignEnd=64806|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=4|RX=[PRO]
+5	ne	ne	DET	_	_	_	_	_	AlignBegin=64806|AlignEnd=65215|GE=that|Gloss=that|nWord=5|RX=[DET]
+6	mlia	mli	VERB	_	_	7	comp:aux@pass	_	AlignBegin=65215|AlignEnd=65419|GE=[PASS]|Gloss=throw-PASS|nWord=6|RX=[V:ANY]
+7	klenga	kle	AUX	_	_	_	_	_	AlignBegin=65419|AlignEnd=65624|GE=[SUB]|Gloss=be-SUB|nWord=6|RX=[V:ANY]
+8	bate	bate	ADV	_	_	_	_	_	AlignBegin=65624|AlignEnd=66033|GE=away|Gloss=away|nWord=7|RX=[ADV]
+9	.	_	PUNCT	_	_	_	_	_	AlignBegin=66033|AlignEnd=66440|Gloss=.|nWord=8
+

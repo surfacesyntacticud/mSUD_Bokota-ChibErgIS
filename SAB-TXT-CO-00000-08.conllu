@@ -1,0 +1,192 @@
+# sent_id = SAB-TXT-CO-00000-08_01-01
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-08.WAV/WAV/SAB-TXT-CO-00000-08.WAV
+# sent_timecode = 17410, 19550
+# morphemic_text = cha kle koi gwe -d- -a .
+# text = cha kle koi gweda .
+# text_en = I kill the chicken.
+# text_ortho = cha kle koi gweda .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=17410|AlignEnd=17838|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=17838|AlignEnd=18266|GE=be|Gloss=be|nWord=2|RX=[V]
+3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=18266|AlignEnd=18694|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
+4	gwe	gwe	VERB	_	_	5	comp:aux/m	_	AlignBegin=18694|AlignEnd=18837|GE=kill|Gloss=sleep|nWord=4|RX=[V]
+5	-da	_	AUX	_	_	2	comp:aux	_	AlignBegin=18837|AlignEnd=19122|GE=[0]|Gloss=-ASP|nWord=4|RX=[VERB]
+6	.	_	PUNCT	_	_	2	punct	_	AlignBegin=19122|AlignEnd=19550|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-CO-00000-08_02-02
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-08.WAV/WAV/SAB-TXT-CO-00000-08.WAV
+# sent_timecode = 19605, 21385
+# morphemic_text = cha kle giska tk -e koi siro ke .
+# text = cha kle giska tke koi siro ke .
+# text_en = I put a rope to the chicken´s neck.
+# text_ortho = cha kle giska tke koi siro ke .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=19605|AlignEnd=19827|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=19827|AlignEnd=20049|GE=be|Gloss=be|nWord=2|RX=[V]
+3	giska	giska	NOUN	_	_	4	comp:obj	_	AlignBegin=20049|AlignEnd=20271|GE=rope|Gloss=rope|nWord=3|RX=[N]
+4	tk	tk	VERB	_	_	5	comp:aux/m	_	AlignBegin=20271|AlignEnd=20382|GE=put|Gloss=put|nWord=4|RX=[VT]
+5	-e	_	AUX	_	_	2	comp:aux	_	AlignBegin=20382|AlignEnd=20493|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+6	koi	koi	NOUN	_	_	7	udep:poss	_	AlignBegin=20493|AlignEnd=20715|GE=chicken|Gloss=chicken|nWord=5|RX=[N]
+7	siro	siro	NOUN	_	_	8	comp	_	AlignBegin=20715|AlignEnd=20937|GE=neck|Gloss=neck|nWord=6|RX=[N]
+8	ke	ke	ADP	_	_	4	comp:obl	_	AlignBegin=20937|AlignEnd=21159|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
+9	.	_	PUNCT	_	_	2	punct	_	AlignBegin=21159|AlignEnd=21385|Gloss=.|nWord=8
+
+# sent_id = SAB-TXT-CO-00000-08_03-03
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-08.WAV/WAV/SAB-TXT-CO-00000-08.WAV
+# sent_timecode = 21470, 22640
+# morphemic_text = cha kle koi gwe -d- -a .
+# text = cha kle koi gweda .
+# text_en = I kill the chicken.
+# text_ortho = cha kle koi gweda .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=21470|AlignEnd=21704|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=21704|AlignEnd=21938|GE=be|Gloss=be|nWord=2|RX=[V]
+3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=21938|AlignEnd=22172|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
+4	gwe	gwe	VERB	_	_	5	comp:aux/m	_	AlignBegin=22172|AlignEnd=22250|GE=kill|Gloss=sleep|nWord=4|RX=[V]
+5	-da	_	AUX	_	_	2	comp:aux	_	AlignBegin=22250|AlignEnd=22406|GE=[0]|Gloss=-ASP|nWord=4|RX=[VERB]
+6	.	_	PUNCT	_	_	2	punct	_	AlignBegin=22406|AlignEnd=22640|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-CO-00000-08_04-04
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-08.WAV/WAV/SAB-TXT-CO-00000-08.WAV
+# sent_timecode = 23600, 25610
+# morphemic_text = despues cha kle ko huk -e ngasuke .
+# text = despues cha kle ko huke ngasuke .
+# text_en = Then I hand pluck (the chicken) outside.
+# text_ortho = despues cha kle ko huke ngasuke .
+1	despues	despues	ADV	_	_	5	mod	_	AlignBegin=23600|AlignEnd=23887|GE=then|Gloss=then|nWord=1|RX=[ADV]
+2	cha	cha	PRON	_	_	5	subj	_	AlignBegin=23887|AlignEnd=24174|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	kle	kle	AUX	_	_	0	root	_	AlignBegin=24174|AlignEnd=24461|GE=be|Gloss=be|nWord=3|RX=[V]
+4	ko	ko	NOUN	_	_	5	comp:obj	_	AlignBegin=24461|AlignEnd=24748|GE=hand|Gloss=hand|nWord=4|RX=[N]
+5	huk	huk	VERB	_	_	6	comp:aux/m	_	AlignBegin=24748|AlignEnd=24892|GE=pluck|Gloss=pluck|nWord=5|RX=[V]
+6	-e	_	AUX	_	_	3	comp:aux	_	AlignBegin=24892|AlignEnd=25035|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	ngasuke	ngasuke	ADV	_	_	5	mod:lmod	_	AlignBegin=25035|AlignEnd=25322|GE=outside|Gloss=outside|nWord=6|RX=[ADV]
+8	.	_	PUNCT	_	_	6	punct	_	AlignBegin=25322|AlignEnd=25610|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-CO-00000-08_05-07
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-08.WAV/WAV/SAB-TXT-CO-00000-08.WAV
+# sent_timecode = 26940, 30735
+# morphemic_text = cha kle koi huk -e ulita , cha kle koi mn -e , cha kle tk -e hi -a ke .
+# text = cha kle koi huke ulita , cha kle koi mne , cha kle tke hia ke .
+# text_en = (When) I pluck all the chicken, I cut the chicken. I put (it) in the fire.
+# text_ortho = cha kle koi huke ulita , cha kle koi mne , cha kle tke hia ke .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=26940|AlignEnd=27152|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=27152|AlignEnd=27364|GE=be|Gloss=be|nWord=2|RX=[V]
+3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=27364|AlignEnd=27576|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
+4	huk	huk	VERB	_	_	5	comp:aux/m	_	AlignBegin=27576|AlignEnd=27682|GE=pluck|Gloss=pluck|nWord=4|RX=[V]
+5	-e	_	AUX	_	_	2	comp:aux	_	AlignBegin=27682|AlignEnd=27788|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+6	ulita	ulita	ADV	_	_	4	mod	_	AlignBegin=27788|AlignEnd=28000|GE=all|Gloss=all|nWord=5|RX=[ADV]
+7	,	_	PUNCT	_	_	2	punct	_	AlignBegin=28000|AlignEnd=28210|nWord=6
+8	cha	cha	PRON	_	_	11	subj	_	AlignBegin=28210|AlignEnd=28442|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
+9	kle	kle	AUX	_	_	2	conj:coord	_	AlignBegin=28442|AlignEnd=28674|GE=be|Gloss=be|nWord=8|RX=[V]
+10	koi	koi	NOUN	_	_	11	comp:obj	_	AlignBegin=28674|AlignEnd=28906|GE=chicken|Gloss=chicken|nWord=9|RX=[N]
+11	mn	mn	VERB	_	_	12	comp:aux/m	_	AlignBegin=28906|AlignEnd=29022|GE=cut|Gloss=cut|nWord=10|RX=[VT]
+12	-e	_	AUX	_	_	9	comp:aux	_	AlignBegin=29022|AlignEnd=29138|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
+13	,	_	PUNCT	_	_	2	punct	_	AlignBegin=29138|AlignEnd=29370|nWord=11
+14	cha	cha	PRON	_	_	16	subj	_	AlignBegin=29445|AlignEnd=29660|GE=[1SG]|Gloss=1SG|nWord=12|RX=[PRO]
+15	kle	kle	AUX	_	_	9	conj:coord	_	AlignBegin=29660|AlignEnd=29875|GE=be|Gloss=be|nWord=13|RX=[V]
+16	tk	tk	VERB	_	_	17	comp:aux/m	_	AlignBegin=29875|AlignEnd=29983|GE=put|Gloss=put|nWord=14|RX=[VT]
+17	-e	_	AUX	_	_	15	comp:aux	_	AlignBegin=29983|AlignEnd=30090|GE=[THM]|Gloss=-THM|nWord=14|RX=[V:ANY]
+18	hi	hi	NOUN	_	_	19	comp:aux/m	_	AlignBegin=30090|AlignEnd=30198|GE=fire|Gloss=fire|nWord=15|RX=[N]
+19	-a	_	AUX	_	_	20	comp	_	AlignBegin=30198|AlignEnd=30305|GE=[0]|Gloss=-0|nWord=15|RX=[NOUN]
+20	ke	ke	ADP	_	_	16	mod:lmod	_	AlignBegin=30305|AlignEnd=30520|GE=[LOC]|Gloss=LOC|nWord=16|RX=[ADP]
+21	.	_	PUNCT	_	_	2	punct	_	AlignBegin=30520|AlignEnd=30735|Gloss=.|nWord=17
+
+# sent_id = SAB-TXT-CO-00000-08_08-09
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-08.WAV/WAV/SAB-TXT-CO-00000-08.WAV
+# sent_timecode = 31835, 34670
+# morphemic_text = cuando koi kle hoke eru , cha kle bla tk -e koi ske .
+# text = cuando koi kle hoke eru , cha kle bla tke koi ske .
+# text_en = When the chicken is ready, I put bananas with the chicken.
+# text_ortho = cuando koi kle hoke eru , cha kle bla tke koi ske .
+1	cuando	cuando	SCONJ	_	Foreign=Yes	10	mod	_	AlignBegin=31835|AlignEnd=32078|GE=when|Gloss=when|Lang=es|nWord=1|RX=[Q]
+2	koi	koi	NOUN	_	_	4	subj	_	AlignBegin=32078|AlignEnd=32321|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
+3	kle	kle	AUX	_	_	1	comp	_	AlignBegin=32321|AlignEnd=32564|GE=be|Gloss=be|nWord=3|RX=[V]
+4	hoke	hoke	VERB	_	_	3	comp:aux	_	AlignBegin=32564|AlignEnd=32807|GE=go|Gloss=go|nWord=4|RX=[VI]
+5	eru	eru	ADJ	_	_	4	comp:pred	_	AlignBegin=32807|AlignEnd=33050|GE=ready|Gloss=ready|nWord=5|RX=[ADJ]
+6	,	_	PUNCT	_	_	8	punct	_	AlignBegin=33050|AlignEnd=33295|nWord=6
+7	cha	cha	PRON	_	_	10	subj	_	AlignBegin=33310|AlignEnd=33504|GE=[1SG]|Gloss=1SG|nWord=7|RX=[PRO]
+8	kle	kle	AUX	_	_	0	root	_	AlignBegin=33504|AlignEnd=33698|GE=be|Gloss=be|nWord=8|RX=[V]
+9	bla	bla	NOUN	_	_	10	comp:obj	_	AlignBegin=33698|AlignEnd=33892|GE=banana|Gloss=banana|nWord=9|RX=[N]
+10	tk	tk	VERB	_	_	11	comp:aux/m	_	AlignBegin=33892|AlignEnd=33989|GE=put|Gloss=put|nWord=10|RX=[VT]
+11	-e	_	AUX	_	_	8	comp:aux	_	AlignBegin=33989|AlignEnd=34086|GE=[THM]|Gloss=-THM|nWord=10|RX=[V:ANY]
+12	koi	koi	NOUN	_	_	13	comp	_	AlignBegin=34086|AlignEnd=34280|GE=chicken|Gloss=chicken|nWord=11|RX=[N]
+13	ske	ske	ADP	_	_	10	comp:obl	_	AlignBegin=34280|AlignEnd=34474|GE=with|Gloss=with|nWord=12|RX=[ADP]
+14	.	_	PUNCT	_	_	8	punct	_	AlignBegin=34474|AlignEnd=34670|Gloss=.|nWord=13
+
+# sent_id = SAB-TXT-CO-00000-08_10-12
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-08.WAV/WAV/SAB-TXT-CO-00000-08.WAV
+# sent_timecode = 34855, 42410
+# morphemic_text = cha kle bla kada primitivo , bla kada tinika , cha kle tk -e koi ske .
+# text = cha kle bla kada Primitivo , bla kada Tinika , cha kle tke koi ske .
+# text_en = Bananas called Primitivo. Banana called Tinika. I put (them) with the chicken.
+# text_ortho = cha kle bla kada Primitivo , bla kada Tinika , cha kle tke koi ske .
+1	cha	cha	PRON	_	_	_	_	_	AlignBegin=34855|AlignEnd=35195|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	_	_	_	AlignBegin=35195|AlignEnd=35535|GE=be|Gloss=be|nWord=2|RX=[V]
+3	bla	bla	NOUN	_	_	4	subj@pass	_	AlignBegin=35535|AlignEnd=35875|GE=banana|Gloss=banana|nWord=3|RX=[N]
+4	kada	kada	VERB	_	_	12	comp:obj	_	AlignBegin=35875|AlignEnd=36215|GE=name|Gloss=name|nWord=4|RX=[N]
+5	primitivo	primitivo	PROPN	_	_	4	comp:pred	_	AlignBegin=36215|AlignEnd=36555|GE=banana_type|Gloss=banana_type|nWord=5|RX=[NPROP]
+6	,	_	PUNCT	_	_	14	punct	_	AlignBegin=36555|AlignEnd=36895|nWord=6
+7	bla	bla	NOUN	_	_	8	subj@pass	_	AlignBegin=37640|AlignEnd=38332|GE=banana|Gloss=banana|nWord=7|RX=[N]
+8	kada	kada	VERB	_	_	4	conj:coord	_	AlignBegin=38332|AlignEnd=39024|GE=name|Gloss=name|nWord=8|RX=[N]
+9	tinika	tinika	PROPN	_	_	8	comp:pred	_	AlignBegin=39024|AlignEnd=39716|GE=banana_type|Gloss=banana_type|nWord=9|RX=[NPROP]
+10	,	_	PUNCT	_	_	14	punct	_	AlignBegin=39716|AlignEnd=40410|nWord=10
+11	cha	cha	PRON	_	_	14	subj	_	AlignBegin=41160|AlignEnd=41368|GE=[1SG]|Gloss=1SG|nWord=11|RX=[PRO]
+12	kle	kle	AUX	_	_	14	comp:aux/m	_	AlignBegin=41368|AlignEnd=41576|GE=be|Gloss=be|nWord=12|RX=[V]
+13	tk	tk	VERB	_	_	14	comp:aux/m	_	AlignBegin=41576|AlignEnd=41680|GE=put|Gloss=put|nWord=13|RX=[VT]
+14	-e	_	AUX	_	_	0	root	_	AlignBegin=41680|AlignEnd=41784|GE=[THM]|Gloss=-THM|nWord=13|RX=[V:ANY]
+15	koi	koi	NOUN	_	_	16	comp	_	AlignBegin=41784|AlignEnd=41992|GE=chicken|Gloss=chicken|nWord=14|RX=[N]
+16	ske	ske	ADP	_	_	13	comp:obl	_	AlignBegin=41992|AlignEnd=42200|GE=with|Gloss=with|nWord=15|RX=[ADP]
+17	.	_	PUNCT	_	_	14	punct	_	AlignBegin=42200|AlignEnd=42410|Gloss=.|nWord=16
+
+# sent_id = SAB-TXT-CO-00000-08_13-13
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-08.WAV/WAV/SAB-TXT-CO-00000-08.WAV
+# sent_timecode = 42420, 44540
+# morphemic_text = cha kle koi hunga kedaru .
+# text = cha kle koi hunga kedaru .
+# text_en = I take the chicken out.
+# text_ortho = cha kle koi hunga kedaru .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=42420|AlignEnd=42773|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=42773|AlignEnd=43126|GE=be|Gloss=be|nWord=2|RX=[V]
+3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=43126|AlignEnd=43479|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
+4	hunga	hunga	VERB	_	_	2	comp:aux	_	AlignBegin=43479|AlignEnd=43832|GE=take_out|Gloss=take_out|nWord=4|RX=[V]
+5	kedaru	kedaru	ADV	_	_	4	mod:lmod	_	AlignBegin=43832|AlignEnd=44185|GE=outside|Gloss=outside|nWord=5|RX=[ADV]
+6	.	_	PUNCT	_	_	2	punct	_	AlignBegin=44185|AlignEnd=44540|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-CO-00000-08_14-14
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-08.WAV/WAV/SAB-TXT-CO-00000-08.WAV
+# sent_timecode = 45835, 47385
+# morphemic_text = cha kle bligda skeke dek -e .
+# text = cha kle bligda skeke deke .
+# text_en = I let the chicken cool off.
+# text_ortho = cha kle bligda skeke deke .
+1	cha	cha	PRON	_	_	5	subj	_	AlignBegin=45835|AlignEnd=46093|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=46093|AlignEnd=46351|GE=be|Gloss=be|nWord=2|RX=[V]
+3	bligda	bligda	NOUN	_	_	_	_	_	AlignBegin=46351|AlignEnd=46609|GE=food|Gloss=food|nWord=3|RX=[N]
+4	skeke	skeke	ADJ	_	_	3	mod	_	AlignBegin=46609|AlignEnd=46867|GE=cold|Gloss=cold|nWord=4|RX=[ADJ]
+5	dek	dek	VERB	_	_	6	comp:aux/m	_	AlignBegin=46867|AlignEnd=46996|GE=let|Gloss=let|nWord=5|RX=[V]
+6	-e	_	AUX	_	_	2	comp:aux	_	AlignBegin=46996|AlignEnd=47125|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	.	_	PUNCT	_	_	2	punct	_	AlignBegin=47125|AlignEnd=47385|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-CO-00000-08_15-15
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-08.WAV/WAV/SAB-TXT-CO-00000-08.WAV
+# sent_timecode = 47405, 50155
+# morphemic_text = despues cha kle bligda ne gut -e .
+# text = despues cha kle bligda ne gute .
+# text_en = Then I eat that food.
+# text_ortho = despues cha kle bligda ne gute .
+1	despues	despues	ADV	_	_	6	mod	_	AlignBegin=47405|AlignEnd=47798|GE=then|Gloss=then|nWord=1|RX=[ADV]
+2	cha	cha	PRON	_	_	6	subj	_	AlignBegin=47798|AlignEnd=48191|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	kle	kle	AUX	_	_	0	root	_	AlignBegin=48191|AlignEnd=48584|GE=be|Gloss=be|nWord=3|RX=[V]
+4	bligda	bligda	NOUN	_	_	6	comp:obj	_	AlignBegin=48584|AlignEnd=48977|GE=food|Gloss=food|nWord=4|RX=[N]
+5	ne	ne	DET	_	_	4	mod	_	AlignBegin=48977|AlignEnd=49370|GE=that|Gloss=that|nWord=5|RX=[DET]
+6	gut	gut	VERB	_	_	7	comp:aux/m	_	AlignBegin=49370|AlignEnd=49566|GE=eat|Gloss=eat|nWord=6|RX=[VT]
+7	-e	_	AUX	_	_	3	comp:aux	_	AlignBegin=49566|AlignEnd=49763|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
+8	.	_	PUNCT	_	_	3	punct	_	AlignBegin=49763|AlignEnd=50155|Gloss=.|nWord=7
+

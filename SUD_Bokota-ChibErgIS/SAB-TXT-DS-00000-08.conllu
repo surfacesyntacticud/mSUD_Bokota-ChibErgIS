@@ -1,0 +1,128 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = SAB-TXT-DS-00000-08_1-3
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-08.WAV/WAV/SAB-TXT-DS-00000-08.WAV
+# sent_timecode = 6630, 12925
+# morphemic_text = cha kle ho ked -a , cha kle ho ked -a , entonces cha kle daba dwe .
+# text = cha kle hokeda , cha kle hokeda , entonces cha kle daba dwe .
+# text_en = If I die, If I die. So I carry my brother.
+# text_ortho = cha kle hokeda , cha kle hokeda , entonces cha kle daba dwe .
+1	cha	cha	PRON	_	_	3	subj	_	AlignBegin=6630|AlignEnd=7262|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	_	_	_	AlignBegin=7262|AlignEnd=7894|GE=be|Gloss=be|nWord=2|RX=[V]
+3	hokeda	hokeked	VERB	_	_	2	comp:aux	_	AlignBegin=7894|AlignEnd=8526|GE=die|Gloss=go-ASP|nWord=3|RX=[V]
+4	,	_	PUNCT	_	_	_	_	_	AlignBegin=8526|AlignEnd=9160|nWord=4
+5	cha	cha	PRON	_	_	7	subj	_	AlignBegin=9530|AlignEnd=9860|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
+6	kle	kle	AUX	_	_	_	_	_	AlignBegin=9860|AlignEnd=10190|GE=be|Gloss=be|nWord=6|RX=[V]
+7	hokeda	hokeked	VERB	_	_	6	comp:aux	_	AlignBegin=10190|AlignEnd=10520|GE=die|Gloss=go-ASP|nWord=7|RX=[V]
+8	,	_	PUNCT	_	_	_	_	_	AlignBegin=10520|AlignEnd=10850|nWord=8
+9	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=10865|AlignEnd=11208|GE=so|Gloss=so|Lang=es|nWord=9|RX=[ADV]
+10	cha	cha	PRON	_	_	13	subj	_	AlignBegin=11208|AlignEnd=11551|GE=[1SG]|Gloss=1SG|nWord=10|RX=[PRO]
+11	kle	kle	AUX	_	_	_	_	_	AlignBegin=11551|AlignEnd=11894|GE=be|Gloss=be|nWord=11|RX=[V]
+12	daba	daba	NOUN	_	_	13	comp:obj	_	AlignBegin=11894|AlignEnd=12237|GE=brother|Gloss=brother|nWord=12|RX=[N]
+13	dwe	dwe	VERB	_	_	11	comp:aux	_	AlignBegin=12237|AlignEnd=12580|GE=[carry].[NPST]|Gloss=carry.NPST|nWord=13|RX=[VT]
+14	.	_	PUNCT	_	_	_	_	_	AlignBegin=12580|AlignEnd=12925|Gloss=.|nWord=14
+
+# sent_id = SAB-TXT-DS-00000-08_4-4
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-08.WAV/WAV/SAB-TXT-DS-00000-08.WAV
+# sent_timecode = 13040, 14720
+# morphemic_text = cha kle daba tk -e dui ke .
+# text = cha kle daba tke dui ke .
+# text_en = I put my brother in the ground.
+# text_ortho = cha kle daba tke dui ke .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=13040|AlignEnd=13280|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=13280|AlignEnd=13520|GE=be|Gloss=be|nWord=2|RX=[V]
+3	daba	daba	NOUN	_	_	4	comp:obj	_	AlignBegin=13520|AlignEnd=13760|GE=brother|Gloss=brother|nWord=3|RX=[N]
+4	tke	tk	VERB	_	_	2	comp:aux	_	AlignBegin=13760|AlignEnd=14000|GE=[THM]|Gloss=put-THM|nWord=4|RX=[V:ANY]
+5	dui	dui	NOUN	_	_	6	comp	_	AlignBegin=14000|AlignEnd=14240|GE=dirt|Gloss=dirt|nWord=5|RX=[N]
+6	ke	ke	ADP	_	_	4	comp:obl	_	AlignBegin=14240|AlignEnd=14480|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
+7	.	_	PUNCT	_	_	2	punct	_	AlignBegin=14480|AlignEnd=14720|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-DS-00000-08_5-5
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-08.WAV/WAV/SAB-TXT-DS-00000-08.WAV
+# sent_timecode = 14955, 18225
+# morphemic_text = entonces cha kle bag -e hasta baka ke .
+# text = entonces cha kle bage ata baka ke .
+# text_en = Then I mourn for four day.
+# text_ortho = entonces cha kle bage ata baka ke .
+1	entonces	entonces	ADV	_	Foreign=Yes	3	discourse	_	AlignBegin=14955|AlignEnd=15364|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
+2	cha	cha	PRON	_	_	4	subj	_	AlignBegin=15364|AlignEnd=15773|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	kle	kle	AUX	_	_	0	root	_	AlignBegin=15773|AlignEnd=16182|GE=be|Gloss=be|nWord=3|RX=[V]
+4	bage	bag	VERB	_	_	3	comp:aux	_	AlignBegin=16182|AlignEnd=16591|GE=[THM]|Gloss=ceremoniate-THM|nWord=4|RX=[V:ANY]
+5	hasta	hasta	ADP	_	Foreign=Yes	4	mod:tmod	_	AlignBegin=16591|AlignEnd=17000|GE=to|Gloss=to|Lang=es|nWord=5|RX=[ADP]
+6	baka	baka	NOUN	_	_	7	comp	_	AlignBegin=17000|AlignEnd=17409|GE=four|Gloss=four|nWord=6|RX=[N]
+7	ke	ke	ADP	_	_	5	compound	_	AlignBegin=17409|AlignEnd=17818|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
+8	.	_	PUNCT	_	_	3	punct	_	AlignBegin=17818|AlignEnd=18225|Gloss=.|nWord=8
+
+# sent_id = SAB-TXT-DS-00000-08_6-6
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-08.WAV/WAV/SAB-TXT-DS-00000-08.WAV
+# sent_timecode = 18595, 21295
+# morphemic_text = baka ke cha kle kwi chi -e -ni .
+# text = baka ke cha kle kwi chieni .
+# text_en = After four days I break the fast.
+# text_ortho = baka ke cha kle kwi chieni .
+1	baka	baka	NOUN	_	_	2	comp	_	AlignBegin=18595|AlignEnd=18981|GE=four|Gloss=four|nWord=1|RX=[N]
+2	ke	ke	ADP	_	_	_	_	_	AlignBegin=18981|AlignEnd=19367|GE=[LOC]|Gloss=LOC|nWord=2|RX=[ADP]
+3	cha	cha	PRON	_	_	6	subj	_	AlignBegin=19367|AlignEnd=19753|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
+4	kle	kle	AUX	_	_	_	_	_	AlignBegin=19753|AlignEnd=20139|GE=be|Gloss=be|nWord=4|RX=[V]
+5	kwi	kwi	ADJ	_	_	_	_	_	AlignBegin=20139|AlignEnd=20525|GE=idiot|Gloss=idiot|nWord=5|RX=[ADJ]
+6	chieni	chi	VERB	_	_	4	comp:aux	_	AlignBegin=20525|AlignEnd=20911|GE=[IT]|Gloss=come-THM-IT|nWord=6|RX=[V:ANY]
+7	.	_	PUNCT	_	_	_	_	_	AlignBegin=20911|AlignEnd=21295|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-DS-00000-08_7-7
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-08.WAV/WAV/SAB-TXT-DS-00000-08.WAV
+# sent_timecode = 21610, 25170
+# morphemic_text = ( daba ) cha oli kle hoke honiku .
+# text = ( daba ) cha oli kle hoke honiku .
+# text_en = If I am the orphan I go outside.
+# text_ortho = ( daba ) cha oli kle hoke honiku .
+1	(	_	PUNCT	_	_	_	_	_	AlignBegin=21610|AlignEnd=22006|nWord=1
+2	daba	daba	NOUN	_	_	_	_	_	AlignBegin=22006|AlignEnd=22402|GE=brother|Gloss=brother|nWord=2|RX=[N]
+3	)	_	PUNCT	_	_	_	_	_	AlignBegin=22402|AlignEnd=22798|nWord=3
+4	cha	cha	PRON	_	_	_	_	_	AlignBegin=22798|AlignEnd=23194|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
+5	oli	oli	NOUN	_	_	7	subj	_	AlignBegin=23194|AlignEnd=23590|GE=orphan|Gloss=orphan|nWord=5|RX=[N]
+6	kle	kle	AUX	_	_	0	root	_	AlignBegin=23590|AlignEnd=23986|GE=be|Gloss=be|nWord=6|RX=[V]
+7	hoke	hoke	VERB	_	_	6	comp:aux	_	AlignBegin=23986|AlignEnd=24382|GE=go|Gloss=go|nWord=7|RX=[VI]
+8	honiku	honiku	ADV	_	_	7	mod:lmod	_	AlignBegin=24382|AlignEnd=24778|GE=outside|Gloss=outside|nWord=8|RX=[ADV]
+9	.	_	PUNCT	_	_	_	_	_	AlignBegin=24778|AlignEnd=25170|Gloss=.|nWord=9
+
+# sent_id = SAB-TXT-DS-00000-08_8-8
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-08.WAV/WAV/SAB-TXT-DS-00000-08.WAV
+# sent_timecode = 25715, 28335
+# morphemic_text = cha oli kle hoke u ke ngana ke .
+# text = cha oli kle hoke u ke ngana ke .
+# text_en = I, the orphan, go in a house apart from the others.
+# text_ortho = cha oli kle hoke u ke ngana ke .
+1	cha	cha	PRON	_	_	_	_	_	AlignBegin=25715|AlignEnd=26006|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	oli	oli	NOUN	_	_	4	subj	_	AlignBegin=26006|AlignEnd=26297|GE=orphan|Gloss=orphan|nWord=2|RX=[N]
+3	kle	kle	AUX	_	_	0	root	_	AlignBegin=26297|AlignEnd=26588|GE=be|Gloss=be|nWord=3|RX=[V]
+4	hoke	hoke	VERB	_	_	3	comp:aux	_	AlignBegin=26588|AlignEnd=26879|GE=go|Gloss=go|nWord=4|RX=[VI]
+5	u	u	NOUN	_	_	6	comp	_	AlignBegin=26879|AlignEnd=27170|GE=house|Gloss=house|nWord=5|RX=[N]
+6	ke	ke	ADP	_	_	4	comp:obl	_	AlignBegin=27170|AlignEnd=27461|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
+7	ngana	ngana	ADV	_	_	_	_	_	AlignBegin=27461|AlignEnd=27752|GE=differently|Gloss=differently|nWord=7|RX=[ADV]
+8	ke	ke	ADP	_	_	_	_	_	AlignBegin=27752|AlignEnd=28043|GE=[LOC]|Gloss=LOC|nWord=8|RX=[ADP]
+9	.	_	PUNCT	_	_	3	punct	_	AlignBegin=28043|AlignEnd=28335|Gloss=.|nWord=9
+
+# sent_id = SAB-TXT-DS-00000-08_9-9
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-08.WAV/WAV/SAB-TXT-DS-00000-08.WAV
+# sent_timecode = 29540, 33330
+# morphemic_text = entonces ya cha bitaia cha kle gwa hokenga ke .
+# text = entonces ya cha bitaia cha kle gwa hokenga ke .
+# text_en = So then my family is with me who went inside.
+# text_ortho = entonces ya cha bitaia cha kle gwa hokenga ke .
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=29540|AlignEnd=29919|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
+2	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=29919|AlignEnd=30298|GE=now|Gloss=now|Lang=es|nWord=2|RX=[ADV]
+3	cha	cha	PRON	_	_	4	udep:poss	_	AlignBegin=30298|AlignEnd=30677|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
+4	bitaia	bitaia	NOUN	_	_	_	_	_	AlignBegin=30677|AlignEnd=31056|GE=family|Gloss=family|nWord=4|RX=[N]
+5	cha	cha	PRON	_	_	8	subj	_	AlignBegin=31056|AlignEnd=31435|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
+6	kle	kle	AUX	_	_	_	_	_	AlignBegin=31435|AlignEnd=31814|GE=be|Gloss=be|nWord=6|RX=[V]
+7	gwa	gwa	ADV	_	_	_	_	_	AlignBegin=31814|AlignEnd=32193|GE=inside|Gloss=inside|nWord=7|RX=[ADV]
+8	hokenga	hokenga	VERB	_	_	6	comp:aux	_	AlignBegin=32193|AlignEnd=32572|GE=loose|Gloss=loose|nWord=8|RX=[V]
+9	ke	ke	ADP	_	_	_	_	_	AlignBegin=32572|AlignEnd=32951|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
+10	.	_	PUNCT	_	_	_	_	_	AlignBegin=32951|AlignEnd=33330|Gloss=.|nWord=10
+

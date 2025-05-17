@@ -1,0 +1,243 @@
+# sent_id = SAB-TXT-PA-00000-01_01-01
+# speaker_id = @01
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-01.WAV/WAV/SAB-TXT-PA-00000-01.WAV
+# sent_timecode = 11220, 15570
+# morphemic_text = ba be hoke Rio Luis .
+# text = ba be hoke Rio Luis .
+# text_en = You will go to Rio Luis.
+# text_ortho = ba be hoke Rio Luis .
+1	ba	ba	PRON	_	_	3	subj	_	AlignBegin=11220|AlignEnd=11945|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
+2	be	be	AUX	_	_	0	root	_	AlignBegin=11945|AlignEnd=12670|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
+3	hoke	hoke	VERB	_	_	2	comp:aux	_	AlignBegin=12670|AlignEnd=13395|GE=go|Gloss=go|nWord=3|RX=[VI]
+4	Rio	Rio	NOUN	_	_	3	mod	_	AlignBegin=13395|AlignEnd=14120|GE=[Rio]|Gloss=Rio|nWord=4|RX=[N]
+5	Luis	Luis	PROPN	_	_	4	flat	_	AlignBegin=14120|AlignEnd=14845|GE=[Luis]|Gloss=Luis|nWord=5|RX=[NPROP]
+6	.	_	PUNCT	_	_	2	punct	_	AlignBegin=14845|AlignEnd=15570|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-PA-00000-01_02-02
+# speaker_id = @01
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-01.WAV/WAV/SAB-TXT-PA-00000-01.WAV
+# sent_timecode = 16730, 19990
+# morphemic_text = ba be hong gda ite gai .
+# text = ba be hong gdaite gai .
+# text_en = You will take one path.
+# text_ortho = ba be hong gdaite gai .
+1	ba	ba	PRON	_	_	6	subj	_	AlignBegin=16730|AlignEnd=17273|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
+2	be	be	AUX	_	_	0	root	_	AlignBegin=17273|AlignEnd=17816|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
+3	hong	hong	NOUN	_	_	6	comp:obj	_	AlignBegin=17816|AlignEnd=18359|GE=path|Gloss=path|nWord=3|RX=[N]
+4	gda	gda	NUM	_	_	5	clf	_	AlignBegin=18359|AlignEnd=18631|GE=cl|Gloss=cl|nWord=4|RX=[NUM]
+5	ite	ite	NUM	_	_	3	mod	_	AlignBegin=18631|AlignEnd=18902|GE=one|Gloss=one|nWord=4|RX=[NUM]
+6	gai	gai	VERB	_	_	2	comp:aux	_	AlignBegin=18902|AlignEnd=19445|GE=pick_up|Gloss=pick_up|nWord=5|RX=[VT]
+7	.	_	PUNCT	_	_	2	punct	_	AlignBegin=19445|AlignEnd=19990|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-PA-00000-01_03-03
+# speaker_id = @01
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-01.WAV/WAV/SAB-TXT-PA-00000-01.WAV
+# sent_timecode = 22030, 23570
+# morphemic_text = honinke ba be hoke chk -e chi nangka ke .
+# text = honinke ba be hoke chke chi nangka ke .
+# text_en = First you will go to the first river.
+# text_ortho = honinke ba be hoke chke chi nangka ke .
+1	honinke	honinke	ADV	_	_	4	mod	_	AlignBegin=22030|AlignEnd=22201|GE=first|Gloss=first|nWord=1|RX=[ADV]
+2	ba	ba	PRON	_	_	4	subj	_	AlignBegin=22201|AlignEnd=22372|GE=[2SG]|Gloss=2SG|nWord=2|RX=[PRO]
+3	be	be	AUX	_	_	0	root	_	AlignBegin=22372|AlignEnd=22543|GE=[FUT]|Gloss=FUT|nWord=3|RX=[VERBPRT]
+4	hoke	hoke	VERB	_	_	3	comp:aux	_	AlignBegin=22543|AlignEnd=22714|GE=go|Gloss=go|nWord=4|RX=[VI]
+5	chk	chk	VERB	_	_	6	comp:aux/m	_	AlignBegin=22714|AlignEnd=22800|GE=arrive|Gloss=arrive|nWord=5|RX=[VI]
+6	-e	_	AUX	_	_	4	compound:svc	_	AlignBegin=22800|AlignEnd=22885|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	chi	chi	NOUN	_	_	9	comp	_	AlignBegin=22885|AlignEnd=23056|GE=water|Gloss=water|nWord=6|RX=[N]
+8	nangka	nangka	ADJ	_	_	7	mod	_	AlignBegin=23056|AlignEnd=23227|GE=next|Gloss=next|nWord=7|RX=[ADJ]
+9	ke	ke	ADP	_	_	5	mod:lmod	_	AlignBegin=23227|AlignEnd=23398|GE=[LOC]|Gloss=LOC|nWord=8|RX=[ADP]
+10	.	_	PUNCT	_	_	3	punct	_	AlignBegin=23398|AlignEnd=23570|Gloss=.|nWord=9
+
+# sent_id = SAB-TXT-PA-00000-01_04-04
+# speaker_id = @01
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-01.WAV/WAV/SAB-TXT-PA-00000-01.WAV
+# sent_timecode = 24803, 26253
+# morphemic_text = chi nangka ba be tkenga .
+# text = chi nangka ba be tkenga .
+# text_en = You will cross the first river.
+# text_ortho = chi nangka ba be tkenga .
+1	chi	chi	NOUN	_	_	5	comp:obj	_	AlignBegin=24803|AlignEnd=25045|GE=water|Gloss=water|nWord=1|RX=[N]
+2	nangka	nangka	ADJ	_	_	1	mod	_	AlignBegin=25045|AlignEnd=25287|GE=next|Gloss=next|nWord=2|RX=[ADJ]
+3	ba	ba	PRON	_	_	5	subj	_	AlignBegin=25287|AlignEnd=25529|GE=[2SG]|Gloss=2SG|nWord=3|RX=[PRO]
+4	be	be	AUX	_	_	0	root	_	AlignBegin=25529|AlignEnd=25771|GE=[FUT]|Gloss=FUT|nWord=4|RX=[VERBPRT]
+5	tkenga	tkenga	VERB	_	_	4	comp:aux	_	AlignBegin=25771|AlignEnd=26013|GE=[cut].[NPST]|Gloss=cut.NPST|nWord=5|RX=[VT]
+6	.	_	PUNCT	_	_	4	punct	_	AlignBegin=26013|AlignEnd=26253|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-PA-00000-01_05-05
+# speaker_id = @01
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-01.WAV/WAV/SAB-TXT-PA-00000-01.WAV
+# sent_timecode = 26783, 27323
+# morphemic_text = ba be hoke hong gda ite ske tengkle .
+# text = ba be hoke hong gdaite sketengkle .
+# text_en = You will go through the straight path,
+# text_ortho = ba be hoke hong gdaite sketengkle .
+1	ba	ba	PRON	_	_	3	subj	_	AlignBegin=26783|AlignEnd=26860|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
+2	be	be	AUX	_	_	0	root	_	AlignBegin=26860|AlignEnd=26937|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
+3	hoke	hoke	VERB	_	_	2	comp:aux	_	AlignBegin=26937|AlignEnd=27014|GE=go|Gloss=go|nWord=3|RX=[VI]
+4	hong	hong	NOUN	_	_	7	comp	_	AlignBegin=27014|AlignEnd=27091|GE=path|Gloss=path|nWord=4|RX=[N]
+5	gda	gda	NUM	_	_	6	clf	_	AlignBegin=27091|AlignEnd=27129|GE=cl|Gloss=cl|nWord=5|RX=[NUM]
+6	ite	ite	NUM	_	_	4	mod	_	AlignBegin=27129|AlignEnd=27168|GE=one|Gloss=one|nWord=5|RX=[NUM]
+7	ske	ske	ADP	_	_	3	mod	_	AlignBegin=27168|AlignEnd=27206|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
+8	tengkle	tengkle	ADV	_	_	7	compound	_	AlignBegin=27206|AlignEnd=27245|GE=through|Gloss=through|nWord=6|RX=[ADV]
+9	.	_	PUNCT	_	_	2	punct	_	AlignBegin=27245|AlignEnd=27323|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-PA-00000-01_06-07
+# speaker_id = @01
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-01.WAV/WAV/SAB-TXT-PA-00000-01.WAV
+# sent_timecode = 27323, 36390
+# morphemic_text = ba be hoke irongchia ke chi nanka gda ite irongchia , Irõchia ba be tkenga .
+# text = ba be hoke irongchia ke chi nanka gdaite irongchia , Irõchia ba be tkenga .
+# text_en = You will go to Irongchia, the next river Ironchia, You will cross the Irontchia river.
+# text_ortho = ba be hoke irongchia ke chi nanka gdaite irongchia , Irõchia ba be tkenga .
+1	ba	ba	PRON	_	_	3	subj	_	AlignBegin=27323|AlignEnd=27723|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
+2	be	be	AUX	_	_	_	_	_	AlignBegin=27723|AlignEnd=28123|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
+3	hoke	hoke	VERB	_	_	2	comp:aux	_	AlignBegin=28123|AlignEnd=28523|GE=go|Gloss=go|nWord=3|RX=[VI]
+4	irongchia	irongchia	PROPN	_	_	5	comp	_	AlignBegin=28523|AlignEnd=28923|GE=[Irongchia]|Gloss=Irongchia|nWord=4|RX=[NPROP]
+5	ke	ke	ADP	_	_	3	comp:obl	_	AlignBegin=28923|AlignEnd=29323|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
+6	chi	chi	NOUN	_	_	_	_	_	AlignBegin=29323|AlignEnd=29723|GE=water|Gloss=water|nWord=6|RX=[N]
+7	nanka	nanka	ADJ	_	_	6	mod	_	AlignBegin=29723|AlignEnd=30123|GE=next|Gloss=next|nWord=7|RX=[ADJ]
+8	gda	gda	NUM	_	_	9	clf	_	AlignBegin=30123|AlignEnd=30323|GE=cl|Gloss=cl|nWord=8|RX=[NUM]
+9	ite	ite	NUM	_	_	_	_	_	AlignBegin=30323|AlignEnd=30523|GE=one|Gloss=one|nWord=8|RX=[NUM]
+10	irongchia	irongchia	PROPN	_	_	_	_	_	AlignBegin=30523|AlignEnd=30923|GE=[Irongchia]|Gloss=Irongchia|nWord=9|RX=[NPROP]
+11	,	_	PUNCT	_	_	_	_	_	AlignBegin=30923|AlignEnd=31323|nWord=10
+12	Irõchia	Irõchia	NOUN	_	_	15	comp:obj	_	AlignBegin=35070|AlignEnd=35334|GE=[Ironchia]|Gloss=Ironchia|nWord=11|RX=[N]
+13	ba	ba	PRON	_	_	15	subj	_	AlignBegin=35334|AlignEnd=35598|GE=[2SG]|Gloss=2SG|nWord=12|RX=[PRO]
+14	be	be	AUX	_	_	_	_	_	AlignBegin=35598|AlignEnd=35862|GE=[FUT]|Gloss=FUT|nWord=13|RX=[VERBPRT]
+15	tkenga	tkenga	VERB	_	_	14	comp:aux	_	AlignBegin=35862|AlignEnd=36126|GE=[cut].[NPST]|Gloss=cut.NPST|nWord=14|RX=[VT]
+16	.	_	PUNCT	_	_	_	_	_	AlignBegin=36126|AlignEnd=36390|Gloss=.|nWord=15
+
+# sent_id = SAB-TXT-PA-00000-01_08-08
+# speaker_id = @01
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-01.WAV/WAV/SAB-TXT-PA-00000-01.WAV
+# sent_timecode = 36440, 37780
+# morphemic_text = ba be hoke gwa bduk -u -da .
+# text = ba be hoke gwabdukuda .
+# text_en = You will go up the hill.
+# text_ortho = ba be hoke gwabdukuda .
+1	ba	ba	PRON	_	_	3	subj	_	AlignBegin=36440|AlignEnd=36708|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
+2	be	be	AUX	_	_	0	root	_	AlignBegin=36708|AlignEnd=36976|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
+3	hoke	hoke	VERB	_	_	2	comp:aux	_	AlignBegin=36976|AlignEnd=37244|GE=go|Gloss=go|nWord=3|RX=[VI]
+4	gwa	gwa	ADV	_	_	3	mod	_	AlignBegin=37244|AlignEnd=37311|GE=inside|Gloss=inside|nWord=4|RX=[ADV]
+5	bduk	bduk	VERB	_	_	6	comp:aux/m	_	AlignBegin=37311|AlignEnd=37378|GE=go_up|Gloss=go_up|nWord=4|RX=[V]
+6	-u	_	AUX	_	_	7	comp:aux/m	_	AlignBegin=37378|AlignEnd=37445|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
+7	-da	_	AUX	_	_	3	mod	_	AlignBegin=37445|AlignEnd=37512|GE=emph|Gloss=emph|nWord=4|RX=[VERB]
+8	.	_	PUNCT	_	_	2	punct	_	AlignBegin=37512|AlignEnd=37780|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-PA-00000-01_09-10
+# speaker_id = @01
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-01.WAV/WAV/SAB-TXT-PA-00000-01.WAV
+# sent_timecode = 38637, 41682
+# morphemic_text = ba hoke chk -e bduk -u , hong hoke esta ngania hiongku , ba hoke ba ho hong ka hiongku gai y me hong ka itiru .
+# text = ba hoke chke bduku , hong hoke ta ngania hiongku , ba hoke ba ho hong ka hiongku gai y me hong ka itiru .
+# text_en = You will go up. The path that is from up down, you will go through the path on the left and not through the path on the right.
+# text_ortho = ba hoke chke bduku , hong hoke ta ngania hiongku , ba hoke ba ho hong ka hiongku gai y me hong ka itiru .
+1	ba	ba	PRON	_	_	2	subj	_	AlignBegin=38637|AlignEnd=38845|GE=[2SG]|Gloss=2SG|nWord=1|RX=[PRO]
+2	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=38845|AlignEnd=39053|GE=go|Gloss=go|nWord=2|RX=[VI]
+3	chk	chk	VERB	_	_	4	comp:aux/m	_	AlignBegin=39053|AlignEnd=39157|GE=arrive|Gloss=arrive|nWord=3|RX=[VI]
+4	-e	_	AUX	_	_	2	compound:svc	_	AlignBegin=39157|AlignEnd=39261|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+5	bduk	bduk	VERB	_	_	6	comp:aux/m	_	AlignBegin=39261|AlignEnd=39365|GE=go_up|Gloss=go_up|nWord=4|RX=[V]
+6	-u	_	AUX	_	_	_	_	_	AlignBegin=39365|AlignEnd=39469|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
+7	,	_	PUNCT	_	_	_	_	_	AlignBegin=39469|AlignEnd=39677|nWord=5
+8	hong	hong	NOUN	_	_	9	subj	_	AlignBegin=39912|AlignEnd=40000|GE=path|Gloss=path|nWord=6|RX=[N]
+9	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=40000|AlignEnd=40088|GE=go|Gloss=go|nWord=7|RX=[VI]
+10	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=40088|AlignEnd=40176|GE=be|Gloss=be|Lang=es|nWord=8|RX=[V]
+11	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=40176|AlignEnd=40264|GE=up|Gloss=up|nWord=9|RX=[ADV]
+12	hiongku	hiongku	ADV	_	_	_	_	_	AlignBegin=40264|AlignEnd=40352|GE=far.prox.down|Gloss=far.prox.down|nWord=10|RX=[ADV]
+13	,	_	PUNCT	_	_	_	_	_	AlignBegin=40352|AlignEnd=40440|nWord=11
+14	ba	ba	PRON	_	_	15	subj	_	AlignBegin=40440|AlignEnd=40528|GE=[2SG]|Gloss=2SG|nWord=12|RX=[PRO]
+15	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=40528|AlignEnd=40616|GE=go|Gloss=go|nWord=13|RX=[VI]
+16	ba	ba	PRON	_	_	17	subj	_	AlignBegin=40616|AlignEnd=40704|GE=[2SG]|Gloss=2SG|nWord=14|RX=[PRO]
+17	ho	hoke	AUX	_	_	_	_	_	AlignBegin=40704|AlignEnd=40792|GE=[go].[PST]|Gloss=go.PST|nWord=15|RX=[VI]
+18	hong	hong	NOUN	_	_	21	comp:obj	_	AlignBegin=40792|AlignEnd=40880|GE=path|Gloss=path|nWord=16|RX=[N]
+19	ka	ka	NOUN	_	_	18	mod	_	AlignBegin=40880|AlignEnd=40968|GE=mouth|Gloss=mouth|nWord=17|RX=[N]
+20	hiongku	hiongku	ADV	_	_	_	_	_	AlignBegin=40968|AlignEnd=41056|GE=far.prox.down|Gloss=far.prox.down|nWord=18|RX=[ADV]
+21	gai	gai	VERB	_	_	17	comp:aux	_	AlignBegin=41056|AlignEnd=41144|GE=pick_up|Gloss=pick_up|nWord=19|RX=[VT]
+22	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=41144|AlignEnd=41232|GE=and|Gloss=and|Lang=es|nWord=20|RX=[COORDCONN]
+23	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=41232|AlignEnd=41320|GE=[NEG]|Gloss=NEG|nWord=21|RX=[VERBPRT]
+24	hong	hong	NOUN	_	_	_	_	_	AlignBegin=41320|AlignEnd=41408|GE=path|Gloss=path|nWord=22|RX=[N]
+25	ka	ka	NOUN	_	_	_	_	_	AlignBegin=41408|AlignEnd=41496|GE=mouth|Gloss=mouth|nWord=23|RX=[N]
+26	itiru	itiru	_	_	_	_	_	_	AlignBegin=41496|AlignEnd=41584|nWord=24
+27	.	_	PUNCT	_	_	_	_	_	AlignBegin=41584|AlignEnd=41682|Gloss=.|nWord=25
+
+# sent_id = SAB-TXT-PA-00000-01_11-11
+# speaker_id = @01
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-01.WAV/WAV/SAB-TXT-PA-00000-01.WAV
+# sent_timecode = 47905, 49955
+# morphemic_text = hong que gwa hiongku -da .
+# text = hong que gwahiongkuda .
+# text_en = The path that goes down the hill.
+# text_ortho = hong que gwahiongkuda .
+1	hong	hong	NOUN	_	_	_	_	_	AlignBegin=47905|AlignEnd=48417|GE=path|Gloss=path|nWord=1|RX=[N]
+2	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=48417|AlignEnd=48929|GE=that|Gloss=that|Lang=es|nWord=2|RX=[PRO]
+3	gwa	gwa	NOUN	_	_	_	_	_	AlignBegin=48929|AlignEnd=49100|GE=hill|Gloss=hill|nWord=3|RX=[N]
+4	hiongku	hiongku	ADV	_	_	5	comp:aux/m	_	AlignBegin=49100|AlignEnd=49271|GE=far.prox.down|Gloss=far.prox.down|nWord=3|RX=[ADV]
+5	-da	_	AUX	_	_	_	_	_	AlignBegin=49271|AlignEnd=49441|GE=emph|Gloss=emph|nWord=3|RX=[VERB]
+6	.	_	PUNCT	_	_	_	_	_	AlignBegin=49441|AlignEnd=49955|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-PA-00000-01_12-12
+# speaker_id = @01
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-01.WAV/WAV/SAB-TXT-PA-00000-01.WAV
+# sent_timecode = 50898, 52278
+# morphemic_text = hoke chk -e iani .
+# text = hoke chke iani .
+# text_en = You will arrive to your destination.
+# text_ortho = hoke chke iani .
+1	hoke	hoke	VERB	_	_	0	root	_	AlignBegin=50898|AlignEnd=51243|GE=go|Gloss=go|nWord=1|RX=[VI]
+2	chk	chk	VERB	_	_	3	comp:aux/m	_	AlignBegin=51243|AlignEnd=51415|GE=arrive|Gloss=arrive|nWord=2|RX=[VI]
+3	-e	_	AUX	_	_	1	compound:svc	_	AlignBegin=51415|AlignEnd=51588|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	iani	iani	ADV	_	_	2	mod:lmod	_	AlignBegin=51588|AlignEnd=51933|GE=there|Gloss=there|nWord=3|RX=[ADV]
+5	.	_	PUNCT	_	_	1	punct	_	AlignBegin=51933|AlignEnd=52278|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-PA-00000-01_13-13
+# speaker_id = @01
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-01.WAV/WAV/SAB-TXT-PA-00000-01.WAV
+# sent_timecode = 54390, 57880
+# morphemic_text = hoke chk -e Cuay .
+# text = hoke chke Cuay .
+# text_en = (You will) arrive to El Cuay.
+# text_ortho = hoke chke Cuay .
+1	hoke	hoke	VERB	_	_	0	root	_	AlignBegin=54390|AlignEnd=55262|GE=go|Gloss=go|nWord=1|RX=[VI]
+2	chk	chk	VERB	_	_	3	comp:aux/m	_	AlignBegin=55262|AlignEnd=55698|GE=arrive|Gloss=arrive|nWord=2|RX=[VI]
+3	-e	_	AUX	_	_	1	compound:svc	_	AlignBegin=55698|AlignEnd=56134|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	Cuay	Cuay	PROPN	_	_	2	mod	_	AlignBegin=56134|AlignEnd=57006|GE=[Cuay]|Gloss=Cuay|nWord=3|RX=[NPROP]
+5	.	_	PUNCT	_	_	1	punct	_	AlignBegin=57006|AlignEnd=57880|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-PA-00000-01_14-15
+# speaker_id = @01
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-01.WAV/WAV/SAB-TXT-PA-00000-01.WAV
+# sent_timecode = 58582, 62642
+# morphemic_text = Cuay y ba hoke chk -e Rio Luis , chi kweri -a giti .
+# text = Cuay y ba hoke chke Rio Luis , chi kweria giti .
+# text_en = To El Cuay and you will go to Rio Luis, To the big river.
+# text_ortho = Cuay y ba hoke chke Rio Luis , chi kweria giti .
+1	Cuay	Cuay	PROPN	_	_	_	_	_	AlignBegin=58582|AlignEnd=58866|GE=[Cuay]|Gloss=Cuay|nWord=1|RX=[NPROP]
+2	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=58866|AlignEnd=59150|GE=and|Gloss=and|Lang=es|nWord=2|RX=[COORDCONN]
+3	ba	ba	PRON	_	_	4	subj	_	AlignBegin=59150|AlignEnd=59434|GE=[2SG]|Gloss=2SG|nWord=3|RX=[PRO]
+4	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=59434|AlignEnd=59718|GE=go|Gloss=go|nWord=4|RX=[VI]
+5	chk	chk	VERB	_	_	6	comp:aux/m	_	AlignBegin=59718|AlignEnd=59860|GE=arrive|Gloss=arrive|nWord=5|RX=[VI]
+6	-e	_	AUX	_	_	4	compound:svc	_	AlignBegin=59860|AlignEnd=60002|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	Rio	Rio	NOUN	_	_	_	_	_	AlignBegin=60002|AlignEnd=60286|GE=[Rio]|Gloss=Rio|nWord=6|RX=[N]
+8	Luis	Luis	PROPN	_	_	_	_	_	AlignBegin=60286|AlignEnd=60570|GE=[Luis]|Gloss=Luis|nWord=7|RX=[NPROP]
+9	,	_	PUNCT	_	_	_	_	_	AlignBegin=60570|AlignEnd=60852|nWord=8
+10	chi	chi	NOUN	_	_	13	comp	_	AlignBegin=61712|AlignEnd=61944|GE=water|Gloss=water|nWord=9|RX=[N]
+11	kweri	kweri	ADJ	_	_	12	comp:aux/m	_	AlignBegin=61944|AlignEnd=62060|GE=big|Gloss=big|nWord=10|RX=[ADJ]
+12	-a	_	AUX	_	_	10	mod	_	AlignBegin=62060|AlignEnd=62176|GE=[0]|Gloss=-0|nWord=10|RX=[NOUN]
+13	giti	giti	ADP	_	_	5	comp:obl	_	AlignBegin=62176|AlignEnd=62408|GE=[LOC]|Gloss=LOC|nWord=11|RX=[ADP]
+14	.	_	PUNCT	_	_	_	_	_	AlignBegin=62408|AlignEnd=62642|Gloss=.|nWord=12
+
+# sent_id = SAB-TXT-PA-00000-01_16-16
+# speaker_id = @01
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-01.WAV/WAV/SAB-TXT-PA-00000-01.WAV
+# sent_timecode = 62662, 64782
+# morphemic_text = chi kweri -a tkenga chka u queda .
+# text = chi kweria tkenga chka u queda .
+# text_ortho = chi kweria tkenga chka u queda .
+1	chi	chi	NOUN	_	_	_	_	_	AlignBegin=62662|AlignEnd=62965|GE=water|Gloss=water|nWord=1|RX=[N]
+2	kweri	kweri	ADJ	_	_	3	comp:aux/m	_	AlignBegin=62965|AlignEnd=63117|GE=big|Gloss=big|nWord=2|RX=[ADJ]
+3	-a	_	AUX	_	_	1	mod	_	AlignBegin=63117|AlignEnd=63268|GE=[0]|Gloss=-0|nWord=2|RX=[NOUN]
+4	tkenga	tkenga	VERB	_	_	_	_	_	AlignBegin=63268|AlignEnd=63571|GE=[cut].[NPST]|Gloss=cut.NPST|nWord=3|RX=[VT]
+5	chka	chka	_	_	_	_	_	_	AlignBegin=63571|AlignEnd=63874|nWord=4
+6	u	u	NOUN	_	_	_	_	_	AlignBegin=63874|AlignEnd=64177|GE=house|Gloss=house|nWord=5|RX=[N]
+7	queda	queda	NOUN	_	_	_	_	_	AlignBegin=64177|AlignEnd=64480|GE=valley|Gloss=valley|nWord=6|RX=[N]
+8	.	_	PUNCT	_	_	_	_	_	AlignBegin=64480|AlignEnd=64782|Gloss=.|nWord=7
+

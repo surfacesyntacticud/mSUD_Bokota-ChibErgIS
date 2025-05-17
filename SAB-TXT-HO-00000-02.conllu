@@ -1,0 +1,495 @@
+# sent_id = SAB-TXT-HO-00000-02_01-01
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 17480, 19420
+# morphemic_text = cha enusuli u dodad -u .
+# text = cha enusuli u dodadu .
+# text_en = My grandfather built the house.
+# text_ortho = cha enusuli u dodadu .
+1	cha	cha	PRON	_	_	2	udep:poss	_	AlignBegin=17480|AlignEnd=17868|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	enusuli	enusuli	NOUN	_	_	4	subj	_	AlignBegin=17868|AlignEnd=18256|GE=grandfather|Gloss=grandfather|nWord=2|RX=[N]
+3	u	u	NOUN	_	_	4	comp:obj	_	AlignBegin=18256|AlignEnd=18644|GE=house|Gloss=house|nWord=3|RX=[N]
+4	dodad	dodad	VERB	_	_	5	comp:aux/m	_	AlignBegin=18644|AlignEnd=18838|GE=make|Gloss=make|nWord=4|RX=[VT]
+5	-u	_	AUX	_	_	0	root	_	AlignBegin=18838|AlignEnd=19032|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
+6	.	_	PUNCT	_	_	5	punct	_	AlignBegin=19032|AlignEnd=19420|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-HO-00000-02_02-02
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 19795, 21355
+# morphemic_text = skira tk -e diku honingke .
+# text = skira tkediku honingke .
+# text_en = First (he) buries the skira.
+# text_ortho = skira tkediku honingke .
+1	skira	skira	NOUN	_	_	2	comp:obj	_	AlignBegin=19795|AlignEnd=20185|GE=tree_type|Gloss=tree_type|nWord=1|RX=[N]
+2	tk	tk	VERB	_	_	3	comp:aux/m	_	AlignBegin=20185|AlignEnd=20315|GE=put|Gloss=put|nWord=2|RX=[VT]
+3	-e	_	AUX	_	_	_	_	_	AlignBegin=20315|AlignEnd=20445|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	diku	diku	ADV	_	_	_	_	_	AlignBegin=20445|AlignEnd=20575|GE=down|Gloss=down|nWord=2|RX=[ADV]
+5	honingke	honingke	ADV	_	_	_	_	_	AlignBegin=20575|AlignEnd=20965|GE=first|Gloss=first|nWord=3|RX=[ADV]
+6	.	_	PUNCT	_	_	_	_	_	AlignBegin=20965|AlignEnd=21355|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-HO-00000-02_03-03
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 21380, 22430
+# morphemic_text = skira tk -e dui ke .
+# text = skira tke dui ke .
+# text_en = (He) puts the skira into the ground.
+# text_ortho = skira tke dui ke .
+1	skira	skira	NOUN	_	_	2	comp:obj	_	AlignBegin=21380|AlignEnd=21590|GE=tree_type|Gloss=tree_type|nWord=1|RX=[N]
+2	tk	tk	VERB	_	_	3	comp:aux/m	_	AlignBegin=21590|AlignEnd=21695|GE=put|Gloss=put|nWord=2|RX=[VT]
+3	-e	_	AUX	_	_	0	root	_	AlignBegin=21695|AlignEnd=21800|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	dui	dui	NOUN	_	_	5	comp	_	AlignBegin=21800|AlignEnd=22010|GE=dirt|Gloss=dirt|nWord=3|RX=[N]
+5	ke	ke	ADP	_	_	2	comp:obl	_	AlignBegin=22010|AlignEnd=22220|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
+6	.	_	PUNCT	_	_	3	punct	_	AlignBegin=22220|AlignEnd=22430|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-HO-00000-02_04-04
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 26390, 28370
+# morphemic_text = kaire gwa kle bu tk -e diku -da .
+# text = kaire gwa kle bu tkedikuda .
+# text_en = Similarly, inside, (he) burries the posts.
+# text_ortho = kaire gwa kle bu tkedikuda .
+1	kaire	kaire	ADV	_	_	_	_	_	AlignBegin=26390|AlignEnd=26720|GE=same|Gloss=same|nWord=1|RX=[ADV]
+2	gwa	gwa	ADV	_	_	_	_	_	AlignBegin=26720|AlignEnd=27050|GE=inside|Gloss=inside|nWord=2|RX=[ADV]
+3	kle	kle	AUX	_	_	_	_	_	AlignBegin=27050|AlignEnd=27380|GE=be|Gloss=be|nWord=3|RX=[V]
+4	bu	bu	NOUN	_	_	5	comp:obj	_	AlignBegin=27380|AlignEnd=27710|GE=post|Gloss=post|nWord=4|RX=[N]
+5	tk	tk	VERB	_	_	6	comp:aux/m	_	AlignBegin=27710|AlignEnd=27792|GE=put|Gloss=put|nWord=5|RX=[VT]
+6	-e	_	AUX	_	_	3	comp:aux	_	AlignBegin=27792|AlignEnd=27874|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	diku	diku	ADV	_	_	8	comp:aux/m	_	AlignBegin=27874|AlignEnd=27956|GE=down|Gloss=down|nWord=5|RX=[ADV]
+8	-da	_	AUX	_	_	_	_	_	AlignBegin=27956|AlignEnd=28040|GE=emph|Gloss=emph|nWord=5|RX=[VERB]
+9	.	_	PUNCT	_	_	_	_	_	AlignBegin=28040|AlignEnd=28370|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-HO-00000-02_05-05
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 28425, 30015
+# morphemic_text = kle bu tk -e diku -da .
+# text = kle bu tkedikuda .
+# text_en = (He) burries the posts.
+# text_ortho = kle bu tkedikuda .
+1	kle	kle	AUX	_	_	0	root	_	AlignBegin=28425|AlignEnd=28823|GE=be|Gloss=be|nWord=1|RX=[V]
+2	bu	bu	NOUN	_	_	3	comp:obj	_	AlignBegin=28823|AlignEnd=29221|GE=post|Gloss=post|nWord=2|RX=[N]
+3	tk	tk	VERB	_	_	4	comp:aux/m	_	AlignBegin=29221|AlignEnd=29321|GE=put|Gloss=put|nWord=3|RX=[VT]
+4	-e	_	AUX	_	_	1	comp:aux	_	AlignBegin=29321|AlignEnd=29421|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+5	diku	diku	ADV	_	_	6	comp:aux/m	_	AlignBegin=29421|AlignEnd=29521|GE=down|Gloss=down|nWord=3|RX=[ADV]
+6	-da	_	AUX	_	_	_	_	_	AlignBegin=29521|AlignEnd=29619|GE=emph|Gloss=emph|nWord=3|RX=[VERB]
+7	.	_	PUNCT	_	_	1	punct	_	AlignBegin=29619|AlignEnd=30015|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-HO-00000-02_06-06
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 30725, 32235
+# morphemic_text = gai ugda .
+# text = gai ugda .
+# text_en = (He) collects some ugda.
+# text_ortho = gai ugda .
+1	gai	gai	VERB	_	_	0	root	_	AlignBegin=30725|AlignEnd=31228|GE=pick_up|Gloss=pick_up|nWord=1|RX=[VT]
+2	ugda	ugda	NOUN	_	_	1	comp:obj	_	AlignBegin=31228|AlignEnd=31731|GE=tree_type|Gloss=tree_type|nWord=2|RX=[N]
+3	.	_	PUNCT	_	_	1	punct	_	AlignBegin=31731|AlignEnd=32235|Gloss=.|nWord=3
+
+# sent_id = SAB-TXT-HO-00000-02_07-08
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 32235, 36775
+# morphemic_text = ngania luk -e dike giska , kada kle blita giti .
+# text = ngania luke dike giska , kada kle blita giti .
+# text_en = (He) link (it) at the top with rope. (We) call it blita.
+# text_ortho = ngania luke dike giska , kada kle blita giti .
+1	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=32235|AlignEnd=32681|GE=up|Gloss=up|nWord=1|RX=[ADV]
+2	luk	luk	VERB	_	_	3	comp:aux/m	_	AlignBegin=32681|AlignEnd=32904|GE=link|Gloss=link|nWord=2|RX=[VT]
+3	-e	_	AUX	_	_	_	_	_	AlignBegin=32904|AlignEnd=33127|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	dike	dike	ADP	_	_	_	_	_	AlignBegin=33127|AlignEnd=33573|GE=[INST]|Gloss=INST|nWord=3|RX=[ADP]
+5	giska	giska	NOUN	_	_	_	_	_	AlignBegin=33573|AlignEnd=34019|GE=rope|Gloss=rope|nWord=4|RX=[N]
+6	,	_	PUNCT	_	_	_	_	_	AlignBegin=34019|AlignEnd=34465|nWord=5
+7	kada	kada	VERB	_	_	8	comp:aux@pass	_	AlignBegin=34885|AlignEnd=35263|GE=name|Gloss=name|nWord=6|RX=[N]
+8	kle	kle	AUX	_	_	10	comp	_	AlignBegin=35263|AlignEnd=35641|GE=be|Gloss=be|nWord=7|RX=[V]
+9	blita	blita	NOUN	_	_	7	comp:pred	_	AlignBegin=35641|AlignEnd=36019|GE=branch|Gloss=branch|nWord=8|RX=[N]
+10	giti	giti	ADP	_	_	_	_	_	AlignBegin=36019|AlignEnd=36397|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
+11	.	_	PUNCT	_	_	_	_	_	AlignBegin=36397|AlignEnd=36775|Gloss=.|nWord=10
+
+# sent_id = SAB-TXT-HO-00000-02_09-09
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 36915, 40065
+# morphemic_text = giska kada kle blita ke luk -e ngania u sing ke .
+# text = giska kada kle blita ke luke ngania u sing ke .
+# text_en = (He) link with a rope called blita, at the top in the house's nostril.
+# text_ortho = giska kada kle blita ke luke ngania u sing ke .
+1	giska	giska	NOUN	_	_	2	subj@pass	_	AlignBegin=36915|AlignEnd=37201|GE=rope|Gloss=rope|nWord=1|RX=[N]
+2	kada	kada	VERB	_	_	3	comp:aux@pass	_	AlignBegin=37201|AlignEnd=37487|GE=name|Gloss=name|nWord=2|RX=[N]
+3	kle	kle	AUX	_	_	5	comp	_	AlignBegin=37487|AlignEnd=37773|GE=be|Gloss=be|nWord=3|RX=[V]
+4	blita	blita	NOUN	_	_	2	comp:pred	_	AlignBegin=37773|AlignEnd=38059|GE=branch|Gloss=branch|nWord=4|RX=[N]
+5	ke	ke	ADP	_	_	6	comp:obl	_	AlignBegin=38059|AlignEnd=38345|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
+6	luk	luk	VERB	_	_	7	comp:aux/m	_	AlignBegin=38345|AlignEnd=38488|GE=link|Gloss=link|nWord=6|RX=[VT]
+7	-e	_	AUX	_	_	0	root	_	AlignBegin=38488|AlignEnd=38631|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
+8	ngania	ngania	ADV	_	_	6	mod:lmod	_	AlignBegin=38631|AlignEnd=38917|GE=up|Gloss=up|nWord=7|RX=[ADV]
+9	u	u	NOUN	_	_	10	udep:poss	_	AlignBegin=38917|AlignEnd=39203|GE=house|Gloss=house|nWord=8|RX=[N]
+10	sing	sing	NOUN	_	_	11	comp	_	AlignBegin=39203|AlignEnd=39489|GE=nose|Gloss=nose|nWord=9|RX=[N]
+11	ke	ke	ADP	_	_	6	comp:obl	_	AlignBegin=39489|AlignEnd=39775|GE=[LOC]|Gloss=LOC|nWord=10|RX=[ADP]
+12	.	_	PUNCT	_	_	7	punct	_	AlignBegin=39775|AlignEnd=40065|Gloss=.|nWord=11
+
+# sent_id = SAB-TXT-HO-00000-02_10-10
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 41365, 42695
+# morphemic_text = chui chi -e waninke .
+# text = chui chie waninke .
+# text_en = The sun goes.
+# text_ortho = chui chie waninke .
+1	chui	chui	NOUN	_	_	2	subj	_	AlignBegin=41365|AlignEnd=41697|GE=sun|Gloss=sun|nWord=1|RX=[N]
+2	chi	chi	VERB	_	_	3	comp:aux/m	_	AlignBegin=41697|AlignEnd=41863|GE=come|Gloss=come|nWord=2|RX=[VI]
+3	-e	_	AUX	_	_	_	_	_	AlignBegin=41863|AlignEnd=42029|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	waninke	waninke	ADV	_	_	_	_	_	AlignBegin=42029|AlignEnd=42361|GE=place_of|Gloss=place_of|nWord=3|RX=[ADV]
+5	.	_	PUNCT	_	_	_	_	_	AlignBegin=42361|AlignEnd=42695|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-HO-00000-02_11-11
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 42725, 44115
+# morphemic_text = chui hoke nante .
+# text = chui hoke nante .
+# text_en = The sun comes again.
+# text_ortho = chui hoke nante .
+1	chui	chui	NOUN	_	_	2	subj	_	AlignBegin=42725|AlignEnd=43073|GE=sun|Gloss=sun|nWord=1|RX=[N]
+2	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=43073|AlignEnd=43421|GE=go|Gloss=go|nWord=2|RX=[VI]
+3	nante	nante	ADP	_	_	_	_	_	AlignBegin=43421|AlignEnd=43769|GE=directional|Gloss=directional|nWord=3|RX=[ADP]
+4	.	_	PUNCT	_	_	_	_	_	AlignBegin=43769|AlignEnd=44115|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-HO-00000-02_12-13
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 44225, 50195
+# morphemic_text = chui esta giti ngongku , kle ugda ngania luk -e .
+# text = chui ta giti ngongku , kle ugda ngania luke .
+# text_en = When the sun is on that side, (He) link the ugda at the top.
+# text_ortho = chui ta giti ngongku , kle ugda ngania luke .
+1	chui	chui	NOUN	_	_	_	_	_	AlignBegin=44225|AlignEnd=44875|GE=sun|Gloss=sun|nWord=1|RX=[N]
+2	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=44875|AlignEnd=45525|GE=be|Gloss=be|Lang=es|nWord=2|RX=[V]
+3	giti	giti	ADP	_	_	_	_	_	AlignBegin=45525|AlignEnd=46175|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
+4	ngongku	ngongku	ADV	_	_	_	_	_	AlignBegin=46175|AlignEnd=46825|GE=other.side|Gloss=other.side|nWord=4|RX=[ADV]
+5	,	_	PUNCT	_	_	_	_	_	AlignBegin=46825|AlignEnd=47475|nWord=5
+6	kle	kle	AUX	_	_	_	_	_	AlignBegin=47925|AlignEnd=48379|GE=be|Gloss=be|nWord=6|RX=[V]
+7	ugda	ugda	NOUN	_	_	_	_	_	AlignBegin=48379|AlignEnd=48833|GE=tree_type|Gloss=tree_type|nWord=7|RX=[N]
+8	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=48833|AlignEnd=49287|GE=up|Gloss=up|nWord=8|RX=[ADV]
+9	luk	luk	VERB	_	_	10	comp:aux/m	_	AlignBegin=49287|AlignEnd=49514|GE=link|Gloss=link|nWord=9|RX=[VT]
+10	-e	_	AUX	_	_	6	comp:aux	_	AlignBegin=49514|AlignEnd=49741|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
+11	.	_	PUNCT	_	_	_	_	_	AlignBegin=49741|AlignEnd=50195|Gloss=.|nWord=10
+
+# sent_id = SAB-TXT-HO-00000-02_14-14
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 50415, 52215
+# morphemic_text = kle ugda luk -e ulita .
+# text = kle ugda luke ulita .
+# text_en = (He) links all the ugda.
+# text_ortho = kle ugda luke ulita .
+1	kle	kle	AUX	_	_	0	root	_	AlignBegin=50415|AlignEnd=50775|GE=be|Gloss=be|nWord=1|RX=[V]
+2	ugda	ugda	NOUN	_	_	3	comp:obj	_	AlignBegin=50775|AlignEnd=51135|GE=tree_type|Gloss=tree_type|nWord=2|RX=[N]
+3	luk	luk	VERB	_	_	4	comp:aux/m	_	AlignBegin=51135|AlignEnd=51315|GE=link|Gloss=link|nWord=3|RX=[VT]
+4	-e	_	AUX	_	_	1	comp:aux	_	AlignBegin=51315|AlignEnd=51495|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+5	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=51495|AlignEnd=51855|GE=all|Gloss=all|nWord=4|RX=[ADV]
+6	.	_	PUNCT	_	_	1	punct	_	AlignBegin=51855|AlignEnd=52215|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-HO-00000-02_15-15
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 52790, 53810
+# morphemic_text = gai .
+# text = gai .
+# text_en = (He) picks up...
+# text_ortho = gai .
+1	gai	gai	VERB	_	_	0	root	_	AlignBegin=52790|AlignEnd=53300|GE=pick_up|Gloss=pick_up|nWord=1|RX=[VT]
+2	.	_	PUNCT	_	_	1	punct	_	AlignBegin=53300|AlignEnd=53810|Gloss=.|nWord=2
+
+# sent_id = SAB-TXT-HO-00000-02_16-16
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 54355, 55545
+# morphemic_text = ikigdama gai .
+# text = ikigdama gai .
+# text_en = (He) picks up some ikigda.
+# text_ortho = ikigdama gai .
+1	ikigdama	ikigdama	NOUN	_	_	2	comp:obj	_	AlignBegin=54355|AlignEnd=54752|GE=plant_type|Gloss=plant_type|nWord=1|RX=[N]
+2	gai	gai	VERB	_	_	0	root	_	AlignBegin=54752|AlignEnd=55149|GE=pick_up|Gloss=pick_up|nWord=2|RX=[VT]
+3	.	_	PUNCT	_	_	2	punct	_	AlignBegin=55149|AlignEnd=55545|Gloss=.|nWord=3
+
+# sent_id = SAB-TXT-HO-00000-02_17-17
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 55545, 58145
+# morphemic_text = ikigdama luk -e ugda ke .
+# text = ikigdama luke ugda ke .
+# text_en = (He) ties the ikigda to the ugda.
+# text_ortho = ikigdama luke ugda ke .
+1	ikigdama	ikigdama	NOUN	_	_	2	comp:obj	_	AlignBegin=55545|AlignEnd=56065|GE=plant_type|Gloss=plant_type|nWord=1|RX=[N]
+2	luk	luk	VERB	_	_	3	comp:aux/m	_	AlignBegin=56065|AlignEnd=56325|GE=link|Gloss=link|nWord=2|RX=[VT]
+3	-e	_	AUX	_	_	0	root	_	AlignBegin=56325|AlignEnd=56585|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	ugda	ugda	NOUN	_	_	5	comp	_	AlignBegin=56585|AlignEnd=57105|GE=tree_type|Gloss=tree_type|nWord=3|RX=[N]
+5	ke	ke	ADP	_	_	2	comp:obl	_	AlignBegin=57105|AlignEnd=57625|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
+6	.	_	PUNCT	_	_	3	punct	_	AlignBegin=57625|AlignEnd=58145|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-HO-00000-02_18-18
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 58310, 60820
+# morphemic_text = para que ugda ngania me chi -e diku .
+# text = pa que ugda ngania me chiediku .
+# text_en = So that the ugda on top don't fall.
+# text_ortho = pa que ugda ngania me chiediku .
+1	para	para	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=58310|AlignEnd=58669|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
+2	que	que	X	_	Foreign=Yes	1	compound	_	AlignBegin=58669|AlignEnd=59028|GE=that|Gloss=that|Lang=es|nWord=2|RX=[PRO]
+3	ugda	ugda	NOUN	_	_	_	_	_	AlignBegin=59028|AlignEnd=59387|GE=tree_type|Gloss=tree_type|nWord=3|RX=[N]
+4	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=59387|AlignEnd=59746|GE=up|Gloss=up|nWord=4|RX=[ADV]
+5	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=59746|AlignEnd=60105|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
+6	chi	chi	VERB	_	_	7	comp:aux/m	_	AlignBegin=60105|AlignEnd=60225|GE=come|Gloss=come|nWord=6|RX=[VI]
+7	-e	_	AUX	_	_	_	_	_	AlignBegin=60225|AlignEnd=60345|GE=[THM]|Gloss=-THM|nWord=6|RX=[V:ANY]
+8	diku	diku	ADV	_	_	_	_	_	AlignBegin=60345|AlignEnd=60464|GE=down|Gloss=down|nWord=6|RX=[ADV]
+9	.	_	PUNCT	_	_	_	_	_	AlignBegin=60464|AlignEnd=60820|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-HO-00000-02_19-19
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 61360, 63380
+# morphemic_text = ugda ngania me chi -e diku .
+# text = ugda ngania me chiediku .
+# text_en = The ugda on top don't fall.
+# text_ortho = ugda ngania me chiediku .
+1	ugda	ugda	NOUN	_	_	_	_	_	AlignBegin=61360|AlignEnd=61764|GE=tree_type|Gloss=tree_type|nWord=1|RX=[N]
+2	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=61764|AlignEnd=62168|GE=up|Gloss=up|nWord=2|RX=[ADV]
+3	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=62168|AlignEnd=62572|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+4	chi	chi	VERB	_	_	5	comp:aux/m	_	AlignBegin=62572|AlignEnd=62707|GE=come|Gloss=come|nWord=4|RX=[VI]
+5	-e	_	AUX	_	_	_	_	_	AlignBegin=62707|AlignEnd=62842|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+6	diku	diku	ADV	_	_	_	_	_	AlignBegin=62842|AlignEnd=62976|GE=down|Gloss=down|nWord=4|RX=[ADV]
+7	.	_	PUNCT	_	_	_	_	_	AlignBegin=62976|AlignEnd=63380|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-HO-00000-02_20-20
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 63495, 65325
+# morphemic_text = giska luk -e ulita .
+# text = giska luke ulita .
+# text_en = (He) links all the ropes.
+# text_ortho = giska luke ulita .
+1	giska	giska	NOUN	_	_	2	comp:obj	_	AlignBegin=63495|AlignEnd=63953|GE=rope|Gloss=rope|nWord=1|RX=[N]
+2	luk	luk	VERB	_	_	3	comp:aux/m	_	AlignBegin=63953|AlignEnd=64182|GE=link|Gloss=link|nWord=2|RX=[VT]
+3	-e	_	AUX	_	_	_	_	_	AlignBegin=64182|AlignEnd=64411|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=64411|AlignEnd=64869|GE=all|Gloss=all|nWord=3|RX=[ADV]
+5	.	_	PUNCT	_	_	_	_	_	AlignBegin=64869|AlignEnd=65325|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-HO-00000-02_21-21
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 65565, 67815
+# morphemic_text = kle gigata bat -e tengkle .
+# text = kle gigata bate tengkle .
+# text_en = (He) inserts the gigata into it.
+# text_ortho = kle gigata bate tengkle .
+1	kle	kle	AUX	_	_	0	root	_	AlignBegin=65565|AlignEnd=66015|GE=be|Gloss=be|nWord=1|RX=[V]
+2	gigata	gigata	NOUN	_	_	3	comp:obj	_	AlignBegin=66015|AlignEnd=66465|GE=tree_type|Gloss=tree_type|nWord=2|RX=[N]
+3	bat	bat	VERB	_	_	4	comp:aux/m	_	AlignBegin=66465|AlignEnd=66690|GE=hit|Gloss=hit|nWord=3|RX=[VT]
+4	-e	_	AUX	_	_	1	comp:aux	_	AlignBegin=66690|AlignEnd=66915|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+5	tengkle	tengkle	ADV	_	_	_	_	_	AlignBegin=66915|AlignEnd=67365|GE=through|Gloss=through|nWord=4|RX=[ADV]
+6	.	_	PUNCT	_	_	1	punct	_	AlignBegin=67365|AlignEnd=67815|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-HO-00000-02_22-22
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 67995, 70205
+# morphemic_text = gigata bat -e tengkle .
+# text = gigata bate tengkle .
+# text_en = ‎‎(He) inserts the gigata into it.
+# text_ortho = gigata bate tengkle .
+1	gigata	gigata	NOUN	_	_	2	comp:obj	_	AlignBegin=67995|AlignEnd=68547|GE=tree_type|Gloss=tree_type|nWord=1|RX=[N]
+2	bat	bat	VERB	_	_	3	comp:aux/m	_	AlignBegin=68547|AlignEnd=68823|GE=hit|Gloss=hit|nWord=2|RX=[VT]
+3	-e	_	AUX	_	_	0	root	_	AlignBegin=68823|AlignEnd=69099|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	tengkle	tengkle	ADV	_	_	_	_	_	AlignBegin=69099|AlignEnd=69651|GE=through|Gloss=through|nWord=3|RX=[ADV]
+5	.	_	PUNCT	_	_	3	punct	_	AlignBegin=69651|AlignEnd=70205|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-HO-00000-02_23-23
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 72020, 73260
+# morphemic_text = ( kle y ).
+# text = ( kle y ).
+# text_en = /
+# text_ortho = ( kle y ).
+1	(	_	PUNCT	_	_	_	_	_	AlignBegin=72020|AlignEnd=72330|nWord=1
+2	kle	kle	AUX	_	_	_	_	_	AlignBegin=72330|AlignEnd=72640|GE=be|Gloss=be|nWord=2|RX=[V]
+3	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=72640|AlignEnd=72950|GE=and|Gloss=and|Lang=es|nWord=3|RX=[COORDCONN]
+4	).	_	_	_	_	_	_	_	AlignBegin=72950|AlignEnd=73260|nWord=4
+
+# sent_id = SAB-TXT-HO-00000-02_24-24
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 73625, 74085
+# morphemic_text = u gai .
+# text = u gai .
+# text_en = (He) picks up the house.
+# text_ortho = u gai .
+1	u	u	NOUN	_	_	2	comp:obj	_	AlignBegin=73625|AlignEnd=73778|GE=house|Gloss=house|nWord=1|RX=[N]
+2	gai	gai	VERB	_	_	0	root	_	AlignBegin=73778|AlignEnd=73931|GE=pick_up|Gloss=pick_up|nWord=2|RX=[VT]
+3	.	_	PUNCT	_	_	2	punct	_	AlignBegin=73931|AlignEnd=74085|Gloss=.|nWord=3
+
+# sent_id = SAB-TXT-HO-00000-02_25-25
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 74090, 74920
+# morphemic_text = u ski -e .
+# text = u skie .
+# text_en = (He) covers the house.
+# text_ortho = u skie .
+1	u	u	NOUN	_	_	2	comp:obj	_	AlignBegin=74090|AlignEnd=74367|GE=house|Gloss=house|nWord=1|RX=[N]
+2	ski	ski	VERB	_	_	3	comp:aux/m	_	AlignBegin=74367|AlignEnd=74505|GE=cover|Gloss=cover|nWord=2|RX=[VT]
+3	-e	_	AUX	_	_	0	root	_	AlignBegin=74505|AlignEnd=74644|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	.	_	PUNCT	_	_	3	punct	_	AlignBegin=74644|AlignEnd=74920|Gloss=.|nWord=3
+
+# sent_id = SAB-TXT-HO-00000-02_26-26
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 75180, 77895
+# morphemic_text = u ski -e togitaska giti .
+# text = u skie togitaska giti .
+# text_en = ‎‎(He) covers the house with Togita.
+# text_ortho = u skie togitaska giti .
+1	u	u	NOUN	_	_	2	comp:obj	_	AlignBegin=75180|AlignEnd=75723|GE=house|Gloss=house|nWord=1|RX=[N]
+2	ski	ski	VERB	_	_	3	comp:aux/m	_	AlignBegin=75723|AlignEnd=75995|GE=cover|Gloss=cover|nWord=2|RX=[VT]
+3	-e	_	AUX	_	_	0	root	_	AlignBegin=75995|AlignEnd=76266|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	togitaska	togitaska	NOUN	_	_	5	comp	_	AlignBegin=76266|AlignEnd=76809|GE=plant_type|Gloss=plant_type|nWord=3|RX=[N]
+5	giti	giti	ADP	_	_	2	comp:obl	_	AlignBegin=76809|AlignEnd=77352|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
+6	.	_	PUNCT	_	_	3	punct	_	AlignBegin=77352|AlignEnd=77895|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-HO-00000-02_27-27
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 77950, 80700
+# morphemic_text = u ski -e tokioska giti .
+# text = u skie tokioska giti .
+# text_en = ‎‎(He) covers the house with Tokio.
+# text_ortho = u skie tokioska giti .
+1	u	u	NOUN	_	_	2	comp:obj	_	AlignBegin=77950|AlignEnd=78500|GE=house|Gloss=house|nWord=1|RX=[N]
+2	ski	ski	VERB	_	_	3	comp:aux/m	_	AlignBegin=78500|AlignEnd=78775|GE=cover|Gloss=cover|nWord=2|RX=[VT]
+3	-e	_	AUX	_	_	0	root	_	AlignBegin=78775|AlignEnd=79050|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	tokioska	tokioska	NOUN	_	_	5	comp	_	AlignBegin=79050|AlignEnd=79600|GE=plant_type|Gloss=plant_type|nWord=3|RX=[N]
+5	giti	giti	ADP	_	_	2	comp:obl	_	AlignBegin=79600|AlignEnd=80150|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
+6	.	_	PUNCT	_	_	3	punct	_	AlignBegin=80150|AlignEnd=80700|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-HO-00000-02_28-28
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 80980, 83000
+# morphemic_text = u ski -e ski giti .
+# text = u skie ski giti .
+# text_en = (He) covers the house with plants to cover.
+# text_ortho = u skie ski giti .
+1	u	u	NOUN	_	_	2	comp:obj	_	AlignBegin=80980|AlignEnd=81384|GE=house|Gloss=house|nWord=1|RX=[N]
+2	ski	ski	VERB	_	_	3	comp:aux/m	_	AlignBegin=81384|AlignEnd=81586|GE=cover|Gloss=cover|nWord=2|RX=[VT]
+3	-e	_	AUX	_	_	0	root	_	AlignBegin=81586|AlignEnd=81788|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	ski	ski	NOUN	_	_	5	comp	_	AlignBegin=81788|AlignEnd=82192|GE=bean|Gloss=bean|nWord=3|RX=[N]
+5	giti	giti	ADP	_	_	2	comp:obl	_	AlignBegin=82192|AlignEnd=82596|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
+6	.	_	PUNCT	_	_	3	punct	_	AlignBegin=82596|AlignEnd=83000|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-HO-00000-02_29-30
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 83975, 89080
+# morphemic_text = u ngania batenga , kle ku hai .
+# text = u ngania batenga , kle ku hai .
+# text_en = When the house is done to the top, (He) drinks cacao.
+# text_ortho = u ngania batenga , kle ku hai .
+1	u	u	NOUN	_	_	_	_	_	AlignBegin=83975|AlignEnd=84530|GE=house|Gloss=house|nWord=1|RX=[N]
+2	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=84530|AlignEnd=85085|GE=up|Gloss=up|nWord=2|RX=[ADV]
+3	batenga	batenga	VERB	_	_	_	_	_	AlignBegin=85085|AlignEnd=85640|GE=[end].[NPST]|Gloss=end.NPST|nWord=3|RX=[V]
+4	,	_	PUNCT	_	_	_	_	_	AlignBegin=85640|AlignEnd=86195|nWord=4
+5	kle	kle	AUX	_	_	_	_	_	AlignBegin=86520|AlignEnd=87160|GE=be|Gloss=be|nWord=5|RX=[V]
+6	ku	ku	NOUN	_	_	7	comp:obj	_	AlignBegin=87160|AlignEnd=87800|GE=cacao|Gloss=cacao|nWord=6|RX=[N]
+7	hai	hai	VERB	_	_	5	comp:aux	_	AlignBegin=87800|AlignEnd=88440|GE=drink|Gloss=drink|nWord=7|RX=[VT]
+8	.	_	PUNCT	_	_	_	_	_	AlignBegin=88440|AlignEnd=89080|Gloss=.|nWord=8
+
+# sent_id = SAB-TXT-HO-00000-02_31-31
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 89225, 92085
+# morphemic_text = ku hai baka ke u esta dike .
+# text = ku hai baka ke u ta dike .
+# text_en = (He) drinks the cacao four time after the house is done.
+# text_ortho = ku hai baka ke u ta dike .
+1	ku	ku	NOUN	_	_	2	comp:obj	_	AlignBegin=89225|AlignEnd=89583|GE=cacao|Gloss=cacao|nWord=1|RX=[N]
+2	hai	hai	VERB	_	_	_	_	_	AlignBegin=89583|AlignEnd=89941|GE=drink|Gloss=drink|nWord=2|RX=[VT]
+3	baka	baka	NOUN	_	_	4	comp	_	AlignBegin=89941|AlignEnd=90299|GE=four|Gloss=four|nWord=3|RX=[N]
+4	ke	ke	ADP	_	_	_	_	_	AlignBegin=90299|AlignEnd=90657|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
+5	u	u	NOUN	_	_	_	_	_	AlignBegin=90657|AlignEnd=91015|GE=house|Gloss=house|nWord=5|RX=[N]
+6	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=91015|AlignEnd=91373|GE=be|Gloss=be|Lang=es|nWord=6|RX=[V]
+7	dike	dike	ADP	_	_	_	_	_	AlignBegin=91373|AlignEnd=91731|GE=[INST]|Gloss=INST|nWord=7|RX=[ADP]
+8	.	_	PUNCT	_	_	_	_	_	AlignBegin=91731|AlignEnd=92085|Gloss=.|nWord=8
+
+# sent_id = SAB-TXT-HO-00000-02_32-32
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 93610, 95760
+# morphemic_text = u esta dike ku batenga .
+# text = u ta dike ku batenga .
+# text_en = The house is finished with the cacao ends.
+# text_ortho = u ta dike ku batenga .
+1	u	u	NOUN	_	_	_	_	_	AlignBegin=93610|AlignEnd=93968|GE=house|Gloss=house|nWord=1|RX=[N]
+2	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=93968|AlignEnd=94326|GE=be|Gloss=be|Lang=es|nWord=2|RX=[V]
+3	dike	dike	ADP	_	_	_	_	_	AlignBegin=94326|AlignEnd=94684|GE=[INST]|Gloss=INST|nWord=3|RX=[ADP]
+4	ku	ku	NOUN	_	_	_	_	_	AlignBegin=94684|AlignEnd=95042|GE=cacao|Gloss=cacao|nWord=4|RX=[N]
+5	batenga	batenga	VERB	_	_	_	_	_	AlignBegin=95042|AlignEnd=95400|GE=[end].[NPST]|Gloss=end.NPST|nWord=5|RX=[V]
+6	.	_	PUNCT	_	_	_	_	_	AlignBegin=95400|AlignEnd=95760|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-HO-00000-02_33-33
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 95770, 97990
+# morphemic_text = ya che gna toi u ai giti .
+# text = ya che gna toi u ai giti .
+# text_en = Now the village can live in this house.
+# text_ortho = ya che gna toi u ai giti .
+1	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=95770|AlignEnd=96048|GE=now|Gloss=now|Lang=es|nWord=1|RX=[ADV]
+2	che	che	PRON	_	_	4	subj	_	AlignBegin=96048|AlignEnd=96326|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
+3	gna	gna	AUX	_	_	_	_	_	AlignBegin=96326|AlignEnd=96604|GE=can|Gloss=can|nWord=3|RX=[V]
+4	toi	toi	VERB	_	_	3	comp:aux	_	AlignBegin=96604|AlignEnd=96882|GE=live|Gloss=live|nWord=4|RX=[VI]
+5	u	u	NOUN	_	_	7	comp	_	AlignBegin=96882|AlignEnd=97160|GE=house|Gloss=house|nWord=5|RX=[N]
+6	ai	ai	ADV	_	_	5	mod	_	AlignBegin=97160|AlignEnd=97438|GE=here|Gloss=here|nWord=6|RX=[ADV]
+7	giti	giti	ADP	_	_	4	comp:obl	_	AlignBegin=97438|AlignEnd=97716|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
+8	.	_	PUNCT	_	_	_	_	_	AlignBegin=97716|AlignEnd=97990|Gloss=.|nWord=8
+
+# sent_id = SAB-TXT-HO-00000-02_34-35
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 98235, 102480
+# morphemic_text = me ku hai u esta y giti , che me gna toi sainkuli .
+# text = me ku hai u ta y giti , che me gna toi sainkuli .
+# text_en = If (he) doesn't drink the cacao in the house, They can't live in it, (it is) forbiden.
+# text_ortho = me ku hai u ta y giti , che me gna toi sainkuli .
+1	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=98235|AlignEnd=98513|GE=[NEG]|Gloss=NEG|nWord=1|RX=[VERBPRT]
+2	ku	ku	NOUN	_	_	3	comp:obj	_	AlignBegin=98513|AlignEnd=98791|GE=cacao|Gloss=cacao|nWord=2|RX=[N]
+3	hai	hai	VERB	_	_	1	comp:aux	_	AlignBegin=98791|AlignEnd=99069|GE=drink|Gloss=drink|nWord=3|RX=[VT]
+4	u	u	NOUN	_	_	_	_	_	AlignBegin=99069|AlignEnd=99347|GE=house|Gloss=house|nWord=4|RX=[N]
+5	esta	esta	VERB	_	Foreign=Yes	_	_	_	AlignBegin=99347|AlignEnd=99625|GE=be|Gloss=be|Lang=es|nWord=5|RX=[V]
+6	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=99625|AlignEnd=99903|GE=and|Gloss=and|Lang=es|nWord=6|RX=[COORDCONN]
+7	giti	giti	ADP	_	_	_	_	_	AlignBegin=99903|AlignEnd=100181|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
+8	,	_	PUNCT	_	_	_	_	_	AlignBegin=100181|AlignEnd=100455|nWord=8
+9	che	che	PRON	_	_	12	subj	_	AlignBegin=100680|AlignEnd=100980|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=9|RX=[PRO]
+10	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=100980|AlignEnd=101280|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]
+11	gna	gna	AUX	_	_	10	comp:aux	_	AlignBegin=101280|AlignEnd=101580|GE=can|Gloss=can|nWord=11|RX=[V]
+12	toi	toi	VERB	_	_	11	comp:aux	_	AlignBegin=101580|AlignEnd=101880|GE=live|Gloss=live|nWord=12|RX=[VI]
+13	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=101880|AlignEnd=102180|GE=forbidden|Gloss=forbidden|nWord=13|RX=[ADV]
+14	.	_	PUNCT	_	_	_	_	_	AlignBegin=102180|AlignEnd=102480|Gloss=.|nWord=14
+
+# sent_id = SAB-TXT-HO-00000-02_36-36
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-02.WAV/WAV/SAB-TXT-HO-00000-02.WAV
+# sent_timecode = 102625, 105075
+# morphemic_text = enusuli uswili ya nene .
+# text = enusuli uswili ya nene .
+# text_en = The ancestors explained like that.
+# text_ortho = enusuli uswili ya nene .
+1	enusuli	enusuli	NOUN	_	_	4	subj	_	AlignBegin=102625|AlignEnd=103115|GE=grandfather|Gloss=grandfather|nWord=1|RX=[N]
+2	uswili	uswili	ADV	_	_	_	_	_	AlignBegin=103115|AlignEnd=103605|GE=before|Gloss=before|nWord=2|RX=[ADV]
+3	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=103605|AlignEnd=104095|GE=now|Gloss=now|Lang=es|nWord=3|RX=[ADV]
+4	nene	nene	VERB	_	_	0	root	_	AlignBegin=104095|AlignEnd=104585|GE=explain|Gloss=explain|nWord=4|RX=[V]
+5	.	_	PUNCT	_	_	4	punct	_	AlignBegin=104585|AlignEnd=105075|Gloss=.|nWord=5
+

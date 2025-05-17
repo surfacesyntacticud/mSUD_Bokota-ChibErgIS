@@ -1,0 +1,339 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = SAB-TXT-HO-00000-09_01-03
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-09.WAV/WAV/SAB-TXT-HO-00000-09.WAV
+# sent_timecode = 7890, 14470
+# morphemic_text = bu hu -a kle -nga dui dwa gnachuka kle -d- -a u kweri manire , ama gwagat -a kle , entonces gli tk -a kle -nga .
+# text = bu huaklenga dui dwa gnachuka kleda u kweri manire , ama gwagata kle , entonces gli tkaklenga .
+# text_en = The post that was put down on the ground is measured at the size one wants for the house, So it is prepared, And so the post is put.
+# text_ortho = bu huaklenga dui dwa gnachuka kleda u kweri manire , ama gwagata kle , entonces gli tkaklenga .
+1	bu	bu	NOUN	_	_	2	subj@pass	_	AlignBegin=7890|AlignEnd=8296|GE=post|Gloss=post|nWord=1|RX=[N]
+2	hua	hue	VERB	_	_	3	comp:aux@pass	_	AlignBegin=8296|AlignEnd=8500|GE=[PASS]|Gloss=find.PST-PASS|nWord=2|RX=[V:ANY]
+3	klenga	kle	AUX	_	_	_	_	_	AlignBegin=8500|AlignEnd=8702|GE=[SUB]|Gloss=be-SUB|nWord=2|RX=[V:ANY]
+4	dui	dui	NOUN	_	_	_	_	_	AlignBegin=8702|AlignEnd=9108|GE=dirt|Gloss=dirt|nWord=3|RX=[N]
+5	dwa	dwa	ADV	_	_	_	_	_	AlignBegin=9108|AlignEnd=9514|GE=down|Gloss=down|nWord=4|RX=[ADV]
+6	gnachuka	gnachuka	VERB	_	_	7	comp:aux@pass	_	AlignBegin=9514|AlignEnd=9920|GE=mesure|Gloss=mesure|nWord=5|RX=[V]
+7	kleda	kle	AUX	_	_	_	_	_	AlignBegin=9920|AlignEnd=10326|GE=[PASS]|Gloss=be-0--PASS|nWord=6|RX=[V:ANY]|wordform=kled-a
+8	u	u	NOUN	_	_	_	_	_	AlignBegin=10326|AlignEnd=10732|GE=house|Gloss=house|nWord=7|RX=[N]
+9	kweri	kweri	ADJ	_	_	8	mod	_	AlignBegin=10732|AlignEnd=11138|GE=big|Gloss=big|nWord=8|RX=[ADJ]
+10	manire	manire	PART	_	_	_	_	_	AlignBegin=11138|AlignEnd=11544|GE=how_much|Gloss=how_much|nWord=9|RX=[Q]
+11	,	_	PUNCT	_	_	_	_	_	AlignBegin=11544|AlignEnd=11950|nWord=10
+12	ama	ama	ADV	_	_	_	_	_	AlignBegin=11980|AlignEnd=12228|GE=so|Gloss=so|nWord=11|RX=[ADV]
+13	gwagata	gwagat	VERB	_	_	14	comp:aux@pass	_	AlignBegin=12228|AlignEnd=12476|GE=[PASS]|Gloss=prepare-PASS|nWord=12|RX=[V:ANY]
+14	kle	kle	AUX	_	_	_	_	_	AlignBegin=12476|AlignEnd=12724|GE=be|Gloss=be|nWord=13|RX=[V]
+15	,	_	PUNCT	_	_	_	_	_	AlignBegin=12724|AlignEnd=12970|nWord=14
+16	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=13010|AlignEnd=13375|GE=so|Gloss=so|Lang=es|nWord=15|RX=[ADV]
+17	gli	gli	NOUN	_	_	_	_	_	AlignBegin=13375|AlignEnd=13740|GE=tree|Gloss=tree|nWord=16|RX=[N]
+18	tka	tk	VERB	_	_	_	_	_	AlignBegin=13740|AlignEnd=13922|GE=[0]|Gloss=put-0|nWord=17|RX=[VERB]
+19	klenga	kle	AUX	_	_	_	_	_	AlignBegin=13922|AlignEnd=14105|GE=[SUB]|Gloss=be-SUB|nWord=17|RX=[V:ANY]
+20	.	_	PUNCT	_	_	_	_	_	AlignBegin=14105|AlignEnd=14470|Gloss=.|nWord=18
+
+# sent_id = SAB-TXT-HO-00000-09_04-04
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-09.WAV/WAV/SAB-TXT-HO-00000-09.WAV
+# sent_timecode = 14985, 17155
+# morphemic_text = ese gira gda baka .
+# text = ese gira gdabaka .
+# text_en = the same posts four times.
+# text_ortho = ese gira gdabaka .
+1	ese	ese	DET	_	_	_	_	_	AlignBegin=14985|AlignEnd=15527|GE=that|Gloss=that|nWord=1|RX=[DET]
+2	gira	gira	NOUN	_	_	_	_	_	AlignBegin=15527|AlignEnd=16069|GE=race|Gloss=race|nWord=2|RX=[N]
+3	gda	gda	NUM	_	_	_	_	_	AlignBegin=16069|AlignEnd=16340|GE=cl|Gloss=cl|nWord=3|RX=[NUM]
+4	baka	baka	NOUN	_	_	_	_	_	AlignBegin=16340|AlignEnd=16611|GE=four|Gloss=four|nWord=3|RX=[N]
+5	.	_	PUNCT	_	_	_	_	_	AlignBegin=16611|AlignEnd=17155|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-HO-00000-09_05-05
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-09.WAV/WAV/SAB-TXT-HO-00000-09.WAV
+# sent_timecode = 17295, 19445
+# morphemic_text = ese monoitale ngania bduk .
+# text = ese monoitale ngania bduke .
+# text_en = That tree goes up.
+# text_ortho = ese monoitale ngania bduke .
+1	ese	ese	DET	_	_	_	_	_	AlignBegin=17295|AlignEnd=17725|GE=that|Gloss=that|nWord=1|RX=[DET]
+2	monoitale	monoitale	ADJ	_	_	_	_	_	AlignBegin=17725|AlignEnd=18155|GE=house_part|Gloss=house_part|nWord=2|RX=[ADJ]
+3	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=18155|AlignEnd=18585|GE=up|Gloss=up|nWord=3|RX=[ADV]
+4	bduk	bduk	VERB	_	_	_	_	_	AlignBegin=18585|AlignEnd=19015|GE=go_up|Gloss=go_up|nWord=4|RX=[V]
+5	.	_	PUNCT	_	_	_	_	_	AlignBegin=19015|AlignEnd=19445|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-HO-00000-09_06-06
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-09.WAV/WAV/SAB-TXT-HO-00000-09.WAV
+# sent_timecode = 19540, 23980
+# morphemic_text = y bu bita bita mai ama tk -a kle -da dui ke .
+# text = y bu bita bita mai ama tkakleda dui ke .
+# text_en = And the posts are put in the ground one by one.
+# text_ortho = y bu bita bita mai ama tkakleda dui ke .
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=19540|AlignEnd=19984|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
+2	bu	bu	NOUN	_	_	_	_	_	AlignBegin=19984|AlignEnd=20428|GE=post|Gloss=post|nWord=2|RX=[N]
+3	bita	bita	NOUN	_	_	_	_	_	AlignBegin=20428|AlignEnd=20872|GE=piece|Gloss=piece|nWord=3|RX=[N]
+4	bita	bita	NOUN	_	_	_	_	_	AlignBegin=20872|AlignEnd=21316|GE=piece|Gloss=piece|nWord=4|RX=[N]
+5	mai	mai	NUM	_	_	_	_	_	AlignBegin=21316|AlignEnd=21760|GE=three|Gloss=three|nWord=5|RX=[NUM]
+6	ama	ama	ADV	_	_	_	_	_	AlignBegin=21760|AlignEnd=22204|GE=so|Gloss=so|nWord=6|RX=[ADV]
+7	tka	tk	VERB	_	_	_	_	_	AlignBegin=22204|AlignEnd=22426|GE=[0]|Gloss=put-0|nWord=7|RX=[VERB]
+8	kleda	kle	AUX	_	_	_	_	_	AlignBegin=22426|AlignEnd=22648|GE=emph|Gloss=beemph|nWord=7|RX=[VERB]
+9	dui	dui	NOUN	_	_	10	comp	_	AlignBegin=22648|AlignEnd=23092|GE=dirt|Gloss=dirt|nWord=8|RX=[N]
+10	ke	ke	ADP	_	_	7	comp:obl	_	AlignBegin=23092|AlignEnd=23536|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
+11	.	_	PUNCT	_	_	_	_	_	AlignBegin=23536|AlignEnd=23980|Gloss=.|nWord=10
+
+# sent_id = SAB-TXT-HO-00000-09_07-07
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-09.WAV/WAV/SAB-TXT-HO-00000-09.WAV
+# sent_timecode = 24015, 25795
+# morphemic_text = gli lere bu -ia gwagat -a kle .
+# text = gli lere buia gwagata kle .
+# text_en = The posts are made of green tree.
+# text_ortho = gli lere buia gwagata kle .
+1	gli	gli	NOUN	_	_	_	_	_	AlignBegin=24015|AlignEnd=24312|GE=tree|Gloss=tree|nWord=1|RX=[N]
+2	lere	lere	ADJ	_	_	1	mod	_	AlignBegin=24312|AlignEnd=24609|GE=green|Gloss=green|nWord=2|RX=[ADJ]
+3	buia	bu	NOUN	_	_	_	_	_	AlignBegin=24609|AlignEnd=24906|GE=[POSS]|Gloss=post-POSS|nWord=3|RX=[N:ANY]
+4	gwagata	gwagat	VERB	_	_	5	comp:aux@pass	_	AlignBegin=24906|AlignEnd=25203|GE=[PASS]|Gloss=prepare-PASS|nWord=4|RX=[V:ANY]
+5	kle	kle	AUX	_	_	0	root	_	AlignBegin=25203|AlignEnd=25500|GE=be|Gloss=be|nWord=5|RX=[V]
+6	.	_	PUNCT	_	_	5	punct	_	AlignBegin=25500|AlignEnd=25795|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-HO-00000-09_08-09
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-09.WAV/WAV/SAB-TXT-HO-00000-09.WAV
+# sent_timecode = 25940, 29860
+# morphemic_text = ama gli tk -a -dale -nga dai here dike , para me hubdu gli dat -e .
+# text = ama gli tkadalenga dai here dike , pa me hubdu gli date .
+# text_en = So the tree has to be put at night, So the hubdu don't cut it,
+# text_ortho = ama gli tkadalenga dai here dike , pa me hubdu gli date .
+1	ama	ama	ADV	_	_	_	_	_	AlignBegin=25940|AlignEnd=26230|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	gli	gli	NOUN	_	_	3	subj@pass	_	AlignBegin=26230|AlignEnd=26520|GE=tree|Gloss=tree|nWord=2|RX=[N]
+3	tkadalenga	tk	VERB	_	_	_	_	_	AlignBegin=26520|AlignEnd=26810|GE=[SUB]|Gloss=put-PASS-IRR-SUB|nWord=3|RX=[V:ANY]
+4	dai	dai	NOUN	_	_	6	comp	_	AlignBegin=26810|AlignEnd=27100|GE=moon|Gloss=moon|nWord=4|RX=[N]
+5	here	here	ADJ	_	_	4	mod	_	AlignBegin=27100|AlignEnd=27390|GE=black|Gloss=black|nWord=5|RX=[ADJ]
+6	dike	dike	ADP	_	_	_	_	_	AlignBegin=27390|AlignEnd=27680|GE=[INST]|Gloss=INST|nWord=6|RX=[ADP]
+7	,	_	PUNCT	_	_	_	_	_	AlignBegin=27680|AlignEnd=27970|nWord=7
+8	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=28100|AlignEnd=28393|GE=to|Gloss=to|Lang=es|nWord=8|RX=[ADP]
+9	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=28393|AlignEnd=28686|GE=[NEG]|Gloss=NEG|nWord=9|RX=[VERBPRT]
+10	hubdu	hubdu	NOUN	_	_	_	_	_	AlignBegin=28686|AlignEnd=28979|GE=insect.type|Gloss=insect.type|nWord=10|RX=[N]
+11	gli	gli	NOUN	_	_	_	_	_	AlignBegin=28979|AlignEnd=29272|GE=tree|Gloss=tree|nWord=11|RX=[N]
+12	date	dat	VERB	_	_	_	_	_	AlignBegin=29272|AlignEnd=29565|GE=[THM]|Gloss=cut-THM|nWord=12|RX=[V:ANY]
+13	.	_	PUNCT	_	_	_	_	_	AlignBegin=29565|AlignEnd=29860|Gloss=.|nWord=13
+
+# sent_id = SAB-TXT-HO-00000-09_10-10
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-09.WAV/WAV/SAB-TXT-HO-00000-09.WAV
+# sent_timecode = 29880, 30450
+# morphemic_text = gut -e .
+# text = gute .
+# text_en = (Don't) eat it,
+# text_ortho = gute .
+1	gute	gut	VERB	_	_	0	root	_	AlignBegin=29880|AlignEnd=30165|GE=[THM]|Gloss=eat-THM|nWord=1|RX=[V:ANY]
+2	.	_	PUNCT	_	_	1	punct	_	AlignBegin=30165|AlignEnd=30450|Gloss=.|nWord=2
+
+# sent_id = SAB-TXT-HO-00000-09_11-11
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-09.WAV/WAV/SAB-TXT-HO-00000-09.WAV
+# sent_timecode = 30450, 30790
+# morphemic_text = gwe .
+# text = gwe .
+# text_en = (Don't) kill it.
+# text_ortho = gwe .
+1	gwe	gwe	VERB	_	_	0	root	_	AlignBegin=30450|AlignEnd=30620|GE=kill|Gloss=kill|nWord=1|RX=[V]
+2	.	_	PUNCT	_	_	1	punct	_	AlignBegin=30620|AlignEnd=30790|Gloss=.|nWord=2
+
+# sent_id = SAB-TXT-HO-00000-09_12-12
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-09.WAV/WAV/SAB-TXT-HO-00000-09.WAV
+# sent_timecode = 30840, 32400
+# morphemic_text = u tk -e diku -da blikaia .
+# text = u tkedikuda blikaia .
+# text_en = (Don't) make the house fall quickly.
+# text_ortho = u tkedikuda blikaia .
+1	u	u	NOUN	_	_	_	_	_	AlignBegin=30840|AlignEnd=31230|GE=house|Gloss=house|nWord=1|RX=[N]
+2	tke	tk	VERB	_	_	_	_	_	AlignBegin=31230|AlignEnd=31426|GE=[THM]|Gloss=put-THM|nWord=2|RX=[V:ANY]
+3	dikuda	diku	ADV	_	_	_	_	_	AlignBegin=31426|AlignEnd=31620|GE=emph|Gloss=downemph|nWord=2|RX=[VERB]
+4	blikaia	blikaia	ADV	_	_	_	_	_	AlignBegin=31620|AlignEnd=32010|GE=quickly|Gloss=quickly|nWord=3|RX=[ADV]
+5	.	_	PUNCT	_	_	_	_	_	AlignBegin=32010|AlignEnd=32400|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-HO-00000-09_13-15
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-09.WAV/WAV/SAB-TXT-HO-00000-09.WAV
+# sent_timecode = 32880, 39705
+# morphemic_text = me u tk -e diku -da , entonces ho (_) glita (_), para no hubdu gli tk -e diku blikaia .
+# text = me u tkedikuda , entonces ho (_) glita (_), pa no hubdu gli tkediku blikaia .
+# text_en = So it does not make the house fall, So the hubdu does not make the posts fall quickly.
+# text_ortho = me u tkedikuda , entonces ho (_) glita (_), pa no hubdu gli tkediku blikaia .
+1	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=32880|AlignEnd=33210|GE=[NEG]|Gloss=NEG|nWord=1|RX=[VERBPRT]
+2	u	u	NOUN	_	_	_	_	_	AlignBegin=33210|AlignEnd=33540|GE=house|Gloss=house|nWord=2|RX=[N]
+3	tke	tk	VERB	_	_	_	_	_	AlignBegin=33540|AlignEnd=33704|GE=[THM]|Gloss=put-THM|nWord=3|RX=[V:ANY]
+4	dikuda	diku	ADV	_	_	_	_	_	AlignBegin=33704|AlignEnd=33870|GE=emph|Gloss=downemph|nWord=3|RX=[VERB]
+5	,	_	PUNCT	_	_	_	_	_	AlignBegin=33870|AlignEnd=34200|nWord=4
+6	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=34230|AlignEnd=34770|GE=so|Gloss=so|Lang=es|nWord=5|RX=[ADV]
+7	ho	hoke	VERB	_	_	_	_	_	AlignBegin=34770|AlignEnd=35310|GE=[go].[PST]|Gloss=go.PST|nWord=6|RX=[VI]
+8	(_)	_	_	_	_	_	_	_	AlignBegin=35310|AlignEnd=35850|nWord=7
+9	glita	glita	NOUN	_	_	_	_	_	AlignBegin=35850|AlignEnd=36390|GE=branch|Gloss=branch|nWord=8|RX=[N]
+10	(_),	_	_	_	_	_	_	_	AlignBegin=36390|AlignEnd=36930|nWord=9
+11	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=37035|AlignEnd=37416|GE=to|Gloss=to|Lang=es|nWord=10|RX=[ADP]
+12	no	no	PART	_	_	_	_	_	AlignBegin=37416|AlignEnd=37797|GE=[NEG]|Gloss=NEG|nWord=11|RX=[VERBPRT]
+13	hubdu	hubdu	NOUN	_	_	_	_	_	AlignBegin=37797|AlignEnd=38178|GE=insect.type|Gloss=insect.type|nWord=12|RX=[N]
+14	gli	gli	NOUN	_	_	_	_	_	AlignBegin=38178|AlignEnd=38559|GE=tree|Gloss=tree|nWord=13|RX=[N]
+15	tke	tk	VERB	_	_	_	_	_	AlignBegin=38559|AlignEnd=38813|GE=[THM]|Gloss=put-THM|nWord=14|RX=[V:ANY]
+16	diku	diku	ADV	_	_	_	_	_	AlignBegin=38813|AlignEnd=38940|GE=down|Gloss=down|nWord=14|RX=[ADV]
+17	blikaia	blikaia	ADV	_	_	_	_	_	AlignBegin=38940|AlignEnd=39321|GE=quickly|Gloss=quickly|nWord=15|RX=[ADV]
+18	.	_	PUNCT	_	_	_	_	_	AlignBegin=39321|AlignEnd=39705|Gloss=.|nWord=16
+
+# sent_id = SAB-TXT-HO-00000-09_16-16
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-09.WAV/WAV/SAB-TXT-HO-00000-09.WAV
+# sent_timecode = 40060, 41890
+# morphemic_text = giska hu -a kle dai here dike .
+# text = giska huakle dai here dike .
+# text_en = The rope is found in the dark night.
+# text_ortho = giska huakle dai here dike .
+1	giska	giska	NOUN	_	_	2	subj@pass	_	AlignBegin=40060|AlignEnd=40365|GE=rope|Gloss=rope|nWord=1|RX=[N]
+2	hua	hue	VERB	_	_	3	comp:aux@pass	_	AlignBegin=40365|AlignEnd=40569|GE=[PASS]|Gloss=find.PST-PASS|nWord=2|RX=[V:ANY]
+3	kle	kle	AUX	_	_	0	root	_	AlignBegin=40569|AlignEnd=40670|GE=be|Gloss=be|nWord=2|RX=[V]
+4	dai	dai	NOUN	_	_	6	comp	_	AlignBegin=40670|AlignEnd=40975|GE=moon|Gloss=moon|nWord=3|RX=[N]
+5	here	here	ADJ	_	_	4	mod	_	AlignBegin=40975|AlignEnd=41280|GE=black|Gloss=black|nWord=4|RX=[ADJ]
+6	dike	dike	ADP	_	_	2	comp:obl	_	AlignBegin=41280|AlignEnd=41585|GE=[INST]|Gloss=INST|nWord=5|RX=[ADP]
+7	.	_	PUNCT	_	_	3	punct	_	AlignBegin=41585|AlignEnd=41890|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-HO-00000-09_17-17
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-09.WAV/WAV/SAB-TXT-HO-00000-09.WAV
+# sent_timecode = 41900, 43320
+# morphemic_text = uga mn -a kle dai here dike .
+# text = uga mnakle dai here dike .
+# text_en = The palm is cut in the dark night.
+# text_ortho = uga mnakle dai here dike .
+1	uga	uga	NOUN	_	_	2	subj@pass	_	AlignBegin=41900|AlignEnd=42137|GE=palm|Gloss=palm|nWord=1|RX=[N]
+2	mna	mn	VERB	_	_	3	comp:aux@pass	_	AlignBegin=42137|AlignEnd=42295|GE=[PASS]|Gloss=cut-PASS|nWord=2|RX=[V:ANY]
+3	kle	kle	AUX	_	_	0	root	_	AlignBegin=42295|AlignEnd=42374|GE=be|Gloss=be|nWord=2|RX=[V]
+4	dai	dai	NOUN	_	_	6	comp	_	AlignBegin=42374|AlignEnd=42611|GE=moon|Gloss=moon|nWord=3|RX=[N]
+5	here	here	ADJ	_	_	4	mod	_	AlignBegin=42611|AlignEnd=42848|GE=black|Gloss=black|nWord=4|RX=[ADJ]
+6	dike	dike	ADP	_	_	2	comp:obl	_	AlignBegin=42848|AlignEnd=43085|GE=[INST]|Gloss=INST|nWord=5|RX=[ADP]
+7	.	_	PUNCT	_	_	3	punct	_	AlignBegin=43085|AlignEnd=43320|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-HO-00000-09_18-18
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-09.WAV/WAV/SAB-TXT-HO-00000-09.WAV
+# sent_timecode = 43330, 44840
+# morphemic_text = gigata hu -a kle dai here dike .
+# text = gigata huakle dai here dike .
+# text_en = The gigata is found in the dark night.
+# text_ortho = gigata huakle dai here dike .
+1	gigata	gigata	NOUN	_	_	2	subj@pass	_	AlignBegin=43330|AlignEnd=43582|GE=tree_type|Gloss=tree_type|nWord=1|RX=[N]
+2	hua	hue	VERB	_	_	3	comp:aux@pass	_	AlignBegin=43582|AlignEnd=43750|GE=[PASS]|Gloss=find.PST-PASS|nWord=2|RX=[V:ANY]
+3	kle	kle	AUX	_	_	0	root	_	AlignBegin=43750|AlignEnd=43834|GE=be|Gloss=be|nWord=2|RX=[V]
+4	dai	dai	NOUN	_	_	6	comp	_	AlignBegin=43834|AlignEnd=44086|GE=moon|Gloss=moon|nWord=3|RX=[N]
+5	here	here	ADJ	_	_	4	mod	_	AlignBegin=44086|AlignEnd=44338|GE=black|Gloss=black|nWord=4|RX=[ADJ]
+6	dike	dike	ADP	_	_	2	comp:obl	_	AlignBegin=44338|AlignEnd=44590|GE=[INST]|Gloss=INST|nWord=5|RX=[ADP]
+7	.	_	PUNCT	_	_	3	punct	_	AlignBegin=44590|AlignEnd=44840|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-HO-00000-09_19-19
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-09.WAV/WAV/SAB-TXT-HO-00000-09.WAV
+# sent_timecode = 45240, 47660
+# morphemic_text = ese gigata hu -a kle dai here dike .
+# text = ese gigata huakle dai here dike .
+# text_en = That gigata is found in the dark night.
+# text_ortho = ese gigata huakle dai here dike .
+1	ese	ese	DET	_	_	_	_	_	AlignBegin=45240|AlignEnd=45586|GE=that|Gloss=that|nWord=1|RX=[DET]
+2	gigata	gigata	NOUN	_	_	3	subj@pass	_	AlignBegin=45586|AlignEnd=45932|GE=tree_type|Gloss=tree_type|nWord=2|RX=[N]
+3	hua	hue	VERB	_	_	4	comp:aux@pass	_	AlignBegin=45932|AlignEnd=46162|GE=[PASS]|Gloss=find.PST-PASS|nWord=3|RX=[V:ANY]
+4	kle	kle	AUX	_	_	0	root	_	AlignBegin=46162|AlignEnd=46278|GE=be|Gloss=be|nWord=3|RX=[V]
+5	dai	dai	NOUN	_	_	7	comp	_	AlignBegin=46278|AlignEnd=46624|GE=moon|Gloss=moon|nWord=4|RX=[N]
+6	here	here	ADJ	_	_	5	mod	_	AlignBegin=46624|AlignEnd=46970|GE=black|Gloss=black|nWord=5|RX=[ADJ]
+7	dike	dike	ADP	_	_	3	comp:obl	_	AlignBegin=46970|AlignEnd=47316|GE=[INST]|Gloss=INST|nWord=6|RX=[ADP]
+8	.	_	PUNCT	_	_	4	punct	_	AlignBegin=47316|AlignEnd=47660|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-HO-00000-09_20-21
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-09.WAV/WAV/SAB-TXT-HO-00000-09.WAV
+# sent_timecode = 47780, 51720
+# morphemic_text = ama u girire ama mas no para toi giti , porque es ski -e .
+# text = ama u girire ama mas no pa toi giti , porque es skie .
+# text_en = So the round house is better to live in, Because it is covered.
+# text_ortho = ama u girire ama mas no pa toi giti , porque es skie .
+1	ama	ama	ADV	_	_	_	_	_	AlignBegin=47780|AlignEnd=48038|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	u	u	NOUN	_	_	_	_	_	AlignBegin=48038|AlignEnd=48296|GE=house|Gloss=house|nWord=2|RX=[N]
+3	girire	girire	ADJ	_	_	2	mod	_	AlignBegin=48296|AlignEnd=48554|GE=round|Gloss=round|nWord=3|RX=[ADJ]
+4	ama	ama	ADV	_	_	_	_	_	AlignBegin=48554|AlignEnd=48812|GE=so|Gloss=so|nWord=4|RX=[ADV]
+5	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=48812|AlignEnd=49070|GE=more|Gloss=more|Lang=es|nWord=5|RX=[ADV]
+6	no	no	ADJ	_	_	_	_	_	AlignBegin=49070|AlignEnd=49328|GE=good|Gloss=good|nWord=6|RX=[ADJ]
+7	para	para	ADP	_	Foreign=Yes	_	_	_	AlignBegin=49328|AlignEnd=49586|GE=to|Gloss=to|Lang=es|nWord=7|RX=[ADP]
+8	toi	toi	VERB	_	_	_	_	_	AlignBegin=49586|AlignEnd=49844|GE=live|Gloss=live|nWord=8|RX=[VI]
+9	giti	giti	ADP	_	_	_	_	_	AlignBegin=49844|AlignEnd=50102|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
+10	,	_	PUNCT	_	_	_	_	_	AlignBegin=50102|AlignEnd=50360|nWord=10
+11	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=50380|AlignEnd=50715|GE=because|Gloss=because|Lang=es|nWord=11|RX=[CONN]
+12	es	es	VERB	_	Foreign=Yes	_	_	_	AlignBegin=50715|AlignEnd=51050|GE=be|Gloss=be|Lang=es|nWord=12|RX=[V]
+13	skie	ski	VERB	_	_	_	_	_	AlignBegin=51050|AlignEnd=51385|GE=[THM]|Gloss=cover-THM|nWord=13|RX=[V:ANY]
+14	.	_	PUNCT	_	_	_	_	_	AlignBegin=51385|AlignEnd=51720|Gloss=.|nWord=14
+
+# sent_id = SAB-TXT-HO-00000-09_22-24
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-09.WAV/WAV/SAB-TXT-HO-00000-09.WAV
+# sent_timecode = 51975, 59090
+# morphemic_text = blikaia hoke kachi -e ngania iani , de oba kwa kweri dwa y ngania kwa asi , y entonces ama kle kachi -e blikaia .
+# text = blikaia hoke kachie ngania iani , de oba kwa kweri dwa y ngania kwa asi , y entonces ama kle kachie blikaia .
+# text_en = (It) ends quicker to the top. And so (it) ends more rapidly.
+# text_ortho = blikaia hoke kachie ngania iani , de oba kwa kweri dwa y ngania kwa asi , y entonces ama kle kachie blikaia .
+1	blikaia	blikaia	ADV	_	_	_	_	_	AlignBegin=51975|AlignEnd=52313|GE=quickly|Gloss=quickly|nWord=1|RX=[ADV]
+2	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=52313|AlignEnd=52651|GE=go|Gloss=go|nWord=2|RX=[VI]
+3	kachie	kachi	VERB	_	_	_	_	_	AlignBegin=52651|AlignEnd=52989|GE=[THM]|Gloss=end-THM|nWord=3|RX=[V:ANY]
+4	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=52989|AlignEnd=53327|GE=up|Gloss=up|nWord=4|RX=[ADV]
+5	iani	iani	ADV	_	_	_	_	_	AlignBegin=53327|AlignEnd=53665|GE=there|Gloss=there|nWord=5|RX=[ADV]
+6	,	_	PUNCT	_	_	_	_	_	AlignBegin=53665|AlignEnd=54005|nWord=6
+7	de	de	ADP	_	_	_	_	_	AlignBegin=54010|AlignEnd=54296|GE=from|Gloss=from|nWord=7|RX=[ADP]
+8	oba	oba	_	_	_	_	_	_	AlignBegin=54296|AlignEnd=54582|nWord=8
+9	kwa	kwa	_	_	_	_	_	_	AlignBegin=54582|AlignEnd=54868|nWord=9
+10	kweri	kweri	ADJ	_	_	_	_	_	AlignBegin=54868|AlignEnd=55154|GE=big|Gloss=big|nWord=10|RX=[ADJ]
+11	dwa	dwa	ADV	_	_	_	_	_	AlignBegin=55154|AlignEnd=55440|GE=down|Gloss=down|nWord=11|RX=[ADV]
+12	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=55440|AlignEnd=55726|GE=and|Gloss=and|Lang=es|nWord=12|RX=[COORDCONN]
+13	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=55726|AlignEnd=56012|GE=up|Gloss=up|nWord=13|RX=[ADV]
+14	kwa	kwa	_	_	_	_	_	_	AlignBegin=56012|AlignEnd=56298|nWord=14
+15	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=56298|AlignEnd=56584|GE=like_that|Gloss=like_that|Lang=es|nWord=15|RX=[ADV]
+16	,	_	PUNCT	_	_	_	_	_	AlignBegin=56584|AlignEnd=56870|nWord=16
+17	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=56880|AlignEnd=57196|GE=and|Gloss=and|Lang=es|nWord=17|RX=[COORDCONN]
+18	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=57196|AlignEnd=57512|GE=so|Gloss=so|Lang=es|nWord=18|RX=[ADV]
+19	ama	ama	ADV	_	_	_	_	_	AlignBegin=57512|AlignEnd=57828|GE=so|Gloss=so|nWord=19|RX=[ADV]
+20	kle	kle	AUX	_	_	_	_	_	AlignBegin=57828|AlignEnd=58144|GE=be|Gloss=be|nWord=20|RX=[V]
+21	kachie	kachi	VERB	_	_	20	comp:aux	_	AlignBegin=58144|AlignEnd=58460|GE=[THM]|Gloss=end-THM|nWord=21|RX=[V:ANY]
+22	blikaia	blikaia	ADV	_	_	_	_	_	AlignBegin=58460|AlignEnd=58776|GE=quickly|Gloss=quickly|nWord=22|RX=[ADV]
+23	.	_	PUNCT	_	_	_	_	_	AlignBegin=58776|AlignEnd=59090|Gloss=.|nWord=23
+
+# sent_id = SAB-TXT-HO-00000-09_25-25
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-09.WAV/WAV/SAB-TXT-HO-00000-09.WAV
+# sent_timecode = 59435, 61275
+# morphemic_text = asi cha kle u gwagat -e -nga aini .
+# text = asi cha kle u gwagatenga aini .
+# text_en = That is how the house is made here.
+# text_ortho = asi cha kle u gwagatenga aini .
+1	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=59435|AlignEnd=59698|GE=like_that|Gloss=like_that|Lang=es|nWord=1|RX=[ADV]
+2	cha	cha	PRON	_	_	5	subj	_	AlignBegin=59698|AlignEnd=59961|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	kle	kle	AUX	_	_	0	root	_	AlignBegin=59961|AlignEnd=60224|GE=be|Gloss=be|nWord=3|RX=[V]
+4	u	u	NOUN	_	_	5	comp:obj	_	AlignBegin=60224|AlignEnd=60487|GE=house|Gloss=house|nWord=4|RX=[N]
+5	gwagatenga	gwagat	VERB	_	_	3	comp:aux	_	AlignBegin=60487|AlignEnd=60750|GE=[SUB]|Gloss=prepare-THM-SUB|nWord=5|RX=[V:ANY]
+6	aini	aini	ADV	_	_	5	mod:lmod	_	AlignBegin=60750|AlignEnd=61013|GE=here|Gloss=here|nWord=6|RX=[ADV]
+7	.	_	PUNCT	_	_	3	punct	_	AlignBegin=61013|AlignEnd=61275|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-HO-00000-09_26-26
+# speaker_id = @09
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-09.WAV/WAV/SAB-TXT-HO-00000-09.WAV
+# sent_timecode = 61320, 68520
+# morphemic_text = todo cha bitaia ne ulita kle u toi mas u girire ke que u kwabakale .
+# text = todo cha bitaia ne ulita kle u toi mas u girire ke que u kwabakale .
+# text_en = My whole family prefer to live in a round house than in a square house.
+# text_ortho = todo cha bitaia ne ulita kle u toi mas u girire ke que u kwabakale .
+1	todo	todo	DET	_	_	_	_	_	AlignBegin=61320|AlignEnd=61770|GE=all|Gloss=all|nWord=1|RX=[DET]
+2	cha	cha	PRON	_	_	3	udep:poss	_	AlignBegin=61770|AlignEnd=62220|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	bitaia	bitaia	NOUN	_	_	_	_	_	AlignBegin=62220|AlignEnd=62670|GE=family|Gloss=family|nWord=3|RX=[N]
+4	ne	ne	DET	_	_	3	mod	_	AlignBegin=62670|AlignEnd=63120|GE=that|Gloss=that|nWord=4|RX=[DET]
+5	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=63120|AlignEnd=63570|GE=all|Gloss=all|nWord=5|RX=[ADV]
+6	kle	kle	AUX	_	_	_	_	_	AlignBegin=63570|AlignEnd=64020|GE=be|Gloss=be|nWord=6|RX=[V]
+7	u	u	NOUN	_	_	_	_	_	AlignBegin=64020|AlignEnd=64470|GE=house|Gloss=house|nWord=7|RX=[N]
+8	toi	toi	VERB	_	_	6	comp:aux	_	AlignBegin=64470|AlignEnd=64920|GE=live|Gloss=live|nWord=8|RX=[VI]
+9	mas	mas	ADV	_	Foreign=Yes	10	mod	_	AlignBegin=64920|AlignEnd=65370|GE=more|Gloss=more|Lang=es|nWord=9|RX=[ADV]
+10	u	u	NOUN	_	_	12	comp	_	AlignBegin=65370|AlignEnd=65820|GE=house|Gloss=house|nWord=10|RX=[N]
+11	girire	girire	ADJ	_	_	10	mod	_	AlignBegin=65820|AlignEnd=66270|GE=round|Gloss=round|nWord=11|RX=[ADJ]
+12	ke	ke	ADP	_	_	8	comp:obl	_	AlignBegin=66270|AlignEnd=66720|GE=[LOC]|Gloss=LOC|nWord=12|RX=[ADP]
+13	que	que	PRON	_	Foreign=Yes	9	comp:obj	_	AlignBegin=66720|AlignEnd=67170|GE=that|Gloss=that|Lang=es|nWord=13|RX=[PRO]
+14	u	u	NOUN	_	_	13	comp:obj	_	AlignBegin=67170|AlignEnd=67620|GE=house|Gloss=house|nWord=14|RX=[N]
+15	kwabakale	kwabakale	ADJ	_	_	14	mod	_	AlignBegin=67620|AlignEnd=68070|GE=square|Gloss=square|nWord=15|RX=[ADJ]
+16	.	_	PUNCT	_	_	_	_	_	AlignBegin=68070|AlignEnd=68520|Gloss=.|nWord=16
+

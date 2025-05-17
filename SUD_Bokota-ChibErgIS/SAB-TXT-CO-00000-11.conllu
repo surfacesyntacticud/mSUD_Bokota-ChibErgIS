@@ -1,0 +1,59 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = SAB-TXT-CO-00000-11_1-6
+# speaker_id = @11
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-11.WAV/WAV/SAB-TXT-CO-00000-11.WAV
+# sent_timecode = 11660, 28805
+# morphemic_text = cha kle koi gwe -d- -a giska ke , koi dodad -e , chi bek -e ute hi -a ke , y koi dek -e hi -a ke huk -e , y ( dodad -e ) li -e hi -a ke uda bla ske , bla tk -e ske .
+# text = cha kle koi gweda giska ke , koi dodade , chi beke ute hia ke , y koi deke hia ke huke , y ( dodade ) lie hia ke uda bla ske , bla tke ske .
+# text_en = I kill the chicken on a rope. (I) prepare the chicken. (I) put water to warm up on the fire. And (I) pluck the chicken on the fire. And (I) cook (it) on the fire with banana flesh. (I) put bananas with (it).
+# text_ortho = cha kle koi gweda giska ke , koi dodade , chi beke ute hia ke , y koi deke hia ke huke , y ( dodade ) lie hia ke uda bla ske , bla tke ske .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=11660|AlignEnd=12079|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	_	_	_	AlignBegin=12079|AlignEnd=12498|GE=be|Gloss=be|nWord=2|RX=[V]
+3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=12498|AlignEnd=12917|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
+4	gweda	gwe	VERB	_	_	2	comp:aux	_	AlignBegin=12917|AlignEnd=13336|GE=[0]|Gloss=sleep-ASP|nWord=4|RX=[VERB]
+5	giska	giska	NOUN	_	_	6	comp	_	AlignBegin=13336|AlignEnd=13755|GE=rope|Gloss=rope|nWord=5|RX=[N]
+6	ke	ke	ADP	_	_	4	comp:obl	_	AlignBegin=13755|AlignEnd=14174|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
+7	,	_	PUNCT	_	_	_	_	_	AlignBegin=14174|AlignEnd=14590|nWord=7
+8	koi	koi	NOUN	_	_	9	comp:obj	_	AlignBegin=15160|AlignEnd=15530|GE=chicken|Gloss=chicken|nWord=8|RX=[N]
+9	dodade	dodad	VERB	_	_	2	conj:coord	_	AlignBegin=15530|AlignEnd=15900|GE=[THM]|Gloss=make-THM|nWord=9|RX=[V:ANY]
+10	,	_	PUNCT	_	_	_	_	_	AlignBegin=15900|AlignEnd=16270|nWord=10
+11	chi	chi	NOUN	_	_	12	comp:obj	_	AlignBegin=16280|AlignEnd=16578|GE=water|Gloss=water|nWord=11|RX=[N]
+12	beke	bek	VERB	_	_	9	conj:coord	_	AlignBegin=16578|AlignEnd=16876|GE=[THM]|Gloss=put-THM|nWord=12|RX=[V:ANY]
+13	ute	ute	ADJ	_	_	_	_	_	AlignBegin=16876|AlignEnd=17174|GE=hot|Gloss=hot|nWord=13|RX=[ADJ]
+14	hia	hi	NOUN	_	_	15	comp	_	AlignBegin=17174|AlignEnd=17472|GE=[0]|Gloss=fire-0|nWord=14|RX=[NOUN]
+15	ke	ke	ADP	_	_	12	comp:obl	_	AlignBegin=17472|AlignEnd=17770|GE=[LOC]|Gloss=LOC|nWord=15|RX=[ADP]
+16	,	_	PUNCT	_	_	_	_	_	AlignBegin=17770|AlignEnd=18070|nWord=16
+17	y	y	X	_	Foreign=Yes	19	cc	_	AlignBegin=18350|AlignEnd=18946|GE=and|Gloss=and|Lang=es|nWord=17|RX=[COORDCONN]
+18	koi	koi	NOUN	_	_	19	comp:obj	_	AlignBegin=18946|AlignEnd=19542|GE=chicken|Gloss=chicken|nWord=18|RX=[N]
+19	deke	dek	VERB	_	_	12	conj:coord	_	AlignBegin=19542|AlignEnd=20138|GE=[THM]|Gloss=peel-THM|nWord=19|RX=[V:ANY]
+20	hia	hi	NOUN	_	_	21	comp	_	AlignBegin=20138|AlignEnd=20734|GE=[0]|Gloss=fire-0|nWord=20|RX=[NOUN]
+21	ke	ke	ADP	_	_	19	comp:obl	_	AlignBegin=20734|AlignEnd=21330|GE=[LOC]|Gloss=LOC|nWord=21|RX=[ADP]
+22	huke	huk	VERB	_	_	19	mod:purp	_	AlignBegin=21330|AlignEnd=21926|GE=[THM]|Gloss=pluck-THM|nWord=22|RX=[V:ANY]
+23	,	_	PUNCT	_	_	_	_	_	AlignBegin=21926|AlignEnd=22520|nWord=23
+24	y	y	X	_	Foreign=Yes	28	cc	_	AlignBegin=23090|AlignEnd=23493|GE=and|Gloss=and|Lang=es|nWord=24|RX=[COORDCONN]
+25	(	_	PUNCT	_	_	_	_	_	AlignBegin=23493|AlignEnd=23896|nWord=25
+26	dodade	dodad	VERB	_	_	_	_	_	AlignBegin=23896|AlignEnd=24299|GE=[THM]|Gloss=make-THM|nWord=26|RX=[V:ANY]
+27	)	_	PUNCT	_	_	_	_	_	AlignBegin=24299|AlignEnd=24702|nWord=27
+28	lie	li	VERB	_	_	19	conj:coord	_	AlignBegin=24702|AlignEnd=25105|GE=[THM]|Gloss=cook-THM|nWord=28|RX=[V:ANY]
+29	hia	hi	NOUN	_	_	30	comp	_	AlignBegin=25105|AlignEnd=25508|GE=[0]|Gloss=fire-0|nWord=29|RX=[NOUN]
+30	ke	ke	ADP	_	_	28	comp:obl	_	AlignBegin=25508|AlignEnd=25911|GE=[LOC]|Gloss=LOC|nWord=30|RX=[ADP]
+31	uda	uda	NOUN	_	_	_	_	_	AlignBegin=25911|AlignEnd=26314|GE=flesh|Gloss=flesh|nWord=31|RX=[N]
+32	bla	bla	NOUN	_	_	33	comp	_	AlignBegin=26314|AlignEnd=26717|GE=banana|Gloss=banana|nWord=32|RX=[N]
+33	ske	ske	ADP	_	_	28	comp:obl	_	AlignBegin=26717|AlignEnd=27120|GE=with|Gloss=with|nWord=33|RX=[ADP]
+34	,	_	PUNCT	_	_	_	_	_	AlignBegin=27120|AlignEnd=27520|nWord=34
+35	bla	bla	NOUN	_	_	36	comp:obj	_	AlignBegin=27655|AlignEnd=27943|GE=banana|Gloss=banana|nWord=35|RX=[N]
+36	tke	tk	VERB	_	_	28	conj:coord	_	AlignBegin=27943|AlignEnd=28231|GE=[THM]|Gloss=put-THM|nWord=36|RX=[V:ANY]
+37	ske	ske	ADP	_	_	36	comp:obl	_	AlignBegin=28231|AlignEnd=28519|GE=with|Gloss=with|nWord=37|RX=[ADP]
+38	.	_	PUNCT	_	_	_	_	_	AlignBegin=28519|AlignEnd=28805|Gloss=.|nWord=38
+
+# sent_id = SAB-TXT-CO-00000-11_7-7
+# speaker_id = @11
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-11.WAV/WAV/SAB-TXT-CO-00000-11.WAV
+# sent_timecode = 28825, 29735
+# morphemic_text = gut -e .
+# text = gute .
+# text_en = (I) eat (it).
+# text_ortho = gute .
+1	gute	gut	VERB	_	_	0	root	_	AlignBegin=28825|AlignEnd=29280|GE=[THM]|Gloss=eat-THM|nWord=1|RX=[V:ANY]
+2	.	_	PUNCT	_	_	1	punct	_	AlignBegin=29280|AlignEnd=29735|Gloss=.|nWord=2
+

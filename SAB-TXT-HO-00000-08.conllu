@@ -1,0 +1,164 @@
+# sent_id = SAB-TXT-HO-00000-08_01-01
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-08.WAV/WAV/SAB-TXT-HO-00000-08.WAV
+# sent_timecode = 11850, 14430
+# morphemic_text = cha kle bu hue honinke .
+# text = cha kle bu hue honinke .
+# text_en = First I find the post.
+# text_ortho = cha kle bu hue honinke .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=11850|AlignEnd=12280|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=12280|AlignEnd=12710|GE=be|Gloss=be|nWord=2|RX=[V]
+3	bu	bu	NOUN	_	_	4	comp:obj	_	AlignBegin=12710|AlignEnd=13140|GE=post|Gloss=post|nWord=3|RX=[N]
+4	hue	hue	VERB	_	_	2	comp:aux	_	AlignBegin=13140|AlignEnd=13570|GE=[find].[NPST]|Gloss=find.NPST|nWord=4|RX=[VT]
+5	honinke	honinke	ADV	_	_	4	mod	_	AlignBegin=13570|AlignEnd=14000|GE=first|Gloss=first|nWord=5|RX=[ADV]
+6	.	_	PUNCT	_	_	2	punct	_	AlignBegin=14000|AlignEnd=14430|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-HO-00000-08_02-02
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-08.WAV/WAV/SAB-TXT-HO-00000-08.WAV
+# sent_timecode = 14745, 16285
+# morphemic_text = skira hue honinke .
+# text = skira hue honinke .
+# text_en = First (I) find some skira.
+# text_ortho = skira hue honinke .
+1	skira	skira	NOUN	_	_	2	comp:obj	_	AlignBegin=14745|AlignEnd=15130|GE=tree_type|Gloss=tree_type|nWord=1|RX=[N]
+2	hue	hue	VERB	_	_	0	root	_	AlignBegin=15130|AlignEnd=15515|GE=[find].[NPST]|Gloss=find.NPST|nWord=2|RX=[VT]
+3	honinke	honinke	ADV	_	_	2	mod	_	AlignBegin=15515|AlignEnd=15900|GE=first|Gloss=first|nWord=3|RX=[ADV]
+4	.	_	PUNCT	_	_	2	punct	_	AlignBegin=15900|AlignEnd=16285|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-HO-00000-08_03-03
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-08.WAV/WAV/SAB-TXT-HO-00000-08.WAV
+# sent_timecode = 16320, 18700
+# morphemic_text = despues cha kle bu tk -e tengkle .
+# text = despues cha kle bu tke tengkle .
+# text_en = Then I put the posts through each other.
+# text_ortho = despues cha kle bu tke tengkle .
+1	despues	despues	ADV	_	_	3	mod	_	AlignBegin=16320|AlignEnd=16660|GE=then|Gloss=then|nWord=1|RX=[ADV]
+2	cha	cha	PRON	_	_	5	subj	_	AlignBegin=16660|AlignEnd=17000|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	kle	kle	AUX	_	_	0	root	_	AlignBegin=17000|AlignEnd=17340|GE=be|Gloss=be|nWord=3|RX=[V]
+4	bu	bu	NOUN	_	_	5	comp:obj	_	AlignBegin=17340|AlignEnd=17680|GE=post|Gloss=post|nWord=4|RX=[N]
+5	tk	tk	VERB	_	_	6	comp:aux/m	_	AlignBegin=17680|AlignEnd=17850|GE=put|Gloss=put|nWord=5|RX=[VT]
+6	-e	_	AUX	_	_	3	comp:aux	_	AlignBegin=17850|AlignEnd=18020|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	tengkle	tengkle	ADV	_	_	5	mod	_	AlignBegin=18020|AlignEnd=18360|GE=through|Gloss=through|nWord=6|RX=[ADV]
+8	.	_	PUNCT	_	_	3	punct	_	AlignBegin=18360|AlignEnd=18700|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-HO-00000-08_04-04
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-08.WAV/WAV/SAB-TXT-HO-00000-08.WAV
+# sent_timecode = 19665, 21845
+# morphemic_text = despues cha kle ikino gwagat -e .
+# text = despues cha kle ikino gwagate .
+# text_en = Then I prepare the ikino.
+# text_ortho = despues cha kle ikino gwagate .
+1	despues	despues	ADV	_	_	3	mod	_	AlignBegin=19665|AlignEnd=20028|GE=then|Gloss=then|nWord=1|RX=[ADV]
+2	cha	cha	PRON	_	_	5	subj	_	AlignBegin=20028|AlignEnd=20391|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	kle	kle	AUX	_	_	0	root	_	AlignBegin=20391|AlignEnd=20754|GE=be|Gloss=be|nWord=3|RX=[V]
+4	ikino	ikino	NOUN	_	_	5	comp:obj	_	AlignBegin=20754|AlignEnd=21117|GE=plant_type|Gloss=plant_type|nWord=4|RX=[N]
+5	gwagat	gwagat	VERB	_	_	6	comp:aux/m	_	AlignBegin=21117|AlignEnd=21299|GE=prepare|Gloss=prepare|nWord=5|RX=[VT]
+6	-e	_	AUX	_	_	3	comp:aux	_	AlignBegin=21299|AlignEnd=21480|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	.	_	PUNCT	_	_	3	punct	_	AlignBegin=21480|AlignEnd=21845|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-HO-00000-08_05-05
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-08.WAV/WAV/SAB-TXT-HO-00000-08.WAV
+# sent_timecode = 23100, 24620
+# morphemic_text = gigata gwagat -e .
+# text = gigata gwagate .
+# text_en = (I) prepare the gigata.
+# text_ortho = gigata gwagate .
+1	gigata	gigata	NOUN	_	_	2	comp:obj	_	AlignBegin=23100|AlignEnd=23607|GE=tree_type|Gloss=tree_type|nWord=1|RX=[N]
+2	gwagat	gwagat	VERB	_	_	3	comp:aux/m	_	AlignBegin=23607|AlignEnd=23861|GE=prepare|Gloss=prepare|nWord=2|RX=[VT]
+3	-e	_	AUX	_	_	0	root	_	AlignBegin=23861|AlignEnd=24114|GE=[THM]|Gloss=-THM|nWord=2|RX=[V:ANY]
+4	.	_	PUNCT	_	_	3	punct	_	AlignBegin=24114|AlignEnd=24620|Gloss=.|nWord=3
+
+# sent_id = SAB-TXT-HO-00000-08_06-06
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-08.WAV/WAV/SAB-TXT-HO-00000-08.WAV
+# sent_timecode = 25215, 26575
+# morphemic_text = despues cha kle ikino gwagat -e .
+# text = despues cha kle ikino gwagate .
+# text_en = Then I prepare the ikino.
+# text_ortho = despues cha kle ikino gwagate .
+1	despues	despues	ADV	_	_	3	mod	_	AlignBegin=25215|AlignEnd=25442|GE=then|Gloss=then|nWord=1|RX=[ADV]
+2	cha	cha	PRON	_	_	5	subj	_	AlignBegin=25442|AlignEnd=25669|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	kle	kle	AUX	_	_	0	root	_	AlignBegin=25669|AlignEnd=25896|GE=be|Gloss=be|nWord=3|RX=[V]
+4	ikino	ikino	NOUN	_	_	5	comp:obj	_	AlignBegin=25896|AlignEnd=26123|GE=plant_type|Gloss=plant_type|nWord=4|RX=[N]
+5	gwagat	gwagat	VERB	_	_	6	comp:aux/m	_	AlignBegin=26123|AlignEnd=26237|GE=prepare|Gloss=prepare|nWord=5|RX=[VT]
+6	-e	_	AUX	_	_	3	comp:aux	_	AlignBegin=26237|AlignEnd=26350|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	.	_	PUNCT	_	_	3	punct	_	AlignBegin=26350|AlignEnd=26575|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-HO-00000-08_07-07
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-08.WAV/WAV/SAB-TXT-HO-00000-08.WAV
+# sent_timecode = 26890, 28600
+# morphemic_text = cha kle giska hinan -d- -e .
+# text = cha kle giska hinande .
+# text_en = I look for some rope.
+# text_ortho = cha kle giska hinande .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=26890|AlignEnd=27232|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=27232|AlignEnd=27574|GE=be|Gloss=be|nWord=2|RX=[V]
+3	giska	giska	NOUN	_	_	4	comp:obj	_	AlignBegin=27574|AlignEnd=27916|GE=rope|Gloss=rope|nWord=3|RX=[N]
+4	hinan	hinan	VERB	_	_	5	comp:aux/m	_	AlignBegin=27916|AlignEnd=28030|GE=look_for|Gloss=look_for|nWord=4|RX=[VT]
+5	-d	_	AUX	_	_	6	comp:aux/m	_	AlignBegin=28030|AlignEnd=28144|GE=[0]|Gloss=-0-|nWord=4|RX=[VERB]|wordform=-d-
+6	-e	_	AUX	_	_	2	comp:aux	_	AlignBegin=28144|AlignEnd=28258|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+7	.	_	PUNCT	_	_	2	punct	_	AlignBegin=28258|AlignEnd=28600|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-HO-00000-08_08-08
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-08.WAV/WAV/SAB-TXT-HO-00000-08.WAV
+# sent_timecode = 28740, 31340
+# morphemic_text = cha kle u ese ski -e .
+# text = cha kle u ese skie .
+# text_en = I cover that house.
+# text_ortho = cha kle u ese skie .
+1	cha	cha	PRON	_	_	5	subj	_	AlignBegin=28740|AlignEnd=29173|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=29173|AlignEnd=29606|GE=be|Gloss=be|nWord=2|RX=[V]
+3	u	u	NOUN	_	_	5	comp:obj	_	AlignBegin=29606|AlignEnd=30039|GE=house|Gloss=house|nWord=3|RX=[N]
+4	ese	ese	DET	_	_	3	mod	_	AlignBegin=30039|AlignEnd=30472|GE=that|Gloss=that|nWord=4|RX=[DET]
+5	ski	ski	VERB	_	_	6	comp:aux/m	_	AlignBegin=30472|AlignEnd=30688|GE=cover|Gloss=cover|nWord=5|RX=[VT]
+6	-e	_	AUX	_	_	2	comp:aux	_	AlignBegin=30688|AlignEnd=30905|GE=[THM]|Gloss=-THM|nWord=5|RX=[V:ANY]
+7	.	_	PUNCT	_	_	2	punct	_	AlignBegin=30905|AlignEnd=31340|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-HO-00000-08_09-09
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-08.WAV/WAV/SAB-TXT-HO-00000-08.WAV
+# sent_timecode = 31515, 33225
+# morphemic_text = cha kle ukuga gite .
+# text = cha kle ukuga gite .
+# text_en = I grab some ukuga.
+# text_ortho = cha kle ukuga gite .
+1	cha	cha	PRON	_	_	4	subj	_	AlignBegin=31515|AlignEnd=31857|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=31857|AlignEnd=32199|GE=be|Gloss=be|nWord=2|RX=[V]
+3	ukuga	ukuga	NOUN	_	_	4	comp:obj	_	AlignBegin=32199|AlignEnd=32541|GE=tree_type|Gloss=tree_type|nWord=3|RX=[N]
+4	gite	gite	VERB	_	_	2	comp:aux	_	AlignBegin=32541|AlignEnd=32883|GE=grab|Gloss=grab|nWord=4|RX=[V]
+5	.	_	PUNCT	_	_	2	punct	_	AlignBegin=32883|AlignEnd=33225|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-HO-00000-08_10-12
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-HO-00000-08.WAV/WAV/SAB-TXT-HO-00000-08.WAV
+# sent_timecode = 33225, 37365
+# morphemic_text = cha kle gwagat -e , hasta cha kle u bli -e ngania , u sing bli -e -nga .
+# text = cha kle gwagate , ata cha kle u blie ngania , u sing blienga .
+# text_en = I prepare (it), Until I finish dressing the house on top. The house´s noze is done completely.
+# text_ortho = cha kle gwagate , ata cha kle u blie ngania , u sing blienga .
+1	cha	cha	PRON	_	_	3	subj	_	AlignBegin=33225|AlignEnd=33545|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=33545|AlignEnd=33865|GE=be|Gloss=be|nWord=2|RX=[V]
+3	gwagat	gwagat	VERB	_	_	4	comp:aux/m	_	AlignBegin=33865|AlignEnd=34025|GE=prepare|Gloss=prepare|nWord=3|RX=[VT]
+4	-e	_	AUX	_	_	2	comp:aux	_	AlignBegin=34025|AlignEnd=34185|GE=[THM]|Gloss=-THM|nWord=3|RX=[V:ANY]
+5	,	_	PUNCT	_	_	2	punct	_	AlignBegin=34185|AlignEnd=34505|nWord=4
+6	hasta	hasta	SCONJ	_	Foreign=Yes	3	mod:tmod	_	AlignBegin=34900|AlignEnd=35102|GE=to|Gloss=to|Lang=es|nWord=5|RX=[ADP]
+7	cha	cha	PRON	_	_	10	subj	_	AlignBegin=35102|AlignEnd=35304|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
+8	kle	kle	AUX	_	_	6	comp	_	AlignBegin=35304|AlignEnd=35506|GE=be|Gloss=be|nWord=7|RX=[V]
+9	u	u	NOUN	_	_	10	comp:obj	_	AlignBegin=35506|AlignEnd=35708|GE=house|Gloss=house|nWord=8|RX=[N]
+10	bli	bli	VERB	_	_	11	comp:aux/m	_	AlignBegin=35708|AlignEnd=35809|GE=dress|Gloss=dress|nWord=9|RX=[V]
+11	-e	_	AUX	_	_	8	comp:aux	_	AlignBegin=35809|AlignEnd=35910|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
+12	ngania	ngania	ADV	_	_	10	mod:lmod	_	AlignBegin=35910|AlignEnd=36112|GE=up|Gloss=up|nWord=10|RX=[ADV]
+13	,	_	PUNCT	_	_	2	punct	_	AlignBegin=36112|AlignEnd=36315|nWord=11
+14	u	u	NOUN	_	_	15	udep:poss	_	AlignBegin=36315|AlignEnd=36577|GE=house|Gloss=house|nWord=12|RX=[N]
+15	sing	sing	NOUN	_	_	16	comp:obj	_	AlignBegin=36577|AlignEnd=36839|GE=nose|Gloss=nose|nWord=13|RX=[N]
+16	bli	bli	VERB	_	_	17	comp:aux/m	_	AlignBegin=36839|AlignEnd=36926|GE=dress|Gloss=dress|nWord=14|RX=[V]
+17	-e	_	AUX	_	_	18	comp:aux/m	_	AlignBegin=36926|AlignEnd=37013|GE=[THM]|Gloss=-THM|nWord=14|RX=[V:ANY]
+18	-nga	_	AUX	_	_	8	conj:dicto	_	AlignBegin=37013|AlignEnd=37101|GE=[SUB]|Gloss=-SUB|nWord=14|RX=[V:ANY]
+19	.	_	PUNCT	_	_	2	punct	_	AlignBegin=37101|AlignEnd=37365|Gloss=.|nWord=15
+

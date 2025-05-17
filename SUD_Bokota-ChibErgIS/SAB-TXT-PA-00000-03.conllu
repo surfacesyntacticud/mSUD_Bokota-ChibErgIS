@@ -1,0 +1,187 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = SAB-TXT-PA-00000-03_01-02
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-03.WAV/WAV/SAB-TXT-PA-00000-03.WAV
+# sent_timecode = 8780, 13440
+# morphemic_text = kwia ho chage , hong ngania que ho skwendu bate -are .
+# text = kwia ho chage , hong ngania que ho skwendu bateare .
+# text_en = People went to walk, The path up there that I think is long.
+# text_ortho = kwia ho chage , hong ngania que ho skwendu bateare .
+1	kwia	kwia	NOUN	_	_	_	_	_	AlignBegin=8780|AlignEnd=9198|GE=people|Gloss=people|nWord=1|RX=[N]
+2	ho	hoke	AUX	_	_	_	_	_	AlignBegin=9198|AlignEnd=9616|GE=[go].[PST]|Gloss=go.PST|nWord=2|RX=[VI]
+3	chage	chage	VERB	_	_	2	comp:aux	_	AlignBegin=9616|AlignEnd=10034|GE=walk|Gloss=walk|nWord=3|RX=[VI]
+4	,	_	PUNCT	_	_	_	_	_	AlignBegin=10034|AlignEnd=10450|nWord=4
+5	hong	hong	NOUN	_	_	_	_	_	AlignBegin=10700|AlignEnd=11091|GE=path|Gloss=path|nWord=5|RX=[N]
+6	ngania	ngania	ADV	_	_	_	_	_	AlignBegin=11091|AlignEnd=11482|GE=up|Gloss=up|nWord=6|RX=[ADV]
+7	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=11482|AlignEnd=11873|GE=that|Gloss=that|Lang=es|nWord=7|RX=[PRO]
+8	ho	hoke	AUX	_	_	_	_	_	AlignBegin=11873|AlignEnd=12264|GE=[go].[PST]|Gloss=go.PST|nWord=8|RX=[VI]
+9	skwendu	skwendu	VERB	_	_	8	comp:aux	_	AlignBegin=12264|AlignEnd=12655|GE=appear.pst|Gloss=appear.pst|nWord=9|RX=[V]
+10	bateare	bate	ADV	_	_	_	_	_	AlignBegin=12655|AlignEnd=13046|GE=[ADJZ]|Gloss=away-ADJZ|nWord=10|RX=[N>ADJ]
+11	.	_	PUNCT	_	_	_	_	_	AlignBegin=13046|AlignEnd=13440|Gloss=.|nWord=11
+
+# sent_id = SAB-TXT-PA-00000-03_03-03
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-03.WAV/WAV/SAB-TXT-PA-00000-03.WAV
+# sent_timecode = 14035, 15485
+# morphemic_text = mucho fuicho .
+# text = mucho fuicho .
+# text_en = A lot of hills.
+# text_ortho = mucho fuicho .
+1	mucho	mucho	ADJ	_	_	_	_	_	AlignBegin=14035|AlignEnd=14518|GE=a_lot|Gloss=a_lot|nWord=1|RX=[ADJ]
+2	fuicho	fuicho	NOUN	_	_	_	_	_	AlignBegin=14518|AlignEnd=15001|GE=hill|Gloss=hill|nWord=2|RX=[N]
+3	.	_	PUNCT	_	_	_	_	_	AlignBegin=15001|AlignEnd=15485|Gloss=.|nWord=3
+
+# sent_id = SAB-TXT-PA-00000-03_04-04
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-03.WAV/WAV/SAB-TXT-PA-00000-03.WAV
+# sent_timecode = 15905, 17775
+# morphemic_text = kwia hong tk -u dwa mas blikaia .
+# text = kwia hong tku dwa ma blikaia .
+# text_en = People made the path to go down faster.
+# text_ortho = kwia hong tku dwa ma blikaia .
+1	kwia	kwia	NOUN	_	_	_	_	_	AlignBegin=15905|AlignEnd=16172|GE=people|Gloss=people|nWord=1|RX=[N]
+2	hong	hong	NOUN	_	_	3	subj	_	AlignBegin=16172|AlignEnd=16439|GE=path|Gloss=path|nWord=2|RX=[N]
+3	tku	tk	VERB	_	_	_	_	_	AlignBegin=16439|AlignEnd=16706|GE=[PST]|Gloss=put-PST|nWord=3|RX=[V:ANY]
+4	dwa	dwa	ADV	_	_	_	_	_	AlignBegin=16706|AlignEnd=16973|GE=down|Gloss=down|nWord=4|RX=[ADV]
+5	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=16973|AlignEnd=17240|GE=more|Gloss=more|Lang=es|nWord=5|RX=[ADV]
+6	blikaia	blikaia	ADV	_	_	_	_	_	AlignBegin=17240|AlignEnd=17507|GE=quickly|Gloss=quickly|nWord=6|RX=[ADV]
+7	.	_	PUNCT	_	_	_	_	_	AlignBegin=17507|AlignEnd=17775|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-PA-00000-03_05-05
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-03.WAV/WAV/SAB-TXT-PA-00000-03.WAV
+# sent_timecode = 17835, 18945
+# morphemic_text = hong dwa tkunga .
+# text = hong dwa tkunga .
+# text_en = (They) cut down the path.
+# text_ortho = hong dwa tkunga .
+1	hong	hong	NOUN	_	_	3	comp:obj	_	AlignBegin=17835|AlignEnd=18113|GE=path|Gloss=path|nWord=1|RX=[N]
+2	dwa	dwa	ADV	_	_	3	mod	_	AlignBegin=18113|AlignEnd=18391|GE=down|Gloss=down|nWord=2|RX=[ADV]
+3	tkunga	tkenga	VERB	_	_	0	root	_	AlignBegin=18391|AlignEnd=18669|GE=[cut].[PST]|Gloss=cut.PST|nWord=3|RX=[VT]
+4	.	_	PUNCT	_	_	3	punct	_	AlignBegin=18669|AlignEnd=18945|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-PA-00000-03_06-06
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-03.WAV/WAV/SAB-TXT-PA-00000-03.WAV
+# sent_timecode = 19285, 24455
+# morphemic_text = enusuli kada kle Inocentio hong tkunga dwa Rio Lui .
+# text = enusuli kada kle inocentio hong tkunga dwa Rio Lui .
+# text_en = The grand father named Inocentio made the path down from Rio Luis.
+# text_ortho = enusuli kada kle inocentio hong tkunga dwa Rio Lui .
+1	enusuli	enusuli	NOUN	_	_	2	subj@pass	_	AlignBegin=19285|AlignEnd=19802|GE=grandfather|Gloss=grandfather|nWord=1|RX=[N]
+2	kada	kada	VERB	_	_	3	comp:aux@pass	_	AlignBegin=19802|AlignEnd=20319|GE=name|Gloss=name|nWord=2|RX=[N]
+3	kle	kle	AUX	_	_	6	subj	_	AlignBegin=20319|AlignEnd=20836|GE=be|Gloss=be|nWord=3|RX=[V]
+4	Inocentio	Inocentio	PROPN	_	_	2	comp:pred	_	AlignBegin=20836|AlignEnd=21353|GE=[Inocentio]|Gloss=Inocentio|nWord=4|RX=[NPROP]
+5	hong	hong	NOUN	_	_	6	comp:obj	_	AlignBegin=21353|AlignEnd=21870|GE=path|Gloss=path|nWord=5|RX=[N]
+6	tkunga	tkenga	VERB	_	_	0	root	_	AlignBegin=21870|AlignEnd=22387|GE=[cut].[PST]|Gloss=cut.PST|nWord=6|RX=[VT]
+7	dwa	dwa	ADV	_	_	6	mod:lmod	_	AlignBegin=22387|AlignEnd=22904|GE=down|Gloss=down|nWord=7|RX=[ADV]
+8	Rio	Rio	NOUN	_	_	6	mod	_	AlignBegin=22904|AlignEnd=23421|GE=[Rio]|Gloss=Rio|nWord=8|RX=[N]
+9	Lui	Lui	PROPN	_	_	8	flat	_	AlignBegin=23421|AlignEnd=23938|GE=[Luis]|Gloss=Luis|nWord=9|RX=[NPROP]
+10	.	_	PUNCT	_	_	6	punct	_	AlignBegin=23938|AlignEnd=24455|Gloss=.|nWord=10
+
+# sent_id = SAB-TXT-PA-00000-03_07-08
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-03.WAV/WAV/SAB-TXT-PA-00000-03.WAV
+# sent_timecode = 24655, 29505
+# morphemic_text = para que hoke chk -e mas blikaia iani , escuela nante .
+# text = pa que hoke chke ma blikaia iani , escuela nante .
+# text_en = To arrive faster here. To school.
+# text_ortho = pa que hoke chke ma blikaia iani , escuela nante .
+1	para	para	SCONJ	_	Foreign=Yes	0	root	_	AlignBegin=24655|AlignEnd=25026|GE=to|Gloss=to|Lang=es|nWord=1|RX=[ADP]
+2	que	que	X	_	Foreign=Yes	1	compound	_	AlignBegin=25026|AlignEnd=25397|GE=that|Gloss=that|Lang=es|nWord=2|RX=[PRO]
+3	hoke	hoke	VERB	_	_	1	comp	_	AlignBegin=25397|AlignEnd=25768|GE=go|Gloss=go|nWord=3|RX=[VI]
+4	chke	chk	VERB	_	_	3	compound:svc	_	AlignBegin=25768|AlignEnd=26139|GE=[THM]|Gloss=arrive-THM|nWord=4|RX=[V:ANY]
+5	mas	mas	ADV	_	Foreign=Yes	6	mod	_	AlignBegin=26139|AlignEnd=26510|GE=more|Gloss=more|Lang=es|nWord=5|RX=[ADV]
+6	blikaia	blikaia	ADV	_	_	4	mod	_	AlignBegin=26510|AlignEnd=26881|GE=quickly|Gloss=quickly|nWord=6|RX=[ADV]
+7	iani	iani	ADV	_	_	4	mod:lmod	_	AlignBegin=26881|AlignEnd=27252|GE=there|Gloss=there|nWord=7|RX=[ADV]
+8	,	_	PUNCT	_	_	_	_	_	AlignBegin=27252|AlignEnd=27625|nWord=8
+9	escuela	escuela	NOUN	_	Foreign=Yes	10	comp	_	AlignBegin=27915|AlignEnd=28445|GE=school|Gloss=school|Lang=es|nWord=9|RX=[N]
+10	nante	nante	ADP	_	_	4	mod	_	AlignBegin=28445|AlignEnd=28975|GE=directional|Gloss=directional|nWord=10|RX=[ADP]
+11	.	_	PUNCT	_	_	_	_	_	AlignBegin=28975|AlignEnd=29505|Gloss=.|nWord=11
+
+# sent_id = SAB-TXT-PA-00000-03_09-10
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-03.WAV/WAV/SAB-TXT-PA-00000-03.WAV
+# sent_timecode = 29595, 32540
+# morphemic_text = ama hong tkunga , por eso hay hong .
+# text = ama hong tkunga , por eso hay hong .
+# text_en = So (he) made the path. That is why there is a path.
+# text_ortho = ama hong tkunga , por eso hay hong .
+1	ama	ama	ADV	_	_	_	_	_	AlignBegin=29595|AlignEnd=30010|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	hong	hong	NOUN	_	_	3	comp:obj	_	AlignBegin=30010|AlignEnd=30425|GE=path|Gloss=path|nWord=2|RX=[N]
+3	tkunga	tkenga	VERB	_	_	_	_	_	AlignBegin=30425|AlignEnd=30840|GE=[cut].[PST]|Gloss=cut.PST|nWord=3|RX=[VT]
+4	,	_	PUNCT	_	_	_	_	_	AlignBegin=30840|AlignEnd=31255|nWord=4
+5	por	por	X	_	Foreign=Yes	_	_	_	AlignBegin=31450|AlignEnd=31668|GE=through|Gloss=through|Lang=es|nWord=5|RX=[ADP]
+6	eso	eso	X	_	Foreign=Yes	5	fixed	_	AlignBegin=31668|AlignEnd=31886|GE=this|Gloss=this|Lang=es|nWord=6|RX=[PRO]
+7	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=31886|AlignEnd=32104|GE=there_is|Gloss=there_is|Lang=es|nWord=7|RX=[V]
+8	hong	hong	NOUN	_	_	7	subj	_	AlignBegin=32104|AlignEnd=32322|GE=path|Gloss=path|nWord=8|RX=[N]
+9	.	_	PUNCT	_	_	_	_	_	AlignBegin=32322|AlignEnd=32540|Gloss=.|nWord=9
+
+# sent_id = SAB-TXT-PA-00000-03_11-11
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-03.WAV/WAV/SAB-TXT-PA-00000-03.WAV
+# sent_timecode = 34030, 36420
+# morphemic_text = ama ho tkunga hay hong .
+# text = ama ho tkunga hay hong .
+# text_en = Because (he) made the path, there is a path.
+# text_ortho = ama ho tkunga hay hong .
+1	ama	ama	ADV	_	_	_	_	_	AlignBegin=34030|AlignEnd=34428|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	ho	hoke	VERB	_	_	_	_	_	AlignBegin=34428|AlignEnd=34826|GE=[go].[PST]|Gloss=go.PST|nWord=2|RX=[VI]
+3	tkunga	tkenga	VERB	_	_	_	_	_	AlignBegin=34826|AlignEnd=35224|GE=[cut].[PST]|Gloss=cut.PST|nWord=3|RX=[VT]
+4	hay	hay	VERB	_	Foreign=Yes	_	_	_	AlignBegin=35224|AlignEnd=35622|GE=there_is|Gloss=there_is|Lang=es|nWord=4|RX=[V]
+5	hong	hong	NOUN	_	_	4	subj	_	AlignBegin=35622|AlignEnd=36020|GE=path|Gloss=path|nWord=5|RX=[N]
+6	.	_	PUNCT	_	_	_	_	_	AlignBegin=36020|AlignEnd=36420|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-PA-00000-03_12-13
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-03.WAV/WAV/SAB-TXT-PA-00000-03.WAV
+# sent_timecode = 36480, 39380
+# morphemic_text = pero si ese me hong hong tkenga , hong mendale .
+# text = pero si ese me ho hong tkenga , hong mendale .
+# text_en = But if he didn't make the path, There would be no path.
+# text_ortho = pero si ese me hong hong tkenga , hong mendale .
+1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=36480|AlignEnd=36696|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
+2	si	si	SCONJ	_	Foreign=Yes	_	_	_	AlignBegin=36696|AlignEnd=36912|GE=if|Gloss=if|Lang=es|nWord=2|RX=[CONN]
+3	ese	ese	DET	_	_	5	subj	_	AlignBegin=36912|AlignEnd=37128|GE=that|Gloss=that|nWord=3|RX=[DET]
+4	me	me	AUX	_	Polarity=Neg	2	comp	_	AlignBegin=37128|AlignEnd=37344|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
+5	ho	hoke	VERB	_	_	4	comp:aux	_	AlignBegin=37344|AlignEnd=37560|GE=go.PST|Gloss=go.PST|nWord=5|RX=[V]
+6	hong	hong	NOUN	_	_	7	comp:obj	_	AlignBegin=37560|AlignEnd=37776|GE=path|Gloss=path|nWord=6|RX=[N]
+7	tkenga	tkenga	VERB	_	_	5	mod:purp	_	AlignBegin=37776|AlignEnd=37992|GE=[cut].[NPST]|Gloss=cut.NPST|nWord=7|RX=[VT]
+8	,	_	PUNCT	_	_	_	_	_	AlignBegin=37992|AlignEnd=38210|nWord=8
+9	hong	hong	NOUN	_	_	_	_	_	AlignBegin=38570|AlignEnd=38840|GE=path|Gloss=path|nWord=9|RX=[N]
+10	mendale	mendale	PART	_	_	_	_	_	AlignBegin=38840|AlignEnd=39110|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]
+11	.	_	PUNCT	_	_	_	_	_	AlignBegin=39110|AlignEnd=39380|Gloss=.|nWord=11
+
+# sent_id = SAB-TXT-PA-00000-03_14-14
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-03.WAV/WAV/SAB-TXT-PA-00000-03.WAV
+# sent_timecode = 40920, 42620
+# morphemic_text = por eso chek -u mas dwa -da ke .
+# text = por eso cheku ma dwada ke .
+# text_en = This is why (he) stayed lower
+# text_ortho = por eso cheku ma dwada ke .
+1	por	por	X	_	Foreign=Yes	_	_	_	AlignBegin=40920|AlignEnd=41163|GE=through|Gloss=through|Lang=es|nWord=1|RX=[ADP]
+2	eso	eso	X	_	Foreign=Yes	1	fixed	_	AlignBegin=41163|AlignEnd=41406|GE=this|Gloss=this|Lang=es|nWord=2|RX=[PRO]
+3	cheku	chek	VERB	_	_	_	_	_	AlignBegin=41406|AlignEnd=41649|GE=[PST]|Gloss=stay-PST|nWord=3|RX=[V:ANY]
+4	mas	mas	ADV	_	Foreign=Yes	_	_	_	AlignBegin=41649|AlignEnd=41892|GE=more|Gloss=more|Lang=es|nWord=4|RX=[ADV]
+5	dwada	dwa	ADV	_	_	_	_	_	AlignBegin=41892|AlignEnd=42135|GE=emph|Gloss=downemph|nWord=5|RX=[VERB]
+6	ke	ke	ADP	_	_	_	_	_	AlignBegin=42135|AlignEnd=42378|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
+7	.	_	PUNCT	_	_	_	_	_	AlignBegin=42378|AlignEnd=42620|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-PA-00000-03_15-15
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-PA-00000-03.WAV/WAV/SAB-TXT-PA-00000-03.WAV
+# sent_timecode = 42915, 46445
+# morphemic_text = che hoke mas blikaia iani Rio Lui .
+# text = che hoke ma blikaia iani Rio Lui .
+# text_en = So we can go faster from Rio Luis.
+# text_ortho = che hoke ma blikaia iani Rio Lui .
+1	che	che	PRON	_	_	2	subj	_	AlignBegin=42915|AlignEnd=43356|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	hoke	hoke	VERB	_	_	0	root	_	AlignBegin=43356|AlignEnd=43797|GE=go|Gloss=go|nWord=2|RX=[VI]
+3	mas	mas	ADV	_	Foreign=Yes	4	mod	_	AlignBegin=43797|AlignEnd=44238|GE=more|Gloss=more|Lang=es|nWord=3|RX=[ADV]
+4	blikaia	blikaia	ADV	_	_	2	mod	_	AlignBegin=44238|AlignEnd=44679|GE=quickly|Gloss=quickly|nWord=4|RX=[ADV]
+5	iani	iani	ADV	_	_	2	mod:lmod	_	AlignBegin=44679|AlignEnd=45120|GE=there|Gloss=there|nWord=5|RX=[ADV]
+6	Rio	Rio	NOUN	_	_	2	mod	_	AlignBegin=45120|AlignEnd=45561|GE=[Rio]|Gloss=Rio|nWord=6|RX=[N]
+7	Lui	Lui	PROPN	_	_	6	flat	_	AlignBegin=45561|AlignEnd=46002|GE=[Luis]|Gloss=Luis|nWord=7|RX=[NPROP]
+8	.	_	PUNCT	_	_	2	punct	_	AlignBegin=46002|AlignEnd=46445|Gloss=.|nWord=8
+

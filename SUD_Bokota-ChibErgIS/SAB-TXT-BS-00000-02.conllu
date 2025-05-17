@@ -1,0 +1,197 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = SAB-TXT-BS-00000-02_01-03
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-BS-00000-02.WAV/WAV/SAB-TXT-BS-00000-02.WAV
+# sent_timecode = 8180, 28350
+# morphemic_text = cha chuda giti kiro gwamenga , kiro soli kwia agere me hoke chk -e ko dike , porque kwia soli kwia agere kiro gwa hoke padi gudiale , hoke mong gudiale , hoke ngagoka gudiale .
+# text = cha chuda giti kiro gwamenga , kiro soli kwia agere me hoke chke ko dike , porque kwia soli kwia agere kirogwa hoke padi gudiale , hoke mong gudiale , hoke ngagoka gudiale .
+# text_en = Amongst my people here the children are born. The babies, the young kids, can't go near. Because the babies, the kids, are going to dream about machete, dream about axe, dream about snake.
+# text_ortho = cha chuda giti kiro gwamenga , kiro soli kwia agere me hoke chke ko dike , porque kwia soli kwia agere kirogwa hoke padi gudiale , hoke mong gudiale , hoke ngagoka gudiale .
+1	cha	cha	PRON	_	_	2	udep:poss	_	AlignBegin=8180|AlignEnd=8957|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	chuda	chuda	NOUN	_	_	3	comp	_	AlignBegin=8957|AlignEnd=9734|GE=species|Gloss=species|nWord=2|RX=[N]
+3	giti	giti	ADP	_	_	5	comp:obl	_	AlignBegin=9734|AlignEnd=10511|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
+4	kiro	kiro	NOUN	_	_	5	subj	_	AlignBegin=10511|AlignEnd=11288|GE=child|Gloss=child|nWord=4|RX=[N]
+5	gwamenga	gwamenga	VERB	_	_	13	mod	_	AlignBegin=11288|AlignEnd=12065|GE=be_born.npst|Gloss=be_born.npst|nWord=5|RX=[V]
+6	,	_	PUNCT	_	_	11	punct	_	AlignBegin=12065|AlignEnd=12840|nWord=6
+7	kiro	kiro	NOUN	_	_	12	subj	_	AlignBegin=13650|AlignEnd=14189|GE=child|Gloss=child|nWord=7|RX=[N]
+8	soli	soli	ADJ	_	_	7	mod	_	AlignBegin=14189|AlignEnd=14728|GE=little|Gloss=little|nWord=8|RX=[N]
+9	kwia	kwia	NOUN	_	_	7	conj:coord	_	AlignBegin=14728|AlignEnd=15267|GE=people|Gloss=people|nWord=9|RX=[N]
+10	agere	agere	ADJ	_	_	9	mod	_	AlignBegin=15267|AlignEnd=15806|GE=new|Gloss=new|nWord=10|RX=[ADJ]
+11	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=15806|AlignEnd=16345|GE=[NEG]|Gloss=NEG|nWord=11|RX=[VERBPRT]
+12	hoke	hoke	VERB	_	_	11	comp:aux	_	AlignBegin=16345|AlignEnd=16884|GE=go|Gloss=go|nWord=12|RX=[VI]
+13	chke	chk	VERB	_	_	12	compound:svc	_	AlignBegin=16884|AlignEnd=17423|GE=[THM]|Gloss=arrive-THM|nWord=13|RX=[V:ANY]
+14	ko	ko	NOUN	_	_	15	comp	_	AlignBegin=17423|AlignEnd=17962|GE=hand|Gloss=hand|nWord=14|RX=[N]
+15	dike	dike	ADP	_	_	13	comp:obl	_	AlignBegin=17962|AlignEnd=18501|GE=[INST]|Gloss=INST|nWord=15|RX=[ADP]
+16	,	_	PUNCT	_	_	11	punct	_	AlignBegin=18501|AlignEnd=19040|nWord=16
+17	porque	porque	X	_	Foreign=Yes	13	mod	_	AlignBegin=20110|AlignEnd=20568|GE=because|Gloss=because|Lang=es|nWord=17|RX=[CONN]
+18	kwia	kwia	NOUN	_	_	23	subj	_	AlignBegin=20568|AlignEnd=21026|GE=people|Gloss=people|nWord=18|RX=[N]
+19	soli	soli	ADJ	_	_	18	mod	_	AlignBegin=21026|AlignEnd=21484|GE=little|Gloss=little|nWord=19|RX=[N]
+20	kwia	kwia	NOUN	_	_	18	conj:coord	_	AlignBegin=21484|AlignEnd=21942|GE=people|Gloss=people|nWord=20|RX=[N]
+21	agere	agere	ADJ	_	_	20	mod	_	AlignBegin=21942|AlignEnd=22400|GE=new|Gloss=new|nWord=21|RX=[ADJ]
+22	kirogwa	kiro	NOUN	_	_	20	conj:coord	_	AlignBegin=22400|AlignEnd=22858|GE=child|Gloss=child|nWord=22|RX=[N]
+23	hoke	hoke	AUX	_	_	17	comp	_	AlignBegin=22858|AlignEnd=23316|GE=go|Gloss=go|nWord=23|RX=[VI]
+24	padi	padi	NOUN	_	_	25	comp:obj	_	AlignBegin=23316|AlignEnd=23774|GE=machete|Gloss=machete|nWord=24|RX=[N]
+25	gudiale	gudiale	VERB	_	_	23	comp:aux	_	AlignBegin=23774|AlignEnd=24232|GE=dream|Gloss=dream|nWord=25|RX=[V]
+26	,	_	PUNCT	_	_	11	punct	_	AlignBegin=24232|AlignEnd=24690|nWord=26
+27	hoke	hoke	AUX	_	_	23	conj:coord	_	AlignBegin=24690|AlignEnd=25148|GE=go|Gloss=go|nWord=27|RX=[VI]
+28	mong	mong	NOUN	_	_	29	comp:obj	_	AlignBegin=25148|AlignEnd=25606|GE=axe|Gloss=axe|nWord=28|RX=[N]
+29	gudiale	gudiale	VERB	_	_	27	comp:aux	_	AlignBegin=25606|AlignEnd=26064|GE=dream|Gloss=dream|nWord=29|RX=[V]
+30	,	_	PUNCT	_	_	11	punct	_	AlignBegin=26064|AlignEnd=26522|nWord=30
+31	hoke	hoke	AUX	_	_	27	conj:coord	_	AlignBegin=26522|AlignEnd=26980|GE=go|Gloss=go|nWord=31|RX=[VI]
+32	ngagoka	ngagoka	NOUN	_	_	33	comp:obj	_	AlignBegin=26980|AlignEnd=27438|GE=snake|Gloss=snake|nWord=32|RX=[N]
+33	gudiale	gudiale	VERB	_	_	31	comp:aux	_	AlignBegin=27438|AlignEnd=27896|GE=dream|Gloss=dream|nWord=33|RX=[V]
+34	.	_	PUNCT	_	_	11	punct	_	AlignBegin=27896|AlignEnd=28350|Gloss=.|nWord=34
+
+# sent_id = SAB-TXT-BS-00000-02_04-07
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-BS-00000-02.WAV/WAV/SAB-TXT-BS-00000-02.WAV
+# sent_timecode = 28660, 39180
+# morphemic_text = ama giti kwia kle bag -e asi , kwia kle bag -e asi , cho ko -ia me tieng dike , taigda me tieng dike , sainkuli .
+# text = ama giti kwia kle bage asi , kwia kle bage asi , cho koia me tieng dike , taigda me tieng dike , sainkuli .
+# text_en = So here, people (pregnant women) stay inside, People (pregnant women) stay inside, (They) can't experience salty flavor. (They) can't experience the flavor of taigda, it is forbidden.
+# text_ortho = ama giti kwia kle bage asi , kwia kle bage asi , cho koia me tieng dike , taigda me tieng dike , sainkuli .
+1	ama	ama	ADV	_	_	5	discourse	_	AlignBegin=28660|AlignEnd=29047|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	giti	giti	ADV	_	_	5	mod:lmod	_	AlignBegin=29047|AlignEnd=29434|GE=[LOC]|Gloss=LOC|nWord=2|RX=[ADP]
+3	kwia	kwia	NOUN	_	_	5	subj	_	AlignBegin=29434|AlignEnd=29821|GE=people|Gloss=people|nWord=3|RX=[N]
+4	kle	kle	AUX	_	_	0	root	_	AlignBegin=29821|AlignEnd=30208|GE=be|Gloss=be|nWord=4|RX=[V]
+5	bage	bag	VERB	_	_	4	comp:aux	_	AlignBegin=30208|AlignEnd=30595|GE=[THM]|Gloss=ceremoniate-THM|nWord=5|RX=[V:ANY]
+6	asi	asi	ADV	_	Foreign=Yes	5	mod	_	AlignBegin=30595|AlignEnd=30982|GE=like_that|Gloss=like_that|Lang=es|nWord=6|RX=[ADV]
+7	,	_	PUNCT	_	_	4	punct	_	AlignBegin=30982|AlignEnd=31370|nWord=7
+8	kwia	kwia	NOUN	_	_	10	subj	_	AlignBegin=31670|AlignEnd=32014|GE=people|Gloss=people|nWord=8|RX=[N]
+9	kle	kle	AUX	_	_	4	conj:dicto	_	AlignBegin=32014|AlignEnd=32358|GE=be|Gloss=be|nWord=9|RX=[V]
+10	bage	bag	VERB	_	_	9	comp:aux	_	AlignBegin=32358|AlignEnd=32702|GE=[THM]|Gloss=ceremoniate-THM|nWord=10|RX=[V:ANY]
+11	asi	asi	ADV	_	Foreign=Yes	10	mod	_	AlignBegin=32702|AlignEnd=33046|GE=like_that|Gloss=like_that|Lang=es|nWord=11|RX=[ADV]
+12	,	_	PUNCT	_	_	4	punct	_	AlignBegin=33046|AlignEnd=33390|nWord=12
+13	cho	cho	NOUN	_	_	14	udep:poss	_	AlignBegin=33425|AlignEnd=33785|GE=salt|Gloss=salt|nWord=13|RX=[N]
+14	koia	ko	NOUN	_	_	17	comp	_	AlignBegin=33785|AlignEnd=34145|GE=[POSS]|Gloss=taste-POSS|nWord=14|RX=[N:ANY]
+15	me	me	AUX	_	Polarity=Neg	9	conj:coord	_	AlignBegin=34145|AlignEnd=34505|GE=[NEG]|Gloss=NEG|nWord=15|RX=[VERBPRT]
+16	tieng	tieng	VERB	_	_	15	comp:aux	_	AlignBegin=34505|AlignEnd=34865|GE=[see].[NPST]|Gloss=see.NPST|nWord=16|RX=[V]
+17	dike	dike	ADP	_	_	16	comp:obl	_	AlignBegin=34865|AlignEnd=35225|GE=[INST]|Gloss=INST|nWord=17|RX=[ADP]
+18	,	_	PUNCT	_	_	4	punct	_	AlignBegin=35225|AlignEnd=35585|nWord=18
+19	taigda	taigda	NOUN	_	_	22	comp	_	AlignBegin=36770|AlignEnd=37114|GE=food_type|Gloss=food_type|nWord=19|RX=[N]
+20	me	me	AUX	_	Polarity=Neg	15	conj:coord	_	AlignBegin=37114|AlignEnd=37458|GE=[NEG]|Gloss=NEG|nWord=20|RX=[VERBPRT]
+21	tieng	tieng	VERB	_	_	20	comp:aux	_	AlignBegin=37458|AlignEnd=37802|GE=[see].[NPST]|Gloss=see.NPST|nWord=21|RX=[V]
+22	dike	dike	ADP	_	_	21	comp:obl	_	AlignBegin=37802|AlignEnd=38146|GE=[INST]|Gloss=INST|nWord=22|RX=[ADP]
+23	,	_	PUNCT	_	_	4	punct	_	AlignBegin=38146|AlignEnd=38490|nWord=23
+24	sainkuli	sainkuli	ADV	_	_	20	conj:coord	_	AlignBegin=38490|AlignEnd=38834|GE=forbidden|Gloss=forbidden|nWord=24|RX=[ADV]
+25	.	_	PUNCT	_	_	4	punct	_	AlignBegin=38834|AlignEnd=39180|Gloss=.|nWord=25
+
+# sent_id = SAB-TXT-BS-00000-02_08-08
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-BS-00000-02.WAV/WAV/SAB-TXT-BS-00000-02.WAV
+# sent_timecode = 41280, 45715
+# morphemic_text = nienu -nga o mas enusuli -a hoke chk -e ko dike .
+# text = nienunga o mas enusulia hoke chke ko dike .
+# text_en = Their father, or more their grandfather go and help (her).
+# text_ortho = nienunga o mas enusulia hoke chke ko dike .
+1	nienunga	nienu	NOUN	_	_	5	subj	_	AlignBegin=41280|AlignEnd=41773|GE=[POSS]|Gloss=father-POSS|nWord=1|RX=[N:ANY]
+2	o	o	X	_	_	4	cc	_	AlignBegin=41773|AlignEnd=42266|GE=or|Gloss=or|nWord=2|RX=[COORDCONN]
+3	mas	mas	ADV	_	Foreign=Yes	2	mod	_	AlignBegin=42266|AlignEnd=42759|GE=more|Gloss=more|Lang=es|nWord=3|RX=[ADV]
+4	enusulia	enusuli	NOUN	_	_	1	conj:coord	_	AlignBegin=42759|AlignEnd=43252|GE=[POSS]|Gloss=grandfather-POSS|nWord=4|RX=[N:ANY]
+5	hoke	hoke	VERB	_	_	0	root	_	AlignBegin=43252|AlignEnd=43745|GE=go|Gloss=go|nWord=5|RX=[VI]
+6	chke	chk	VERB	_	_	5	compound:svc	_	AlignBegin=43745|AlignEnd=44238|GE=[THM]|Gloss=arrive-THM|nWord=6|RX=[V:ANY]
+7	ko	ko	NOUN	_	_	8	comp	_	AlignBegin=44238|AlignEnd=44731|GE=hand|Gloss=hand|nWord=7|RX=[N]
+8	dike	dike	ADP	_	_	6	comp:obl	_	AlignBegin=44731|AlignEnd=45224|GE=[INST]|Gloss=INST|nWord=8|RX=[ADP]
+9	.	_	PUNCT	_	_	5	punct	_	AlignBegin=45224|AlignEnd=45715|Gloss=.|nWord=9
+
+# sent_id = SAB-TXT-BS-00000-02_09-11
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-BS-00000-02.WAV/WAV/SAB-TXT-BS-00000-02.WAV
+# sent_timecode = 45715, 56520
+# morphemic_text = nienu -a hoke chk -e chui apa ke , pero ya chui este nengke nienu -a me gna hoke chk -e , y daba salebli hombre me gna hoke chk -e .
+# text = nienua hoke chke chui apake , pero ya chui ete nengke nienua me gna hoke chke , y daba salebli hombre me gna hoke chke .
+# text_en = The (baby's) father come the eighth day. But until that day, the (baby's) father can't come. And other men can't come.
+# text_ortho = nienua hoke chke chui apake , pero ya chui ete nengke nienua me gna hoke chke , y daba salebli hombre me gna hoke chke .
+1	nienua	nienu	NOUN	_	_	2	subj	_	AlignBegin=45715|AlignEnd=46092|GE=[POSS]|Gloss=father-POSS|nWord=1|RX=[N:ANY]
+2	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=46092|AlignEnd=46469|GE=go|Gloss=go|nWord=2|RX=[VI]
+3	chke	chk	VERB	_	_	2	compound:svc	_	AlignBegin=46469|AlignEnd=46846|GE=[THM]|Gloss=arrive-THM|nWord=3|RX=[V:ANY]
+4	chui	chui	NOUN	_	_	_	_	_	AlignBegin=46846|AlignEnd=47223|GE=sun|Gloss=sun|nWord=4|RX=[N]
+5	apa	apa	NUM	_	_	4	mod	_	AlignBegin=47223|AlignEnd=47411|GE=eight|Gloss=eight|nWord=5|RX=[NUM]
+6	ke	ke	ADP	_	_	_	_	_	AlignBegin=47411|AlignEnd=47600|GE=[LOC]|Gloss=LOC|nWord=5|RX=[ADP]
+7	,	_	PUNCT	_	_	_	_	_	AlignBegin=47600|AlignEnd=47975|nWord=6
+8	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=48020|AlignEnd=48457|GE=but|Gloss=but|Lang=es|nWord=7|RX=[COORDCONN]
+9	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=48457|AlignEnd=48894|GE=now|Gloss=now|Lang=es|nWord=8|RX=[ADV]
+10	chui	chui	NOUN	_	_	_	_	_	AlignBegin=48894|AlignEnd=49331|GE=sun|Gloss=sun|nWord=9|RX=[N]
+11	este	este	DET	_	_	10	mod	_	AlignBegin=49331|AlignEnd=49768|GE=that|Gloss=that|nWord=10|RX=[DET]
+12	nengke	nengke	ADV	_	_	_	_	_	AlignBegin=49768|AlignEnd=50205|GE=today|Gloss=today|nWord=11|RX=[ADV]
+13	nienua	nienu	NOUN	_	_	16	subj	_	AlignBegin=50205|AlignEnd=50642|GE=[POSS]|Gloss=father-POSS|nWord=12|RX=[N:ANY]
+14	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=50642|AlignEnd=51079|GE=[NEG]|Gloss=NEG|nWord=13|RX=[VERBPRT]
+15	gna	gna	AUX	_	_	14	comp:aux	_	AlignBegin=51079|AlignEnd=51516|GE=can|Gloss=can|nWord=14|RX=[V]
+16	hoke	hoke	VERB	_	_	15	comp:aux	_	AlignBegin=51516|AlignEnd=51953|GE=go|Gloss=go|nWord=15|RX=[VI]
+17	chke	chk	VERB	_	_	16	compound:svc	_	AlignBegin=51953|AlignEnd=52390|GE=[THM]|Gloss=arrive-THM|nWord=16|RX=[V:ANY]
+18	,	_	PUNCT	_	_	_	_	_	AlignBegin=52390|AlignEnd=52830|nWord=17
+19	y	y	X	_	Foreign=Yes	23	cc	_	AlignBegin=53040|AlignEnd=53427|GE=and|Gloss=and|Lang=es|nWord=18|RX=[COORDCONN]
+20	daba	daba	NOUN	_	_	25	subj	_	AlignBegin=53427|AlignEnd=53814|GE=brother|Gloss=brother|nWord=19|RX=[N]
+21	salebli	salebli	ADJ	_	_	20	mod	_	AlignBegin=53814|AlignEnd=54201|GE=different|Gloss=different|nWord=20|RX=[ADJ]
+22	hombre	hombre	ADJ	_	_	20	mod	_	AlignBegin=54201|AlignEnd=54588|GE=male|Gloss=male|nWord=21|RX=[ADJ]
+23	me	me	AUX	_	Polarity=Neg	14	conj:coord	_	AlignBegin=54588|AlignEnd=54975|GE=[NEG]|Gloss=NEG|nWord=22|RX=[VERBPRT]
+24	gna	gna	AUX	_	_	23	comp:aux	_	AlignBegin=54975|AlignEnd=55362|GE=can|Gloss=can|nWord=23|RX=[V]
+25	hoke	hoke	VERB	_	_	24	comp:aux	_	AlignBegin=55362|AlignEnd=55749|GE=go|Gloss=go|nWord=24|RX=[VI]
+26	chke	chk	VERB	_	_	25	compound:svc	_	AlignBegin=55749|AlignEnd=56136|GE=[THM]|Gloss=arrive-THM|nWord=25|RX=[V:ANY]
+27	.	_	PUNCT	_	_	_	_	_	AlignBegin=56136|AlignEnd=56520|Gloss=.|nWord=26
+
+# sent_id = SAB-TXT-BS-00000-02_12-16
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-BS-00000-02.WAV/WAV/SAB-TXT-BS-00000-02.WAV
+# sent_timecode = 56785, 69410
+# morphemic_text = be durano apa ke , ya nienu -a gna hoke tieng -da dike , geru trak -e chebi -nga ole , gna bli hinan -d- -e , ya apa ke ke .
+# text = be durano apake , ya nienua gna hoke tiengda dike , geru trake chebinga ole , gna bli hinande , ya apake ke .
+# text_en = It will last eight days. Then the (baby's) father can go see (the baby). And talk to the mother. (She) can cook food. From the eighth day.
+# text_ortho = be durano apake , ya nienua gna hoke tiengda dike , geru trake chebinga ole , gna bli hinande , ya apake ke .
+1	be	be	AUX	_	_	_	_	_	AlignBegin=56785|AlignEnd=57285|GE=[FUT]|Gloss=FUT|nWord=1|RX=[VERBPRT]
+2	durano	durano	VERB	_	_	1	comp:aux	_	AlignBegin=57285|AlignEnd=57785|GE=last|Gloss=last|nWord=2|RX=[V]
+3	apa	apa	NUM	_	_	_	_	_	AlignBegin=57785|AlignEnd=58035|GE=eight|Gloss=eight|nWord=3|RX=[NUM]
+4	ke	ke	ADP	_	_	_	_	_	AlignBegin=58035|AlignEnd=58285|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
+5	,	_	PUNCT	_	_	_	_	_	AlignBegin=58285|AlignEnd=58785|nWord=4
+6	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=58960|AlignEnd=59334|GE=now|Gloss=now|Lang=es|nWord=5|RX=[ADV]
+7	nienua	nienu	NOUN	_	_	9	subj	_	AlignBegin=59334|AlignEnd=59708|GE=[POSS]|Gloss=father-POSS|nWord=6|RX=[N:ANY]
+8	gna	gna	AUX	_	_	_	_	_	AlignBegin=59708|AlignEnd=60082|GE=can|Gloss=can|nWord=7|RX=[V]
+9	hoke	hoke	VERB	_	_	8	comp:aux	_	AlignBegin=60082|AlignEnd=60456|GE=go|Gloss=go|nWord=8|RX=[VI]
+10	tiengda	tieng	VERB	_	_	9	mod:purp	_	AlignBegin=60456|AlignEnd=60830|GE=emph|Gloss=see.NPSTemph|nWord=9|RX=[VERB]
+11	dike	dike	ADP	_	_	10	compound	_	AlignBegin=60830|AlignEnd=61204|GE=[INST]|Gloss=INST|nWord=10|RX=[ADP]
+12	,	_	PUNCT	_	_	_	_	_	AlignBegin=61204|AlignEnd=61580|nWord=11
+13	geru	geru	NOUN	_	_	14	comp:obj	_	AlignBegin=61765|AlignEnd=62631|GE=story|Gloss=story|nWord=12|RX=[N]
+14	trake	trak	VERB	_	_	8	conj:coord	_	AlignBegin=62631|AlignEnd=63497|GE=[THM]|Gloss=tell-THM|nWord=13|RX=[V:ANY]
+15	chebinga	chebi	NOUN	_	_	16	comp	_	AlignBegin=63497|AlignEnd=64363|GE=[POSS]|Gloss=mother-POSS|nWord=14|RX=[N:ANY]
+16	ole	ole	ADP	_	_	14	comp:obl	_	AlignBegin=64363|AlignEnd=65229|GE=[COM]|Gloss=COM|nWord=15|RX=[ADP]
+17	,	_	PUNCT	_	_	_	_	_	AlignBegin=65229|AlignEnd=66095|nWord=16
+18	gna	gna	AUX	_	_	14	conj:coord	_	AlignBegin=66145|AlignEnd=66575|GE=can|Gloss=can|nWord=17|RX=[V]
+19	bli	bli	NOUN	_	_	20	comp:obj	_	AlignBegin=66575|AlignEnd=67005|GE=food|Gloss=food|nWord=18|RX=[N]
+20	hinande	hinan	VERB	_	_	18	comp:aux	_	AlignBegin=67005|AlignEnd=67435|GE=[THM]|Gloss=cook-0--THM|nWord=19|RX=[V:ANY]|wordform=hinand-e
+21	,	_	PUNCT	_	_	_	_	_	AlignBegin=67435|AlignEnd=67865|nWord=20
+22	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=68050|AlignEnd=68390|GE=now|Gloss=now|Lang=es|nWord=21|RX=[ADV]
+23	apa	apa	NUM	_	_	_	_	_	AlignBegin=68390|AlignEnd=68560|GE=eight|Gloss=eight|nWord=22|RX=[NUM]
+24	ke	ke	ADP	_	_	_	_	_	AlignBegin=68560|AlignEnd=68730|GE=[LOC]|Gloss=LOC|nWord=22|RX=[ADP]
+25	ke	ke	ADP	_	_	_	_	_	AlignBegin=68730|AlignEnd=69070|GE=[LOC]|Gloss=LOC|nWord=23|RX=[ADP]
+26	.	_	PUNCT	_	_	_	_	_	AlignBegin=69070|AlignEnd=69410|Gloss=.|nWord=24
+
+# sent_id = SAB-TXT-BS-00000-02_17-18
+# speaker_id = @02
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-BS-00000-02.WAV/WAV/SAB-TXT-BS-00000-02.WAV
+# sent_timecode = 69415, 74075
+# morphemic_text = pero ( ya apa ke ) no apa ke ke nienu -nga me gna hoke chk -e iani -dale , que ese sainkuli .
+# text = pero ( ya apake ) no apake ke nienunga me gna hoke chke iani dale , que ese sainkuli .
+# text_en = But before eight days, the (baby's) father can't go there. Because it is forbidden.
+# text_ortho = pero ( ya apake ) no apake ke nienunga me gna hoke chke iani dale , que ese sainkuli .
+1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=69415|AlignEnd=69629|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
+2	(	_	PUNCT	_	_	_	_	_	AlignBegin=69629|AlignEnd=69843|nWord=2
+3	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=69843|AlignEnd=70057|GE=now|Gloss=now|Lang=es|nWord=3|RX=[ADV]
+4	apa	apa	NUM	_	_	_	_	_	AlignBegin=70057|AlignEnd=70164|GE=eight|Gloss=eight|nWord=4|RX=[NUM]
+5	ke	ke	ADP	_	_	_	_	_	AlignBegin=70164|AlignEnd=70271|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
+6	)	_	PUNCT	_	_	_	_	_	AlignBegin=70271|AlignEnd=70485|nWord=5
+7	no	no	PART	_	_	_	_	_	AlignBegin=70485|AlignEnd=70699|GE=[NEG]|Gloss=NEG|nWord=6|RX=[VERBPRT]
+8	apa	apa	NUM	_	_	_	_	_	AlignBegin=70699|AlignEnd=70806|GE=eight|Gloss=eight|nWord=7|RX=[NUM]
+9	ke	ke	ADP	_	_	_	_	_	AlignBegin=70806|AlignEnd=70913|GE=[LOC]|Gloss=LOC|nWord=7|RX=[ADP]
+10	ke	ke	ADP	_	_	_	_	_	AlignBegin=70913|AlignEnd=71127|GE=[LOC]|Gloss=LOC|nWord=8|RX=[ADP]
+11	nienunga	nienu	NOUN	_	_	14	subj	_	AlignBegin=71127|AlignEnd=71341|GE=[POSS]|Gloss=father-POSS|nWord=9|RX=[N:ANY]
+12	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=71341|AlignEnd=71555|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]
+13	gna	gna	AUX	_	_	12	comp:aux	_	AlignBegin=71555|AlignEnd=71769|GE=can|Gloss=can|nWord=11|RX=[V]
+14	hoke	hoke	VERB	_	_	13	comp:aux	_	AlignBegin=71769|AlignEnd=71983|GE=go|Gloss=go|nWord=12|RX=[VI]
+15	chke	chk	VERB	_	_	14	compound:svc	_	AlignBegin=71983|AlignEnd=72197|GE=[THM]|Gloss=arrive-THM|nWord=13|RX=[V:ANY]
+16	ianidale	iani	ADV	_	_	_	_	_	AlignBegin=72197|AlignEnd=72625|GE=[IRR]|Gloss=there-IRR|nWord=15|RX=[V:ANY]
+17	,	_	PUNCT	_	_	_	_	_	AlignBegin=72625|AlignEnd=72845|nWord=16
+18	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=72865|AlignEnd=73167|GE=that|Gloss=that|Lang=es|nWord=17|RX=[PRO]
+19	ese	ese	PRON	_	_	_	_	_	AlignBegin=73167|AlignEnd=73469|GE=that|Gloss=that|nWord=18|RX=[PRO]
+20	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=73469|AlignEnd=73771|GE=forbidden|Gloss=forbidden|nWord=19|RX=[ADV]
+21	.	_	PUNCT	_	_	_	_	_	AlignBegin=73771|AlignEnd=74075|Gloss=.|nWord=20
+

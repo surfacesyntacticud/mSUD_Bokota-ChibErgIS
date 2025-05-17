@@ -1,0 +1,275 @@
+# sent_id = SAB-TXT-CO-00000-07_01-02
+# speaker_id = @07
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-07.WAV/WAV/SAB-TXT-CO-00000-07.WAV
+# sent_timecode = 8790, 14962
+# morphemic_text = cha enusuli -a y cha chebi -a kle koi gwe -d- -a , luk -ado giska giti .
+# text = cha enusulia y cha chebia kle koi gweda , lukado giska giti .
+# text_en = My grandfather and my mother kill the chicken, attached with a rope.
+# text_ortho = cha enusulia y cha chebia kle koi gweda , lukado giska giti .
+1	cha	cha	PRON	_	_	2	udep:poss	_	AlignBegin=8790|AlignEnd=9358|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	enusuli	enusuli	NOUN	_	_	3	comp:aux/m	_	AlignBegin=9358|AlignEnd=9642|GE=grandfather|Gloss=grandfather|nWord=2|RX=[N]
+3	-a	_	AUX	_	_	10	subj	_	AlignBegin=9642|AlignEnd=9926|GE=[POSS]|Gloss=-POSS|nWord=2|RX=[N:ANY]
+4	y	y	X	_	Foreign=Yes	7	cc	_	AlignBegin=9926|AlignEnd=10494|GE=and|Gloss=and|Lang=es|nWord=3|RX=[COORDCONN]
+5	cha	cha	PRON	_	_	6	udep:poss	_	AlignBegin=10494|AlignEnd=11062|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
+6	chebi	chebi	NOUN	_	_	7	comp:aux/m	_	AlignBegin=11062|AlignEnd=11346|GE=mother|Gloss=mother|nWord=5|RX=[N]
+7	-a	_	AUX	_	_	3	conj:coord	_	AlignBegin=11346|AlignEnd=11630|GE=[POSS]|Gloss=-POSS|nWord=5|RX=[N:ANY]
+8	kle	kle	AUX	_	_	0	root	_	AlignBegin=11630|AlignEnd=12198|GE=be|Gloss=be|nWord=6|RX=[V]
+9	koi	koi	NOUN	_	_	10	comp:obj	_	AlignBegin=12198|AlignEnd=12766|GE=chicken|Gloss=chicken|nWord=7|RX=[N]
+10	gwe	gwe	VERB	_	_	11	comp:aux/m	_	AlignBegin=12766|AlignEnd=12955|GE=kill|Gloss=sleep|nWord=8|RX=[V]
+11	-da	_	AUX	_	_	8	comp:aux	_	AlignBegin=12955|AlignEnd=13334|GE=[0]|Gloss=-ASP|nWord=8|RX=[VERB]
+12	,	_	PUNCT	_	_	8	punct	_	AlignBegin=13334|AlignEnd=13905|nWord=9
+13	luk	luk	VERB	_	_	14	comp:aux/m	_	AlignBegin=13922|AlignEnd=14052|GE=link|Gloss=link|nWord=10|RX=[VT]
+14	-ado	_	AUX	_	_	9	mod	_	AlignBegin=14052|AlignEnd=14182|GE=[PART]|Gloss=-PART|nWord=10|RX=[VERB]
+15	giska	giska	NOUN	_	_	16	comp	_	AlignBegin=14182|AlignEnd=14442|GE=rope|Gloss=rope|nWord=11|RX=[N]
+16	giti	giti	ADP	_	_	13	comp:obl	_	AlignBegin=14442|AlignEnd=14702|GE=[LOC]|Gloss=LOC|nWord=12|RX=[ADP]
+17	.	_	PUNCT	_	_	8	punct	_	AlignBegin=14702|AlignEnd=14962|Gloss=.|nWord=13
+
+# sent_id = SAB-TXT-CO-00000-07_03-03
+# speaker_id = @07
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-07.WAV/WAV/SAB-TXT-CO-00000-07.WAV
+# sent_timecode = 16260, 19540
+# morphemic_text = che kle giska luk -e koi siro hita ke .
+# text = che kle giska luke koi siro hita ke .
+# text_en = They link a rope to the chicken´s neck on the fire.
+# text_ortho = che kle giska luke koi siro hita ke .
+1	che	che	PRON	_	_	4	subj	_	AlignBegin=16260|AlignEnd=16624|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=16624|AlignEnd=16988|GE=be|Gloss=be|nWord=2|RX=[V]
+3	giska	giska	NOUN	_	_	4	comp:obj	_	AlignBegin=16988|AlignEnd=17352|GE=rope|Gloss=rope|nWord=3|RX=[N]
+4	luk	luk	VERB	_	_	5	comp:aux/m	_	AlignBegin=17352|AlignEnd=17534|GE=link|Gloss=link|nWord=4|RX=[VT]
+5	-e	_	AUX	_	_	2	comp:aux	_	AlignBegin=17534|AlignEnd=17716|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+6	koi	koi	NOUN	_	_	7	udep:poss	_	AlignBegin=17716|AlignEnd=18080|GE=chicken|Gloss=chicken|nWord=5|RX=[N]
+7	siro	siro	NOUN	_	_	8	udep:poss	_	AlignBegin=18080|AlignEnd=18444|GE=neck|Gloss=neck|nWord=6|RX=[N]
+8	hita	hita	NOUN	_	_	9	comp	_	AlignBegin=18444|AlignEnd=18808|GE=fire|Gloss=fire|nWord=7|RX=[N]
+9	ke	ke	ADP	_	_	4	comp:obl	_	AlignBegin=18808|AlignEnd=19172|GE=[LOC]|Gloss=LOC|nWord=8|RX=[ADP]
+10	.	_	PUNCT	_	_	5	punct	_	AlignBegin=19172|AlignEnd=19540|Gloss=.|nWord=9
+
+# sent_id = SAB-TXT-CO-00000-07_04-04
+# speaker_id = @07
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-07.WAV/WAV/SAB-TXT-CO-00000-07.WAV
+# sent_timecode = 20175, 22115
+# morphemic_text = koi be ho ked -a .
+# text = koi be hokeda .
+# text_en = The chicken will die.
+# text_ortho = koi be hokeda .
+1	koi	koi	NOUN	_	_	3	subj	_	AlignBegin=20175|AlignEnd=20660|GE=chicken|Gloss=chicken|nWord=1|RX=[N]
+2	be	be	AUX	_	_	0	root	_	AlignBegin=20660|AlignEnd=21145|GE=[FUT]|Gloss=FUT|nWord=2|RX=[VERBPRT]
+3	hoke	hoke	VERB	_	_	4	comp:aux/m	_	AlignBegin=21145|AlignEnd=21307|GE=[go].[PST]|Gloss=go|nWord=3|RX=[VI]
+4	-da	ked	AUX	_	_	2	comp:aux	_	AlignBegin=21307|AlignEnd=21630|GE=die|Gloss=die|nWord=3|RX=[V]
+5	.	_	PUNCT	_	_	2	punct	_	AlignBegin=21630|AlignEnd=22115|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-CO-00000-07_05-07
+# speaker_id = @07
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-07.WAV/WAV/SAB-TXT-CO-00000-07.WAV
+# sent_timecode = 22790, 34825
+# morphemic_text = sainkuli kiro haling so inte cuando che esta koi gwe -d- -a cuando che chebi esta koi gwe -d- -a , porque kiro pone die amania dodad -e daba salebli ole , sainkuli .
+# text = sainkuli kiro haling so inte cuando che ta koi gweda cuando che chebi ta koi gweda , porque kiro pone die amania dodade daba salebli ole , sainkuli .
+# text_en = It is forbidden for the children to be there when their mother is killing the chicken. Because the kid will do the same to the brother. It is forbidden.
+# text_ortho = sainkuli kiro haling so inte cuando che ta koi gweda cuando che chebi ta koi gweda , porque kiro pone die amania dodade daba salebli ole , sainkuli .
+1	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=22790|AlignEnd=23131|GE=forbidden|Gloss=forbidden|nWord=1|RX=[ADV]
+2	kiro	kiro	NOUN	_	_	5	subj	_	AlignBegin=23131|AlignEnd=23472|GE=child|Gloss=child|nWord=2|RX=[N]
+3	haling	haling	ADJ	_	_	2	mod	_	AlignBegin=23472|AlignEnd=23813|GE=small|Gloss=small|nWord=3|RX=[ADJ]
+4	so	so	NOUN	_	_	5	comp:obj	_	AlignBegin=23813|AlignEnd=24154|GE=signal|Gloss=signal|nWord=4|RX=[N]
+5	inte	inte	_	_	_	_	_	_	AlignBegin=24154|AlignEnd=24495|nWord=5
+6	cuando	cuando	SCONJ	_	Foreign=Yes	5	mod	_	AlignBegin=24495|AlignEnd=24836|GE=when|Gloss=when|Lang=es|nWord=6|RX=[Q]
+7	che	che	PRON	_	_	10	subj	_	AlignBegin=24836|AlignEnd=25177|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=7|RX=[PRO]
+8	esta	esta	AUX	_	Foreign=Yes	6	comp	_	AlignBegin=25177|AlignEnd=25518|GE=be|Gloss=be|Lang=es|nWord=8|RX=[V]
+9	koi	koi	NOUN	_	_	10	comp:obj	_	AlignBegin=25518|AlignEnd=25859|GE=chicken|Gloss=chicken|nWord=9|RX=[N]
+10	gwe	gwe	VERB	_	_	11	comp:aux/m	_	AlignBegin=25859|AlignEnd=25973|GE=kill|Gloss=sleep|nWord=10|RX=[V]
+11	-da	_	AUX	_	_	_	_	_	AlignBegin=25973|AlignEnd=26200|GE=[0]|Gloss=-ASP|nWord=10|RX=[VERB]
+12	cuando	cuando	SCONJ	_	Foreign=Yes	5	mod	_	AlignBegin=26200|AlignEnd=26541|GE=when|Gloss=when|Lang=es|nWord=11|RX=[Q]
+13	che	che	PRON	_	_	14	udep:poss	_	AlignBegin=26541|AlignEnd=26882|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=12|RX=[PRO]
+14	chebi	chebi	NOUN	_	_	17	subj	_	AlignBegin=26882|AlignEnd=27223|GE=mother|Gloss=mother|nWord=13|RX=[N]
+15	esta	esta	AUX	_	Foreign=Yes	12	comp	_	AlignBegin=27223|AlignEnd=27564|GE=be|Gloss=be|Lang=es|nWord=14|RX=[V]
+16	koi	koi	NOUN	_	_	17	comp:obj	_	AlignBegin=27564|AlignEnd=27905|GE=chicken|Gloss=chicken|nWord=15|RX=[N]
+17	gwe	gwe	VERB	_	_	18	comp:aux/m	_	AlignBegin=27905|AlignEnd=28019|GE=kill|Gloss=sleep|nWord=16|RX=[V]
+18	-da	_	AUX	_	_	_	_	_	AlignBegin=28019|AlignEnd=28246|GE=[0]|Gloss=-ASP|nWord=16|RX=[VERB]
+19	,	_	PUNCT	_	_	_	_	_	AlignBegin=28246|AlignEnd=28580|nWord=17
+20	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=28740|AlignEnd=29236|GE=because|Gloss=because|Lang=es|nWord=18|RX=[CONN]
+21	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=29236|AlignEnd=29732|GE=child|Gloss=child|nWord=19|RX=[N]
+22	pone	pone	VERB	_	_	_	_	_	AlignBegin=29732|AlignEnd=30228|GE=put|Gloss=put|nWord=20|RX=[V]
+23	die	die	NOUN	_	_	25	comp:obj	_	AlignBegin=30228|AlignEnd=30724|GE=thing|Gloss=thing|nWord=21|RX=[N]
+24	amania	amania	ADJ	_	_	23	mod	_	AlignBegin=30724|AlignEnd=31220|GE=same|Gloss=same|nWord=22|RX=[ADJ]
+25	dodad	dodad	VERB	_	_	26	comp:aux/m	_	AlignBegin=31220|AlignEnd=31468|GE=make|Gloss=make|nWord=23|RX=[VT]
+26	-e	_	AUX	_	_	_	_	_	AlignBegin=31468|AlignEnd=31716|GE=[THM]|Gloss=-THM|nWord=23|RX=[V:ANY]
+27	daba	daba	NOUN	_	_	29	comp	_	AlignBegin=31716|AlignEnd=32212|GE=brother|Gloss=brother|nWord=24|RX=[N]
+28	salebli	salebli	ADJ	_	_	27	mod	_	AlignBegin=32212|AlignEnd=32708|GE=different|Gloss=different|nWord=25|RX=[ADJ]
+29	ole	ole	ADP	_	_	25	comp:obl	_	AlignBegin=32708|AlignEnd=33204|GE=[COM]|Gloss=COM|nWord=26|RX=[ADP]
+30	,	_	PUNCT	_	_	_	_	_	AlignBegin=33204|AlignEnd=33700|nWord=27
+31	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=33785|AlignEnd=34305|GE=forbidden|Gloss=forbidden|nWord=28|RX=[ADV]
+32	.	_	PUNCT	_	_	_	_	_	AlignBegin=34305|AlignEnd=34825|Gloss=.|nWord=29
+
+# sent_id = SAB-TXT-CO-00000-07_08-08
+# speaker_id = @07
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-07.WAV/WAV/SAB-TXT-CO-00000-07.WAV
+# sent_timecode = 36580, 40900
+# morphemic_text = che kle chi mlie ung ke para koi huk -e .
+# text = che kle chi mlie ung ke para koi huke .
+# text_en = They put water in a pan to pluck the chicken.
+# text_ortho = che kle chi mlie ung ke para koi huke .
+1	che	che	PRON	_	_	4	subj	_	AlignBegin=36580|AlignEnd=37012|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=37012|AlignEnd=37444|GE=be|Gloss=be|nWord=2|RX=[V]
+3	chi	chi	NOUN	_	_	4	comp:obj	_	AlignBegin=37444|AlignEnd=37876|GE=water|Gloss=water|nWord=3|RX=[N]
+4	mlie	mli	VERB	_	_	2	comp:aux	_	AlignBegin=37876|AlignEnd=38308|GE=throw|Gloss=throw|nWord=4|RX=[VT]
+5	ung	ung	NOUN	_	_	6	comp	_	AlignBegin=38308|AlignEnd=38740|GE=pan|Gloss=pan|nWord=5|RX=[N]
+6	ke	ke	ADP	_	_	4	comp:obl	_	AlignBegin=38740|AlignEnd=39172|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
+7	para	para	SCONJ	_	Foreign=Yes	4	mod:purp	_	AlignBegin=39172|AlignEnd=39604|GE=for|Gloss=for|Lang=es|nWord=7|RX=[ADP]
+8	koi	koi	NOUN	_	_	9	comp:obj	_	AlignBegin=39604|AlignEnd=40036|GE=chicken|Gloss=chicken|nWord=8|RX=[N]
+9	huk	huk	VERB	_	_	10	comp:aux/m	_	AlignBegin=40036|AlignEnd=40252|GE=pluck|Gloss=pluck|nWord=9|RX=[V]
+10	-e	_	AUX	_	_	7	comp	_	AlignBegin=40252|AlignEnd=40468|GE=[THM]|Gloss=-THM|nWord=9|RX=[V:ANY]
+11	.	_	PUNCT	_	_	2	punct	_	AlignBegin=40468|AlignEnd=40900|Gloss=.|nWord=10
+
+# sent_id = SAB-TXT-CO-00000-07_09-09
+# speaker_id = @07
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-07.WAV/WAV/SAB-TXT-CO-00000-07.WAV
+# sent_timecode = 41860, 45370
+# morphemic_text = che kle koi huk -e chi ute di .
+# text = che kle koi huke chi ute di .
+# text_en = They pluck the chicken in hot water.
+# text_ortho = che kle koi huke chi ute di .
+1	che	che	PRON	_	_	4	subj	_	AlignBegin=41860|AlignEnd=42299|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=42299|AlignEnd=42738|GE=be|Gloss=be|nWord=2|RX=[V]
+3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=42738|AlignEnd=43177|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
+4	huk	huk	VERB	_	_	5	comp:aux/m	_	AlignBegin=43177|AlignEnd=43397|GE=pluck|Gloss=pluck|nWord=4|RX=[V]
+5	-e	_	AUX	_	_	2	comp:aux	_	AlignBegin=43397|AlignEnd=43616|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+6	chi	chi	NOUN	_	_	8	comp	_	AlignBegin=43616|AlignEnd=44055|GE=water|Gloss=water|nWord=5|RX=[N]
+7	ute	ute	ADJ	_	_	6	mod	_	AlignBegin=44055|AlignEnd=44494|GE=hot|Gloss=hot|nWord=6|RX=[ADJ]
+8	di	di	ADP	_	_	4	comp:obl	_	AlignBegin=44494|AlignEnd=44933|GE=[INST]|Gloss=INST|nWord=7|RX=[ADP]
+9	.	_	PUNCT	_	_	2	punct	_	AlignBegin=44933|AlignEnd=45370|Gloss=.|nWord=8
+
+# sent_id = SAB-TXT-CO-00000-07_10-12
+# speaker_id = @07
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-07.WAV/WAV/SAB-TXT-CO-00000-07.WAV
+# sent_timecode = 47490, 54610
+# morphemic_text = ai kaire che kle dreka hue , bita ite bita ite , ta ulita iani .
+# text = ai kaire che kle dreka hue , bita ite bita ite , ta ulita iani .
+# text_en = Then I find a piece. Piece by piece. Until all is here.
+# text_ortho = ai kaire che kle dreka hue , bita ite bita ite , ta ulita iani .
+1	ai	ai	ADV	_	_	_	_	_	AlignBegin=47490|AlignEnd=47947|GE=here|Gloss=here|nWord=1|RX=[ADV]
+2	kaire	kaire	ADV	_	_	_	_	_	AlignBegin=47947|AlignEnd=48404|GE=same|Gloss=same|nWord=2|RX=[ADV]
+3	che	che	PRON	_	_	6	subj	_	AlignBegin=48404|AlignEnd=48861|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
+4	kle	kle	AUX	_	_	_	_	_	AlignBegin=48861|AlignEnd=49318|GE=be|Gloss=be|nWord=4|RX=[V]
+5	dreka	dreka	NOUN	_	_	6	comp:obj	_	AlignBegin=49318|AlignEnd=49775|GE=quarter|Gloss=quarter|nWord=5|RX=[N]
+6	hue	hue	VERB	_	_	4	comp:aux	_	AlignBegin=49775|AlignEnd=50232|GE=[find].[NPST]|Gloss=find.NPST|nWord=6|RX=[VT]
+7	,	_	PUNCT	_	_	_	_	_	AlignBegin=50232|AlignEnd=50690|nWord=7
+8	bita	bita	NOUN	_	_	_	_	_	AlignBegin=50995|AlignEnd=51263|GE=piece|Gloss=piece|nWord=8|RX=[N]
+9	ite	ite	NUM	_	_	_	_	_	AlignBegin=51263|AlignEnd=51531|GE=one|Gloss=one|nWord=9|RX=[NUM]
+10	bita	bita	NOUN	_	_	_	_	_	AlignBegin=51531|AlignEnd=51799|GE=piece|Gloss=piece|nWord=10|RX=[N]
+11	ite	ite	NUM	_	_	_	_	_	AlignBegin=51799|AlignEnd=52067|GE=one|Gloss=one|nWord=11|RX=[NUM]
+12	,	_	PUNCT	_	_	_	_	_	AlignBegin=52067|AlignEnd=52335|nWord=12
+13	ta	ta	ADP	_	_	_	_	_	AlignBegin=53300|AlignEnd=53628|GE=to|Gloss=to|nWord=13|RX=[ADP]
+14	ulita	ulita	ADV	_	_	_	_	_	AlignBegin=53628|AlignEnd=53956|GE=all|Gloss=all|nWord=14|RX=[ADV]
+15	iani	iani	ADV	_	_	_	_	_	AlignBegin=53956|AlignEnd=54284|GE=there|Gloss=there|nWord=15|RX=[ADV]
+16	.	_	PUNCT	_	_	_	_	_	AlignBegin=54284|AlignEnd=54610|Gloss=.|nWord=16
+
+# sent_id = SAB-TXT-CO-00000-07_13-13
+# speaker_id = @07
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-07.WAV/WAV/SAB-TXT-CO-00000-07.WAV
+# sent_timecode = 55810, 57080
+# morphemic_text = che kle koi gut -e .
+# text = che kle koi gute .
+# text_en = They eat the chicken.
+# text_ortho = che kle koi gute .
+1	che	che	PRON	_	_	4	subj	_	AlignBegin=55810|AlignEnd=56064|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	0	root	_	AlignBegin=56064|AlignEnd=56318|GE=be|Gloss=be|nWord=2|RX=[V]
+3	koi	koi	NOUN	_	_	4	comp:obj	_	AlignBegin=56318|AlignEnd=56572|GE=chicken|Gloss=chicken|nWord=3|RX=[N]
+4	gut	gut	VERB	_	_	5	comp:aux/m	_	AlignBegin=56572|AlignEnd=56699|GE=eat|Gloss=eat|nWord=4|RX=[VT]
+5	-e	_	AUX	_	_	2	comp:aux	_	AlignBegin=56699|AlignEnd=56826|GE=[THM]|Gloss=-THM|nWord=4|RX=[V:ANY]
+6	.	_	PUNCT	_	_	2	punct	_	AlignBegin=56826|AlignEnd=57080|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-CO-00000-07_14-16
+# speaker_id = @07
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-07.WAV/WAV/SAB-TXT-CO-00000-07.WAV
+# sent_timecode = 57210, 69380
+# morphemic_text = che enusuli -a uswili koi gut -u bla ske , bla ske me cho bek -u porque cho nengke chi -u hula geru -ia giti , cho antes me che chk -e .
+# text = che enusulia uswili koi gutu bla ske , bla ske me cho beku porque cho nengke chiu hula geruia giti , cho ante me che chke .
+# text_en = Our grandfather before ate chicken with bananas. With bananas (they) did not put salt because the salt came nowedays with the white men story. Before, there were no salt.
+# text_ortho = che enusulia uswili koi gutu bla ske , bla ske me cho beku porque cho nengke chiu hula geruia giti , cho ante me che chke .
+1	che	che	PRON	_	_	2	udep:poss	_	AlignBegin=57210|AlignEnd=57526|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	enusuli	enusuli	NOUN	_	_	3	comp:aux/m	_	AlignBegin=57526|AlignEnd=57684|GE=grandfather|Gloss=grandfather|nWord=2|RX=[N]
+3	-a	_	AUX	_	_	6	subj	_	AlignBegin=57684|AlignEnd=57842|GE=[POSS]|Gloss=-POSS|nWord=2|RX=[N:ANY]
+4	uswili	uswili	ADV	_	_	_	_	_	AlignBegin=57842|AlignEnd=58158|GE=before|Gloss=before|nWord=3|RX=[ADV]
+5	koi	koi	NOUN	_	_	6	comp:obj	_	AlignBegin=58158|AlignEnd=58474|GE=chicken|Gloss=chicken|nWord=4|RX=[N]
+6	gut	gut	VERB	_	_	7	comp:aux/m	_	AlignBegin=58474|AlignEnd=58632|GE=eat|Gloss=eat|nWord=5|RX=[VT]
+7	-u	_	AUX	_	_	_	_	_	AlignBegin=58632|AlignEnd=58790|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]
+8	bla	bla	NOUN	_	_	9	comp	_	AlignBegin=58790|AlignEnd=59106|GE=banana|Gloss=banana|nWord=6|RX=[N]
+9	ske	ske	ADP	_	_	6	comp:obl	_	AlignBegin=59106|AlignEnd=59422|GE=with|Gloss=with|nWord=7|RX=[ADP]
+10	,	_	PUNCT	_	_	_	_	_	AlignBegin=59422|AlignEnd=59740|nWord=8
+11	bla	bla	NOUN	_	_	12	comp	_	AlignBegin=60730|AlignEnd=61133|GE=banana|Gloss=banana|nWord=9|RX=[N]
+12	ske	ske	ADP	_	_	_	_	_	AlignBegin=61133|AlignEnd=61536|GE=with|Gloss=with|nWord=10|RX=[ADP]
+13	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=61536|AlignEnd=61939|GE=[NEG]|Gloss=NEG|nWord=11|RX=[VERBPRT]
+14	cho	cho	NOUN	_	_	15	comp:obj	_	AlignBegin=61939|AlignEnd=62342|GE=salt|Gloss=salt|nWord=12|RX=[N]
+15	bek	bek	VERB	_	_	16	comp:aux/m	_	AlignBegin=62342|AlignEnd=62544|GE=put|Gloss=put|nWord=13|RX=[V]
+16	-u	_	AUX	_	_	_	_	_	AlignBegin=62544|AlignEnd=62745|GE=[PST]|Gloss=-PST|nWord=13|RX=[V:ANY]
+17	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=62745|AlignEnd=63148|GE=because|Gloss=because|Lang=es|nWord=14|RX=[CONN]
+18	cho	cho	NOUN	_	_	20	subj	_	AlignBegin=63148|AlignEnd=63551|GE=salt|Gloss=salt|nWord=15|RX=[N]
+19	nengke	nengke	ADV	_	_	18	mod	_	AlignBegin=63551|AlignEnd=63954|GE=today|Gloss=today|nWord=16|RX=[ADV]
+20	chi	chi	VERB	_	_	21	comp:aux/m	_	AlignBegin=63954|AlignEnd=64156|GE=come|Gloss=come|nWord=17|RX=[VI]
+21	-u	_	AUX	_	_	_	_	_	AlignBegin=64156|AlignEnd=64357|GE=[PST]|Gloss=-PST|nWord=17|RX=[V:ANY]
+22	hula	hula	NOUN	_	_	23	udep:poss	_	AlignBegin=64357|AlignEnd=64760|GE=white_man|Gloss=white_man|nWord=18|RX=[N]
+23	geru	geru	NOUN	_	_	24	comp:aux/m	_	AlignBegin=64760|AlignEnd=64962|GE=story|Gloss=story|nWord=19|RX=[N]
+24	-ia	_	AUX	_	_	25	comp	_	AlignBegin=64962|AlignEnd=65163|GE=[POSS]|Gloss=-POSS|nWord=19|RX=[N:ANY]
+25	giti	giti	ADP	_	_	20	comp:obl	_	AlignBegin=65163|AlignEnd=65566|GE=[LOC]|Gloss=LOC|nWord=20|RX=[ADP]
+26	,	_	PUNCT	_	_	_	_	_	AlignBegin=65566|AlignEnd=65970|nWord=21
+27	cho	cho	NOUN	_	_	31	subj	_	AlignBegin=66180|AlignEnd=66713|GE=salt|Gloss=salt|nWord=22|RX=[N]
+28	antes	antes	ADV	_	_	_	_	_	AlignBegin=66713|AlignEnd=67246|GE=before|Gloss=before|nWord=23|RX=[ADV]
+29	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=67246|AlignEnd=67779|GE=[NEG]|Gloss=NEG|nWord=24|RX=[VERBPRT]
+30	che	che	PRON	_	_	31	comp:obj	_	AlignBegin=67779|AlignEnd=68312|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=25|RX=[PRO]
+31	chk	chk	VERB	_	_	32	comp:aux/m	_	AlignBegin=68312|AlignEnd=68578|GE=arrive|Gloss=arrive|nWord=26|RX=[VI]
+32	-e	_	AUX	_	_	29	comp:aux	_	AlignBegin=68578|AlignEnd=68845|GE=[THM]|Gloss=-THM|nWord=26|RX=[V:ANY]
+33	.	_	PUNCT	_	_	_	_	_	AlignBegin=68845|AlignEnd=69380|Gloss=.|nWord=27
+
+# sent_id = SAB-TXT-CO-00000-07_17-17
+# speaker_id = @07
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-07.WAV/WAV/SAB-TXT-CO-00000-07.WAV
+# sent_timecode = 70140, 72250
+# morphemic_text = ese koi geru -ia giti .
+# text = ese koi geruia giti .
+# text_en = This is the story of the chicken.
+# text_ortho = ese koi geruia giti .
+1	ese	ese	PRON	_	_	_	_	_	AlignBegin=70140|AlignEnd=70562|GE=that|Gloss=that|nWord=1|RX=[PRO]
+2	koi	koi	NOUN	_	_	3	udep:poss	_	AlignBegin=70562|AlignEnd=70984|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
+3	geru	geru	NOUN	_	_	4	comp:aux/m	_	AlignBegin=70984|AlignEnd=71195|GE=story|Gloss=story|nWord=3|RX=[N]
+4	-ia	_	AUX	_	_	5	comp	_	AlignBegin=71195|AlignEnd=71406|GE=[POSS]|Gloss=-POSS|nWord=3|RX=[N:ANY]
+5	giti	giti	ADP	_	_	_	_	_	AlignBegin=71406|AlignEnd=71828|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
+6	.	_	PUNCT	_	_	_	_	_	AlignBegin=71828|AlignEnd=72250|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-CO-00000-07_18-22
+# speaker_id = @07
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-CO-00000-07.WAV/WAV/SAB-TXT-CO-00000-07.WAV
+# sent_timecode = 72430, 84875
+# morphemic_text = y koi ai agere me koi uswili che enusuli -a giti , koi uswili koi kada chuku , koi kada bulu , y koi kada nanu , asi koi kada .
+# text = y koi ai agere me koi uswili che enusulia giti , koi uswili koi kada chuku , koi kada bulu , y koi kada nanu , asi koi kada .
+# text_en = And the chicken here are new, they are not the chicken from before, from my grandfather time. The chicken before were named Chuku, chicken named Bulu, and chicken called Nanu. These are the chicken´s names.
+# text_ortho = y koi ai agere me koi uswili che enusulia giti , koi uswili koi kada chuku , koi kada bulu , y koi kada nanu , asi koi kada .
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=72430|AlignEnd=72785|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
+2	koi	koi	NOUN	_	_	_	_	_	AlignBegin=72785|AlignEnd=73140|GE=chicken|Gloss=chicken|nWord=2|RX=[N]
+3	ai	ai	PART	_	_	2	mod	_	AlignBegin=73140|AlignEnd=73495|GE=local|Gloss=local|nWord=3|RX=[PRO]
+4	agere	agere	ADJ	_	_	_	_	_	AlignBegin=73495|AlignEnd=73850|GE=new|Gloss=new|nWord=4|RX=[ADJ]
+5	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=73850|AlignEnd=74205|GE=[NEG]|Gloss=NEG|nWord=5|RX=[VERBPRT]
+6	koi	koi	NOUN	_	_	_	_	_	AlignBegin=74205|AlignEnd=74560|GE=chicken|Gloss=chicken|nWord=6|RX=[N]
+7	uswili	uswili	ADV	_	_	_	_	_	AlignBegin=74560|AlignEnd=74915|GE=before|Gloss=before|nWord=7|RX=[ADV]
+8	che	che	PRON	_	_	9	udep:poss	_	AlignBegin=74915|AlignEnd=75270|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=8|RX=[PRO]
+9	enusuli	enusuli	NOUN	_	_	10	comp:aux/m	_	AlignBegin=75270|AlignEnd=75448|GE=grandfather|Gloss=grandfather|nWord=9|RX=[N]
+10	-a	_	AUX	_	_	11	comp	_	AlignBegin=75448|AlignEnd=75625|GE=[POSS]|Gloss=-POSS|nWord=9|RX=[N:ANY]
+11	giti	giti	ADP	_	_	_	_	_	AlignBegin=75625|AlignEnd=75980|GE=[LOC]|Gloss=LOC|nWord=10|RX=[ADP]
+12	,	_	PUNCT	_	_	_	_	_	AlignBegin=75980|AlignEnd=76330|nWord=11
+13	koi	koi	NOUN	_	_	_	_	_	AlignBegin=76640|AlignEnd=76987|GE=chicken|Gloss=chicken|nWord=12|RX=[N]
+14	uswili	uswili	ADV	_	_	_	_	_	AlignBegin=76987|AlignEnd=77334|GE=before|Gloss=before|nWord=13|RX=[ADV]
+15	koi	koi	NOUN	_	_	_	_	_	AlignBegin=77334|AlignEnd=77681|GE=chicken|Gloss=chicken|nWord=14|RX=[N]
+16	kada	kada	NOUN	_	_	_	_	_	AlignBegin=77681|AlignEnd=78028|GE=name|Gloss=name|nWord=15|RX=[N]
+17	chuku	chuku	NOUN	_	_	_	_	_	AlignBegin=78028|AlignEnd=78375|GE=chicken_type|Gloss=chicken_type|nWord=16|RX=[N]
+18	,	_	PUNCT	_	_	_	_	_	AlignBegin=78375|AlignEnd=78720|nWord=17
+19	koi	koi	NOUN	_	_	_	_	_	AlignBegin=78925|AlignEnd=79435|GE=chicken|Gloss=chicken|nWord=18|RX=[N]
+20	kada	kada	NOUN	_	_	_	_	_	AlignBegin=79435|AlignEnd=79945|GE=name|Gloss=name|nWord=19|RX=[N]
+21	bulu	bulu	NOUN	_	_	_	_	_	AlignBegin=79945|AlignEnd=80455|GE=chicken_type|Gloss=chicken_type|nWord=20|RX=[N]
+22	,	_	PUNCT	_	_	_	_	_	AlignBegin=80455|AlignEnd=80965|nWord=21
+23	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=81070|AlignEnd=81414|GE=and|Gloss=and|Lang=es|nWord=22|RX=[COORDCONN]
+24	koi	koi	NOUN	_	_	_	_	_	AlignBegin=81414|AlignEnd=81758|GE=chicken|Gloss=chicken|nWord=23|RX=[N]
+25	kada	kada	NOUN	_	_	_	_	_	AlignBegin=81758|AlignEnd=82102|GE=name|Gloss=name|nWord=24|RX=[N]
+26	nanu	nanu	NOUN	_	_	_	_	_	AlignBegin=82102|AlignEnd=82446|GE=chicken_type|Gloss=chicken_type|nWord=25|RX=[N]
+27	,	_	PUNCT	_	_	_	_	_	AlignBegin=82446|AlignEnd=82790|nWord=26
+28	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=83925|AlignEnd=84163|GE=like_that|Gloss=like_that|Lang=es|nWord=27|RX=[ADV]
+29	koi	koi	NOUN	_	_	_	_	_	AlignBegin=84163|AlignEnd=84401|GE=chicken|Gloss=chicken|nWord=28|RX=[N]
+30	kada	kada	NOUN	_	_	_	_	_	AlignBegin=84401|AlignEnd=84639|GE=name|Gloss=name|nWord=29|RX=[N]
+31	.	_	PUNCT	_	_	_	_	_	AlignBegin=84639|AlignEnd=84875|Gloss=.|nWord=30
+

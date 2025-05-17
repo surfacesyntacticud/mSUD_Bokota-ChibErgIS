@@ -1,0 +1,100 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = SAB-TXT-LS-00000-08_01-02
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-08.WAV/WAV/SAB-TXT-LS-00000-08.WAV
+# sent_timecode = 13670, 19375
+# morphemic_text = cha ho huma cha moho muinga ole
+# text = cha ho huma , cha moho muinga ole .
+# text_en = When I became old, I married a woman.
+# text_ortho = cha ho huma , cha moho muinga ole .
+1	cha	cha	PRON	_	_	2	subj	_	AlignBegin=13670|AlignEnd=14135|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	ho	hoke	VERB	_	_	_	_	_	AlignBegin=14135|AlignEnd=14600|GE=[go].[PST]|Gloss=go.PST|nWord=2|RX=[VI]
+3	huma	huma	ADJ	_	_	2	comp:pred	_	AlignBegin=14600|AlignEnd=15065|GE=old|Gloss=old|nWord=3|RX=[ADJ]
+4	cha	cha	PRON	_	_	5	subj	_	AlignBegin=16085|AlignEnd=16743|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
+5	moho	moho	VERB	_	_	_	_	_	AlignBegin=16743|AlignEnd=17401|GE=marry|Gloss=marry|nWord=6|RX=[V]
+6	muinga	muinga	NOUN	_	_	7	comp	_	AlignBegin=17401|AlignEnd=18059|GE=woman|Gloss=woman|nWord=7|RX=[N]
+7	ole	ole	ADP	_	_	5	comp:obl	_	AlignBegin=18059|AlignEnd=18717|GE=[COM]|Gloss=COM|nWord=8|RX=[ADP]
+
+# sent_id = SAB-TXT-LS-00000-08_03-03
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-08.WAV/WAV/SAB-TXT-LS-00000-08.WAV
+# sent_timecode = 19875, 21725
+# morphemic_text = cha moho muinga ole
+# text = cha moho muinga ole .
+# text_en = ‎‎I married a woman.
+# text_ortho = cha moho muinga ole .
+1	cha	cha	PRON	_	_	2	subj	_	AlignBegin=19875|AlignEnd=20245|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	moho	moho	VERB	_	_	0	root	_	AlignBegin=20245|AlignEnd=20615|GE=marry|Gloss=marry|nWord=2|RX=[V]
+3	muinga	muinga	NOUN	_	_	4	comp	_	AlignBegin=20615|AlignEnd=20985|GE=woman|Gloss=woman|nWord=3|RX=[N]
+4	ole	ole	ADP	_	_	2	comp:obl	_	AlignBegin=20985|AlignEnd=21355|GE=[COM]|Gloss=COM|nWord=4|RX=[ADP]
+
+# sent_id = SAB-TXT-LS-00000-08_04-04
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-08.WAV/WAV/SAB-TXT-LS-00000-08.WAV
+# sent_timecode = 22335, 25645
+# morphemic_text = yo tuvo kiro kwia baka muinga giti
+# text = yo tuvo kiro kwiabaka muinga giti .
+# text_en = I had four children from this woman.
+# text_ortho = yo tuvo kiro kwiabaka muinga giti .
+1	yo	yo	PRON	_	_	2	subj	_	AlignBegin=22335|AlignEnd=22808|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	tuvo	tuvo	VERB	_	Foreign=Yes	_	_	_	AlignBegin=22808|AlignEnd=23281|GE=[have].[PST]|Gloss=have.PST|Lang=es|nWord=2|RX=[V]
+3	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=23281|AlignEnd=23754|GE=child|Gloss=child|nWord=3|RX=[N]
+4	kwia	kwia	NOUN	_	_	_	_	_	AlignBegin=23754|AlignEnd=23990|GE=people|Gloss=people|nWord=4|RX=[N]
+5	baka	baka	NOUN	_	_	_	_	_	AlignBegin=23990|AlignEnd=24227|GE=four|Gloss=four|nWord=4|RX=[N]
+6	muinga	muinga	NOUN	_	_	7	comp	_	AlignBegin=24227|AlignEnd=24700|GE=woman|Gloss=woman|nWord=5|RX=[N]
+7	giti	giti	ADP	_	_	2	comp:obl	_	AlignBegin=24700|AlignEnd=25173|GE=[LOC]|Gloss=LOC|nWord=6|RX=[ADP]
+
+# sent_id = SAB-TXT-LS-00000-08_05-06
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-08.WAV/WAV/SAB-TXT-LS-00000-08.WAV
+# sent_timecode = 26265, 30695
+# morphemic_text = cha kiro -ia cha manan -u hasta ho kweri
+# text = cha kiroia cha mananu , ata ho kweri .
+# text_en = I took care of my kids, Until they got big.
+# text_ortho = cha kiroia cha mananu , ata ho kweri .
+1	cha	cha	PRON	_	_	2	udep:poss	_	AlignBegin=26265|AlignEnd=26843|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kiroia	kiro	NOUN	_	_	4	comp:obj	_	AlignBegin=26843|AlignEnd=27421|GE=[POSS]|Gloss=child-POSS|nWord=2|RX=[N:ANY]
+3	cha	cha	PRON	_	_	4	subj	_	AlignBegin=27421|AlignEnd=27999|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
+4	mananu	manan	VERB	_	_	_	_	_	AlignBegin=27999|AlignEnd=28577|GE=[PST]|Gloss=take_care-PST|nWord=4|RX=[V:ANY]
+5	hasta	hasta	SCONJ	_	Foreign=Yes	4	mod:tmod	_	AlignBegin=29215|AlignEnd=29585|GE=to|Gloss=to|Lang=es|nWord=6|RX=[ADP]
+6	ho	hoke	VERB	_	_	5	comp	_	AlignBegin=29585|AlignEnd=29955|GE=[go].[PST]|Gloss=go.PST|nWord=7|RX=[VI]
+7	kweri	kweri	ADJ	_	_	6	comp:pred	_	AlignBegin=29955|AlignEnd=30325|GE=big|Gloss=big|nWord=8|RX=[ADJ]
+
+# sent_id = SAB-TXT-LS-00000-08_07-08
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-08.WAV/WAV/SAB-TXT-LS-00000-08.WAV
+# sent_timecode = 31550, 35760
+# morphemic_text = y muinga tambien kiro manan -u hasta hoke kweri
+# text = y muinga tambien kiro mananu , ata hoke kweri .
+# text_en = And my wife also took care of the kids, Until they grew up.
+# text_ortho = y muinga tambien kiro mananu , ata hoke kweri .
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=31550|AlignEnd=32048|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
+2	muinga	muinga	NOUN	_	_	5	subj	_	AlignBegin=32048|AlignEnd=32546|GE=woman|Gloss=woman|nWord=2|RX=[N]
+3	tambien	tambien	ADV	_	_	_	_	_	AlignBegin=32546|AlignEnd=33044|GE=also|Gloss=also|nWord=3|RX=[ADV]
+4	kiro	kiro	NOUN	_	_	5	comp:obj	_	AlignBegin=33044|AlignEnd=33542|GE=child|Gloss=child|nWord=4|RX=[N]
+5	mananu	manan	VERB	_	_	_	_	_	AlignBegin=33542|AlignEnd=34040|GE=[PST]|Gloss=take_care-PST|nWord=5|RX=[V:ANY]
+6	hasta	hasta	SCONJ	_	Foreign=Yes	5	mod:tmod	_	AlignBegin=34550|AlignEnd=34852|GE=to|Gloss=to|Lang=es|nWord=7|RX=[ADP]
+7	hoke	hoke	VERB	_	_	6	comp	_	AlignBegin=34852|AlignEnd=35154|GE=go|Gloss=go|nWord=8|RX=[VI]
+8	kweri	kweri	ADJ	_	_	7	comp:pred	_	AlignBegin=35154|AlignEnd=35456|GE=big|Gloss=big|nWord=9|RX=[ADJ]
+
+# sent_id = SAB-TXT-LS-00000-08_09-10
+# speaker_id = @08
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-LS-00000-08.WAV/WAV/SAB-TXT-LS-00000-08.WAV
+# sent_timecode = 37300, 46900
+# morphemic_text = cha kle toi asi nware cha vida wa- nerku -da chube dwa giti
+# text = cha kle toi asi , nware ( cha vida ) wanerkuda chube dwa giti .
+# text_en = I live like that. Thankfull for the good things ahead in my life from the god above.
+# text_ortho = cha kle toi asi , nware ( cha vida ) wanerkuda chube dwa giti .
+1	cha	cha	PRON	_	_	3	subj	_	AlignBegin=37300|AlignEnd=37718|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	kle	kle	AUX	_	_	_	_	_	AlignBegin=37718|AlignEnd=38136|GE=be|Gloss=be|nWord=2|RX=[V]
+3	toi	toi	VERB	_	_	2	comp:aux	_	AlignBegin=38136|AlignEnd=38554|GE=live|Gloss=live|nWord=3|RX=[VI]
+4	asi	asi	ADV	_	Foreign=Yes	_	_	_	AlignBegin=38554|AlignEnd=38972|GE=like_that|Gloss=like_that|Lang=es|nWord=4|RX=[ADV]
+5	nware	nware	ADJ	_	_	_	_	_	AlignBegin=40810|AlignEnd=41419|GE=good|Gloss=good|nWord=6|RX=[ADJ]
+6	cha	cha	PRON	_	_	7	udep:poss	_	AlignBegin=42028|AlignEnd=42637|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
+7	vida	vida	NOUN	_	_	_	_	_	AlignBegin=42637|AlignEnd=43246|GE=life|Gloss=life|nWord=9|RX=[N]
+8	wa-	_	_	_	_	_	_	_	AlignBegin=43855|AlignEnd=44058|nWord=11
+9	nerkuda	nerku	ADV	_	_	_	_	_	AlignBegin=44058|AlignEnd=44464|GE=emph|Gloss=aheademph|nWord=11|RX=[VERB]
+10	chube	chube	NOUN	_	_	_	_	_	AlignBegin=44464|AlignEnd=45073|GE=chief|Gloss=chief|nWord=12|RX=[N]
+11	dwa	dwa	ADV	_	_	_	_	_	AlignBegin=45073|AlignEnd=45682|GE=down|Gloss=down|nWord=13|RX=[ADV]
+12	giti	giti	ADP	_	_	_	_	_	AlignBegin=45682|AlignEnd=46291|GE=[LOC]|Gloss=LOC|nWord=14|RX=[ADP]
+

@@ -1,0 +1,539 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = SAB-TXT-AN-00001-03_01-01
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 7440, 13650
+# morphemic_text = cha uswilingaswili cha enusuli cha cheisuli toi Panama .
+# text = cha uswilingaswili cha enusuli cha cheisuli toi Panama .
+# text_en = ‎‎Before, my grandfather and my grandmother lived in Panama.
+# text_ortho = cha uswilingaswili cha enusuli cha cheisuli toi Panama .
+1	cha	cha	PRON	_	_	_	_	_	AlignBegin=7440|AlignEnd=8130|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	uswilingaswili	uswilingaswili	ADV	_	_	7	mod:tmod	_	AlignBegin=8130|AlignEnd=8820|GE=before|Gloss=before|nWord=2|RX=[ADV]
+3	cha	cha	PRON	_	_	4	udep:poss	_	AlignBegin=8820|AlignEnd=9510|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
+4	enusuli	enusuli	NOUN	_	_	7	subj	_	AlignBegin=9510|AlignEnd=10200|GE=grandfather|Gloss=grandfather|nWord=4|RX=[N]
+5	cha	cha	PRON	_	_	6	udep:poss	_	AlignBegin=10200|AlignEnd=10890|GE=[1SG]|Gloss=1SG|nWord=5|RX=[PRO]
+6	cheisuli	cheisuli	NOUN	_	_	4	conj:coord	_	AlignBegin=10890|AlignEnd=11580|GE=grandmother|Gloss=grandmother|nWord=6|RX=[N]
+7	toi	toi	VERB	_	_	0	root	_	AlignBegin=11580|AlignEnd=12270|GE=live|Gloss=live|nWord=7|RX=[VI]
+8	Panama	Panama	PROPN	_	_	7	mod:lmod	_	AlignBegin=12270|AlignEnd=12960|GE=[Panama]|Gloss=Panama|nWord=8|RX=[NPROP]
+9	.	_	PUNCT	_	_	7	punct	_	AlignBegin=12960|AlignEnd=13650|Gloss=.|nWord=9
+
+# sent_id = SAB-TXT-AN-00001-03_02-02
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 13710, 15160
+# morphemic_text = una kweri -a ske .
+# text = una kweria ske .
+# text_en = In Panama.
+# text_ortho = una kweria ske .
+1	una	una	NOUN	_	_	3	comp	_	AlignBegin=13710|AlignEnd=14072|GE=city|Gloss=city|nWord=1|RX=[N]
+2	kweria	kweri	ADJ	_	_	1	mod	_	AlignBegin=14072|AlignEnd=14434|GE=[POSS]|Gloss=big-POSS|nWord=2|RX=[N:ANY]
+3	ske	ske	ADP	_	_	_	_	_	AlignBegin=14434|AlignEnd=14796|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
+4	.	_	PUNCT	_	_	_	_	_	AlignBegin=14796|AlignEnd=15160|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-AN-00001-03_03-03
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 15950, 19580
+# morphemic_text = ( cheisuli toi -d- -u ) cheisuli kle toi no iani .
+# text = ( cheisuli toidu ) cheisuli kle toi no iani .
+# text_en = My grandother was living well there.
+# text_ortho = ( cheisuli toidu ) cheisuli kle toi no iani .
+1	(	_	PUNCT	_	_	_	_	_	AlignBegin=15950|AlignEnd=16313|nWord=1
+2	cheisuli	cheisuli	NOUN	_	_	3	subj	_	AlignBegin=16313|AlignEnd=16676|GE=grandmother|Gloss=grandmother|nWord=2|RX=[N]
+3	toidu	toi	VERB	_	_	_	_	_	AlignBegin=16676|AlignEnd=17039|GE=[PST]|Gloss=live-0--PST|nWord=3|RX=[V:ANY]|wordform=toid-u
+4	)	_	PUNCT	_	_	_	_	_	AlignBegin=17039|AlignEnd=17402|nWord=4
+5	cheisuli	cheisuli	NOUN	_	_	7	subj	_	AlignBegin=17402|AlignEnd=17765|GE=grandmother|Gloss=grandmother|nWord=5|RX=[N]
+6	kle	kle	AUX	_	_	0	root	_	AlignBegin=17765|AlignEnd=18128|GE=be|Gloss=be|nWord=6|RX=[V]
+7	toi	toi	VERB	_	_	6	comp:aux	_	AlignBegin=18128|AlignEnd=18491|GE=live|Gloss=live|nWord=7|RX=[VI]
+8	no	no	ADV	_	_	7	mod	_	AlignBegin=18491|AlignEnd=18854|GE=well|Gloss=well|nWord=8|RX=[ADV]
+9	iani	iani	ADV	_	_	7	mod:lmod	_	AlignBegin=18854|AlignEnd=19217|GE=there|Gloss=there|nWord=9|RX=[ADV]
+10	.	_	PUNCT	_	_	_	_	_	AlignBegin=19217|AlignEnd=19580|Gloss=.|nWord=10
+
+# sent_id = SAB-TXT-AN-00001-03_04-04
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 20610, 24350
+# morphemic_text = y entonces espagnol chi -u chk -u .
+# text = y entonces espagnol chiu chku .
+# text_en = And then the Spanish came.
+# text_ortho = y entonces espagnol chiu chku .
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=20610|AlignEnd=21233|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
+2	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=21233|AlignEnd=21856|GE=so|Gloss=so|Lang=es|nWord=2|RX=[ADV]
+3	espagnol	espagnol	NOUN	_	_	4	subj	_	AlignBegin=21856|AlignEnd=22479|GE=spanish|Gloss=spanish|nWord=3|RX=[N]
+4	chiu	chi	VERB	_	_	_	_	_	AlignBegin=22479|AlignEnd=23102|GE=[PST]|Gloss=come-PST|nWord=4|RX=[V:ANY]
+5	chku	chk	VERB	_	_	_	_	_	AlignBegin=23102|AlignEnd=23725|GE=[PST]|Gloss=arrive-PST|nWord=5|RX=[V:ANY]
+6	.	_	PUNCT	_	_	_	_	_	AlignBegin=23725|AlignEnd=24350|Gloss=.|nWord=6
+
+# sent_id = SAB-TXT-AN-00001-03_05-06
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 24820, 28320
+# morphemic_text = hula chi -u hula chk -u , che chk -e -nga iani .
+# text = hula chiu hula chku , che chkenga iani .
+# text_en = ‎‎The white men came, There, where we were.
+# text_ortho = hula chiu hula chku , che chkenga iani .
+1	hula	hula	NOUN	_	_	2	subj	_	AlignBegin=24820|AlignEnd=25074|GE=white_man|Gloss=white_man|nWord=1|RX=[N]
+2	chiu	chi	VERB	_	_	_	_	_	AlignBegin=25074|AlignEnd=25328|GE=[PST]|Gloss=come-PST|nWord=2|RX=[V:ANY]
+3	hula	hula	NOUN	_	_	4	subj	_	AlignBegin=25328|AlignEnd=25582|GE=white_man|Gloss=white_man|nWord=3|RX=[N]
+4	chku	chk	VERB	_	_	_	_	_	AlignBegin=25582|AlignEnd=25836|GE=[PST]|Gloss=arrive-PST|nWord=4|RX=[V:ANY]
+5	,	_	PUNCT	_	_	_	_	_	AlignBegin=25836|AlignEnd=26090|nWord=5
+6	che	che	PRON	_	_	7	subj	_	AlignBegin=26090|AlignEnd=26648|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=6|RX=[PRO]
+7	chkenga	chk	VERB	_	_	_	_	_	AlignBegin=26648|AlignEnd=27206|GE=[SUB]|Gloss=arrive-THM-SUB|nWord=7|RX=[V:ANY]
+8	iani	iani	ADV	_	_	_	_	_	AlignBegin=27206|AlignEnd=27764|GE=there|Gloss=there|nWord=8|RX=[ADV]
+9	.	_	PUNCT	_	_	_	_	_	AlignBegin=27764|AlignEnd=28320|Gloss=.|nWord=9
+
+# sent_id = SAB-TXT-AN-00001-03_07-08
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 28670, 32190
+# morphemic_text = enusuli cheisuli kle taianchuk -e , que hula chi -u no .
+# text = enusuli cheisuli kle taianchuke , que hula chiu no .
+# text_en = ‎‎(My) grandfather and grandmother think, ‎‎That the white men came in a friendly way.
+# text_ortho = enusuli cheisuli kle taianchuke , que hula chiu no .
+1	enusuli	enusuli	NOUN	_	_	4	subj	_	AlignBegin=28670|AlignEnd=29136|GE=grandfather|Gloss=grandfather|nWord=1|RX=[N]
+2	cheisuli	cheisuli	NOUN	_	_	1	conj:coord	_	AlignBegin=29136|AlignEnd=29602|GE=grandmother|Gloss=grandmother|nWord=2|RX=[N]
+3	kle	kle	AUX	_	_	0	root	_	AlignBegin=29602|AlignEnd=30068|GE=be|Gloss=be|nWord=3|RX=[V]
+4	taianchuke	taianchuk	VERB	_	_	3	comp:aux	_	AlignBegin=30068|AlignEnd=30534|GE=[THM]|Gloss=think-THM|nWord=4|RX=[V:ANY]
+5	,	_	PUNCT	_	_	3	punct	_	AlignBegin=30534|AlignEnd=31000|nWord=5
+6	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=31020|AlignEnd=31254|GE=that|Gloss=that|Lang=es|nWord=6|RX=[PRO]
+7	hula	hula	NOUN	_	_	8	subj	_	AlignBegin=31254|AlignEnd=31488|GE=white_man|Gloss=white_man|nWord=7|RX=[N]
+8	chiu	chi	VERB	_	_	_	_	_	AlignBegin=31488|AlignEnd=31722|GE=[PST]|Gloss=come-PST|nWord=8|RX=[V:ANY]
+9	no	no	ADV	_	_	_	_	_	AlignBegin=31722|AlignEnd=31956|GE=well|Gloss=well|nWord=9|RX=[ADV]
+10	.	_	PUNCT	_	_	3	punct	_	AlignBegin=31956|AlignEnd=32190|Gloss=.|nWord=10
+
+# sent_id = SAB-TXT-AN-00001-03_09-09
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 32230, 33430
+# morphemic_text = ula chk -u che chk -e -nga .
+# text = ula chku che chkenga .
+# text_en = The white men came where we arrived.
+# text_ortho = ula chku che chkenga .
+1	ula	ula	NOUN	_	_	2	subj	_	AlignBegin=32230|AlignEnd=32470|GE=white_man|Gloss=white_man|nWord=1|RX=[N]
+2	chku	chk	VERB	_	_	0	root	_	AlignBegin=32470|AlignEnd=32710|GE=[PST]|Gloss=arrive-PST|nWord=2|RX=[V:ANY]
+3	che	che	PRON	_	_	4	subj	_	AlignBegin=32710|AlignEnd=32950|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=3|RX=[PRO]
+4	chkenga	chk	VERB	_	_	2	mod:lmod	_	AlignBegin=32950|AlignEnd=33190|GE=[SUB]|Gloss=arrive-THM-SUB|nWord=4|RX=[V:ANY]
+5	.	_	PUNCT	_	_	2	punct	_	AlignBegin=33190|AlignEnd=33430|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-AN-00001-03_10-10
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 33455, 34495
+# morphemic_text = hula chi -u guerra .
+# text = hula chiu guerra .
+# text_en = ‎‎The white men came for war.
+# text_ortho = hula chiu guerra .
+1	hula	hula	NOUN	_	_	2	subj	_	AlignBegin=33455|AlignEnd=33715|GE=white_man|Gloss=white_man|nWord=1|RX=[N]
+2	chiu	chi	VERB	_	_	0	root	_	AlignBegin=33715|AlignEnd=33975|GE=[PST]|Gloss=come-PST|nWord=2|RX=[V:ANY]
+3	guerra	guerra	NOUN	_	_	2	mod:purp	_	AlignBegin=33975|AlignEnd=34235|GE=war|Gloss=war|nWord=3|RX=[N]
+4	.	_	PUNCT	_	_	2	punct	_	AlignBegin=34235|AlignEnd=34495|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-AN-00001-03_11-11
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 34640, 36240
+# morphemic_text = che chk -e -nga hula chi -u .
+# text = che chkenga hula chiu .
+# text_en = Where we arrived, the white men came.
+# text_ortho = che chkenga hula chiu .
+1	che	che	PRON	_	_	2	subj	_	AlignBegin=34640|AlignEnd=34960|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	chkenga	chk	VERB	_	_	4	mod:lmod	_	AlignBegin=34960|AlignEnd=35280|GE=[SUB]|Gloss=arrive-THM-SUB|nWord=2|RX=[V:ANY]
+3	hula	hula	NOUN	_	_	4	subj	_	AlignBegin=35280|AlignEnd=35600|GE=white_man|Gloss=white_man|nWord=3|RX=[N]
+4	chiu	chi	VERB	_	_	0	root	_	AlignBegin=35600|AlignEnd=35920|GE=[PST]|Gloss=come-PST|nWord=4|RX=[V:ANY]
+5	.	_	PUNCT	_	_	4	punct	_	AlignBegin=35920|AlignEnd=36240|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-AN-00001-03_12-12
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 36265, 38745
+# morphemic_text = entonces che chi -u kike ula ngeru .
+# text = entonces che chiu kike ula ngeru .
+# text_en = ‎‎So they escaped the white men.
+# text_ortho = entonces che chiu kike ula ngeru .
+1	entonces	entonces	ADV	_	Foreign=Yes	3	discourse	_	AlignBegin=36265|AlignEnd=36619|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
+2	che	che	PRON	_	_	3	subj	_	AlignBegin=36619|AlignEnd=36973|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
+3	chiu	chi	VERB	_	_	0	root	_	AlignBegin=36973|AlignEnd=37327|GE=[PST]|Gloss=come-PST|nWord=3|RX=[V:ANY]
+4	kike	kike	VERB	_	_	3	mod:purp	_	AlignBegin=37327|AlignEnd=37681|GE=escape|Gloss=escape|nWord=4|RX=[VI]
+5	ula	ula	NOUN	_	_	6	comp	_	AlignBegin=37681|AlignEnd=38035|GE=white_man|Gloss=white_man|nWord=5|RX=[N]
+6	ngeru	ngeru	ADJ	_	_	4	comp:obl	_	AlignBegin=38035|AlignEnd=38389|GE=first|Gloss=first|nWord=6|RX=[ADJ]
+7	.	_	PUNCT	_	_	3	punct	_	AlignBegin=38389|AlignEnd=38745|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-AN-00001-03_13-13
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 39520, 41530
+# morphemic_text = che ho gu -ado -da -da .
+# text = che ho guadodada .
+# text_en = ‎‎They got killed a lot.
+# text_ortho = che ho guadodada .
+1	che	che	PRON	_	_	_	_	_	AlignBegin=39520|AlignEnd=40022|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	ho	hoke	AUX	_	_	_	_	_	AlignBegin=40022|AlignEnd=40524|GE=[go].[PST]|Gloss=go.PST|nWord=2|RX=[VI]
+3	guadodada	gu	VERB	_	_	_	_	_	AlignBegin=40524|AlignEnd=41026|GE=emph|Gloss=kill-PARTemphemph|nWord=3|RX=[VERB]
+4	.	_	PUNCT	_	_	_	_	_	AlignBegin=41026|AlignEnd=41530|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-AN-00001-03_14-14
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 42130, 43850
+# morphemic_text = mucho che ho gu -ado -da -da .
+# text = mucho che ho guadodada .
+# text_en = They got killed a lot.
+# text_ortho = mucho che ho guadodada .
+1	mucho	mucho	ADJ	_	_	_	_	_	AlignBegin=42130|AlignEnd=42474|GE=a_lot|Gloss=a_lot|nWord=1|RX=[ADJ]
+2	che	che	PRON	_	_	_	_	_	AlignBegin=42474|AlignEnd=42818|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
+3	ho	hoke	AUX	_	_	_	_	_	AlignBegin=42818|AlignEnd=43162|GE=[go].[PST]|Gloss=go.PST|nWord=3|RX=[VI]
+4	guadodada	gu	VERB	_	_	_	_	_	AlignBegin=43162|AlignEnd=43506|GE=emph|Gloss=kill-PARTemphemph|nWord=4|RX=[VERB]
+5	.	_	PUNCT	_	_	_	_	_	AlignBegin=43506|AlignEnd=43850|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-AN-00001-03_15-15
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 43915, 45145
+# morphemic_text = che ho gwe -d- -a tengre .
+# text = che ho gweda tengre .
+# text_en = ‎‎They came to kill a lot (of people).
+# text_ortho = che ho gweda tengre .
+1	che	che	PRON	_	_	2	subj	_	AlignBegin=43915|AlignEnd=44161|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	ho	hoke	VERB	_	_	0	root	_	AlignBegin=44161|AlignEnd=44407|GE=[go].[PST]|Gloss=go.PST|nWord=2|RX=[VI]
+3	gweda	gwe	VERB	_	_	2	mod:purp	_	AlignBegin=44407|AlignEnd=44653|GE=[0]|Gloss=sleep-ASP|nWord=3|RX=[VERB]
+4	tengre	tengre	ADV	_	_	3	mod	_	AlignBegin=44653|AlignEnd=44899|GE=a_lot|Gloss=a_lot|nWord=4|RX=[ADV]
+5	.	_	PUNCT	_	_	2	punct	_	AlignBegin=44899|AlignEnd=45145|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-AN-00001-03_16-16
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 45165, 50115
+# morphemic_text = entonces kiro muinga soli agere ese chek -u naskoni hula .
+# text = entonces kiro muinga soli agere ese cheku naskoni hula .
+# text_en = Some young girls went back to stay with the white men.
+# text_ortho = entonces kiro muinga soli agere ese cheku naskoni hula .
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=45165|AlignEnd=45660|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
+2	kiro	kiro	NOUN	_	_	7	subj	_	AlignBegin=45660|AlignEnd=46155|GE=child|Gloss=child|nWord=2|RX=[N]
+3	muinga	muinga	NOUN	_	_	2	mod	_	AlignBegin=46155|AlignEnd=46650|GE=woman|Gloss=woman|nWord=3|RX=[N]
+4	soli	soli	ADJ	_	_	2	mod	_	AlignBegin=46650|AlignEnd=47145|GE=little|Gloss=little|nWord=4|RX=[N]
+5	agere	agere	ADJ	_	_	2	mod	_	AlignBegin=47145|AlignEnd=47640|GE=new|Gloss=new|nWord=5|RX=[ADJ]
+6	ese	ese	DET	_	_	2	det	_	AlignBegin=47640|AlignEnd=48135|GE=that|Gloss=that|nWord=6|RX=[DET]
+7	cheku	chek	VERB	_	_	0	root	_	AlignBegin=48135|AlignEnd=48630|GE=[PST]|Gloss=stay-PST|nWord=7|RX=[V:ANY]
+8	naskoni	naskoni	ADV	_	_	_	_	_	AlignBegin=48630|AlignEnd=49125|GE=back|Gloss=back|nWord=8|RX=[ADV]
+9	hula	hula	NOUN	_	_	_	_	_	AlignBegin=49125|AlignEnd=49620|GE=white_man|Gloss=white_man|nWord=9|RX=[N]
+10	.	_	PUNCT	_	_	7	punct	_	AlignBegin=49620|AlignEnd=50115|Gloss=.|nWord=10
+
+# sent_id = SAB-TXT-AN-00001-03_17-17
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 51145, 52745
+# morphemic_text = che kike -d- -u aini .
+# text = che kikedu aini .
+# text_en = ‎‎They escaped here.
+# text_ortho = che kikedu aini .
+1	che	che	PRON	_	_	2	subj	_	AlignBegin=51145|AlignEnd=51545|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	kikedu	kike	VERB	_	_	0	root	_	AlignBegin=51545|AlignEnd=51945|GE=[PST]|Gloss=escape-0--PST|nWord=2|RX=[V:ANY]|wordform=kiked-u
+3	aini	aini	ADV	_	_	2	mod:lmod	_	AlignBegin=51945|AlignEnd=52345|GE=here|Gloss=here|nWord=3|RX=[ADV]
+4	.	_	PUNCT	_	_	2	punct	_	AlignBegin=52345|AlignEnd=52745|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-AN-00001-03_18-18
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 52810, 54490
+# morphemic_text = che chi -u aini .
+# text = che chiu aini .
+# text_en = ‎‎They came here.
+# text_ortho = che chiu aini .
+1	che	che	PRON	_	_	2	subj	_	AlignBegin=52810|AlignEnd=53230|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	chiu	chi	VERB	_	_	0	root	_	AlignBegin=53230|AlignEnd=53650|GE=[PST]|Gloss=come-PST|nWord=2|RX=[V:ANY]
+3	aini	aini	ADV	_	_	2	mod:lmod	_	AlignBegin=53650|AlignEnd=54070|GE=here|Gloss=here|nWord=3|RX=[ADV]
+4	.	_	PUNCT	_	_	2	punct	_	AlignBegin=54070|AlignEnd=54490|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-AN-00001-03_19-19
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 54935, 57925
+# morphemic_text = che chk -u veragua de eni hasta aini giti .
+# text = che chku veragua de eni ata aini giti .
+# text_en = ‎‎They arrived in Veraguas, from there to here.
+# text_ortho = che chku veragua de eni ata aini giti .
+1	che	che	PRON	_	_	2	subj	_	AlignBegin=54935|AlignEnd=55267|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	chku	chk	VERB	_	_	0	root	_	AlignBegin=55267|AlignEnd=55599|GE=[PST]|Gloss=arrive-PST|nWord=2|RX=[V:ANY]
+3	veragua	veragua	NOUN	_	_	_	_	_	AlignBegin=55599|AlignEnd=55931|GE=[Veraguas]|Gloss=Veraguas|nWord=3|RX=[N]
+4	de	de	ADP	_	_	_	_	_	AlignBegin=55931|AlignEnd=56263|GE=from|Gloss=from|nWord=4|RX=[ADP]
+5	eni	eni	ADV	_	_	_	_	_	AlignBegin=56263|AlignEnd=56595|GE=there|Gloss=there|nWord=5|RX=[ADV]
+6	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=56595|AlignEnd=56927|GE=to|Gloss=to|Lang=es|nWord=6|RX=[ADP]
+7	aini	aini	ADV	_	_	6	comp	_	AlignBegin=56927|AlignEnd=57259|GE=here|Gloss=here|nWord=7|RX=[ADV]
+8	giti	giti	ADP	_	_	_	_	_	AlignBegin=57259|AlignEnd=57591|GE=[LOC]|Gloss=LOC|nWord=8|RX=[ADP]
+9	.	_	PUNCT	_	_	2	punct	_	AlignBegin=57591|AlignEnd=57925|Gloss=.|nWord=9
+
+# sent_id = SAB-TXT-AN-00001-03_20-20
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 61410, 62680
+# morphemic_text = che toi -d- -u guerra .
+# text = che toidu guerra .
+# text_en = ‎‎They lived the war
+# text_ortho = che toidu guerra .
+1	che	che	PRON	_	_	2	subj	_	AlignBegin=61410|AlignEnd=61728|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	toidu	toi	VERB	_	_	0	root	_	AlignBegin=61728|AlignEnd=62046|GE=[PST]|Gloss=live-0--PST|nWord=2|RX=[V:ANY]|wordform=toid-u
+3	guerra	guerra	NOUN	_	_	2	comp:obl	_	AlignBegin=62046|AlignEnd=62364|GE=war|Gloss=war|nWord=3|RX=[N]
+4	.	_	PUNCT	_	_	2	punct	_	AlignBegin=62364|AlignEnd=62680|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-AN-00001-03_21-21
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 62910, 67130
+# morphemic_text = Wami -gda este kwia na che gud -a chi -e ole .
+# text = wamigda ete kwia na che guda chie ole .
+# text_en = with these people Guaymi who came (at the same place).
+# text_ortho = wamigda ete kwia na che guda chie ole .
+1	Wamigda	Wami	NOUN	_	_	_	_	_	AlignBegin=62910|AlignEnd=63379|GE=[0]|Gloss=Guaymi-0|nWord=1|RX=[ATTACHES_TO_ANY_CATEGORY]
+2	este	este	DET	_	_	_	_	_	AlignBegin=63379|AlignEnd=63848|GE=that|Gloss=that|nWord=2|RX=[DET]
+3	kwia	kwia	NOUN	_	_	_	_	_	AlignBegin=63848|AlignEnd=64317|GE=people|Gloss=people|nWord=3|RX=[N]
+4	na	na	ADJ	_	_	3	mod	_	AlignBegin=64317|AlignEnd=64786|GE=other|Gloss=other|nWord=4|RX=[DET]
+5	che	che	PRON	_	_	_	_	_	AlignBegin=64786|AlignEnd=65255|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=5|RX=[PRO]
+6	guda	gud	VERB	_	_	_	_	_	AlignBegin=65255|AlignEnd=65724|GE=[PASS]|Gloss=kill-PASS|nWord=6|RX=[V:ANY]
+7	chie	chi	VERB	_	_	_	_	_	AlignBegin=65724|AlignEnd=66193|GE=[THM]|Gloss=come-THM|nWord=7|RX=[V:ANY]
+8	ole	ole	ADP	_	_	_	_	_	AlignBegin=66193|AlignEnd=66662|GE=[COM]|Gloss=COM|nWord=8|RX=[ADP]
+9	.	_	PUNCT	_	_	_	_	_	AlignBegin=66662|AlignEnd=67130|Gloss=.|nWord=9
+
+# sent_id = SAB-TXT-AN-00001-03_22-22
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 75045, 77135
+# morphemic_text = ama che chk -u chek -e ai tengkle .
+# text = ama che chku cheke ai tengkle .
+# text_en = So they went to stay here among us.
+# text_ortho = ama che chku cheke ai tengkle .
+1	ama	ama	ADV	_	_	3	discourse	_	AlignBegin=75045|AlignEnd=75344|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	che	che	PRON	_	_	3	subj	_	AlignBegin=75344|AlignEnd=75643|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=2|RX=[PRO]
+3	chku	chk	VERB	_	_	0	root	_	AlignBegin=75643|AlignEnd=75942|GE=[PST]|Gloss=arrive-PST|nWord=3|RX=[V:ANY]
+4	cheke	chek	VERB	_	_	3	mod:purp	_	AlignBegin=75942|AlignEnd=76241|GE=[THM]|Gloss=stay-THM|nWord=4|RX=[V:ANY]
+5	ai	ai	ADV	_	_	4	mod:lmod	_	AlignBegin=76241|AlignEnd=76540|GE=here|Gloss=here|nWord=5|RX=[ADV]
+6	tengkle	tengkle	ADV	_	_	5	mod	_	AlignBegin=76540|AlignEnd=76839|GE=through|Gloss=through|nWord=6|RX=[ADV]
+7	.	_	PUNCT	_	_	3	punct	_	AlignBegin=76839|AlignEnd=77135|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-AN-00001-03_23-23
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 77265, 78755
+# morphemic_text = che chk -u toi aini .
+# text = che chku toi aini .
+# text_en = They arrived to live here.
+# text_ortho = che chku toi aini .
+1	che	che	PRON	_	_	2	subj	_	AlignBegin=77265|AlignEnd=77563|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	chku	chk	VERB	_	_	0	root	_	AlignBegin=77563|AlignEnd=77861|GE=[PST]|Gloss=arrive-PST|nWord=2|RX=[V:ANY]
+3	toi	toi	VERB	_	_	2	mod:purp	_	AlignBegin=77861|AlignEnd=78159|GE=live|Gloss=live|nWord=3|RX=[VI]
+4	aini	aini	ADV	_	_	3	mod:lmod	_	AlignBegin=78159|AlignEnd=78457|GE=here|Gloss=here|nWord=4|RX=[ADV]
+5	.	_	PUNCT	_	_	2	punct	_	AlignBegin=78457|AlignEnd=78755|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-AN-00001-03_24-24
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 79460, 80890
+# morphemic_text = fui -a giti aini .
+# text = fuia giti aini .
+# text_en = Where they came from.
+# text_ortho = fuia giti aini .
+1	fuia	fui	PART	_	_	_	_	_	AlignBegin=79460|AlignEnd=79818|GE=[0]|Gloss=loc.origin-0|nWord=1|RX=[VERB]
+2	giti	giti	ADP	_	_	_	_	_	AlignBegin=79818|AlignEnd=80176|GE=[LOC]|Gloss=LOC|nWord=2|RX=[ADP]
+3	aini	aini	ADV	_	_	_	_	_	AlignBegin=80176|AlignEnd=80534|GE=here|Gloss=here|nWord=3|RX=[ADV]
+4	.	_	PUNCT	_	_	_	_	_	AlignBegin=80534|AlignEnd=80890|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-AN-00001-03_25-25
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 81260, 82690
+# morphemic_text = ai me cha kwia .
+# text = ai me cha kwia .
+# text_en = Here (there are) not my people.
+# text_ortho = ai me cha kwia .
+1	ai	ai	ADV	_	_	_	_	_	AlignBegin=81260|AlignEnd=81546|GE=here|Gloss=here|nWord=1|RX=[ADV]
+2	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=81546|AlignEnd=81832|GE=[NEG]|Gloss=NEG|nWord=2|RX=[VERBPRT]
+3	cha	cha	PRON	_	_	4	udep:poss	_	AlignBegin=81832|AlignEnd=82118|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
+4	kwia	kwia	NOUN	_	_	_	_	_	AlignBegin=82118|AlignEnd=82404|GE=people|Gloss=people|nWord=4|RX=[N]
+5	.	_	PUNCT	_	_	_	_	_	AlignBegin=82404|AlignEnd=82690|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-AN-00001-03_26-26
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 83360, 104640
+# morphemic_text = cha cheisuli cha nienu -a kwia toi iani cha kle nga kada kle Ugachia giti .
+# text = cha cheisuli cha nienua kwia toi iani cha kle nga kada kle ugachia giti .
+# text_en = ‎‎My grandmother and my father's people live where I am in the village called Ugatchia.
+# text_ortho = cha cheisuli cha nienua kwia toi iani cha kle nga kada kle ugachia giti .
+1	cha	cha	PRON	_	_	2	udep:poss	_	AlignBegin=83360|AlignEnd=84779|GE=[1SG]|Gloss=1SG|nWord=1|RX=[PRO]
+2	cheisuli	cheisuli	NOUN	_	_	6	subj	_	AlignBegin=84779|AlignEnd=86198|GE=grandmother|Gloss=grandmother|nWord=2|RX=[N]
+3	cha	cha	PRON	_	_	4	udep:poss	_	AlignBegin=86198|AlignEnd=87617|GE=[1SG]|Gloss=1SG|nWord=3|RX=[PRO]
+4	nienua	nienu	NOUN	_	_	2	conj:coord	_	AlignBegin=87617|AlignEnd=89036|GE=[POSS]|Gloss=father-POSS|nWord=4|RX=[N:ANY]
+5	kwia	kwia	NOUN	_	_	4	conj:coord	_	AlignBegin=89036|AlignEnd=90455|GE=people|Gloss=people|nWord=5|RX=[N]
+6	toi	toi	VERB	_	_	0	root	_	AlignBegin=90455|AlignEnd=91874|GE=live|Gloss=live|nWord=6|RX=[VI]
+7	iani	iani	ADV	_	_	6	mod:lmod	_	AlignBegin=91874|AlignEnd=93293|GE=there|Gloss=there|nWord=7|RX=[ADV]
+8	cha	cha	PRON	_	_	9	subj	_	AlignBegin=93293|AlignEnd=94712|GE=[1SG]|Gloss=1SG|nWord=8|RX=[PRO]
+9	kle	kle	AUX	_	_	6	mod:lmod	_	AlignBegin=94712|AlignEnd=96131|GE=be|Gloss=be|nWord=9|RX=[V]
+10	nga	nga	NOUN	_	_	11	subj@pass	_	AlignBegin=96131|AlignEnd=97550|GE=village|Gloss=village|nWord=10|RX=[N]
+11	kada	kada	VERB	_	_	12	comp:aux@pass	_	AlignBegin=97550|AlignEnd=98969|GE=name|Gloss=name|nWord=11|RX=[N]
+12	kle	kle	AUX	_	_	14	comp	_	AlignBegin=98969|AlignEnd=100388|GE=be|Gloss=be|nWord=12|RX=[V]
+13	Ugachia	Ugachia	NOUN	_	_	11	comp:pred	_	AlignBegin=100388|AlignEnd=101807|GE=[Ugachia]|Gloss=Ugachia|nWord=13|RX=[N]
+14	giti	giti	ADP	_	_	6	comp:obl	_	AlignBegin=101807|AlignEnd=103226|GE=[LOC]|Gloss=LOC|nWord=14|RX=[ADP]
+15	.	_	PUNCT	_	_	6	punct	_	AlignBegin=103226|AlignEnd=104640|Gloss=.|nWord=15
+
+# sent_id = SAB-TXT-AN-00001-03_27-27
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 105160, 106790
+# morphemic_text = kada kle Ugachia giti .
+# text = kada kle ugachia giti .
+# text_en = ‎‎Named Ugatchia.
+# text_ortho = kada kle ugachia giti .
+1	kada	kada	VERB	_	_	2	comp:aux@pass	_	AlignBegin=105160|AlignEnd=105486|GE=name|Gloss=name|nWord=1|RX=[N]
+2	kle	kle	AUX	_	_	4	comp	_	AlignBegin=105486|AlignEnd=105812|GE=be|Gloss=be|nWord=2|RX=[V]
+3	Ugachia	Ugachia	NOUN	_	_	1	comp:pred	_	AlignBegin=105812|AlignEnd=106138|GE=[Ugachia]|Gloss=Ugachia|nWord=3|RX=[N]
+4	giti	giti	ADP	_	_	0	root	_	AlignBegin=106138|AlignEnd=106464|GE=[LOC]|Gloss=LOC|nWord=4|RX=[ADP]
+5	.	_	PUNCT	_	_	4	punct	_	AlignBegin=106464|AlignEnd=106790|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-AN-00001-03_28-28
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 107200, 110690
+# morphemic_text = eni cha nienu -nga cha cheisuli kle toi eni .
+# text = eni cha nienunga cha cheisuli kle toi eni .
+# text_en = There were living my grandmother and my father.
+# text_ortho = eni cha nienunga cha cheisuli kle toi eni .
+1	eni	eni	ADV	_	_	6	mod	_	AlignBegin=107200|AlignEnd=107588|GE=there|Gloss=there|nWord=1|RX=[ADV]
+2	cha	cha	PRON	_	_	3	udep:poss	_	AlignBegin=107588|AlignEnd=107976|GE=[1SG]|Gloss=1SG|nWord=2|RX=[PRO]
+3	nienunga	nienu	NOUN	_	_	7	subj	_	AlignBegin=107976|AlignEnd=108364|GE=[POSS]|Gloss=father-POSS|nWord=3|RX=[N:ANY]
+4	cha	cha	PRON	_	_	5	udep:poss	_	AlignBegin=108364|AlignEnd=108752|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
+5	cheisuli	cheisuli	NOUN	_	_	3	conj:coord	_	AlignBegin=108752|AlignEnd=109140|GE=grandmother|Gloss=grandmother|nWord=5|RX=[N]
+6	kle	kle	AUX	_	_	0	root	_	AlignBegin=109140|AlignEnd=109528|GE=be|Gloss=be|nWord=6|RX=[V]
+7	toi	toi	VERB	_	_	6	comp:aux	_	AlignBegin=109528|AlignEnd=109916|GE=live|Gloss=live|nWord=7|RX=[VI]
+8	eni	eni	ADV	_	_	7	mod:lmod	_	AlignBegin=109916|AlignEnd=110304|GE=there|Gloss=there|nWord=8|RX=[ADV]
+9	.	_	PUNCT	_	_	6	punct	_	AlignBegin=110304|AlignEnd=110690|Gloss=.|nWord=9
+
+# sent_id = SAB-TXT-AN-00001-03_29-29
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 111140, 112500
+# morphemic_text = pero e me chi -e -bale .
+# text = pero e me chiebale .
+# text_en = ‎‎But now it is not the same.
+# text_ortho = pero e me chiebale .
+1	pero	pero	X	_	Foreign=Yes	_	_	_	AlignBegin=111140|AlignEnd=111412|GE=but|Gloss=but|Lang=es|nWord=1|RX=[COORDCONN]
+2	e	e	ADV	_	_	_	_	_	AlignBegin=111412|AlignEnd=111684|GE=now|Gloss=now|nWord=2|RX=[ADV]
+3	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=111684|AlignEnd=111956|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+4	chiebale	chi	VERB	_	_	_	_	_	AlignBegin=111956|AlignEnd=112228|GE=[PART]|Gloss=come-THM-PART|nWord=4|RX=[V:ANY]
+5	.	_	PUNCT	_	_	_	_	_	AlignBegin=112228|AlignEnd=112500|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-AN-00001-03_30-30
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 112510, 115960
+# morphemic_text = porque chi -e -bale mau sino chui por .
+# text = porque chiebale mau sino chui por .
+# text_en = Because they did not come for themselves but they came to...
+# text_ortho = porque chiebale mau sino chui por .
+1	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=112510|AlignEnd=113003|GE=because|Gloss=because|Lang=es|nWord=1|RX=[CONN]
+2	chiebale	chi	VERB	_	_	_	_	_	AlignBegin=113003|AlignEnd=113496|GE=[PART]|Gloss=come-THM-PART|nWord=2|RX=[V:ANY]
+3	mau	mau	PRON	_	_	_	_	_	AlignBegin=113496|AlignEnd=113989|GE=3sg|Gloss=3sg|nWord=3|RX=[V]
+4	sino	sino	X	_	_	_	_	_	AlignBegin=113989|AlignEnd=114482|GE=otherwise|Gloss=otherwise|nWord=4|RX=[CONN]
+5	chui	chui	NOUN	_	_	_	_	_	AlignBegin=114482|AlignEnd=114975|GE=sun|Gloss=sun|nWord=5|RX=[N]
+6	por	por	ADP	_	Foreign=Yes	_	_	_	AlignBegin=114975|AlignEnd=115468|GE=through|Gloss=through|Lang=es|nWord=6|RX=[ADP]
+7	.	_	PUNCT	_	_	_	_	_	AlignBegin=115468|AlignEnd=115960|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-AN-00001-03_31-31
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 116120, 117240
+# morphemic_text = chi -u para guerra .
+# text = chiu pa guerra .
+# text_en = ‎‎(They) came for war.
+# text_ortho = chiu pa guerra .
+1	chiu	chi	VERB	_	_	0	root	_	AlignBegin=116120|AlignEnd=116400|GE=[PST]|Gloss=come-PST|nWord=1|RX=[V:ANY]
+2	para	para	ADP	_	Foreign=Yes	1	mod:purp	_	AlignBegin=116400|AlignEnd=116680|GE=to|Gloss=to|Lang=es|nWord=2|RX=[ADP]
+3	guerra	guerra	NOUN	_	_	2	comp	_	AlignBegin=116680|AlignEnd=116960|GE=war|Gloss=war|nWord=3|RX=[N]
+4	.	_	PUNCT	_	_	1	punct	_	AlignBegin=116960|AlignEnd=117240|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-AN-00001-03_32-32
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 117245, 119860
+# morphemic_text = kike hula ngeru -le .
+# text = kike hula ngerule .
+# text_en = Escaping from the white men.
+# text_ortho = kike hula ngerule .
+1	kike	kike	VERB	_	_	0	root	_	AlignBegin=117245|AlignEnd=117899|GE=escape|Gloss=escape|nWord=1|RX=[VI]
+2	hula	hula	NOUN	_	_	3	comp	_	AlignBegin=117899|AlignEnd=118553|GE=white_man|Gloss=white_man|nWord=2|RX=[N]
+3	ngerule	ngeru	ADJ	_	_	1	comp:obl	_	AlignBegin=118553|AlignEnd=119207|GE=[ADJZ]|Gloss=first-ADJZ|nWord=3|RX=[N>ADJ]
+4	.	_	PUNCT	_	_	1	punct	_	AlignBegin=119207|AlignEnd=119860|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-AN-00001-03_33-33
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 120085, 122485
+# morphemic_text = hula todo Olechia kike hula ngeru -le .
+# text = hula todo olechia kike hula ngerule .
+# text_en = The whole village of Oletchia escaped from the white men.
+# text_ortho = hula todo olechia kike hula ngerule .
+1	hula	hula	NOUN	_	_	_	_	_	AlignBegin=120085|AlignEnd=120428|GE=white_man|Gloss=white_man|nWord=1|RX=[N]
+2	todo	todo	DET	_	_	_	_	_	AlignBegin=120428|AlignEnd=120771|GE=all|Gloss=all|nWord=2|RX=[DET]
+3	Olechia	Olechia	PROPN	_	_	_	_	_	AlignBegin=120771|AlignEnd=121114|GE=[Olechia]|Gloss=Olechia|nWord=3|RX=[NPROP]
+4	kike	kike	VERB	_	_	_	_	_	AlignBegin=121114|AlignEnd=121457|GE=escape|Gloss=escape|nWord=4|RX=[VI]
+5	hula	hula	NOUN	_	_	6	comp	_	AlignBegin=121457|AlignEnd=121800|GE=white_man|Gloss=white_man|nWord=5|RX=[N]
+6	ngerule	ngeru	ADJ	_	_	4	comp:obl	_	AlignBegin=121800|AlignEnd=122143|GE=[ADJZ]|Gloss=first-ADJZ|nWord=6|RX=[N>ADJ]
+7	.	_	PUNCT	_	_	_	_	_	AlignBegin=122143|AlignEnd=122485|Gloss=.|nWord=7
+
+# sent_id = SAB-TXT-AN-00001-03_34-34
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 122485, 124105
+# morphemic_text = ama chk -u chek -e eni .
+# text = ama chku cheke eni .
+# text_en = So (they) came to stay there.
+# text_ortho = ama chku cheke eni .
+1	ama	ama	ADV	_	_	2	discourse	_	AlignBegin=122485|AlignEnd=122809|GE=so|Gloss=so|nWord=1|RX=[ADV]
+2	chku	chk	VERB	_	_	0	root	_	AlignBegin=122809|AlignEnd=123133|GE=[PST]|Gloss=arrive-PST|nWord=2|RX=[V:ANY]
+3	cheke	chek	VERB	_	_	2	mod	_	AlignBegin=123133|AlignEnd=123457|GE=[THM]|Gloss=stay-THM|nWord=3|RX=[V:ANY]
+4	eni	eni	ADV	_	_	3	mod:lmod	_	AlignBegin=123457|AlignEnd=123781|GE=there|Gloss=there|nWord=4|RX=[ADV]
+5	.	_	PUNCT	_	_	2	punct	_	AlignBegin=123781|AlignEnd=124105|Gloss=.|nWord=5
+
+# sent_id = SAB-TXT-AN-00001-03_35-35
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 127945, 129165
+# morphemic_text = chek -u toi eni .
+# text = cheku toi eni .
+# text_en = (They) stayed to live there.
+# text_ortho = cheku toi eni .
+1	cheku	chek	VERB	_	_	0	root	_	AlignBegin=127945|AlignEnd=128250|GE=[PST]|Gloss=stay-PST|nWord=1|RX=[V:ANY]
+2	toi	toi	VERB	_	_	1	mod	_	AlignBegin=128250|AlignEnd=128555|GE=live|Gloss=live|nWord=2|RX=[VI]
+3	eni	eni	ADV	_	_	2	mod:lmod	_	AlignBegin=128555|AlignEnd=128860|GE=there|Gloss=there|nWord=3|RX=[ADV]
+4	.	_	PUNCT	_	_	1	punct	_	AlignBegin=128860|AlignEnd=129165|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-AN-00001-03_36-38
+# speaker_id = @03
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-AN-00001-03.WAV/WAV/SAB-TXT-AN-00001-03.WAV
+# sent_timecode = 129205, 141565
+# morphemic_text = entonces nga me chi -u chk -u che kle toi hasta aka , toi aini cha waninke , ama cha chek -u aini cahuita giti .
+# text = entonces nga me chiu chku che kle toi ata aka , toi aini cha waninke , ama cha cheku aini cahuita giti .
+# text_en = So there were no village and they came to stay live there until now. ‎‎(They) live here at the same place I am. So I stayed here in Cahuita.
+# text_ortho = entonces nga me chiu chku che kle toi ata aka , toi aini cha waninke , ama cha cheku aini cahuita giti .
+1	entonces	entonces	ADV	_	Foreign=Yes	_	_	_	AlignBegin=129205|AlignEnd=129553|GE=so|Gloss=so|Lang=es|nWord=1|RX=[ADV]
+2	nga	nga	NOUN	_	_	_	_	_	AlignBegin=129553|AlignEnd=129901|GE=village|Gloss=village|nWord=2|RX=[N]
+3	me	me	AUX	_	Polarity=Neg	_	_	_	AlignBegin=129901|AlignEnd=130249|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+4	chiu	chi	VERB	_	_	_	_	_	AlignBegin=130249|AlignEnd=130597|GE=[PST]|Gloss=come-PST|nWord=4|RX=[V:ANY]
+5	chku	chk	VERB	_	_	_	_	_	AlignBegin=130597|AlignEnd=130945|GE=[PST]|Gloss=arrive-PST|nWord=5|RX=[V:ANY]
+6	che	che	PRON	_	_	8	subj	_	AlignBegin=130945|AlignEnd=131293|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=6|RX=[PRO]
+7	kle	kle	AUX	_	_	_	_	_	AlignBegin=131293|AlignEnd=131641|GE=be|Gloss=be|nWord=7|RX=[V]
+8	toi	toi	VERB	_	_	7	comp:aux	_	AlignBegin=131641|AlignEnd=131989|GE=live|Gloss=live|nWord=8|RX=[VI]
+9	hasta	hasta	ADP	_	Foreign=Yes	_	_	_	AlignBegin=131989|AlignEnd=132337|GE=to|Gloss=to|Lang=es|nWord=9|RX=[ADP]
+10	aka	aka	ADV	_	_	9	comp	_	AlignBegin=132337|AlignEnd=132685|GE=there|Gloss=there|nWord=10|RX=[ADV]
+11	,	_	PUNCT	_	_	_	_	_	AlignBegin=132685|AlignEnd=133035|nWord=11
+12	toi	toi	VERB	_	_	_	_	_	AlignBegin=134560|AlignEnd=135176|GE=live|Gloss=live|nWord=12|RX=[VI]
+13	aini	aini	ADV	_	_	12	mod:lmod	_	AlignBegin=135176|AlignEnd=135792|GE=here|Gloss=here|nWord=13|RX=[ADV]
+14	cha	cha	PRON	_	_	_	_	_	AlignBegin=135792|AlignEnd=136408|GE=[1SG]|Gloss=1SG|nWord=14|RX=[PRO]
+15	waninke	waninke	ADP	_	_	_	_	_	AlignBegin=136408|AlignEnd=137024|GE=place_of|Gloss=place_of|nWord=15|RX=[ADV]
+16	,	_	PUNCT	_	_	_	_	_	AlignBegin=137024|AlignEnd=137640|nWord=16
+17	ama	ama	ADV	_	_	_	_	_	AlignBegin=138525|AlignEnd=138959|GE=so|Gloss=so|nWord=17|RX=[ADV]
+18	cha	cha	PRON	_	_	19	subj	_	AlignBegin=138959|AlignEnd=139393|GE=[1SG]|Gloss=1SG|nWord=18|RX=[PRO]
+19	cheku	chek	VERB	_	_	_	_	_	AlignBegin=139393|AlignEnd=139827|GE=[PST]|Gloss=stay-PST|nWord=19|RX=[V:ANY]
+20	aini	aini	ADV	_	_	19	mod:lmod	_	AlignBegin=139827|AlignEnd=140261|GE=here|Gloss=here|nWord=20|RX=[ADV]
+21	cahuita	cahuita	PROPN	_	_	22	comp	_	AlignBegin=140261|AlignEnd=140695|GE=[Kawita]|Gloss=Kawita|nWord=21|RX=[NPROP]
+22	giti	giti	ADP	_	_	19	comp:obl	_	AlignBegin=140695|AlignEnd=141129|GE=[LOC]|Gloss=LOC|nWord=22|RX=[ADP]
+23	.	_	PUNCT	_	_	_	_	_	AlignBegin=141129|AlignEnd=141565|Gloss=.|nWord=23
+

@@ -1,0 +1,211 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = SAB-TXT-DS-00000-04_01-03
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-04.WAV/WAV/SAB-TXT-DS-00000-04.WAV
+# sent_timecode = 8890, 16090
+# morphemic_text = kwia oli aini kle , chek -e oli nienu ke chebi ke kwia kle , bek -e bag -e -re .
+# text = kwia oli aini kle , cheke oli nienu ke chebi ke kwia kle , beke bagere .
+# text_en = Some people here are orphans. The people are orphan from father and mother (They) do rituals.
+# text_ortho = kwia oli aini kle , cheke oli nienu ke chebi ke kwia kle , beke bagere .
+1	kwia	kwia	NOUN	_	_	4	subj	_	AlignBegin=8890|AlignEnd=9358|GE=people|Gloss=people|nWord=1|RX=[N]
+2	oli	oli	NOUN	_	_	1	mod	_	AlignBegin=9358|AlignEnd=9826|GE=orphan|Gloss=orphan|nWord=2|RX=[N]
+3	aini	aini	ADV	_	_	4	mod:lmod	_	AlignBegin=9826|AlignEnd=10294|GE=here|Gloss=here|nWord=3|RX=[ADV]
+4	kle	kle	AUX	_	_	_	_	_	AlignBegin=10294|AlignEnd=10762|GE=be|Gloss=be|nWord=4|RX=[V]
+5	,	_	PUNCT	_	_	_	_	_	AlignBegin=10762|AlignEnd=11230|nWord=5
+6	cheke	chek	VERB	_	_	_	_	_	AlignBegin=11580|AlignEnd=11909|GE=[THM]|Gloss=stay-THM|nWord=6|RX=[V:ANY]
+7	oli	oli	NOUN	_	_	_	_	_	AlignBegin=11909|AlignEnd=12238|GE=orphan|Gloss=orphan|nWord=7|RX=[N]
+8	nienu	nienu	NOUN	_	_	9	comp	_	AlignBegin=12238|AlignEnd=12567|GE=father|Gloss=father|nWord=8|RX=[N]
+9	ke	ke	ADP	_	_	6	comp:obl	_	AlignBegin=12567|AlignEnd=12896|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
+10	chebi	chebi	NOUN	_	_	11	comp	_	AlignBegin=12896|AlignEnd=13225|GE=mother|Gloss=mother|nWord=10|RX=[N]
+11	ke	ke	ADP	_	_	6	comp:obl	_	AlignBegin=13225|AlignEnd=13554|GE=[LOC]|Gloss=LOC|nWord=11|RX=[ADP]
+12	kwia	kwia	NOUN	_	_	_	_	_	AlignBegin=13554|AlignEnd=13883|GE=people|Gloss=people|nWord=12|RX=[N]
+13	kle	kle	AUX	_	_	_	_	_	AlignBegin=13883|AlignEnd=14212|GE=be|Gloss=be|nWord=13|RX=[V]
+14	,	_	PUNCT	_	_	_	_	_	AlignBegin=14212|AlignEnd=14540|nWord=14
+15	beke	bek	VERB	_	_	_	_	_	AlignBegin=14600|AlignEnd=15097|GE=[THM]|Gloss=put-THM|nWord=15|RX=[V:ANY]
+16	bagere	bag	VERB	_	_	_	_	_	AlignBegin=15097|AlignEnd=15594|GE=[ADJZ]|Gloss=ceremoniate-THM-ADJZ|nWord=16|RX=[N>ADJ]
+17	.	_	PUNCT	_	_	_	_	_	AlignBegin=15594|AlignEnd=16090|Gloss=.|nWord=17
+
+# sent_id = SAB-TXT-DS-00000-04_04-04
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-04.WAV/WAV/SAB-TXT-DS-00000-04.WAV
+# sent_timecode = 16390, 21020
+# morphemic_text = daba na kle chi -e kle kiro oli uni -e mlie gere -gda ske .
+# text = daba na kle chie kle kiro oli unie mlie geregda ske .
+# text_en = A friend comes that knows the orphan and put (him) in the corral.
+# text_ortho = daba na kle chie kle kiro oli unie mlie geregda ske .
+1	daba	daba	NOUN	_	_	4	subj	_	AlignBegin=16390|AlignEnd=16776|GE=brother|Gloss=brother|nWord=1|RX=[N]
+2	na	na	ADJ	_	_	1	mod	_	AlignBegin=16776|AlignEnd=17162|GE=other|Gloss=other|nWord=2|RX=[DET]
+3	kle	kle	AUX	_	_	0	root	_	AlignBegin=17162|AlignEnd=17548|GE=be|Gloss=be|nWord=3|RX=[V]
+4	chie	chi	VERB	_	_	3	comp:aux	_	AlignBegin=17548|AlignEnd=17934|GE=[THM]|Gloss=come-THM|nWord=4|RX=[V:ANY]
+5	kle	kle	AUX	_	_	1	mod@relcl	_	AlignBegin=17934|AlignEnd=18320|GE=be|Gloss=be|nWord=5|RX=[V]
+6	kiro	kiro	NOUN	_	_	8	comp:obj	_	AlignBegin=18320|AlignEnd=18706|GE=child|Gloss=child|nWord=6|RX=[N]
+7	oli	oli	NOUN	_	_	6	mod	_	AlignBegin=18706|AlignEnd=19092|GE=orphan|Gloss=orphan|nWord=7|RX=[N]
+8	unie	uni	VERB	_	_	5	comp:aux	_	AlignBegin=19092|AlignEnd=19478|GE=[THM]|Gloss=know-THM|nWord=8|RX=[V:ANY]
+9	mlie	mli	VERB	_	_	4	mod	_	AlignBegin=19478|AlignEnd=19864|GE=throw|Gloss=throw|nWord=9|RX=[VT]
+10	geregda	gere	NOUN	_	_	11	comp:obj	_	AlignBegin=19864|AlignEnd=20250|GE=[0]|Gloss=coral-0|nWord=10|RX=[ATTACHES_TO_ANY_CATEGORY]
+11	ske	ske	ADP	_	_	9	comp:obl	_	AlignBegin=20250|AlignEnd=20636|GE=with|Gloss=with|nWord=11|RX=[ADP]
+12	.	_	PUNCT	_	_	3	punct	_	AlignBegin=20636|AlignEnd=21020|Gloss=.|nWord=12
+
+# sent_id = SAB-TXT-DS-00000-04_05-07
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-04.WAV/WAV/SAB-TXT-DS-00000-04.WAV
+# sent_timecode = 21148, 27478
+# morphemic_text = kiro oli me gna chage chui nwang ke , me gna beu chra tieng ke , me gna obe chi ske sainkuli .
+# text = kiro oli me gna chage chui nwang ke , me gna beu chra tieng ke , me gna obe chi ske sainkuli .
+# text_en = The orphan can't walk in the sun. (he) can't look at the stars light. (He) can't go bath in the river, it is forbidden.
+# text_ortho = kiro oli me gna chage chui nwang ke , me gna beu chra tieng ke , me gna obe chi ske sainkuli .
+1	kiro	kiro	NOUN	_	_	5	subj	_	AlignBegin=21148|AlignEnd=21394|GE=child|Gloss=child|nWord=1|RX=[N]
+2	oli	oli	NOUN	_	_	1	mod	_	AlignBegin=21394|AlignEnd=21640|GE=orphan|Gloss=orphan|nWord=2|RX=[N]
+3	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=21640|AlignEnd=21886|GE=[NEG]|Gloss=NEG|nWord=3|RX=[VERBPRT]
+4	gna	gna	AUX	_	_	3	comp:aux	_	AlignBegin=21886|AlignEnd=22132|GE=can|Gloss=can|nWord=4|RX=[V]
+5	chage	chage	VERB	_	_	4	comp:aux	_	AlignBegin=22132|AlignEnd=22378|GE=walk|Gloss=walk|nWord=5|RX=[VI]
+6	chui	chui	NOUN	_	_	7	udep:poss	_	AlignBegin=22378|AlignEnd=22624|GE=sun|Gloss=sun|nWord=6|RX=[N]
+7	nwang	nwang	NOUN	_	_	8	comp	_	AlignBegin=22624|AlignEnd=22870|GE=heat|Gloss=heat|nWord=7|RX=[N]
+8	ke	ke	ADP	_	_	5	comp:obl	_	AlignBegin=22870|AlignEnd=23116|GE=[LOC]|Gloss=LOC|nWord=8|RX=[ADP]
+9	,	_	PUNCT	_	_	3	punct	_	AlignBegin=23116|AlignEnd=23358|nWord=9
+10	me	me	AUX	_	Polarity=Neg	3	conj:coord	_	AlignBegin=23418|AlignEnd=23659|GE=[NEG]|Gloss=NEG|nWord=10|RX=[VERBPRT]
+11	gna	gna	AUX	_	_	10	comp:aux	_	AlignBegin=23659|AlignEnd=23900|GE=can|Gloss=can|nWord=11|RX=[V]
+12	beu	beu	NOUN	_	_	13	udep:poss	_	AlignBegin=23900|AlignEnd=24141|GE=star|Gloss=star|nWord=12|RX=[N]
+13	chra	chra	NOUN	_	_	15	comp	_	AlignBegin=24141|AlignEnd=24382|GE=light|Gloss=light|nWord=13|RX=[N]
+14	tieng	tieng	VERB	_	_	11	comp:aux	_	AlignBegin=24382|AlignEnd=24623|GE=[see].[NPST]|Gloss=see.NPST|nWord=14|RX=[V]
+15	ke	ke	ADP	_	_	14	comp:obl	_	AlignBegin=24623|AlignEnd=24864|GE=[LOC]|Gloss=LOC|nWord=15|RX=[ADP]
+16	,	_	PUNCT	_	_	3	punct	_	AlignBegin=24864|AlignEnd=25108|nWord=16
+17	me	me	AUX	_	Polarity=Neg	10	conj:coord	_	AlignBegin=25348|AlignEnd=25652|GE=[NEG]|Gloss=NEG|nWord=17|RX=[VERBPRT]
+18	gna	gna	AUX	_	_	17	comp:aux	_	AlignBegin=25652|AlignEnd=25956|GE=can|Gloss=can|nWord=18|RX=[V]
+19	obe	obe	VERB	_	_	18	comp:aux	_	AlignBegin=25956|AlignEnd=26260|GE=bath|Gloss=bath|nWord=19|RX=[VI]
+20	chi	chi	NOUN	_	_	21	comp	_	AlignBegin=26260|AlignEnd=26564|GE=water|Gloss=water|nWord=20|RX=[N]
+21	ske	ske	ADP	_	_	19	comp:obl	_	AlignBegin=26564|AlignEnd=26868|GE=with|Gloss=with|nWord=21|RX=[ADP]
+22	sainkuli	sainkuli	ADV	_	_	17	conj:coord	_	AlignBegin=26868|AlignEnd=27172|GE=forbidden|Gloss=forbidden|nWord=22|RX=[ADV]
+23	.	_	PUNCT	_	_	3	punct	_	AlignBegin=27172|AlignEnd=27478|Gloss=.|nWord=23
+
+# sent_id = SAB-TXT-DS-00000-04_08-08
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-04.WAV/WAV/SAB-TXT-DS-00000-04.WAV
+# sent_timecode = 27608, 29708
+# morphemic_text = che bdoa hoke diku .
+# text = che bdoa hokediku .
+# text_en = He stays inside.
+# text_ortho = che bdoa hokediku .
+1	che	che	PRON	_	_	_	_	_	AlignBegin=27608|AlignEnd=28133|GE=[1/2/3PL]|Gloss=1/2/3PL|nWord=1|RX=[PRO]
+2	bdoa	bdoa	_	_	_	_	_	_	AlignBegin=28133|AlignEnd=28658|nWord=2
+3	hoke	hoke	VERB	_	_	_	_	_	AlignBegin=28658|AlignEnd=28920|GE=go|Gloss=go|nWord=3|RX=[VI]
+4	diku	diku	ADV	_	_	_	_	_	AlignBegin=28920|AlignEnd=29183|GE=down|Gloss=down|nWord=3|RX=[ADV]
+5	.	_	PUNCT	_	_	_	_	_	AlignBegin=29183|AlignEnd=29708|Gloss=.|nWord=4
+
+# sent_id = SAB-TXT-DS-00000-04_09-10
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-04.WAV/WAV/SAB-TXT-DS-00000-04.WAV
+# sent_timecode = 30398, 36808
+# morphemic_text = kiro oli kle bligda gut -e cuchara tk -e bli -ado gliga ske , die bli -ado gliga ske sainkuli .
+# text = kiro oli kle bligda gute cuchara tke bliado gliga ske , die bliado gliga ske sainkuli .
+# text_en = The orphan eat food with a fork made of gliga. It is forbidden to use the thing made with gliga.
+# text_ortho = kiro oli kle bligda gute cuchara tke bliado gliga ske , die bliado gliga ske sainkuli .
+1	kiro	kiro	NOUN	_	_	5	subj	_	AlignBegin=30398|AlignEnd=30782|GE=child|Gloss=child|nWord=1|RX=[N]
+2	oli	oli	NOUN	_	_	1	mod	_	AlignBegin=30782|AlignEnd=31166|GE=orphan|Gloss=orphan|nWord=2|RX=[N]
+3	kle	kle	AUX	_	_	0	root	_	AlignBegin=31166|AlignEnd=31550|GE=be|Gloss=be|nWord=3|RX=[V]
+4	bligda	bligda	NOUN	_	_	5	comp:obj	_	AlignBegin=31550|AlignEnd=31934|GE=food|Gloss=food|nWord=4|RX=[N]
+5	gute	gut	VERB	_	_	3	comp:aux	_	AlignBegin=31934|AlignEnd=32318|GE=[THM]|Gloss=eat-THM|nWord=5|RX=[V:ANY]
+6	cuchara	cuchara	NOUN	_	_	5	comp:obl	_	AlignBegin=32318|AlignEnd=32702|GE=fork|Gloss=fork|nWord=6|RX=[N]
+7	tke	tk	VERB	_	_	_	_	_	AlignBegin=32702|AlignEnd=33086|GE=[THM]|Gloss=put-THM|nWord=7|RX=[V:ANY]
+8	bliado	bli	VERB	_	_	6	mod	_	AlignBegin=33086|AlignEnd=33470|GE=[PART]|Gloss=finish-PART|nWord=8|RX=[VERB]
+9	gliga	gliga	NOUN	_	_	10	comp	_	AlignBegin=33470|AlignEnd=33854|GE=plant_type|Gloss=plant_type|nWord=9|RX=[N]
+10	ske	ske	ADP	_	_	8	comp:obl	_	AlignBegin=33854|AlignEnd=34238|GE=with|Gloss=with|nWord=10|RX=[ADP]
+11	,	_	PUNCT	_	_	3	punct	_	AlignBegin=34238|AlignEnd=34618|nWord=11
+12	die	die	NOUN	_	_	_	_	_	AlignBegin=34718|AlignEnd=35066|GE=thing|Gloss=thing|nWord=12|RX=[N]
+13	bliado	bli	VERB	_	_	12	mod	_	AlignBegin=35066|AlignEnd=35414|GE=[PART]|Gloss=finish-PART|nWord=13|RX=[VERB]
+14	gliga	gliga	NOUN	_	_	15	comp	_	AlignBegin=35414|AlignEnd=35762|GE=plant_type|Gloss=plant_type|nWord=14|RX=[N]
+15	ske	ske	ADP	_	_	13	comp:obl	_	AlignBegin=35762|AlignEnd=36110|GE=with|Gloss=with|nWord=15|RX=[ADP]
+16	sainkuli	sainkuli	ADV	_	_	_	_	_	AlignBegin=36110|AlignEnd=36458|GE=forbidden|Gloss=forbidden|nWord=16|RX=[ADV]
+17	.	_	PUNCT	_	_	3	punct	_	AlignBegin=36458|AlignEnd=36808|Gloss=.|nWord=17
+
+# sent_id = SAB-TXT-DS-00000-04_11-14
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-04.WAV/WAV/SAB-TXT-DS-00000-04.WAV
+# sent_timecode = 36918, 42438
+# morphemic_text = die hi ke me gna gut -e , cho me gna gut -e , samla me gna gut -e , hasta chui apa ke .
+# text = die hi ke me gna gute , cho me gna gute , samla me gna gute , ata chui apake .
+# text_en = (He) can't eat things made on the fire. (He) can't eat salt. (He) can't eat meat. For eight days.
+# text_ortho = die hi ke me gna gute , cho me gna gute , samla me gna gute , ata chui apake .
+1	die	die	NOUN	_	_	6	comp:obj	_	AlignBegin=36918|AlignEnd=37121|GE=thing|Gloss=thing|nWord=1|RX=[N]
+2	hi	hi	NOUN	_	_	3	comp	_	AlignBegin=37121|AlignEnd=37324|GE=fire|Gloss=fire|nWord=2|RX=[N]
+3	ke	ke	ADP	_	_	1	mod	_	AlignBegin=37324|AlignEnd=37527|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
+4	me	me	AUX	_	Polarity=Neg	0	root	_	AlignBegin=37527|AlignEnd=37730|GE=[NEG]|Gloss=NEG|nWord=4|RX=[VERBPRT]
+5	gna	gna	AUX	_	_	4	comp:aux	_	AlignBegin=37730|AlignEnd=37933|GE=can|Gloss=can|nWord=5|RX=[V]
+6	gute	gut	VERB	_	_	5	comp:aux	_	AlignBegin=37933|AlignEnd=38136|GE=[THM]|Gloss=eat-THM|nWord=6|RX=[V:ANY]
+7	,	_	PUNCT	_	_	4	punct	_	AlignBegin=38136|AlignEnd=38338|nWord=7
+8	cho	cho	NOUN	_	_	11	comp:obj	_	AlignBegin=38398|AlignEnd=38620|GE=salt|Gloss=salt|nWord=8|RX=[N]
+9	me	me	AUX	_	Polarity=Neg	4	conj:coord	_	AlignBegin=38620|AlignEnd=38842|GE=[NEG]|Gloss=NEG|nWord=9|RX=[VERBPRT]
+10	gna	gna	AUX	_	_	9	comp:aux	_	AlignBegin=38842|AlignEnd=39064|GE=can|Gloss=can|nWord=10|RX=[V]
+11	gute	gut	VERB	_	_	10	comp:aux	_	AlignBegin=39064|AlignEnd=39286|GE=[THM]|Gloss=eat-THM|nWord=11|RX=[V:ANY]
+12	,	_	PUNCT	_	_	4	punct	_	AlignBegin=39286|AlignEnd=39508|nWord=12
+13	samla	samla	NOUN	_	_	16	comp:obj	_	AlignBegin=39508|AlignEnd=39780|GE=meat|Gloss=meat|nWord=13|RX=[N]
+14	me	me	AUX	_	Polarity=Neg	9	conj:coord	_	AlignBegin=39780|AlignEnd=40052|GE=[NEG]|Gloss=NEG|nWord=14|RX=[VERBPRT]
+15	gna	gna	AUX	_	_	14	comp:aux	_	AlignBegin=40052|AlignEnd=40324|GE=can|Gloss=can|nWord=15|RX=[V]
+16	gute	gut	VERB	_	_	15	comp:aux	_	AlignBegin=40324|AlignEnd=40596|GE=[THM]|Gloss=eat-THM|nWord=16|RX=[V:ANY]
+17	,	_	PUNCT	_	_	4	punct	_	AlignBegin=40596|AlignEnd=40868|nWord=17
+18	hasta	hasta	ADP	_	Foreign=Yes	16	mod:tmod	_	AlignBegin=41098|AlignEnd=41433|GE=to|Gloss=to|Lang=es|nWord=18|RX=[ADP]
+19	chui	chui	NOUN	_	_	21	comp	_	AlignBegin=41433|AlignEnd=41768|GE=sun|Gloss=sun|nWord=19|RX=[N]
+20	apa	apa	NUM	_	_	19	mod	_	AlignBegin=41768|AlignEnd=41936|GE=eight|Gloss=eight|nWord=20|RX=[NUM]
+21	ke	ke	ADP	_	_	18	compound	_	AlignBegin=41936|AlignEnd=42103|GE=[LOC]|Gloss=LOC|nWord=20|RX=[ADP]
+22	.	_	PUNCT	_	_	4	punct	_	AlignBegin=42103|AlignEnd=42438|Gloss=.|nWord=21
+
+# sent_id = SAB-TXT-DS-00000-04_15-16
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-04.WAV/WAV/SAB-TXT-DS-00000-04.WAV
+# sent_timecode = 42498, 48398
+# morphemic_text = chui apa ke chk -e kiro oli hoke chi ke obe , bligda gda ite ali gut -e .
+# text = chui apa ke chke kiro oli hoke chi ke obe , bligda gdaite ali gute .
+# text_en = On the eighth day, the orphan can go bath at the river. (He can) have a meal with others.
+# text_ortho = chui apa ke chke kiro oli hoke chi ke obe , bligda gdaite ali gute .
+1	chui	chui	NOUN	_	_	4	subj	_	AlignBegin=42498|AlignEnd=42768|GE=sun|Gloss=sun|nWord=1|RX=[N]
+2	apa	apa	NUM	_	_	_	_	_	AlignBegin=42768|AlignEnd=43038|GE=eight|Gloss=eight|nWord=2|RX=[NUM]
+3	ke	ke	ADP	_	_	_	_	_	AlignBegin=43038|AlignEnd=43308|GE=[LOC]|Gloss=LOC|nWord=3|RX=[ADP]
+4	chke	chk	VERB	_	_	7	mod:tmod	_	AlignBegin=43308|AlignEnd=43578|GE=[THM]|Gloss=arrive-THM|nWord=4|RX=[V:ANY]
+5	kiro	kiro	NOUN	_	_	7	subj	_	AlignBegin=43578|AlignEnd=43848|GE=child|Gloss=child|nWord=5|RX=[N]
+6	oli	oli	NOUN	_	_	5	mod	_	AlignBegin=43848|AlignEnd=44118|GE=orphan|Gloss=orphan|nWord=6|RX=[N]
+7	hoke	hoke	VERB	_	_	0	root	_	AlignBegin=44118|AlignEnd=44388|GE=go|Gloss=go|nWord=7|RX=[VI]
+8	chi	chi	NOUN	_	_	9	comp	_	AlignBegin=44388|AlignEnd=44658|GE=water|Gloss=water|nWord=8|RX=[N]
+9	ke	ke	ADP	_	_	7	comp:obl	_	AlignBegin=44658|AlignEnd=44928|GE=[LOC]|Gloss=LOC|nWord=9|RX=[ADP]
+10	obe	obe	VERB	_	_	7	mod:purp	_	AlignBegin=44928|AlignEnd=45198|GE=bath|Gloss=bath|nWord=10|RX=[VI]
+11	,	_	PUNCT	_	_	7	punct	_	AlignBegin=45198|AlignEnd=45468|nWord=11
+12	bligda	bligda	NOUN	_	_	16	comp:obj	_	AlignBegin=45858|AlignEnd=46366|GE=food|Gloss=food|nWord=12|RX=[N]
+13	gda	gda	NUM	_	_	14	clf	_	AlignBegin=46366|AlignEnd=46620|GE=cl|Gloss=cl|nWord=13|RX=[NUM]
+14	ite	ite	NUM	_	_	12	mod	_	AlignBegin=46620|AlignEnd=46874|GE=one|Gloss=one|nWord=13|RX=[NUM]
+15	ali	ali	ADP	_	_	16	mod	_	AlignBegin=46874|AlignEnd=47382|GE=with|Gloss=with|nWord=14|RX=[ADP]
+16	gute	gut	VERB	_	_	7	conj:coord	_	AlignBegin=47382|AlignEnd=47890|GE=[THM]|Gloss=eat-THM|nWord=15|RX=[V:ANY]
+17	.	_	PUNCT	_	_	7	punct	_	AlignBegin=47890|AlignEnd=48398|Gloss=.|nWord=16
+
+# sent_id = SAB-TXT-DS-00000-04_17-17
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-04.WAV/WAV/SAB-TXT-DS-00000-04.WAV
+# sent_timecode = 49118, 52178
+# morphemic_text = y ya porque cha nienu -a cha chebi -a ho ked -a .
+# text = y ya porque cha nienua cha chebia hokeda .
+# text_en = And it is all, (I know) because my father and my mother died.
+# text_ortho = y ya porque cha nienua cha chebia hokeda .
+1	y	y	X	_	Foreign=Yes	_	_	_	AlignBegin=49118|AlignEnd=49458|GE=and|Gloss=and|Lang=es|nWord=1|RX=[COORDCONN]
+2	ya	ya	ADV	_	Foreign=Yes	_	_	_	AlignBegin=49458|AlignEnd=49798|GE=now|Gloss=now|Lang=es|nWord=2|RX=[ADV]
+3	porque	porque	X	_	Foreign=Yes	_	_	_	AlignBegin=49798|AlignEnd=50138|GE=because|Gloss=because|Lang=es|nWord=3|RX=[CONN]
+4	cha	cha	PRON	_	_	5	udep:poss	_	AlignBegin=50138|AlignEnd=50478|GE=[1SG]|Gloss=1SG|nWord=4|RX=[PRO]
+5	nienua	nienu	NOUN	_	_	8	subj	_	AlignBegin=50478|AlignEnd=50818|GE=[POSS]|Gloss=father-POSS|nWord=5|RX=[N:ANY]
+6	cha	cha	PRON	_	_	7	udep:poss	_	AlignBegin=50818|AlignEnd=51158|GE=[1SG]|Gloss=1SG|nWord=6|RX=[PRO]
+7	chebia	chebi	NOUN	_	_	5	conj:coord	_	AlignBegin=51158|AlignEnd=51498|GE=[POSS]|Gloss=mother-POSS|nWord=7|RX=[N:ANY]
+8	hokeda	hokeked	VERB	_	_	0	root	_	AlignBegin=51498|AlignEnd=51838|GE=die|Gloss=go-ASP|nWord=8|RX=[V]
+9	.	_	PUNCT	_	_	8	punct	_	AlignBegin=51838|AlignEnd=52178|Gloss=.|nWord=9
+
+# sent_id = SAB-TXT-DS-00000-04_18-18
+# speaker_id = @04
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAB-TXT-DS-00000-04.WAV/WAV/SAB-TXT-DS-00000-04.WAV
+# sent_timecode = 52268, 54978
+# morphemic_text = kiro oli aini tiene que bag -e .
+# text = kiro oli aini tiene que bage .
+# text_en = The orphans here have to mourn.
+# text_ortho = kiro oli aini tiene que bage .
+1	kiro	kiro	NOUN	_	_	_	_	_	AlignBegin=52268|AlignEnd=52655|GE=child|Gloss=child|nWord=1|RX=[N]
+2	oli	oli	NOUN	_	_	1	mod	_	AlignBegin=52655|AlignEnd=53042|GE=orphan|Gloss=orphan|nWord=2|RX=[N]
+3	aini	aini	ADV	_	_	_	_	_	AlignBegin=53042|AlignEnd=53429|GE=here|Gloss=here|nWord=3|RX=[ADV]
+4	tiene	tiene	VERB	_	Foreign=Yes	_	_	_	AlignBegin=53429|AlignEnd=53816|GE=have|Gloss=have|Lang=es|nWord=4|RX=[V]
+5	que	que	PRON	_	Foreign=Yes	_	_	_	AlignBegin=53816|AlignEnd=54203|GE=that|Gloss=that|Lang=es|nWord=5|RX=[PRO]
+6	bage	bag	VERB	_	_	_	_	_	AlignBegin=54203|AlignEnd=54590|GE=[THM]|Gloss=ceremoniate-THM|nWord=6|RX=[V:ANY]
+7	.	_	PUNCT	_	_	_	_	_	AlignBegin=54590|AlignEnd=54978|Gloss=.|nWord=7
+
